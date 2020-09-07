@@ -3,6 +3,7 @@
 **Version courte:**
 Thèmes développés:
 * La temps qui passe
+* Le temps destructeur
 * l'inéducabilité de la mort
 
 Ils sont tous lyriques
@@ -14,6 +15,6 @@ Baudelaire prend l'exemple d'une charogne pourrissante au bord d'un chemin pour 
 
 Lamartine se penche plus sur la nostalgie que Baudelaire. Il regrette sa muse morte qu'il souhaite retrouver dans le passé et se rappel des balades qu'ils menaient près de ce lac. Ce poème se distingue de part sa tranquillité, d'où son titre *le lac* (là où l'eau n'est jamais agitée). Il emploi le champ lexical de la solitude. Le registre est lyrique.
 
-Desnos à compléter avec Louis
+Desnos dans son poème “Dans bien longtemps”, nous emmène dans ses souvenirs avec femme, depuis décédée. Il utilise cet événement pour nous montrer que le temps passe si vite,  que tout vieilli, et trouve que la seule chose inchangée est l’image qu’il garde de son épouse. Que le temps détruit tout sur son passage
 
-Demain dès l'aube est de loin le poème le plus personnel des quatre. Il y raconte son voyage pour déposer des fleurs sur la tombe de sa fille Léopoldine morte très jeune. Le registre est encore une fois lyrique. 
+Demain dès l'aube est de loin le poème le plus personnel des quatre. Il y raconte son voyage pour déposer des fleurs sur la tombe de sa fille Léopoldine morte très jeune. Le registre est encore une fois lyrique. On retrouve dans ce poème la théorie du drame romantique créée par Hugo.
