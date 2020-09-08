@@ -6,6 +6,7 @@ Supports (groupement de textes):
 * "Une Charogne", Baudelaire,  *Les Fleurs du mal*
 * "Dans bien longtemps", Desnos, *Corps et biens*
 
+
 ### Une Charogne *Baudelaire*
 
 Romantiques, symbolistes. Ecrit par Charles Baudelaire et issu du recueil controversé des *Fleurs du mal*, La Charogne est l'un des poèmes les plus connus de "Spleen et l'idéal". Baudelaire y décrit le corps putréfié d'un animal. Ce  texte est original et révolutionnaire pour son époque car on y décrit des facettes de la vie qui ne l'ont jamais été par des poètes. Le titre du poème est clair, sans artifices. Les descriptions y sont crues et très imagées et finalement réussies. C'est donc un poème qui ne laisse pas beaucoup de place au ressenti personnel du lecteur. En effet, ces descriptions très graphiques de la carcasse peuvent soit dégouter le lecteur ou l'émerveiller du contraste de ces comparaisons entre le corps pourrissant de l'animal et le champ lexical d'une nature en beauté.  
