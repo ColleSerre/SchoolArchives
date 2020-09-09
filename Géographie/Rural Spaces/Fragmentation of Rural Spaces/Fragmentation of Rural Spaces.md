@@ -56,7 +56,17 @@ St-Denis has expanded since the 19th century (Urbanization ; urban sprawl), high
 ||Gentrification|
 ||More pressure on water resources|
 
+Generating some quick arguments *for* urbanization:
 
-Urbanization has different effects on rural spaces. I will be discussing the positive effects. Urbanization has positive effects on rural spaces. It is crucial for rural spaces to reinvent themselves to benefit of all the productivity benefits that our age brings. Rural spaces have less internet access and cellular connectivity which reduces productivity for local companies and makes it impossible for people to work from home.
+<em>Crucial points: 
+* Develop one idea per sentence, do not crowd you text or the reader will be confused
+* Give examples when you use field-specific words like urbanization or gentrification (always consider that the reader knows nothing about the subject)</em>
 
-Urbanization also generates more public infrastructures and services for the city dwellers to enjoy. These infrastructures bring more security, health and jobs to the inhabitants. Rural areas don't have as many good hospitals or as modern schools as urbanized areas.
+
+Urbanization has different effects on rural spaces. I will be discussing the positive effects. Urbanization has positive effects on rural spaces. It is crucial for rural spaces to reinvent themselves to benefit of all the productivity benefits that our age brings. Rural spaces have less internet access and cellular connectivity which reduces productivity for local companies and contributes to weakening the rural economy. 
+
+They also offer less entertainment services like cinemas, concerts or plays. This leads to a less dynamic economy which doesn't offer many options for people to use their money in. Rural areas don't have as many good hospitals or as modern schools as urbanized areas. It is crucial that we urbanize these spaces to make them more appealing to townsmen and women who want to buy a house and settle down in a more natural and healthy environment. This process will then create more demand for entertainment, sport and public infrastructures which will lead to a flourishing economy.
+
+Their remote geographical location, reduced population and weak economy all prevent rural spaces to have a prominent role in the French political ecosystem. Urbanization will help local communities weigh in more on all of the issues that will directly affect them instead of having them be ruled by people who have never experienced the real challenges of rural spaces (the long commutes to work, the lack of modern roads, the weak cell signals which causes less productivity).
+
+Many of us have realized during the COVID-19 pandemic that rural spaces were extremely vulnerable to any type of danger that is usually handled by public or private infrastructures. The lack of hospitals has led to many sorry deaths and the archaic Wi-Fi connectivity has sacrificed the space's productivity. When the entire country was working at home, rural spaces couldn't and therefore were unable to protect themselves. Urbanization will bring all of the modern appliances that are crucial to revitalizing the rural economy without forgetting to preserve the local traditions, culture and nature.
