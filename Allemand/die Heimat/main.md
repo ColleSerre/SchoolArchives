@@ -1,3 +1,7 @@
+# Allemand 2020-2021
+
+Vokabeln:
+
 |Allemand|Français|
 |---|---|
 |Ein  Ort|Un lieu|
@@ -12,3 +16,26 @@
 |der Wald|la forêt|
 |der Berg|la montagne|
 |der See|le lac|
+
+-----
+
+|Gefühle|Gegenstände|Aktivitäte|
+|---------|---------|---------|
+|Meine Heimat Riecht nach Pflaumenkuchen mit Zimt|Baumhaus|Einen Kuss auf die Stirn|
+|frischbezogene Kissen|Pfefferminzbonbons||
+|Heimat ist aber vor allem ein Gefühl|Der Sonntagsbraten|schmuggeln Pfefferminzbonbons und Zigaretten|
+|Die Langeweile|die Zigaretten|Schlittenabfahrt|
+|Liebeskummer|Die alte Jacke meines Mannes|Nimm noch ein Stück Pflaumenkuchen|
+|Geborgenheit und Trost||Der Vater spielt Klavier|
+|gemischtes Gefühl aus Geborgenheit und Befremdung||Waldspaziergänge|
+|||ich mich berge (die alte Jacke)|
+
+
+Exercice 3 p.150:
+
+1. Die Autorin denkt an ihre Heimat wenn sie ei Stück Pflaumenkuchen isst.
+2. Die Leute denken an ihre Heimat wenn sie einen Sonntagsbraten riechen.
+3. Man denkt oft an seine Heimat wenn man eine bestimmte Landschaft sieht.
+4. Ich denke an meine Kindheit wenn ich ein altes Buch in die Hand nehme.
+
+Gumnasium, normal, Maria, Mustafa, Sule, Sanel, Paul, Shkurte
