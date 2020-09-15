@@ -37,3 +37,14 @@ Her plan => Today three of my enemies I shall strike dead: Father and daughter; 
 
 **Creates suspense (this is her plan but will she go through with it?)**
 
+## First Stasimon
+
+1. The chorus says that deceit was once used by women and is now used by men. They also say that up to now stories were told by men and depicted women as always having the bad role (Hellen of Troy, Medea) but they say that these will fall out of fashion and that female authors and artists will replace them.
+2. We can feel sympathy for Medea because she is alone in an unknown land, without her husband, banished.
+
+## Second Episode
+
+1. Blames her for the situation, says she's lucky for not getting killed, self-deceiving and hypocrisy => he is still her friend + "have carefully considered / Your problem". 
+2. I saved your life, I killed the serpent, I lit the way for your escape, I betrayed my father, I killed Pelias, I have borne your sons AND Jason broke an oath. This shows that, unlike what Jason is saying, Medea (and by extension women) is able of a well-structured and logical argument.
+3. Tries to downplay Medea's role in his success ant to suggest it is more down to the gods like Aphrodite. He also claims that Medea only fell in love with him due to Hera. He also says she's gained from her link with him: she is famous and she lives in a civilized place = this reminds her that she is a foreigner and so marks her out as different. Overuse of I = arrogance. Wants wealth and status "I want to ensure...that we should live well/And not be poor;" "I thought it worth while to ensure advantages/for those I have". He focuses on his wealth and status whilst she thinks about how he has broken his oath to her. Medea (ln 579-627) suggests here that the skill in rhetoric shown by Jason actually shows his great insincerity. She argues that if this really was his plan, he should have told her about it first and not gone behind her back. Note that the wrestling imagery "One word will throw you". This is typical in legal language.
+4. He argues that he has done all of this for his children. In order to give the a better future. BUT he has not made any effort to keep them in Corinth, so this argument seems to ring untrue.
