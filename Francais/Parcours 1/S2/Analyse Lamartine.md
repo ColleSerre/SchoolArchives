@@ -1,4 +1,4 @@
-# Explication linéaire Le Lac
+﻿# Explication linéaire Le Lac
 
 ### Infos sur le texte:
 * Le Lac 
@@ -63,3 +63,16 @@ Le poète et Elvire sont entrain de pagayer et on entend les coups de rames ("qu
 vers 14-15 ; Le rythme va mimer le passage de l'agitation à l'apaisement. L'atmosphère créée est paisible comme dématérialisée => On entend le soir et le silence grâce aux allitérations et aux mots nobles comme voguer. La diction se ralentit vers 15-16 => mélancolie liée à la scène qui est un moment de perfection dans le bonheur. **Possible question de grammaire:** Trouver la PSR dans "rameurs..." qui est anoblie par la PSR frappaient en cadence qui anoblit le tout pour imiter le son des pagaies et poétiser le mot technique et pauvre qu'est *rameurs*. Ralentissement du rythme dans le texte et évoquant la mélancholie de cet instant de pur bonheur.
 
 Strophe 5: **Rupture!** On passe de la mélancholie au trouble => "frappé", vocabulaire violent. L'être aimé va dominer la scène. Contrairement à ce qu'on s'attend elle ne chante pas le bonheur mais sort une plainte sur le temps (registre élégiaque). Elle est consciente de la beauté du moment mais sais sa santé menacée. Ce contraste la ramène au présent qu'elle voudrait retenir (memento mori). Elle s'adresse directement au temps comme des entités divines et donne une supplication haletante (césures ) qui exprime son désespoir et son inquiétude grandissante. **La crainte d'un destin hostile vient troubler un moment de bonheur et se prend à rêver l'impossible. Elle voudrait que le temps s'écoule de manière providentielle de manière à les laisser tranquilles  ("Assez de malheureux ici bas [...] oubliez les heureux").** Malgrès ses efforts pour retenir le temps le danger menace cette nuit. On entend son angoisse dans les vers 29-30 puis une conclusion d'Elvire désespérée qui conclut sur la même idée qu'au départ.
+
+## Texte oral:
+
+Aujourd'hui je vais vous présenter un poème qui s'inscrit dans le registre lyrique, est paru dans le recueil *Méditations poétiques* en 1820 et écrit par Alphonse de Lamartine. Je parle bien sur de *Le Lac*. Il y décrit une de ses balades autour d'un lac qui lui rappel celle qu'il appellera Elvire dans ses textes. Julie Charles, qui se cache derrière ce pseudonyme, sa compagne meurt de la tuberculose, loin d'Alphonse. Les thèmes dominants de ce texte sont l'inéducabilité de la mort, la constance du temps et la place de la nature dans le deuil de Lamartine. Nous étudierons pourquoi Lamartine émet une réflexion sur les similarités entre la constance et la puissance du lac et celle du temps, des deux il est victime.
+[Lecture du texte]
+On peut distinguer trois grandes étapes dans ce poème : Une description de la puissance du lac puis du temps et finalement l'analogie du lac pour le temps est éclaircie.
+
+I - La puissance du lac
+<span style="color: red;">A - Lamartine supplie le lac (v. 5) </span>
+Lamartine implore le lac par l'apostrophe Ô. Celle-ci apparait très tôt dans le poème, plus précisément au vers 5, et introduit donc l'idée que le poète est inférieur à la nature. Ce rapport à la nature sera constant tout le long du poème.
+<span style="color: red;">B - L'indifférence du lac (vers)</span>
+Lamar
+

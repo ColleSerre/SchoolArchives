@@ -39,3 +39,8 @@ Exercice 3 p.150:
 4. Ich denke an meine Kindheit wenn ich ein altes Buch in die Hand nehme.
 
 Gumnasium, normal, Maria, Mustafa, Sule, Sanel, Paul, Shkurte
+
+Exos A, B, C p.20:
+
+B. Menschen sind immer gewandert und in ursprünglich anderen Kulturen heimisch geworden.
+C. Der moderne Begriff ist eher als Abgrenzung Abgrenzung zur Globalisierung und vielleicht auch Digitalisierung = zu sehen. 
