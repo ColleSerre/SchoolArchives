@@ -9,14 +9,13 @@ Information brought by the nurse:
 * *Medea is scary*
     * Medea plans to do something bad to her children <= **foreshadowing**/foreboding
 
+
+## First Episode
+
 Questions:
 1. * Medea is angry at everyone as her husband just betrayed her
     * The nurse takes her time as she probably won't manage to persuade Medea to come with her
     * Medea "glares at [the servants] like a mad bull"
-
-
-## First Episode
-
 2. The chorus understands Medea's tragic situation, they feel sympathy for her: "my own heart suffers too"
 3. They encourage her not to kill herself, "she's foolish for wanting to die"
 4. She tries to appeal to the women in the chorus with relatable stuff about the position of women in ancient Greece. She also uses emotions to convince the chorus that she is a victim.
@@ -48,3 +47,13 @@ Her plan => Today three of my enemies I shall strike dead: Father and daughter; 
 2. I saved your life, I killed the serpent, I lit the way for your escape, I betrayed my father, I killed Pelias, I have borne your sons AND Jason broke an oath. This shows that, unlike what Jason is saying, Medea (and by extension women) is able of a well-structured and logical argument.
 3. Tries to downplay Medea's role in his success ant to suggest it is more down to the gods like Aphrodite. He also claims that Medea only fell in love with him due to Hera. He also says she's gained from her link with him: she is famous and she lives in a civilized place = this reminds her that she is a foreigner and so marks her out as different. Overuse of I = arrogance. Wants wealth and status "I want to ensure...that we should live well/And not be poor;" "I thought it worth while to ensure advantages/for those I have". He focuses on his wealth and status whilst she thinks about how he has broken his oath to her. Medea (ln 579-627) suggests here that the skill in rhetoric shown by Jason actually shows his great insincerity. She argues that if this really was his plan, he should have told her about it first and not gone behind her back. Note that the wrestling imagery "One word will throw you". This is typical in legal language.
 4. He argues that he has done all of this for his children. In order to give the a better future. BUT he has not made any effort to keep them in Corinth, so this argument seems to ring untrue.
+
+## Third Episode
+1. Aegeus behaves with Medea in a much more friendly way than Jason. Jason has sons but doesn't take good care of them whilst Aegeus wants children and wants to take care of them well. 
+2. This use of stichomythia contrasts with the way it was used with Jason. One was a casual talk & the other was a rapid-fired argument. This shows the different ways that stichomythia can be used and the effects it can have.
+3. She promises to give plants/potion to Aegeus to help him with his fertility. This is ironic because Medea will later kill her children.
+4. The Homeric Hero is often seeking revenge
+5. She plans to agree with Jason to bait him ? Then kill his children to hurt Jason
+6. NULL
+
+Questions:

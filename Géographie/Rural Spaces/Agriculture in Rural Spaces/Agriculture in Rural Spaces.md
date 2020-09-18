@@ -22,15 +22,18 @@ Questions:
 Why are tomatoes a global products?
 
 Plan:
-1. Production and consumption:
-   1. worldwide production
-   2. worldwide consumption
-2. Economic and social impact:
-   1. worldwide economic impact
-   2. regional social impact (farmers in Ghana and china)
-3. Environmental impact:
-   1. Water & carbon impact
-   3. biological impact 
+1. Worldwide production:
+   1. Exported by many countries
+   2. Not seen as a traditional food => larger consumer base
+   3. Present in junk food & healthy food => really *large* consumer base
+2. Worldwide consumption:
+   1. Imported by many countries
+   2. Used in many cultures and traditional dishes around the world
+3. Worldwide effects:
+   1. Socio-economic effects
+   2. Geo-political effects
+   3. Environmental effects
+   
 
 
 Introduction:
