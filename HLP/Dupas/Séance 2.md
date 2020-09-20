@@ -28,3 +28,6 @@ Sur l'orateur *Cicéron*:
   * La parole pour séduire l'homme => puissante. noter la présence du mot Dominateur. Les beautés de la parole préparée. Les pouvoirs de la parole et son rôle dans la vie politique grecque antique. La parole comme supériorité. La parole universelle et unificatrice. Beaucoup de questions rhétoriques. Nous différentie des animaux.
 * Complétion:
   * La parole de Cicéron est une parole qui rassemble les hommes. Beaucoup de **longues questions rhétoriques accumulées en système anaphorique**. Cicéron utilise des périodes cicéroniennes (longues phrases construites pour n'être pas digressives - **à définir**)
+
+Synthèse:
+Isocrate, grand orateur antique, parle des impacts de la parole sur les 

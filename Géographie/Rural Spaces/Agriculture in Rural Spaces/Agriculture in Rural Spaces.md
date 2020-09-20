@@ -23,18 +23,18 @@ Why are tomatoes a global products?
 
 Plan:
 1. Worldwide production:
-   1. Exported by many countries
-   2. Not seen as a traditional food => larger consumer base
-   3. Present in junk food & healthy food => really *large* consumer base
+   1. Exported by many countries [graph p.7 doc 2]
+   2. Not seen as being a traditional food from 1 place = global food => Larger consumer base
+   3. Present in junk food & healthy food => Larger consumer base [p.8 doc 4]
 2. Worldwide consumption:
-   1. Imported by many countries
-   2. Used in many cultures and traditional dishes around the world
+   1. Imported by many countries [graph p.7 doc 2]
+   2. Used in many cultures and traditional dishes around the world [p.9 doc 5]
 3. Worldwide effects:
-   1. Socio-economic effects
-   2. Geo-political effects
-   3. Environmental effects
+   1. Socio-economic effects (Ghana & US comparison [p.8 doc 3])
+   2. Geo-political effects (China case study [p.9 doc 5])
+   3. Environmental effects (US & GMO [p. 8 doc 4])
    
 
 
 Introduction:
-The tomato industry has experienced a drastic rise in both production and demand. The industry has therefore changed and tomato has become a global product. These changes have had many economic, social and environmental impacts. 
+The tomato paste industry has experienced a phenomenal growth during the last 10 years. This growth has caused tomatoes to be a global product. This growth has had many changes in the way tomatoes are produced, consumed and has also had many worldwide effects. Initially, we will summarize the changes in tomato production that the increased demand has caused. Further, it will be shown that tomato consumption and usage have both drastically changed and finally, the effects that these changes have had on the world. Throughout the essay will be discussed the globalized nature of tomatoes as a product.
