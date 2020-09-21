@@ -1,5 +1,17 @@
 # La Révolution Française et l'Empire, une conception nouvelle de la Nation
 ----------
+
+Dates à réviser:
+* 5 mai 1789 - Etats généraux à Versailles
+* 7 juin 1789 - La journée des tuiles
+* 17 juin 1789 - Les représentants du tiers état se proclament assemblée nationale
+* 20 juin 1789 - Serment du jeu de paume
+* Nuit du 4 août 1789 - Abolition des privilèges
+* 26 août 1789 - Déclaration des droits de l'homme et du citoyen
+* 5 et 6 Octobre 1789 - "Marche des femmes" sur Versailles
+* 21 septembre 1792 - Abolition de la royauté et proclamation de la 1ère république 
+* 2 décembre 1804 - Le sacre napoléonien
+
 Rappel:
 * Trois pouvoirs:
     1. Pouvoir législatif => voter les lois
@@ -101,3 +113,37 @@ Question 5:
 * l'égalité et la liberté (voir article 1)
 * l'égalité d'accès à tous les emplois (article 6)
 * l'égalité devant l'impôt (article 13)
+  
+Déclaration des droits de l'homme et du citoyen (voir poly)
+
+#### Le 5 et 6 Octobre 1789 "La marche des femmes" sur Versailles (à noter sur la frise)
+
+Contexte:
+* Louis XVI n'a pas signé la déclaration des droit de l'homme et la constitution
+* Le 1er Octobre => Gardes du corps du roi piétinant la cocarde tricolore lors d'un banquet (les parisiens craignent donc une lourde répression)
+
+Le 5 Octobre 1789, poussé par la faim, un cortège de milliers de femmes (6-8k) se rend à Versailles pour réclamer du pain. Tout cela dans un contexte tendu (voir ci-dessus). Au petit matin du 6 Octobre, un garde du corps tire sur la foule et tue un manifestant. La foule s'enrage et entre dans le château et dans la chambre du roi et de la reine. Pour apaiser la foule le roi décide de céder à une des revendications et revient donc s'installer à Paris.
+
+Revendications:
+* Signer la DDHC et la constitution
+* Punition des gardes du corps
+* Du pain à Paris
+
+Conséquences:
+* Le roi retourne à Paris au château des Tuileries.
+* Reconnaissance de la cocarde, le roi portera la cocarde et parfois le bonnet phrygien
+* Le roi accepte la constitution et la DDHC
+
+#### Réorganisation du clergé | 2 novembre 1789 (à ajouter sur la frise)
+
+La nationalisation des biens du clergé => 2 novembre 1789
+Face à la crise financière qui touche le pays. Le député Talleyrand propose à l'assemblée de nationaliser les biens du Clergé. Ces biens représentent environ 3 milliards de livres tournois (c'est 10 fois le budget de l'état). Cela dans le but de garantir la valeur des Assignats, la première monnaie en papier.
+
+#### Le vote de la Constitution Civile du Clergé 12 Juillet 1790 (à ajouter sur la frise)
+
+Le 12 Juillet 1790, les députés votent la Constitution Civile du Clergé. Les prêtres deviennent des fonctionnaires payés par l'état et les évêques sont désormais élus par les électeurs du département. Tous doivent prêter serment à la Constitution Civile du Clergé. L'église de France sera divisée en deux: prêtres constitutionnels ou jureurs et les prêtres réfractaires. Le pape Pie VI condamne la Constitution Civile du Clergé.
+
+#### La vie politique sous la révolution
+
+Avec la liberté d'expression octroyée par la DDHC (article 11) qui met fin à la censure, beaucoup de journaux sont créés dans le pays (ex: l'ami du peuple par Marat). On en compte environ 335 journaux en 1790. Ces journaux sont lus en public notamment dans les campagnes pour rester accessibles aux illettrés. Des clubs sont créés afin de permettre aux citoyens engagés de débattre publiquement des discussions politiques (le club des cordeliers [1790], le club des jacobins [1789]).
+

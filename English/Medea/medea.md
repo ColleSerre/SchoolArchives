@@ -56,4 +56,6 @@ Her plan => Today three of my enemies I shall strike dead: Father and daughter; 
 5. She plans to agree with Jason to bait him ? Then kill his children to hurt Jason
 6. NULL
 
+## Fourth Episode 
 Questions:
+1. We are aware of Medea's plans. There's a lot of irony regarding her plans: "Oh children! Will you All your *lives long*, stretch out your hands to me like this?" => ironic because her children will die soon, their hands stretched to stop her from killing them. "Greet your father, as I do, and and put your arms round him. Forget our quarrel, and *love him as your mother does.*" => basically tells them to hate their father. "In time, I'm sure, you with your brothers will be leading men" => she's going to kill all of them. 
