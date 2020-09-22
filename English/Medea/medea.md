@@ -59,3 +59,38 @@ Her plan => Today three of my enemies I shall strike dead: Father and daughter; 
 ## Fourth Episode 
 Questions:
 1. We are aware of Medea's plans. There's a lot of irony regarding her plans: "Oh children! Will you All your *lives long*, stretch out your hands to me like this?" => ironic because her children will die soon, their hands stretched to stop her from killing them. "Greet your father, as I do, and and put your arms round him. Forget our quarrel, and *love him as your mother does.*" => basically tells them to hate their father. "In time, I'm sure, you with your brothers will be leading men" => she's going to kill all of them. 
+
+## Fourth Stasimon
+
+vocabulary:
+* spare
+* burden - a nuissance
+* incessant - without end/doesn't stop
+* rear - to bring up children 
+* bequeath - the action of adding someone in your will
+
+## Fifth Episode
+
+1. The kids enter the palace hand in hand
+2. The servants greet them and the messenger follows them to the princess's room
+3. The princess was angry to see the children in her room
+4. Jason calms her and tells her that she "must not be unfriendly to our friends" and that "Those your husband loves You must love too", asks her to cancel the children's exile and to take the gifts
+5. The children give her the embroidered gown, she puts it around her, dances and poses in front of mirror
+6. Glauce changes color, starts shaking, collapses on a chair, an old attendant starts singing the cry of worship
+7. White froth starts coming out of her mouth, her pupils twist
+8. The golden crown lights her head on fire, she's engulfed in flames, the dress eats her flesh
+9. Gets up, runs around shaking her head to get the coronet off. She's head bleeding and her shin is melting
+10. Father enters and tries to lift her upright but can't because any use of strength will tear her flesh
+11. The king burns with his daughter, he gets stuck to her when he tries to lift her up
+    
+Very vivid details, use of direct speech (makes it more lively). Glauce's love for Jason blinds her ("She had eyes only for Jason"). Glauce is a materialistic person ("When she saw those lovely things she was won over")
+
+Medea resolves to kill her children. This short and urgent speech show her determination to do the deed. The fact that she has been on stage for such a long time makes her departure even more dramatic. Added to this is the reason for her leaving.
+
+## 5th Stasimon
+Medea leaves and the Chorus appeals for the murder to be prevented. They sing in DOCHMIACS - an excited metre that expresses their emotional turmoil.
+a. They appeal to the Earth and Sun to intervene
+b. In the antistrophe, they focus on the wasted time spent bringing up her children, and they warn her that the shedding of kindred blood causes pollution and divine punishment. 
+As the infanticide approaches, a scream is heard from inside the house. The fact that the children's cries interrupt the regular choral ode, creates a powerful dramatic moment.
+
+The fact that the children aren't on stage forces the audience to imagine the children's murder.

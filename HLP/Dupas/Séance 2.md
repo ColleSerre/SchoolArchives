@@ -14,7 +14,7 @@ Procédés à retenir:
 
 <u>Remarque</u>: 
 * Etymologie d'avocat: Av = Ad (aller vers) ; Vocat = voco (appeler)
-
+* Période cicéronienne: Phrase qui n'en finit pas => *non seulement mais aussi* est une période cicéronienne
 **Isocrate** => A écrit un traité durant l'Antiquité (436-338 av JC)
 
 Sur l'échange *Isocrate*:
@@ -30,4 +30,20 @@ Sur l'orateur *Cicéron*:
   * La parole de Cicéron est une parole qui rassemble les hommes. Beaucoup de **longues questions rhétoriques accumulées en système anaphorique**. Cicéron utilise des périodes cicéroniennes (longues phrases construites pour n'être pas digressives - **à définir**)
 
 Synthèse:
-Isocrate, grand orateur antique, parle des impacts de la parole sur les 
+1. Techniques d'éloquence:
+   1. Rythme ternaire
+   2. Question rhétorique
+   3. Anaphore
+   4. "Non seulement...mais aussi" => rhétorique typique des avocats
+2. Etymologie
+   1. Avocat => ad = aller vers ; voco = appeler
+   2. Enfant => in privatif => celui qui n'a pas la parole
+3. Qu'es ce que la parole
+   1. Fondation de la société humaine
+   2. Délibérer avec ses semblables et soi-même
+   3. **Utilité de la parole**
+      1. Négociation
+      2. Manipulation
+      3. Influence
+      4. Rassemblement
+4. Pour Cicéron dans, *Sur l'orateur*, la parole peut dominer et influencer les hommes. Cicéron parle d'une parole qui rassemble les hommes là où Isocrate, dans *Sur l'échange*, parle plutôt d'une parole qui sert les hommes et qui est essentielle à tout ce "qui s'est fait avec l'intelligence".
