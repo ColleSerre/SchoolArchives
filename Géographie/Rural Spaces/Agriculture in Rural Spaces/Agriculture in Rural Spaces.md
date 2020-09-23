@@ -35,6 +35,52 @@ Plan:
    3. Environmental effects (US & GMO [p. 8 doc 4])
    
 
+### Essay - Why are tomatoes a global product?
 
-Introduction:
-The tomato paste industry has experienced a phenomenal growth during the last 10 years. This growth has caused tomatoes to be a global product. This growth has had many changes in the way tomatoes are produced, consumed and has also had many worldwide effects. Initially, we will summarize the changes in tomato production that the increased demand has caused. Further, it will be shown that tomato consumption and usage have both drastically changed and finally, the effects that these changes have had on the world. Throughout the essay will be discussed the globalized nature of tomatoes as a product.
+Plan:
+
+1. Worldwide production:
+
+2. Exported by many countries [graph p.7 doc 2, [Global exports of tomato paste](http://www.tomatonews.com/maj/phototheque/photos/Images_TN/6600_00.jpg)]
+
+2. Not seen as being a traditional food from 1 place = global food => Larger consumer base
+
+3. Present in junk food & healthy food => Larger consumer base [p.8 doc 4]
+
+2. Worldwide consumption:
+
+1. Imported by many countries [graph p.7 doc 2]
+
+2. Conquering new markets [[China &
+ketchup](https://www.chinadaily.com.cn/china/2012-06/15/content_15506137.htm)]
+
+3. Used in many cultures and traditional dishes around the world [p.9
+doc 5]
+
+3. Worldwide effects:
+
+1. Socio-economic effects (Ghana & US comparison [p.8 doc 3])
+
+2. Geo-political effects (China case study [p.9 doc 5])
+
+3. Environmental effects (US & GMO [p. 8 doc 4])
+
+The tomato paste industry has experienced phenomenal growth during the
+last ten years. This growth has caused tomatoes to be a global product.
+This growth has had many changes in the way tomatoes are produced,
+consumed and has also had many worldwide effects. Throughout the essay
+will be discussed the globalized nature of tomatoes as a product.
+Initially, we will summarize the changes in tomato production that the
+increased demand has caused. Further, we will demonstrate that tomato
+consumption and usage have both drastically changed and finally, the
+effects that these changes have had on the world.
+
+Worldwide tomato exports have more than doubled since the end of the
+1990s. To profit as much as possible of this fantastic boom and to keep
+up with the ever-increasing demand farmers have radically changed the
+way they produce their tomatoes. In more economically developed
+countries (MEDCs) this takes the form of automation using robotics and
+trucks to improve productivity but also the increased pesticide usage
+and modifying tomatoes using genetic modification technology to make
+them more resistant to bugs and transportation. The largest tomato
+exporters are
