@@ -114,6 +114,7 @@ Question 5:
 * l'égalité d'accès à tous les emplois (article 6)
 * l'égalité devant l'impôt (article 13)
   
+
 Déclaration des droits de l'homme et du citoyen (voir poly)
 
 #### Le 5 et 6 Octobre 1789 "La marche des femmes" sur Versailles (à noter sur la frise)
@@ -134,6 +135,8 @@ Conséquences:
 * Reconnaissance de la cocarde, le roi portera la cocarde et parfois le bonnet phrygien
 * Le roi accepte la constitution et la DDHC
 
+### Une société nouvelle
+
 #### Réorganisation du clergé | 2 novembre 1789 (à ajouter sur la frise)
 
 La nationalisation des biens du clergé => 2 novembre 1789
@@ -147,3 +150,35 @@ Le 12 Juillet 1790, les députés votent la Constitution Civile du Clergé. Les 
 
 Avec la liberté d'expression octroyée par la DDHC (article 11) qui met fin à la censure, beaucoup de journaux sont créés dans le pays (ex: l'ami du peuple par Marat). On en compte environ 335 journaux en 1790. Ces journaux sont lus en public notamment dans les campagnes pour rester accessibles aux illettrés. Des clubs sont créés afin de permettre aux citoyens engagés de débattre publiquement des discussions politiques (le club des cordeliers [1790], le club des jacobins [1789]).
 
+#### La création des 83 départements 15 Janvier 1790 (à ajouter sur la frise)
+
+Les députés veulent faire table rase du passé et supprimer l'ancien découpage du royaume, très hétéroclite. Les constituants découpent alors le royaume en 83 départements (qui porteront des noms de fleuves, océans, de montagnes ou de points cardinaux. Un impératif: atteindre le chef lieu du département en moins d'une journée à cheval de n'importe quel point du département.
+
+#### Les lois libérales d'Allarde 2 mars 1791 et Le Chapelier 14 Juin 1791
+
+L'une des priorités des "révolutionnaires" à été de supprimer les corporations, celles cis fixaient les salaires, les prix et les détails de fabrication. Les révolutionnaires étants favorables au libéralisme économique ont ainsi supprimé les entraves à la libre entreprise:
+
+* Suppression des règlements pointilleux qui entravaient l'innovation.
+* Interdiction des syndicats pour essayer de mettre fin aux agitations ouvrières (cette loi a été abrogée en 1884).
+
+### La monarchie constitutionnelle
+
+**Adoption de la constitution: 3 septembre 1791 (à ajouter sur la frise)**
+
+Dans le nouveau régime les trois pouvoirs sont désormais séparés. Le roi détient le pouvoir exécutif, l'assemblée nationale le pouvoir législatif et les juges le pouvoir judiciaire. Le roi à tout de même le droit de véto durant 4 ans. Il peut donc s'opposer à une loi votée par l'Assemblée. Il l'utilisera beaucoup au point qu'on le surnommera Monsieur Véto. Seuls ceux qui payent un cens (un impôt assez important) peuvent élire les députés. Les constituants ont voulu séparé la séparation stricte des pouvoirs. En cas de différend entre le pouvoir législatif et exécutif, seul la force ou la rue pourra trancher entre ces deux institutions. 
+
+#### Le divorce entre le roi et la nation
+
+## C. Le divorce entre le roi et la nation
+
+#### 1. La fuite à Varennes
+
+Le roi s'enfuit le 21 Juin 1791 (à ajouter sur la frise) pour rejoindre l'Autriche mais rattrapé à Varennes. Il est ramené de force à Paris et s'empresse de déclarer la guerre à l'Autriche. Il espère que la France perdra et qu'il retrouvera donc ses pouvoirs. 
+
+ ![](https://histoiredavigo.files.wordpress.com/2017/09/111979721.jpg)
+
+(Les Girondins et les députés de la Plaine sont favorables à la guerre. Les Montagnards s'y opposent). A Paris, les députés se divisent. Louis XVI déclare la guerre à l'Autriche en 25 Avril 1792 (à ajouter sur la frise). Robespierre s'y oppose et dit "Personne n'aime les missionnaires armés".
+
+Analyse document p.37
+
+Manon Roland: faisait partie du club des Girondins, a créé un salon où on parlait politique

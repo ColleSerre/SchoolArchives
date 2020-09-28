@@ -44,3 +44,4 @@ Exercice A, B, C p.20:
 
 B. Menschen sind immer gewandert und in ursprünglich anderen Kulturen heimisch geworden.
 C. Der moderne Begriff ist eher als Abgrenzung Abgrenzung zur Globalisierung und vielleicht auch Digitalisierung = zu sehen.
+
