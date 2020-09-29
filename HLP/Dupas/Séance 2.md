@@ -1,5 +1,7 @@
 # Séance 2
 
+--------------
+
 Supports:
 * Texte Isocrate p.24
 * Texte Cicéron p.25

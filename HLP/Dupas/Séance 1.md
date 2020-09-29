@@ -1,5 +1,7 @@
 # Séance 1
 
+-----------------------
+
 Rappels:
 * Persuader = par les *Emotions*
 * Convaincre = par les *Faits*
