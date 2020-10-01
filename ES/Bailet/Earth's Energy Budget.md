@@ -1,4 +1,4 @@
-﻿# 2.2 (5) Earth's Energy Budget
+# 2.2 (5) Earth's Energy Budget
 
 ## The balance between the energy received by the Sun and that emitted by the Earth
 
