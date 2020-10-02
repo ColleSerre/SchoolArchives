@@ -1,26 +1,3 @@
 # De la discussion jaillit la lumière
 
-Ce proverbe, comme beaucoup de choses, m’a poussé à une réflexion. Nous savons
-tous que les silex de la conversation humaine en s'entrechoquant créent une
-lumière particulière. Mais de quelle lumière s'agit-il ? Est-ce un feu
-discordant, divisant, détruisant les dernières convergences que l'on pouvait
-trouver avec son compagnon de conversation ?! Ou bien, est-ce un soleil
-providentiel, prêt à illuminer une terre vide de moi et pleine de nous ? Cette
-antique question, malgré ses abords grandiloquents est d'une parfaite actualité.
-Comment apercevoir cette lumière, quel qu'en soit sa nature, dans un monde où
-les conversations se digitalisent, où les rapports se synthétisent et dans
-lequel on nous pousse à des interactions copiées-collées ? En effet, comment
-apprendre de l’autre quand les météorologues de Facebook et de Twitter nous
-poussent à ne fréquenter que la terre ferme en nous promettant un océan de
-violence en tout ne nous étant pas parfaitement familier ? J'admets que nous
-connaissons tous au moins une ou deux personnes qui s'intéressent à tout, ne se
-limitent pas à des partis ou à des courants de pensée mais soyons honnêtes :
-Nous tenons d'avantage du moineau fébrile que de la mouette bravant la tempête
-inconnue ! Evidemment ! je vous comprends, mieux je vous imite mais il serait
-tout de même ironique que les plus grandes inventions de l'homme depuis le feu
-ne nous laissent dans l'ombre. C'est donc solennellement que, sans tous les
-artifices de langage que vous me connaissez, je propose un simple devoir : pour
-la semaine prochaine, suivez une personne qui va à l'encontre de tous vos
-principes et valeurs. Je vous donne donc rendez-vous à dans sept jours pour
-faire le point et pour tenter de répondre à la brulante question : L'humanité
-est-elle vouée à être divisée ?
+Ce proverbe, comme beaucoup de choses en ce monde, me pousse à une réflexion. Bon, nous savons tous que les silex de la conversation humaine en s'entrechoquant créent une lumière particulière. Mais de quelle lumière s'agit-il ? Est-ce un feu discordant, divisant, détruisant les dernières convergences que l'on pouvait trouver avec son compagnon de conversation ?! Ou bien, est-ce un soleil providentiel, prêt à illuminer une terre vide de moi et pleine de nous ? Cette antique question, malgré ses abords grandiloquents est d'une parfaite actualité. Comment apercevoir cette lumière, quel qu'en soit sa nature, dans un monde où les conversations se digitalisent, où les rapports se synthétisent et dans lequel on nous pousse à des interactions copiées-collées ? En effet, comment apprendre de l’autre quand les météorologues de Facebook et de Twitter nous poussent à ne fréquenter que la terre ferme en nous promettant un océan de violence en tout ce qui ne nous est pas parfaitement familier ? J'admets que nous connaissons tous au moins une ou deux personnes qui s'intéressent à tout, ne se limitent pas à des partis ou à des courants de pensée mais soyons honnêtes : Nous tenons d'avantage du moineau fébrile que de la mouette bravant la tempête inconnue ! Mais je vous comprends, mieux je vous imite mais il serait tout de même ironique que les plus grandes inventions de l'homme depuis le feu ne nous laissent dans l'ombre. C'est donc solennellement que, sans tous les artifices de langage que vous me connaissez, je propose un simple devoir : pour la semaine prochaine, suivez une personne qui va à l'encontre de tous vos principes et valeurs. Je vous donne donc rendez-vous à dans sept jours pour partager votre expérience et vos conclusions pour tenter de répondre à la brulante question : L'humanité est-elle vouée à être divisée ?
