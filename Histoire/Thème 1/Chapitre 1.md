@@ -175,10 +175,21 @@ Dans le nouveau régime les trois pouvoirs sont désormais séparés. Le roi dé
 
 Le roi s'enfuit le 21 Juin 1791 (à ajouter sur la frise) pour rejoindre l'Autriche mais rattrapé à Varennes. Il est ramené de force à Paris et s'empresse de déclarer la guerre à l'Autriche. Il espère que la France perdra et qu'il retrouvera donc ses pouvoirs. 
 
- ![](https://histoiredavigo.files.wordpress.com/2017/09/111979721.jpg)
+ <img src="https://histoiredavigo.files.wordpress.com/2017/09/111979721.jpg" style="zoom: 50%;" />
 
 (Les Girondins et les députés de la Plaine sont favorables à la guerre. Les Montagnards s'y opposent). A Paris, les députés se divisent. Louis XVI déclare la guerre à l'Autriche en 25 Avril 1792 (à ajouter sur la frise). Robespierre s'y oppose et dit "Personne n'aime les missionnaires armés".
 
-Analyse document p.37
+#### Madame Roland
 
-Manon Roland: faisait partie du club des Girondins, a créé un salon où on parlait politique
+Était au parti politique des Girondins, a tenu un salon connu pour avoir été un haut lieu de la vie politique révolutionnaire. Son mari, un économiste et inspecteur du commerce et de la manufacture,  est porté par le parti des Girondins fût poussé par sa femme à devenir ministre. C'est elle qui écrivit les circulaires, discours et lettres de son mari et s'exprimait donc à travers lui. Elle tient un salon qui devint un lieu de sociabilité fréquenté par de nombreux Girondins célèbres  comme Robespierre et Brissot. Elle n'était pas féministe contrairement à Olympe de Gouges. Elle va à l'opposé de la pensée de Danton et d'Hébert. Elle est arrêtée par les montagnards le 31 Mai 1793 et jugée par un tribunal révolutionnaire le 8 novembre 1793, ces dernières paroles seraient "Ô liberté, que de crimes on commet en ton nom !". Elle est condamnée à mort et exécutée le même jour. Elle publiera un livre posthume qui tentera de répondre à ses détracteurs. Elle reçut les éloges de Stendhal dans ses livres mais décrite par l'historien Louis Madelin comme une petite bourgeoise rancunière en partie responsable des conflits entre les girondins et montagnards.
+
+#### Charlotte Corday
+
+Tendances Girondines et républicaine modérée. Ne supporte pas la violence et les excès de la révolution, "tous ces hommes qui devaient nous donner la liberté l'ont assassinée". Haine de Marat (orateur populaire auprès des sans-culottes qui incite les révolutionnaires à la violence). Elle assassinera Marat à son domicile après deux tentatives, elle le poignardera dans son bain. Elle fût arrêtée sans résistance et emprisonnée à la prison de l'Abbaye et jugée le 17 Juillet 1793 puis condamnée à mort le même jour. 
+
+#### Théroigne de Méricourt
+
+Première féministe avec Olympe de Gouges. Elle s'habille comme une amazone et souhaitait s'éloigner de sa condition de femme, briser les normes et s'affirmer comme égale aux hommes. Tiendra un salon qui recevra Sieyès, Camille Desmoulins, Pétion, Brissot et Fabre d'Eglantine. Elle fût kidnappée par des officiers royaux et livrée aux autorités autrichiennes, elle fût emprisonnée et libérée en octobre 1791. Elle était pour la guerre avec l'Autriche. Théroigne fût accusée de tuer un journaliste royaliste violemment durant la prise des Tuileries. Elle répétait les mots fortune, liberté, révolution, qu'aucun et décret ce qui la fera échapper à échafaud. Elle meurt après 23 ans d'enfermement, son corps fût étudié par des scientifiques qui veulent savoir pourquoi une femme s'engagerai dans un milieu aussi violent que la politique, c'est une humiliation *post mortem*.
+
+## D. La fête de la Fédération (14 Juillet 1790 à ajouter sur la frise) voir polycopié
+
