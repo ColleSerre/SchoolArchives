@@ -74,9 +74,11 @@ V + B = Cyan
 
 Sur le graphique on constate un décollage du $\lambda$max. La surface sous la plus grande courbe augmente et est proportionnelle à l'intensité lumineuse.
 
-Loi de Wien:
+## Loi de Wien:
 
-$\lambda$ max (en m) $\cdot$ T (en kalvin) $= 2,898\cdot10^-3$ (en m$\cdot$k) 
+$$
+\lambda max \text{ (en m)} \cdot T \text{ (en kalvin)} = 2,898 \cdot 10^-3 \text{ (en m / k)}
+$$
 
 Définition à apprendre:
 La température est un moyen de mesurer la vitesse des atomes.
@@ -129,6 +131,39 @@ Exo 2 p.76:
 
 Exo 3 p.76:
 
-1. $$
+1. 
+
+2. $$
    T = 6.8^{-7}\times2.898\cdot 10^{-3}
+   $$
+
+3. 
+
+
+
+Interro compo:
+
+1. De gauche à droite: gamma (rayons y), rayons x, UV, visible, Infrarouge, Micro-ondes, Ondes radio, Ondes radio longues.
+
+2. SURTOUT NE PAS CONFONDRE: diffusion, dispersion, réflexion, réfraction.
+   Réflexion : Une opération de symétrie, à deux angles 
+   Réfraction : Changement de direction de la lumière au passage d'un milieu plus dense.
+   Diffusion : Emission de lumière dans toutes les directions
+   Dispersion : La décomposition d'une lumière polychromatique (qui a plusieurs radiations) en radiations monochromatiques. Se fait avec un système dispersif (prisme de Newton).
+   
+3. $$
+   \lambda max \text{ (en m)} \cdot T \text{ (en kalvin)} = 2,898 \cdot 10^-3 \text{ (en m / k)}
+   $$
+
+4. $$
+   \lambda max1\times T1 = 2,898 \cdot 10^{-3} \\
+   \lambda max = 650nm = 6,5 \times 10^{-7} \\
+   6,5 \times 10^{-7} \times T1 = 2,898\cdot10^{-3} \\
+   \frac{2,898\cdot10^{-3}}{6,5 \times 10^{-7}} = 4, 4584661538\cdot10^{-3} = 4458 \text{ Kalvin} = 4185^{\circ} \\
+   $$
+
+5. Loi de Stefan : Puissance surfacique (ps) = Puissance (en W) / Surface (m²)  (cf photo tableau Analyse dimensionnelle)
+   $$
+   Ps=\sigma \cdot T^4 \\
+   \sigma = 5,67\cdot10^{-8}
    $$
