@@ -179,6 +179,10 @@ Le roi s'enfuit le 21 Juin 1791 (à ajouter sur la frise) pour rejoindre l'Autri
 
 (Les Girondins et les députés de la Plaine sont favorables à la guerre. Les Montagnards s'y opposent). A Paris, les députés se divisent. Louis XVI déclare la guerre à l'Autriche en 25 Avril 1792 (à ajouter sur la frise). Robespierre s'y oppose et dit "Personne n'aime les missionnaires armés".
 
+---
+
+## Les femmes dans la révolution
+
 #### Madame Roland
 
 Était au parti politique des Girondins, a tenu un salon connu pour avoir été un haut lieu de la vie politique révolutionnaire. Son mari, un économiste et inspecteur du commerce et de la manufacture,  est porté par le parti des Girondins fût poussé par sa femme à devenir ministre. C'est elle qui écrivit les circulaires, discours et lettres de son mari et s'exprimait donc à travers lui. Elle tient un salon qui devint un lieu de sociabilité fréquenté par de nombreux Girondins célèbres  comme Robespierre et Brissot. Elle n'était pas féministe contrairement à Olympe de Gouges. Elle va à l'opposé de la pensée de Danton et d'Hébert. Elle est arrêtée par les montagnards le 31 Mai 1793 et jugée par un tribunal révolutionnaire le 8 novembre 1793, ces dernières paroles seraient "Ô liberté, que de crimes on commet en ton nom !". Elle est condamnée à mort et exécutée le même jour. Elle publiera un livre posthume qui tentera de répondre à ses détracteurs. Elle reçut les éloges de Stendhal dans ses livres mais décrite par l'historien Louis Madelin comme une petite bourgeoise rancunière en partie responsable des conflits entre les girondins et montagnards.
@@ -191,5 +195,19 @@ Tendances Girondines et républicaine modérée. Ne supporte pas la violence et 
 
 Première féministe avec Olympe de Gouges. Elle s'habille comme une amazone et souhaitait s'éloigner de sa condition de femme, briser les normes et s'affirmer comme égale aux hommes. Tiendra un salon qui recevra Sieyès, Camille Desmoulins, Pétion, Brissot et Fabre d'Eglantine. Elle fût kidnappée par des officiers royaux et livrée aux autorités autrichiennes, elle fût emprisonnée et libérée en octobre 1791. Elle était pour la guerre avec l'Autriche. Théroigne fût accusée de tuer un journaliste royaliste violemment durant la prise des Tuileries. Elle répétait les mots fortune, liberté, révolution, qu'aucun et décret ce qui la fera échapper à échafaud. Elle meurt après 23 ans d'enfermement, son corps fût étudié par des scientifiques qui veulent savoir pourquoi une femme s'engagerai dans un milieu aussi violent que la politique, c'est une humiliation *post mortem*.
 
+#### Olympe de Gouges
+
+La participation politique des femmes durant la révolution: actions militantes dans la rue, dans les tribunes des clubs, sociétés ou assemblées. Un mouvement de défense des droits des femmes fait jour soutenu par: Olympe de Gouges ou Théroigne de Méricourt. Une enfance bourgeoise et mariée à un bourgeois. Après la mort de son mari, elle s'installe à Pairs et fréquente un haut fonctionnaire de la marine qui lui permettra de fréquenter la haute société artistique et intellectuelle du Paris des lumières. Elle lutera contre l'esclavage, a failli se faire emprisonner pour sa critique de la politique du Roi. Elle élaborera un pamphlet de réformes sociales et politiques. Premièrement attachée à une monarchie modérée puis à une république. Elle souhaite défendre Louis XVI dans son procès de décembre 1792 mais refusé par les montagnards. Cela la poussera à dire "La femme a le droit de monter à l'échafaud ; elle doit avoir également celui de monter à la tribune". La révolution a donné beaucoup de nouveaux droits aux citoyens mais pas aux citoyens. Elle demande la suppression du mariage et l'instauration du divorce. **Elle est connue pour sa *déclaration des droits de la femme et de la citoyenne*, ce texte était adressé à Marie Antoinette et fût mal reçu à l'époque.** Elle s'en prendra a Robespierre et aux montagnards en leur reporchant de vouloir instaurer une dictature, elle prend partie pour la Gironde à la convention après sa chute. Elle fût exécutée pour avoir rédigé un placard fédéraliste: "les trois urnes ou le salut de la partie"
+
 ## D. La fête de la Fédération (14 Juillet 1790 à ajouter sur la frise) voir polycopié
+
+à compléter
+
+---
+
+## La guerre (25 Avril 1792 à ajouter sur la frise) 
+
+Les armées françaises privées de leurs officiers sont rapidement dépassées par les Autrichiens et les Prussiens. Ces derniers encerclent en juillet 1792 et le 25 juillet 1792 le commandant en chef des troupes Autrichiennes (le duc de Brunswick) lance un ultimatum aux parisiens: si la famille royale est violentée Paris sera rasée et massacrée. Cela a pour effet de galvaniser les foules qui prennent le Roi pour un traître.
+
+## La prise des tuileries du 10 août 1792 (à ajouter sur la frise)
 

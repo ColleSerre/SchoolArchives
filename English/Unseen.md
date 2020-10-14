@@ -2,8 +2,6 @@
 
 ----
 
-<link rel="stylesheet" >
-
 ```mermaid
 graph LR
 	S --> Structure/Shape
