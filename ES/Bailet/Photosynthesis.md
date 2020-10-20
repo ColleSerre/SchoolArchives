@@ -29,3 +29,19 @@ Reflection. It gets absorbed by other parts => heats up the plant. Transmitted (
 ### Outcome
 
 Only 1 and 2% of the light that reaches a plant can be converted by photosynthesis into biomass (glucose).
+
+---
+
+### The effect of light on plants (not photosynthesis)
+
+Transpiration: loss of water by plants due to light ; more light = more transpiration
+Regulation by stomata -> they can open/close
+Plants are the origin of biomass
+
+### Efficiency of photosynthesis
+
+Very little glucose is produced
+Losses: reflection/transmission ; conversion to heat/wrong wavelength (red+blue only)
+Limitations: water/CO2/Nutrients
+loses in biomass between trophic levels -> respiration uses glucose ; Biomass stored in trunks/bones and other inedible parts ; 90% lost between each trophic level
+Fossil fuels: forms over millions of years ; need pressure/heat ; determines amount of C  -> determines state (coal/petrol/natural gas)
