@@ -18,7 +18,13 @@ Très libre à l'interprétation. Penser la limite entre réel et irréel est tr
 
 Thèmes souvent utilisés:
 
-* Le rêve
+* Le rêve et le sommeil,
+* L'hypnose,
+* Le fantastique,
+* Le bizarre et l'étrange,
+* Les sentiments,
+* L'amour charnel,
+* La perception du monde.
 
 Théophile Gautier => "tout ce qui est utile est laid" - Il est contre les œuvres romantiques porteuses de messages sociaux et idéologie.
 Fait écho au parnasse: la théorie de l'art pour l'art. Lien avec Emaux et Camées ? 
