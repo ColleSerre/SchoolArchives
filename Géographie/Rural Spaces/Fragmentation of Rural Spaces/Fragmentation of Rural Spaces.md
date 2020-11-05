@@ -29,9 +29,7 @@
    
    - Extraction of resources (gas, oil, wood, minerals/metals, coal)
 
-3. 
-   
-   1. Agriculture, which was the main purpose of rural spaces, is getting more and more globalized. We no longer eat food that comes from our country if we don't expressly try to. Rural spaces are therefore losing their value and they and their governments need to reimagine their way of using these resources.
+3. 1. Agriculture, which was the main purpose of rural spaces, is getting more and more globalised. We no longer eat food that comes from our country if we don't expressly try to. Rural spaces are therefore losing their value and they and their governments need to reimagine their way of using these resources.
    
    2. Due to the lack of jobs in the rural areas, people have relocated to the already-saturated city in hopes to find one.
    
@@ -39,34 +37,34 @@
    
    4. Traditional definitions tend to overlook the advantages of rural spaces
 
-4.  Rural spaces are now defined in regards with social profile and social practices (job location, relationship with rural spaces (do you live there or are you only a worker there)).
-   
+4. Rural spaces are now defined in regards with social profile and social practices (job location, relationship with rural spaces (do you live there or are you only a worker there)).
+
 St-Denis case study ([Remonter le temps St-Denis](https://remonterletemps.ign.fr/comparer/basic?x=2.357592&y=48.928919&z=14&layer1=ORTHOIMAGERY.ORTHOPHOTOS&layer2=GEOGRAPHICALGRIDSYSTEMS.ETATMAJOR40&mode=doubleMap))
 
-St-Denis has expanded since the 19th century (Urbanization ; urban sprawl), highways have been built (development of transportation networks) and the fields surrounding the east of the city have been replaced by woods (agricultural decline).
+St-Denis has expanded since the 19th century (Urbanisation ; urban sprawl), highways have been built (development of transportation networks) and the fields surrounding the east of the city have been replaced by woods (agricultural decline).
 
-### Positive and negative effect of urbanization
+### Positive and negative effect of urbanisation
 
-|Positive|Negative|
-|--|--|
-|More infrastructures/services => increased employment rate|Less Agriculture => drop in food production => food prices increase|
-|Gentrification => more wealthy consumers for local shops|Possible growing reliance on tourism => unstable demand for labor force|
-||Increased housing prices and increased population|
-||Increased pollution (air, CO2, plastic, noise)|
-||Gentrification|
-||More pressure on water resources|
+| Positive                                                   | Negative                                                                |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------- |
+| More infrastructures/services => increased employment rate | Less Agriculture => drop in food production => food prices increase     |
+| Gentrification => more wealthy consumers for local shops   | Possible growing reliance on tourism => unstable demand for labor force |
+|                                                            | Increased housing prices and increased population                       |
+|                                                            | Increased pollution (air, CO2, plastic, noise)                          |
+|                                                            | Gentrification                                                          |
+|                                                            | More pressure on water resources                                        |
 
-Generating some quick arguments *for* urbanization:
+Generating some quick arguments *for* urbanisation:
 
-<em>Crucial points: 
+Crucial points: 
+
 * Develop one idea per sentence, do not crowd you text or the reader will be confused
-* Give examples when you use field-specific words like urbanization or gentrification (always consider that the reader knows nothing about the subject)</em>
+* Give examples when you use field-specific words like urbanisation or gentrification (always consider that the reader knows nothing about the subject)
 
+Urbanisation has different effects on rural spaces. I will be discussing the positive effects. Urbanisation has positive effects on rural spaces. It is crucial for rural spaces to reinvent themselves to benefit of all the productivity benefits that our age brings. Rural spaces have less internet access and cellular connectivity which reduces productivity for local companies and contributes to weakening the rural economy. 
 
-Urbanization has different effects on rural spaces. I will be discussing the positive effects. Urbanization has positive effects on rural spaces. It is crucial for rural spaces to reinvent themselves to benefit of all the productivity benefits that our age brings. Rural spaces have less internet access and cellular connectivity which reduces productivity for local companies and contributes to weakening the rural economy. 
+They also offer less entertainment services like cinemas, concerts or plays. This leads to a less dynamic economy which doesn't offer many options for people to use their money in. Rural areas don't have as many good hospitals or as modern schools as urbanised areas. It is crucial that we urbanise these spaces to make them more appealing to townsmen and women who want to buy a house and settle down in a more natural and healthy environment. This process will then create more demand for entertainment, sport and public infrastructures which will lead to a flourishing economy.
 
-They also offer less entertainment services like cinemas, concerts or plays. This leads to a less dynamic economy which doesn't offer many options for people to use their money in. Rural areas don't have as many good hospitals or as modern schools as urbanized areas. It is crucial that we urbanize these spaces to make them more appealing to townsmen and women who want to buy a house and settle down in a more natural and healthy environment. This process will then create more demand for entertainment, sport and public infrastructures which will lead to a flourishing economy.
+Their remote geographical location, reduced population and weak economy all prevent rural spaces to have a prominent role in the French political ecosystem. Urbanisation will help local communities weigh in more on all of the issues that will directly affect them instead of having them be ruled by people who have never experienced the real challenges of rural spaces (the long commutes to work, the lack of modern roads, the weak cell signals which causes less productivity).
 
-Their remote geographical location, reduced population and weak economy all prevent rural spaces to have a prominent role in the French political ecosystem. Urbanization will help local communities weigh in more on all of the issues that will directly affect them instead of having them be ruled by people who have never experienced the real challenges of rural spaces (the long commutes to work, the lack of modern roads, the weak cell signals which causes less productivity).
-
-Many of us have realized during the COVID-19 pandemic that rural spaces were extremely vulnerable to any type of danger that is usually handled by public or private infrastructures. The lack of hospitals has led to many sorry deaths and the archaic Wi-Fi connectivity has sacrificed the space's productivity. When the entire country was working at home, rural spaces couldn't and therefore were unable to protect themselves. Urbanization will bring all of the modern appliances that are crucial to revitalizing the rural economy without forgetting to preserve the local traditions, culture and nature.
+Many of us have realised during the COVID-19 pandemic that rural spaces were extremely vulnerable to any type of danger that is usually handled by public or private infrastructures. The lack of hospitals has led to many sorry deaths and the archaic Wi-Fi connectivity has sacrificed the space's productivity. When the entire country was working at home, rural spaces couldn't and therefore were unable to protect themselves. Urbanisation will bring all of the modern appliances that are crucial to revitalising the rural economy without forgetting to preserve the local traditions, culture and nature.

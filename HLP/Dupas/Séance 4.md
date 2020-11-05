@@ -19,3 +19,4 @@ Hugo différencie la misère de la souffrance. La première peut être détruite
 ## Victor Hugo "Les Caves de Lille"
 
 Hugo ne joue t-il que sur la corde sensible?  Le discours repose sur une anecdote censée rendre l'auditoire empathique. Pour Victor Hugo, la justice sociale et la défense des opprimés est le combat d'une vie, à travers tous ses textes il cherche à défendre une classe populaire plongée dans la misère. Ce discours emploie les 5 sens pour rendre le public empathique. En cherchant à provoquer de l'empathie il sert le prolétariat de son époque en peignant la souffrance et la dureté du quotidien au classes bourgeoises.  
+

@@ -1,7 +1,9 @@
 # La Révolution Française et l'Empire, une conception nouvelle de la Nation
-----------
+
+- - - -
 
 Dates à réviser:
+
 * 5 mai 1789 - Etats généraux à Versailles
 * 7 juin 1789 - La journée des tuiles
 * 17 juin 1789 - Les représentants du tiers état se proclament assemblée nationale
@@ -9,29 +11,31 @@ Dates à réviser:
 * Nuit du 4 août 1789 - Abolition des privilèges
 * 26 août 1789 - Déclaration des droits de l'homme et du citoyen
 * 5 et 6 Octobre 1789 - "Marche des femmes" sur Versailles
-* 21 septembre 1792 - Abolition de la royauté et proclamation de la 1ère république 
+* 21 septembre 1792 - Abolition de la royauté et proclamation de la 1ère république
 * 2 décembre 1804 - Le sacre napoléonien
 
 Rappel:
+
 * Trois pouvoirs:
-    1. Pouvoir législatif => voter les lois
-    2. Pouvoir exécutif => appliquer les lois
-    3. Pourvoir judiciaire => faire respecter les lois
+  1. Pouvoir législatif => voter les lois
+  2. Pouvoir exécutif => appliquer les lois
+  3. Pourvoir judiciaire => faire respecter les lois
 * Ces trois pouvoirs sont détenus par le roi => monarchie *absolue*
 
 Les causes de la révolution:
-* Crise sociale:
-     * Inégalités entre les nobles, le clergé et le tiers état (**98% de tiers état, 1,5% clergé, 0,5% noblesse**)
-    * Au sein du clergé il y avait des disparités. Le haut clergé et le bas clergé étaient radicalement différents 
-* Crise économique:
-     * Occasionnée par une crise agricole due à un hiver très rude qui à mené à des prix excessifs cette crise agricole se propagera vers le reste de l'économie.
-    * Le blé atteindra son prix maximal le *14 juillet 1789*, ce même jour sera prise la prison de la Bastille.
-* Crise politique:
-    * Les caisses de l'état sont vides et le peuple ne peut payer plus d'impôts. Le roi veut faire payer les riches mais ce sont eux qui votent les lois et refusent. (*Journée des tuiles*)
-* Crise budgétaire:
-    * Les fermiers généraux (eg. Lavoisier) prêtaient de l'argent à l'état à de fort taux d'intérêts mais commencent à refuser en 1789 le déficit grimpe et le budget dégringole.
 
-Suite à tout cela, Louis XVI se résout à convoquer les états généraux le *5 Mai 1789* (à ajouter sur la frise). C'est une assemblée convoquée par le roi qui réunit les représentants des trois ordres (Ils n'avaient pas été convoqués depuis 1614 par Catherine de Médicis). Les représentants rédigent des cahiers de doléances (revendications). 
+* Crise sociale:
+  * Inégalités entre les nobles, le clergé et le tiers état (**98% de tiers état, 1,5% clergé, 0,5% noblesse**)
+  * Au sein du clergé il y avait des disparités. Le haut clergé et le bas clergé étaient radicalement différents
+* Crise économique:
+  * Occasionnée par une crise agricole due à un hiver très rude qui à mené à des prix excessifs cette crise agricole se propagera vers le reste de l'économie.
+  * Le blé atteindra son prix maximal le *14 juillet 1789*, ce même jour sera prise la prison de la Bastille.
+* Crise politique:
+  * Les caisses de l'état sont vides et le peuple ne peut payer plus d'impôts. Le roi veut faire payer les riches mais ce sont eux qui votent les lois et refusent. (*Journée des tuiles*)
+* Crise budgétaire:
+  * Les fermiers généraux (eg. Lavoisier) prêtaient de l'argent à l'état à de fort taux d'intérêts mais commencent à refuser en 1789 le déficit grimpe et le budget dégringole.
+
+Suite à tout cela, Louis XVI se résout à convoquer les états généraux le *5 Mai 1789* (à ajouter sur la frise). C'est une assemblée convoquée par le roi qui réunit les représentants des trois ordres (Ils n'avaient pas été convoqués depuis 1614 par Catherine de Médicis). Les représentants rédigent des cahiers de doléances (revendications).
 
 # La rupture révolutionnaire
 
@@ -39,24 +43,23 @@ Suite à tout cela, Louis XVI se résout à convoquer les états généraux le *
 
 1. La mort de la monarchie absolue
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc6EL9yHzKOZJffFY5r0QGdNChKwuCYKqbZQ&usqp=CAU" />
-
 Le 5 Mai 1789, le roi prononce un discours qui déçoit les représentants du tiers état, ces derniers souhaitent en effet que ce vote ce fasse par tête et non par ordre. Face au refus du roi, ils décident le 17 Juin 1789 (à noter sur la frise) de se proclamer *Assemblée nationale* car ils représentent presque 90% de la population nationale. Le 20 Juin 1789 (à noter sur la frise) ils prêtent le serment du jeu de paume: "Nous jurons de ne jamais nous séparer et de nous réunir partout où les circonstances l'exigeraient, jusqu'à ce que la Constitution du royaume fût établie et affermie par des fondements solides. Quelques moines et ecclésiastiques prêtent aussi serment. Cela revient à *mettre un terme à l'absolutisme en France*.
 
 Le roi, même si en colère, finit par céder et demande aux députés de la noblesse et du clergé de rejoindre ceux du tiers état. Il fait venir des soldats autrichiens qui camperont autour de Paris et renvoi son premier ministre Necker (le tout sous l'influence de son frère le compte d'Artois). Les parisiens vont chercher, par tous les moyens, des armes et de la poudre (ils trouveront des armes aux invalides et savent que beaucoup de poudre est stockée à la Bastille). Le 14 Juillet 1789 (à noter sur la frise), les parisiens prennent d'assaut le Bastille. Le gouverneur de Launay, est décapité car il a ordonné d'ouvrir le feu sur les parisiens. Le roi renvoie les troupes étrangères, rappel Necker, nomme Jean Silvain Bailly à la tête de la municipalité de Paris et nomme le Général Lafayette à la tête de la garde nationale => Une milice armée composée de citoyens chargée de maintenir l'ordre et de lutter contre les ennemis de la révolution (tout ça dans le but de calmer les tensions et aller dans le sens des révolutionnaires).
 
-#### La "Grande Peur" (été 1789 | à noter sur la frise) 
+#### La "Grande Peur" (été 1789 | à noter sur la frise)
 
-Dans les campagnes les rumeurs évoquent un complot aristocratique qui voudrait réprimer les paysans. On voit donc se répandre un mouvement de panique qui mènera à des violences envers les nobles. Les privilèges sont abolis *la nuit du 4 août* (à noter sur la frise) ce qui met fin à la société féodale et à l'ancien régime. 
+Dans les campagnes les rumeurs évoquent un complot aristocratique qui voudrait réprimer les paysans. On voit donc se répandre un mouvement de panique qui mènera à des violences envers les nobles. Les privilèges sont abolis *la nuit du 4 août* (à noter sur la frise) ce qui met fin à la société féodale et à l'ancien régime.
 
 ## B. La fondation d'une France nouvelle
 
 Déclaration des droits de l'homme et du citoyen >> 26 août 1789 (à ajouter sur la frise)
 
-<u>Questions p.24</u>
+Questions p.24
 
 Question 1:
 Les droits naturels sont:
+
 * la liberté
 * la propriété
 * la sûreté
@@ -66,11 +69,13 @@ Question 2:
 Le régime politique qui est critiqué dans les articles 3 et 6: c'est le système absolutiste. La souveraineté appartient désormais à la nation. La loi est l'expression de la volonté générale.
 
 Question 3:
+
 * L'article 1 illustre sur les images qui encadrent le texte la liberté voir bonnet phrygien et le triangle symbolise la triangle symbolise la raison
-* les chaines brisées symbolisent également la liberté 
+* les chaines brisées symbolisent également la liberté
 * le faisceau (unité de la nation) illustre les articles 3 et 6
 
 Question 5:
+
 * l'égalité et la liberté (voir article 1)
 * l'égalité d'accès à tous les emplois (article 6)
 * l'égalité devant l'impôt (article 13)
@@ -79,11 +84,13 @@ Question 2:
 Le régime politique qui est critiqué dans les articles 3 et 6: c'est le système absolutiste. La souveraineté appartient désormais à la nation. La loi est l'expression de la volonté générale.
 
 Question 3:
+
 * L'article 1 illustre sur les images qui encadrent le texte la liberté voir bonnet phrygien et le triangle symbolise la triangle symbolise la raison
-* les chaines brisées symbolisent également la liberté 
+* les chaines brisées symbolisent également la liberté
 * le faisceau (unité de la nation) illustre les articles 3 et 6
 
 Question 5:
+
 * l'égalité et la liberté (voir article 1)
 * l'égalité d'accès à tous les emplois (article 6)
 * l'égalité devant l'impôt (article 13)
@@ -92,11 +99,13 @@ Question 2:
 Le régime politique qui est critiqué dans les articles 3 et 6: c'est le système absolutiste. La souveraineté appartient désormais à la nation. La loi est l'expression de la volonté générale.
 
 Question 3:
+
 * L'article 1 illustre sur les images qui encadrent le texte la liberté voir bonnet phrygien et le triangle symbolise la triangle symbolise la raison
-* les chaines brisées symbolisent également la liberté 
+* les chaines brisées symbolisent également la liberté
 * le faisceau (unité de la nation) illustre les articles 3 et 6
 
 Question 5:
+
 * l'égalité et la liberté (voir article 1)
 * l'égalité d'accès à tous les emplois (article 6)
 * l'égalité devant l'impôt (article 13)
@@ -105,32 +114,36 @@ Question 2:
 Le régime politique qui est critiqué dans les articles 3 et 6: c'est le système absolutiste. La souveraineté appartient désormais à la nation. La loi est l'expression de la volonté générale.
 
 Question 3:
+
 * L'article 1 illustre sur les images qui encadrent le texte la liberté voir bonnet phrygien et le triangle symbolise la triangle symbolise la raison
-* les chaines brisées symbolisent également la liberté 
+* les chaines brisées symbolisent également la liberté
 * le faisceau (unité de la nation) illustre les articles 3 et 6
 
 Question 5:
+
 * l'égalité et la liberté (voir article 1)
 * l'égalité d'accès à tous les emplois (article 6)
 * l'égalité devant l'impôt (article 13)
-  
 
 Déclaration des droits de l'homme et du citoyen (voir poly)
 
 #### Le 5 et 6 Octobre 1789 "La marche des femmes" sur Versailles (à noter sur la frise)
 
 Contexte:
+
 * Louis XVI n'a pas signé la déclaration des droit de l'homme et la constitution
 * Le 1er Octobre => Gardes du corps du roi piétinant la cocarde tricolore lors d'un banquet (les parisiens craignent donc une lourde répression)
 
 Le 5 Octobre 1789, poussé par la faim, un cortège de milliers de femmes (6-8k) se rend à Versailles pour réclamer du pain. Tout cela dans un contexte tendu (voir ci-dessus). Au petit matin du 6 Octobre, un garde du corps tire sur la foule et tue un manifestant. La foule s'enrage et entre dans le château et dans la chambre du roi et de la reine. Pour apaiser la foule le roi décide de céder à une des revendications et revient donc s'installer à Paris.
 
 Revendications:
+
 * Signer la DDHC et la constitution
 * Punition des gardes du corps
 * Du pain à Paris
 
 Conséquences:
+
 * Le roi retourne à Paris au château des Tuileries.
 * Reconnaissance de la cocarde, le roi portera la cocarde et parfois le bonnet phrygien
 * Le roi accepte la constitution et la DDHC
@@ -165,7 +178,7 @@ L'une des priorités des "révolutionnaires" à été de supprimer les corporati
 
 **Adoption de la constitution: 3 septembre 1791 (à ajouter sur la frise)**
 
-Dans le nouveau régime les trois pouvoirs sont désormais séparés. Le roi détient le pouvoir exécutif, l'assemblée nationale le pouvoir législatif et les juges le pouvoir judiciaire. Le roi à tout de même le droit de véto durant 4 ans. Il peut donc s'opposer à une loi votée par l'Assemblée. Il l'utilisera beaucoup au point qu'on le surnommera Monsieur Véto. Seuls ceux qui payent un cens (un impôt assez important) peuvent élire les députés. Les constituants ont voulu séparé la séparation stricte des pouvoirs. En cas de différend entre le pouvoir législatif et exécutif, seul la force ou la rue pourra trancher entre ces deux institutions. 
+Dans le nouveau régime les trois pouvoirs sont désormais séparés. Le roi détient le pouvoir exécutif, l'assemblée nationale le pouvoir législatif et les juges le pouvoir judiciaire. Le roi à tout de même le droit de véto durant 4 ans. Il peut donc s'opposer à une loi votée par l'Assemblée. Il l'utilisera beaucoup au point qu'on le surnommera Monsieur Véto. Seuls ceux qui payent un cens (un impôt assez important) peuvent élire les députés. Les constituants ont voulu séparé la séparation stricte des pouvoirs. En cas de différend entre le pouvoir législatif et exécutif, seul la force ou la rue pourra trancher entre ces deux institutions.
 
 #### Le divorce entre le roi et la nation
 
@@ -173,13 +186,11 @@ Dans le nouveau régime les trois pouvoirs sont désormais séparés. Le roi dé
 
 #### 1. La fuite à Varennes
 
-Le roi s'enfuit le 21 Juin 1791 (à ajouter sur la frise) pour rejoindre l'Autriche mais rattrapé à Varennes. Il est ramené de force à Paris et s'empresse de déclarer la guerre à l'Autriche. Il espère que la France perdra et qu'il retrouvera donc ses pouvoirs. 
-
- <img src="https://histoiredavigo.files.wordpress.com/2017/09/111979721.jpg" style="zoom: 50%;" />
+Le roi s'enfuit le 21 Juin 1791 (à ajouter sur la frise) pour rejoindre l'Autriche mais rattrapé à Varennes. Il est ramené de force à Paris et s'empresse de déclarer la guerre à l'Autriche. Il espère que la France perdra et qu'il retrouvera donc ses pouvoirs.
 
 (Les Girondins et les députés de la Plaine sont favorables à la guerre. Les Montagnards s'y opposent). A Paris, les députés se divisent. Louis XVI déclare la guerre à l'Autriche en 25 Avril 1792 (à ajouter sur la frise). Robespierre s'y oppose et dit "Personne n'aime les missionnaires armés".
 
----
+- - - -
 
 ## Les femmes dans la révolution
 
@@ -189,7 +200,7 @@ Le roi s'enfuit le 21 Juin 1791 (à ajouter sur la frise) pour rejoindre l'Autri
 
 #### Charlotte Corday
 
-Tendances Girondines et républicaine modérée. Ne supporte pas la violence et les excès de la révolution, "tous ces hommes qui devaient nous donner la liberté l'ont assassinée". Haine de Marat (orateur populaire auprès des sans-culottes qui incite les révolutionnaires à la violence). Elle assassinera Marat à son domicile après deux tentatives, elle le poignardera dans son bain. Elle fût arrêtée sans résistance et emprisonnée à la prison de l'Abbaye et jugée le 17 Juillet 1793 puis condamnée à mort le même jour. 
+Tendances Girondines et républicaine modérée. Ne supporte pas la violence et les excès de la révolution, "tous ces hommes qui devaient nous donner la liberté l'ont assassinée". Haine de Marat (orateur populaire auprès des sans-culottes qui incite les révolutionnaires à la violence). Elle assassinera Marat à son domicile après deux tentatives, elle le poignardera dans son bain. Elle fût arrêtée sans résistance et emprisonnée à la prison de l'Abbaye et jugée le 17 Juillet 1793 puis condamnée à mort le même jour.
 
 #### Théroigne de Méricourt
 
@@ -203,11 +214,33 @@ La participation politique des femmes durant la révolution: actions militantes 
 
 à compléter
 
----
+- - - -
 
-## La guerre (25 Avril 1792 à ajouter sur la frise) 
+## La guerre (25 Avril 1792 à ajouter sur la frise)
 
 Les armées françaises privées de leurs officiers sont rapidement dépassées par les Autrichiens et les Prussiens. Ces derniers encerclent en juillet 1792 et le 25 juillet 1792 le commandant en chef des troupes Autrichiennes (le duc de Brunswick) lance un ultimatum aux parisiens: si la famille royale est violentée Paris sera rasée et massacrée. Cela a pour effet de galvaniser les foules qui prennent le Roi pour un traître.
 
 ## La prise des tuileries du 10 août 1792 (à ajouter sur la frise)
 
+Face aux déroutes militaires, les parisiens sont de plus en plus convaincus que Louis XVI est un traitre. Le 10 août 1792, des sans-culottes et des fédérés s'attaquent au château des Tuileries, résidence du roi. En entrant dans la capitale, les fédérés marseillais entonnent un champ de guerre pour l'armée du Rhin (Rouget de Lisle).  On compte des centaines de victimes. Le roi trouve refuge à l’assemblée. 
+
+## Les massacres de septembre 1792 (2 au 7 septembre 1792 à ajouter sur la frise)
+
+Essentiellement dans les prisons parisiennes. La crainte d’un complot royaliste et la menace des armées étrangères déclenchent dans une frange de la population une folie meurtrière qui fera 1300 morts à Paris. 
+
+## La victoire de Valmy du 20 Septembre 1792 (à ajouter sur la frise)
+
+Remportée par Dumouriez et Kellermann sur l’armée coalisée commandée par le duc de Brunswick. Marque la fin de la royauté car le lendemain les députés décrètent l’abolition de la royauté (21 septembre à ajouter sur la frise). Le 22 septembre la république est proclamée (à ajouter sur la frise). 
+
+- - - -
+
+# La république en échec 1792-1799
+
+Les premières élections au suffrage universel masculin sont organisées pour désigner une nouvelle assemblée: la Convention. 
+
+## Une assemblée divisée
+
+3 partis (749 députés):
+    * Le Marais (sont majoritaires)
+    * Montagnards 
+    * Girondins

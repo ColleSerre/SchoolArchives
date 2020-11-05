@@ -8,23 +8,23 @@ Russia is the second larges oil exporting country in the world which means that 
 
  [next slide] 
 
-Western Siberian region. Siberia, as you know, is very cold in the winter and very hot in the summer and has therefore very few infrastructures, towns and inhabitants. The region started to be industrialized and used for oil production in 1975 during the Brezhnev economical stagnation era, they built 
+Western Siberian region. Siberia, as you know, is very cold in the winter and very hot in the summer and has therefore very few infrastructures, towns and inhabitants. The region started to be industrialised and used for oil production in 1975 during the Brezhnev economical stagnation era, they built 
 
 [next slide]
 
-a pipeline network of 82K kilometers dedicated to crude oil transportation because, as you might expect, transporting goods through Siberia is neither fast nor cost-effective. Many workers were needed to build such a gigantic network so what did the soviet union do ? 
+a pipeline network of 82K km dedicated to crude oil transportation because, as you might expect, transporting goods through Siberia is neither fast nor cost-effective. Many workers were needed to build such a gigantic network so what did the soviet union do ? 
 
 [next slide] 
 
-GULAGS ! Yep they used political prisoners to build parts of this absolutely huge pipeline network, who else would you use to build 80 thousand kilometers of metal tubes in the freezing cold Siberian weather? Fortunately, the USSR fell and with it Russia's oil output 
+GULAGS ! Yep they used political prisoners to build parts of this absolutely huge pipeline network, who else would you use to build 80 thousand km of metal tubes in the freezing cold Siberian weather? Fortunately, the USSR fell and with it Russia's oil output 
 
 [next slide] 
 
-The industry took 8 years to fully recover from this trauma but output drastically increased in 1999 mostly due to the use of new technology and privatization of the sector although it still hasn't beat the soviet union's all time high (11.61 million barrels per day in October 2018 vs a 12.58 million barrels per day peak in 1988). 
+The industry took 8 years to fully recover from this trauma but output drastically increased in 1999 mostly due to the use of new technology and privatisation of the sector although it still hasn't beat the soviet union's all time high (11.61 million barrels per day in October 2018 vs a 12.58 million barrels per day peak in 1988). 
 
 [next slide]
 
-To gather up, the oil industry has been changing rural spaces since the 1970s and has industrialized the western Siberian region for the sake of facilitating transportation and overcoming the challenges that such an unconquered territory brings.
+To gather up, the oil industry has been changing rural spaces since the 1970s and has industrialised the western Siberian region for the sake of facilitating transportation and overcoming the challenges that such an unconquered territory brings.
 
 ## Coal
 
@@ -44,7 +44,7 @@ The sector has significantly changed the rural areas, for example the CIA conduc
 
 [next slide]
 
-A war has also been going on in the Donets (which is very rich in coal) region since April 2014 between pro-Russian separatists, affiliated with the self-proclaimed Donetsk and Luhansk People's Republics and Ukrainian government. This war has been started by Russian citizens as an effort to destabilize the Ukrainian government to take control of the region and its large coal industry. The Russian government is suspected to be behind this. 
+A war has also been going on in the Donets (which is very rich in coal) region since April 2014 between pro-Russian separatists, affiliated with the self-proclaimed Donetsk and Luhansk People's Republics and Ukrainian government. This war has been started by Russian citizens as an effort to destabilise the Ukrainian government to take control of the region and its large coal industry. The Russian government is suspected to be behind this. 
 
 [next slide]
 
