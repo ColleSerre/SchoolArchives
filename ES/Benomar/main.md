@@ -3,8 +3,11 @@
 ### Constantes:
 
 * Vitesse de la lumière dans le vide = 3.0 x $10^8$
+
 * Vitesse du son dans l'air = 340 m/s
+
 * Vitesse du son dans l'eau = 1500 m/s
+
 * Vitesse du son dans les métaux = 5000 m/s
   
   <h4><span style="color: red;">Plus le milieu est condensé, plus le son se propage vite</span></h4>
@@ -117,8 +120,6 @@ Exo 1 p.76:
 
 Remarque: les réactions atomiques sont beaucoup plus puissantes que les réactions chimiques 
 
-
-
 Exo 2 p.76:
 
 1. Au cœur des étoiles, la température est suffisante (environ 15 M de degrés) pour que des protons puissent fusionner.
@@ -126,8 +127,6 @@ Exo 2 p.76:
 2. L'émission de lumière est proportionnelle à la surface de la source. Si la surface double alors m reçoit deux fois plus de lumière (deux fois plus de photons sont émis)
 
 3. Quand la latitude augmente,  la puissance surfacique reçue diminue. (voir p.74)
-
-
 
 Exo 3 p.76:
 
@@ -139,8 +138,6 @@ Exo 3 p.76:
 
 3. 
 
-
-
 Interro compo:
 
 1. De gauche à droite: gamma (rayons y), rayons x, UV, visible, Infrarouge, Micro-ondes, Ondes radio, Ondes radio longues.
@@ -150,20 +147,70 @@ Interro compo:
    Réfraction : Changement de direction de la lumière au passage d'un milieu plus dense.
    Diffusion : Emission de lumière dans toutes les directions
    Dispersion : La décomposition d'une lumière polychromatique (qui a plusieurs radiations) en radiations monochromatiques. Se fait avec un système dispersif (prisme de Newton).
-   
+
 3. $$
    \lambda max \text{ (en m)} \cdot T \text{ (en kalvin)} = 2,898 \cdot 10^-3 \text{ (en m / k)}
    $$
 
 4. $$
    \lambda max1\times T1 = 2,898 \cdot 10^{-3} \\
-   \lambda max = 650nm = 6,5 \times 10^{-7} \\
-   6,5 \times 10^{-7} \times T1 = 2,898\cdot10^{-3} \\
-   \frac{2,898\cdot10^{-3}}{6,5 \times 10^{-7}} = 4, 4584661538\cdot10^{-3} = 4458 \text{ Kalvin} = 4185^{\circ} \\
+\lambda max = 650nm = 6,5 \times 10^{-7} \\
+6,5 \times 10^{-7} \times T1 = 2,898\cdot10^{-3} \\
+\frac{2,898\cdot10^{-3}}{6,5 \times 10^{-7}} = 4, 4584661538\cdot10^{-3} = 4458 \text{ Kalvin} = 4185^{\circ} \\
    $$
 
-5. Loi de Stefan : Puissance surfacique (ps) = Puissance (en W) / Surface (m²)  (cf photo tableau Analyse dimensionnelle)
+5. Loi de Stefan : Puissance surfacique (ps) = Puissance (en W) / Surface (m²)  et T une température en kelvin (cf photo tableau Analyse dimensionnelle)
+   
    $$
    Ps=\sigma \cdot T^4 \\
-   \sigma = 5,67\cdot10^{-8}
+\sigma = 5,67\cdot10^{-8}
    $$
+   
+   8. Loi de Stefan: $Ps=\sigma \cdot T^4$
+   
+   9. PS=sigma x T^4
+      or lambda x T = 2,90 x10^-3, donc T=2,90 x 10^-3/lambda = 2,90x10^3/255x10^-9 = 11372,55L
+
+Questions compo:
+
+1. Représenter sur un axe les domaines connus des ondes électromagnétiques
+
+2. Donner la définition du phénomène de diffusion
+
+3. Enoncer la Loi de Wien
+
+4. Une source lumineuse S1 
+
+Que pouvez vous dire sur la fission nucléaire?
+    La fission = désintégration d'un noyau
+    Un noyau se divise
+    Procédé habituel dans les centrales nucléaires
+    Il existe plusieurs types de désintégrations: 
+
+* Désintégration alpha (éjection d'un noyau d'hélium = particule alpha = ^4 He _2)
+  
+  * On prend de l'uranium 238 (^238 _92U) et qu'on éjecte un atome d'hélium (^4 He _2) on a du Th 234 (^234 Th _90). aux interros/evals on demandera quelle élément est le résultat d'un uranium ayant subi une désintégration alpha (réponse = Th).
+  
+  * Désintégration alpha du plutonium (Pu 239) = 235 ; 92 Uranium.
+
+* Désintégration bêta ()
+
+* Désintégration gamma ()
+
+
+
+Que pouvez vous dire sur la fusion nucléaire?
+
+    Fusion de deux noyaux qui en forment un seul. Beaucoup plus rare en labo, très     technique... 
+    La fusion a lieu dans les étoiles
+    La chaleur et la gravité sont nécessaires
+
+QCM page 88:
+
+- [x] La proportion de la puissance solaire parvenant à la Terre dépend du rayon de la Terre et de la distance Terre-Soleil
+
+- [x] L'albédo correspond à la fraction de la puissance solaire réfléchie vers l'espace
+
+- [x] L'effet de serre dépend de la présence d'une atmosphère
+
+- [x] La température de la Terre est constante du fait d'un équilibre dynamique. Cela signifie que le sol reçoit une puissance moyenne égale à celle qu'il émet

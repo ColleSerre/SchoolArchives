@@ -54,7 +54,6 @@ St-Denis has expanded since the 19th century (Urbanisation ; urban sprawl), high
 |                                                            | Gentrification                                                          |
 |                                                            | More pressure on water resources                                        |
 
-Generating some quick arguments *for* urbanisation:
 
 Crucial points: 
 

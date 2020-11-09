@@ -244,3 +244,8 @@ Les premières élections au suffrage universel masculin sont organisées pour d
     * Le Marais (sont majoritaires)
     * Montagnards 
     * Girondins
+Définitions:
+
+* République: Forme de gouvernement où le chef de l'Etat n'est pas seul à détenir le pouvoir qui n'est pas héréditaire. 
+* Membre de la montagne, un groupe politique de la Révolution française favorable à la République et opposé aux Girondins. Se moment les montagnards car ils siègent en haut de l'Assemblée mais aussi car ils se distinguent de la Plaine, les députés les plus discrets. Menés par Robespierre, Danton, Saint-Just, Marat
+* Membres de la Gironde, ils sont opposés aux Montagnards, sont issus de la bourgeoisie aisée, craignent un retour à l'Ancien Régime et les insurrections populaires, y figurent Condorcet, Barbaroux, Roland de la Platière, Pache, Louvet. 
