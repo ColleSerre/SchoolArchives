@@ -14,7 +14,7 @@ A commentary only is about the text, an essay is about a larger question.
 * Wrote *The Crucible*, an allegorical play in which he likened the situation with the House of Un-American Activities Committee to the witch-hunt in Salem
 * Wrote *Death of a Salesman*, which was viewed as an attack on the American Dream if achieving wealth and success without regard for principle
 
-### Terms:
+### Themes:
 **Capitalism**: When private companies control a countries production
 **The American Dream**: A set of ideals in which freedom includes the opportunity for prosperity and success and an upward social mobility achieved through hard work.
 
@@ -23,7 +23,7 @@ During the postwar boom of 1948, most Americans were optimistic about a renewed 
 
 ## Characters:
 
-### Willy Loneman 
+### Willy Loman 
 * His mind wonders, he has hallucinations
 * He's nostalgic, wants his old life back (it all went south when Biff flunked math)
 * A flute music plays when Willy thinks and talks to Ben (makes him think of his father). He talks to Ben when he feels alone
@@ -63,12 +63,11 @@ During the postwar boom of 1948, most Americans were optimistic about a renewed 
 * Pride (like Medea)
 * Visions of America
 * Dreams, Hopes and plans
-* Illusions vs reality (that success is quantifiable, that they are happy and that success is pending, that Biff's resentment isn't linked to his 
+* Illusions vs reality (the illusion that success is quantifiable, that they are happy (in the hallucinations) and that success is pending, that Biff's resentment isn't linked to his 
 * Lies and deceit
-* Success
+* Success (failed as an employee, father, husband and as an American (failed the American Dream))
 * Respect and Reputation
 * Appearances
-* Pride
 * Abandonment
 * Freedom and confinement
 * Betrayal (Willy's affair, Willy being fired after years of loyalty, Willy's suicide)
@@ -77,5 +76,5 @@ During the postwar boom of 1948, most Americans were optimistic about a renewed 
 
 * Seeds (Willy's final attempt to raise something well, couldn't raise his boys without his own father, couldn't raise his crops without sunlight)
 * Flute
-* Stockings (During WW2, stockings were rare -> something he can't get for his wife)
+* Stockings (During WW2, stockings were rare, therefore, something he can't get for his wife)
 * Distant lands (ben asks him to go to Alaska and finds success in Africa -> Ben = what Willy aspired to ; Biff dreams of owning a ranch)
