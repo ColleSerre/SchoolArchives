@@ -6,7 +6,7 @@
 Protagonist of the play, is from Colchis which was considered a territory of barbarians. A sorceress and a princess, she used her powers to help Jason secure the Golden Fleece and fell in love with him. She fled her country and family, killed her brother and father for him. Jason and Medea were both exiled as murderers so they settled in Corinth. She has two children and is well known in the city. She kills her kids and flies off on a golden chariot. She also kills the king of Corinth (father of Jason's bride) and Jason's bride (Glauce).
 
 ### Jason
-Can be considered the villain, former adventurer, abandoned Medea (his wife) to marry Glauce. He married Glauce to further his status in the city of Corinth. This fuelled Medea's revenge. Jason is tactless and only serves his interests and fails to rationalise his actions which makes him a weak and unsympathetic character.
+Can be considered the villain, former adventurer, abandoned Medea (his wife) to marry Glauce. He married Glauce to further his status in xthe city of Corinth. This fuelled Medea's revenge. Jason is tactless and only serves his interests and fails to rationalise his actions which makes him a weak and unsympathetic character.
 
 ### Children
 Used by Medea to give a poisoned dress and cursed coronet to Glauce. Their death is the greatest element of pathos in the play.
