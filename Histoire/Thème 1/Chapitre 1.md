@@ -241,9 +241,11 @@ Les premières élections au suffrage universel masculin sont organisées pour d
 ## Une assemblée divisée
 
 3 partis (749 députés):
-    * Le Marais (sont majoritaires)
-    * Montagnards 
-    * Girondins
+
+* Le Marais (sont majoritaires)
+* Montagnards 
+* Girondins
+
 Définitions:
 
 * République: Forme de gouvernement où le chef de l'Etat n'est pas seul à détenir le pouvoir qui n'est pas héréditaire. 

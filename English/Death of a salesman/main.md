@@ -47,7 +47,7 @@ During the postwar boom of 1948, most Americans were optimistic about a renewed 
 * Used to be successful with women but has lost his confidence
 * Has returned home to find a job in the city
 * Knows Willy is anxious about him not being settled down
-* Doesn't go well with Biff, they both lose their temper fast
+* Doesn't go well with Willy, they both lose their temper fast
 * Thinks a man should spend his life in the outdoors
 * Resents Willy, but it is unclear until the end of the play
 
@@ -55,7 +55,7 @@ During the postwar boom of 1948, most Americans were optimistic about a renewed 
 * Happy is one of the most unhappy characters in the play ("are you happy? - Hell no!") -> ironic
 * Works in a store but feels like he could do better
 * Suspects that, like his boss, he'll never be able to be happy in a new house/will always be longing for something else to buy (things it takes more than materialistic goods to be happy in life)
-* Very close with Biff (their brothers)
+* Very close with Biff (they're brothers)
 * Is also in an emotional turmoil because he's still lonely despite all of his possessions and women. 
 
 ## Themes
