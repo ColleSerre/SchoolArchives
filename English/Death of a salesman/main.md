@@ -2,10 +2,6 @@
 
 - - - -
 
-## Difference between essay and commentary
-
-A commentary only is about the text, an essay is about a larger question. 
-
 ## Background/Introduction to Death of a Salesman - By Arthur Miller ([Powerpoint presentation](https://drive.google.com/file/d/1ZorcoqKVx-NkqHyllmcbU-g9nT-xdfYu/view))
 * 1915-2005
 * Published his first play while he was in college
@@ -78,3 +74,22 @@ During the postwar boom of 1948, most Americans were optimistic about a renewed 
 * Flute
 * Stockings (During WW2, stockings were rare, therefore, something he can't get for his wife)
 * Distant lands (ben asks him to go to Alaska and finds success in Africa -> Ben = what Willy aspired to ; Biff dreams of owning a ranch)
+
+## Act Two Questions
+
+1. Oliver's office to ask for financial support. He used to work for Oliver. Willy thinks Oliver likes Biff but Biff isn't sure as he stole from Oliver. ("I just wonder if Oliver remembers him. (LINDA) Are you crazy, if he'd stayed with Oliver he'd be on top right now (WILLY)")
+2. Getting a job in the New York instead of the road
+3. He got fired and patronised by Howard
+4. You can't use a man for years and discard him when he's too old to be used
+5. The boys aren't that great, one is struggling to find his place in life and the other is bored in his job
+6. He was settling in with Lydia who persuaded him to stay. Unfortunately, he faked having a job to Linda which put them in debt.
+7. Billy doesn't have a career plan and is in debt
+8. Willy goes to the restaurant to meet his kids
+9. Willy asks Bernard what's his secret and why Biff never caught on / failed in school.
+10. Bernard says that Willy convinced Biff of not going to summer school to catch up on his flunked math despite Biff wanting to go desperately.
+11. Willy has always looked down on Charley because he is an entrepreneur and isn't in a big firm. He also has too much pride to work for Charley as he has always despised him. If he'd worked for Charley, it would've meant that he'd been a complete failure. 
+33. Wily kills himself after seeing Ben. He dies in his car in a frenzy of sound which ends with a death march.
+34. The car symbolises his job as a salesman and it is the object that kept him far of his family. The story starts with a car crash and ends with one.
+35. Biff realises that he was right and that Willy shouldn't have been chasing for the American dream of to be well like but instead, he should've swallowed his pride and taken the opportunities others gave him.
+36. Biff and Happy seem to be on bad terms due to Biff criticising Willy after his death ("He never knew who he was"). 
+37. Lydia ultimately puts Willy first and says that they are free and clear of all debts and of Willy's issues. She can't cry as she feels like he's still here with her. 

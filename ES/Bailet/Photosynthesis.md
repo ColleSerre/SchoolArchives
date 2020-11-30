@@ -44,4 +44,4 @@ Very little glucose is produced
 Losses: reflection/transmission ; conversion to heat/wrong wavelength (red+blue only)
 Limitations: water/CO2/Nutrients
 loses in biomass between trophic levels -> respiration uses glucose ; Biomass stored in trunks/bones and other inedible parts ; 90% lost between each trophic level
-Fossil fuels: forms over millions of years ; need pressure/heat ; determines amount of C  -> determines state (coal/petrol/natural gas)
+Fossil fuels: forms over millions of years ; need pressure/heat ; amount of C  -> determines state (coal/petrol/natural gas)

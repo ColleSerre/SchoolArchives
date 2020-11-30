@@ -12,7 +12,7 @@
 ### Le Romantisme
 
 * **19ème siècle**
-* Une jeunesse qui souffre de ce que **Musset** appel le *Mal du Siècle*, sentiment d'ennui, de malaise, d'insatisfaction et qui se **réfugie** dans la solitude, le passé et le fantastique.
+* **Une jeunesse qui souffre de ce que Musset appel le *Mal du Siècle*, sentiment d'ennui, de malaise, d'insatisfaction et qui se réfugie dans la solitude, le passé et le fantastique.**
 * Volonté de s'affranchir des règles artistiques
 * Lyrisme (sentiments) et élégie (temps qui passe)
 * *Topoï* principaux (la plupart retrouvent cette idée d'envie de fuir):
@@ -38,3 +38,40 @@
 * Redonner son caractère sacré à la poésie; s'adresse à un public restreint: l'élite aristocratique.
 * **Ne pas donner un caractère politique aux oeuvre, elles n'ont qu'a être belles** -> Culte du beau.
 
+# Oral Blanc de Français [Drive](https://drive.google.com/drive/u/0/folders/0AEG5TY4D9UzFUk9PVA) [Méthodologie](https://drive.google.com/drive/u/0/folders/13xCvTo3_dfB_vY14tOCUjAkDSfJIwM85) 
+
+Poèmes:
+
+Partie 1 - Explication linéaire [France Culture Podcast](https://www.franceculture.fr/emissions/ecoutez-revisez):
+
+**Ne pas oublier de lire le texte**
+Présenter l'auteur, son courant, son époque (cela contribue à être à propos durant l'explication)
+
+* Le lac
+* Une charogne 
+* Dans bien longtemps
+* **Elle était déchaussée** [Explication linéaire](https://docs.google.com/document/d/1APyfWHMrd8VTRAbrr0EG_apIeEFlKFeM-96G2RMaANk/edit)
+* **Melancholia** 
+* Demain, dès l'aube 
+
+Partie 2 - Grammaire:
+
+Partie 3 - Lecture **personnelle** (6-7 min) [Compétences du lecteur](https://docs.google.com/document/d/175FEfCFWkUTsl14W7f78ShIGcPXVAIx6qfASw-F_KH0/edit):
+
+Apporter le livre
+
+NE PAS RÉSUMER mais présenter
+
+Expliquer le texte, pourquoi on l'a choisi, ce qui a plu, ce qui a semblé important. Lier œuvre à une autre (d'autres mediums) être d'autres parcours.
+
+* Les Contemplations
+* **Paroles** [Podcast France Culture](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-14-avril-2017)
+
+Point d'entrée possibles:
+* une question (problématique)
+* une autre oeuvre
+* le titre de l'oeuvre
+
+## Grammaire
+
+Expansions du nom: PSR (proposition subordonnée relative), adjectifs qualificatifs, groupe nominal prépositionnel (fonction complément du nom, introduit par une préposition)

@@ -10,8 +10,8 @@
 "**Bien parler**": réussir à produire les effets de l'éloquence
 **Rhétorique**: technique qui vise à produire des discours éloquents
 **Isocrate**: par la parole nous avons fixé des lois, bâti des villes, posé des limites pour la justice, le Bien, la Vertu
-**Isocrate**: il faut s'entraîner, se dépasser, ne pas être surpass
-**Cicéron**: le pouvoir de la parole est au service du droit; llabeauté de la parole raassemble les Hommes
+**Isocrate**: il faut s'entraîner, se dépasser, ne pas être surpassé
+**Cicéron**: le pouvoir de la parole est au service du droit; la beauté de la parole rassemble les Hommes
 **Cicéron**: il faut la **technique** (*trouver, ranger, embellir, apprendre, dire avec grâce*) mais il est **impossible de maîtriser toutes les techniques** (*le maître n'est que guide*); il faut un **talent oratoire personnel**
 En argumentation, l'angle d'attaque et la grâce prévalent sur les arguments. 
 On ne peut pas tout maîtriser ni implémenter tous les procédés appris c'est pourquoi il faut d'appuyer sur un talent personel. (Cicéron)

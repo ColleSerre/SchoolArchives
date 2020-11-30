@@ -73,15 +73,13 @@ R + V = Jaune
 R + B = Magenta
 V + B = Cyan
 
-<img title="" src="file:///C:/Users/ddpal/Desktop/SchoolArchives/ES/Benomar/unnamed.jpg" alt="">
+<img title="" src="unnamed.jpg" alt="">
 
 Sur le graphique on constate un décollage du $\lambda$max. La surface sous la plus grande courbe augmente et est proportionnelle à l'intensité lumineuse.
 
 ## Loi de Wien:
 
-$$
-\lambda max \text{ (en m)} \cdot T \text{ (en kalvin)} = 2,898 \cdot 10^-3 \text{ (en m / k)}
-$$
+$$ \lambda max \text{ (en m)} \cdot T \text{ (en kalvin)} = 2,898 \cdot 10^-3 \text{ (en m / k)} $$
 
 Définition à apprendre:
 La température est un moyen de mesurer la vitesse des atomes.
@@ -214,3 +212,9 @@ QCM page 88:
 - [x] L'effet de serre dépend de la présence d'une atmosphère
 
 - [x] La température de la Terre est constante du fait d'un équilibre dynamique. Cela signifie que le sol reçoit une puissance moyenne égale à celle qu'il émet
+
+## Comprendre que la Terre est sphérique
+
+1. Montrer qu'au cours de l'histoire, il a été possible de construire une représentation correcte de la forme de la Terre à partir d'arguments qui ne le sont pas.
+	* Les interprétations antiques ne sont pas des preuves directes de la forme de la terre
+	* 0/260 = d/2*pi*r = 6300

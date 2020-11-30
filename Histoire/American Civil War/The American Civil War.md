@@ -9,8 +9,8 @@ Still a source of controversy
 Richmond was the capital of the Confederate states
 Robert E. Lee: General for the Confederacy; his statue was removed by Florida but this was protested.
 The Charlottesville riots, white suprematists protested against the removal of the statue. Anti-fa protesters protested against these demonstrations. This led to the Charlottesville car attack. 
-Northern states: Union - blue uniforms - supported by the government
-Southern states: Confederacy - grey uniforms - supported by some states
+Northern states: Union (blue uniforms) supported by the government
+Southern states: Confederacy (grey uniforms) supported by some states
 
 ## Causes
 
@@ -66,7 +66,7 @@ Doctrine which stated that westward expansion of the United-States was inevitabl
 
 ## Uncle Tom's Cabin
 
-Antislavery novel. Depicted the life of a black slave and his interactions with his masters. It quickly became a best seller. It increased opposition to slavery in the North. Didn't have much impact on South, they saw it as propaganda from the North and banned the book.
+Antislavery novel. Depicted the life of a black slave and his interactions with his masters. It quickly became a best seller. It increased opposition to slavery in the North. Didn't have much impact on the South, they saw it as propaganda from the North and banned the book.
 
 ## Dred Scott vs. Sandford (1857)
 
@@ -80,3 +80,6 @@ The underground railway: a network of safe-houses for fugitive slaves. Harriet T
 
 It led to the secession of southern states (the southern states left the union) because he was anti-slavery on a personal level but as a president he was scared to change the state of slavery in the union as it was a very touchy subject. He was elected without the support of the southern states which made him illegitimate for the South. 
 
+# Compo Correction
+
+Analyse the question to determine the essay plan -> "to what extent was slavery responsible for the American Civil War?". To what extent = don't do a dialectic plan (yes/no) but a thematic plan (explain the factors).
