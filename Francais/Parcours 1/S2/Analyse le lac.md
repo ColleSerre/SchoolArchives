@@ -1,4 +1,4 @@
-﻿# Explication linéaire Le Lac
+# Explication linéaire Le Lac
 
 ### Infos sur le texte:
 
@@ -76,6 +76,7 @@ On peut distinguer trois grandes étapes dans ce poème : Une description de la 
 <span style="color: blue;">I - La puissance du lac</span>
 
 <span style="color: red;">A - Lamartine comme subordonné du lac (vers 1, 5)</span>
+
 Dès le premiers vers du poème on constate que Lamartine n'est pas en pleine possession de sa personne dans "Ainsi, toujours poussés vers de nouveaux rivages". Ici le poète n'est maître de la direction que prend sa vie, ce rôle appartenant au lac. De plus, Lamartine implore le lac au vers 5 avec l'apostrophe Ô qui place encore une fois Lamartine comme dépendant de la volonté du lac. La personnification du lac et l'impuissance de Lamartine resteront fondamentaux tout du long du texte.
 
 <span style="color: red;">B - L'indifférence du lac (vers 11, 13)</span>
@@ -103,3 +104,62 @@ Le poème peut être divisé en deux parties, certes grossières mais justes. Pa
 Ce lien est construit tout au long du texte en grande partie grâce au développement clair des caractéristiques communes du temps et du lac. Néanmoins, la construction du poème ainsi que la relation entre Lamartine et Elvire nous pose l'équation suivante: Si Lamartine implore le lac, Elvire le temps et que ces premiers sont liés alors ces seconds le sont aussi. Le lien est définitivement confirmé au vers 34 ("L'homme n'a point de port, le temps n'a point de rive") avec l'utilisation du champ lexical du nautique qui rapporte évidemment au lac. Le lien est finalement renforcé au dernier vers avec "[le temps] coule, et nous passons" avec d'avantage d'utilisations du même champ lexical du nautique. 
 
 Pour conclure, Lamartine émet une brillante réflexion sur les similarités entre la constance et la puissance du lac et celle du temps, des deux il est victime. Il créé un lien fort entre le lac et le temps grâce à la construction du poème et au contexte dans lequel il écrit celui ci. Il couche aussi une pensée originale sur la nature du temps en le décrivant comme suivant simplement sa condition, comme nous. 
+
+
+## Résumé
+
+I. La puissance du lac
+
+A (1 à 11) 
+
+* Lamartine n'est pas en pleine possession de lui même et de sa destinée: "Ainsi, toujours poussés vers de nouveaux rivages". 
+* Lamartine est subordonné au lac: apostrophe "Ô" qui dénote la supériorité du lac. Cette infériorité reste durant tout le poème.
+
+B (11 à 13)
+
+* 2 choses qui essayent de déranger le lac. 
+* “Ainsi le vent jetait l'écume de tes ondes”. ce verbe a une connotation violente
+* “Que le bruit des rameurs qui frappaient en cadence Tes flots harmonieux” frapper est violent ce qui contraste avec harmonieux.
+* Dans ces deux exemples le lac est peint comme étant indifférent et constant face à l'agitation des éléments et des hommes et par extension à celle du poète.
+
+II. La puissance du temps 
+
+A - Elvire comme subordonnée du temps (vers 21, 24, 28, 29, 30)
+
+* Elvire implore le temps tout comme Alphonse implore le lac. 
+* Elvire apostrophe le temps avec Ô dans “Ô temps! Suspend ton vol”
+* (vers 29) elle “demande” au temps de de lui donner “quelques moments encore”. L'emploi du verbe demander sous-entend un lien de subordination. 
+* On peut tout de même noter une différence entre la complainte d'Elvire et celle de Lamartine: Elvire tente de rattraper le temps, sans succès alors que Lamartine se contente de l'implorer. Au vers 30 Elvire poursuit le temps qui est plus rapide qu'elle et lui “échappe et fuit”.
+
+B - Le temps cruel? (vers 34)
+
+* on pourrait penser que celui est cruel et, part sa personnification, l'est par volonté. 
+* Or, au vers 34, Elvire dit “L'homme n'a point de port, le temps n'a pas de rive”. Pourquoi créer cette égalité après avoir placé l'homme en dessous du temps hiérarchiquement? 
+* Le temps ne fait que ce que sa nature lui impose. Tout comme l'homme. 
+* Champ lexical nautique utilisé à l'hémistiche avec "port" et à la rime 
+* Coupure à l'hémistiche et un parallélisme qui soulignent l'égalité de la condition des deux -> Représenter le temps et l'homme comme victimes de leurs conditions respectives.
+* Pitié du temps qui est représenté comme Sisyphe bloqué dans une tache qui est devenue sa nature.
+
+III - Le lac, analogie du temps
+
+A - Similarités
+
+* Le poème peut être divisé en deux parties 
+	* Partie 1: Alphonse et le lac 
+	* Partie 2: Elvire et le temps. 
+* Les deux décrivent un lac puissant et l'ont imploré
+* Décris en utilisant le champ lexical de l'eau ce qui est naturel pour le lac mais inhabituel pour le temps.
+* Symboles d'infaillibilité à travers le poème 
+* Entités transcendant l'homme et son passage sur terre. 
+* **On peut donc constater que non seulement les similarités entre le lac et le temps sont nombreuses mais aussi que Lamartine part d'une expérience personnelle pour s'exprimer sur une expérience universelle: La mort et son inéducabilité.
+**
+
+B - Affirmation du lien (vers 34, 35)
+
+* Ce lien est construit tout au long du texte par le développement clair des caractéristiques communes du temps et du lac. 
+* La construction du poème et relation entre Lamartine et Elvire nous posent l'équation suivante: **Si Lamartine implore le lac, Elvire le temps et que ces premiers sont liés alors ces seconds le sont aussi.** 
+* Confirmé au vers 34 (“L'homme n'a point de port, le temps n'a point de rive”)
+* Utilisation du champ lexical du nautique 
+* Le lien est finalement ancré au dernier vers avec “[le temps] coule, et nous passons” avec encore une coupure à l'hémistiche sur le champ lexical nautique
+
+Pour conclure, Lamartine émet une réflexion sur les similarités entre la constance et la puissance du lac et celle du temps, des deux il est victime. Il créé un lien fort entre le lac et le temps grâce à la construction du poème et au contexte dans lequel il écrit celui ci. Il couche aussi une pensée novatrice sur la nature du temps en le décrivant comme suivant simplement sa condition, comme nous.

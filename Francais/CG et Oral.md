@@ -47,12 +47,12 @@ Partie 1 - Explication linéaire [France Culture Podcast](https://www.francecult
 **Ne pas oublier de lire le texte**
 Présenter l'auteur, son courant, son époque (cela contribue à être à propos durant l'explication)
 
-* Le lac
-* Une charogne 
-* Dans bien longtemps
-* **Elle était déchaussée** [Explication linéaire](https://docs.google.com/document/d/1APyfWHMrd8VTRAbrr0EG_apIeEFlKFeM-96G2RMaANk/edit)
-* **Melancholia** 
-* Demain, dès l'aube 
+* Le lac [Explication linéaire](/Users/darenpalmer/Desktop/SchoolArchives/Francais/Parcours 1/S2/Analyse le lac.md) ✅  
+* Une charogne [explication linéaire](/Users/darenpalmer/Desktop/SchoolArchives/Francais/Parcours 1/S3/analyse une charogne.md) ❌
+* Dans bien longtemps [Explication linéaire](/Users/darenpalmer/Desktop/SchoolArchives/Francais/Parcours 1/S4/Analyse dans bien longtemps.docx) ❌
+* **Elle était déchaussée** [Explication linéaire](https://docs.google.com/document/d/1APyfWHMrd8VTRAbrr0EG_apIeEFlKFeM-96G2RMaANk/edit) ❌
+* **Melancholia** [Explication linéaire](https://drive.google.com/drive/u/0/search?q=M%C3%89LANCHOLIA) ❌
+* Demain, dès l'aube ❌
 
 Partie 2 - Grammaire:
 

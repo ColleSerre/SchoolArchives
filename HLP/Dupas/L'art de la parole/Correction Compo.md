@@ -1,6 +1,8 @@
 # Compositions Groupées
 ---
 
+**RETENIR QUE LA HLP NE DEMANDE PAS NOTRE OPINION MAIS DE LA BÂTIR SUR DES ARGUMENTS D'AUTORITÉ.**
+
 * CARNET DE LECTURE
 * Travail en amont (sinon c'est vide)
 * Sujet: faut-il se méfier de l'homme qui a un talent oratoire formidable?
@@ -14,3 +16,5 @@
 * STRUCTURE FONDAMENTALE: DEUX PARAGRAPHES (oui et non) puis EXPLOITER BEAUCOUP D'EXEMPLES DE COURS (littérature et philosophie)
 * Dans chaque paragraphe, inclure un **maximum d'exemples de cours** en veillant à ne pas trop les développer puis les lier entre eux (Cicéron "je me bat pour ceux qui ne peuvent pas" -> Victor Hugo (les caves de Lille).
 * Ne pas proposer une vision personnelle PRIVILÉGIER LES ARGUMENTS D'AUTORITÉ
+
+
