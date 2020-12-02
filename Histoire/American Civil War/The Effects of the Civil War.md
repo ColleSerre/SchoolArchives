@@ -43,3 +43,13 @@ Came with the 15th amendment that gave blacks the right to vote and political po
 ### Plessy v Ferguson 1892
 
 This made segregation legal & constitutional. Homer Plessy was jailed for sitting in the "White" car of the East Louisiana Railroad. Argued the 14th Amendment had been violated. 
+
+### Jim Crow laws (see [3ème documents](https://docs.google.com/document/d/1nc3PRW92M2lRcarad2j15Nm3Ab-QHIrLJlUYNasjNwQ/edit)
+
+Interracial marriage was forbidden (link to Nuremberg laws of Nazis ?)
+
+Lynching was common in the South (hanging black people by a mob if suspected of committing a crime, **no justice involved**)
+
+## OPLV analysis
+
+Origins, Purpose, Limitations, Value

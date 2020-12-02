@@ -12,7 +12,7 @@ Comment l'autorité s'acquiert-elle ?
 * Maîtrise de l'art oratoire ? 
 * Respect != Autorité (Le plus fort nʼest jamais assez fort pour être toujours le maître, sʼil ne transforme sa force en droit & lʼobéissance en devoir. - JJR)
 * L'apparence (la robe de l'avocat comme **symbole** de son autorité, faire 2m au lieu de 1, parler avec une voix grave plutôt qu'aiguë)
-* Lieu ?
+* Lieu où l'on s'exprime?
 * Il faut donc **confiance et passion**
 
 Faut-il faire preuve de force ?
@@ -47,3 +47,16 @@ Selon Barbara Cassin, un discours peut faire changer la nomenclature des choses,
 Cependant, un discours peut-être utile sans être gagnant. Badinter utilisera dans son réquisitoire les discours de Victor Hugo pour plaider l'abolition de la peine de mort.
 
 Barbara Cassin propose que "parler de" et "parler à" sont deux choses différentes car la persuasion et la recherche de la vérité sont dissociée. 
+
+
+## Citations et notions clés
+
+1. "L'autorité ne doit jamais être prise sans examen ni discernement" (L'importance de la méthode)
+2. "Assurons nous bien du fait avant de nous inquiéter de la cause." (Histoire des oracles - Bernard de Fontenelle)
+3. N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling
+4. "Je n'ai écrit que ce dont j'avais été témoin" - Thucydide 
+4. Il ne faut lancer contre son adversaire des bruits infondés car il est, comme quiconque, un hôte de l'esprit - **nom à compléter**
+5. Tout orateur a deux génies, le sien et celui du siècle qui l'écoute - Lacordaire 
+6. Prend la parole dans deux circonstances: quand il s'agit de choses que tu sais parfaitement, ou quand la nécessité l'exige - Isocrate
+7. "Apercevoir une difficulté et s'étonner, c'est reconnaitre sa propre ignorance" - Aristote
+8. Fonction phatique de la parole: la parole qui ne sert qu'à l'interaction sociale.
