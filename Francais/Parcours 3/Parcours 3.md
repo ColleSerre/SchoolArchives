@@ -26,4 +26,8 @@ Femme en trois parties:
 
 1. Jeune à la cour puis une jeune mariée
 2. Femme mariée et la découverte de l'amour et l'apparition d'un triangle amoureux qui met en péril la vertu de la jeunesse
-3. Femme mûre qui a su respecter sa vertu malgré les tentations. 
+3. Femme mûre qui a su respecter sa vertu malgré les tentations.
+
+## Séance de lecture
+
+La passage (texte 1) se présente comme étant entouré l'opinion de Mme de Chartres de la cour. Elle conçoit les différents dangers de la cour, ils sont exposés au lecteur et à sa fille ("Ainsi il y avait une sorte d'agitation dans cette cour qui pouvait être très dangereuse pour une jeune personne. Madame de Chartres oyait ce péril, et ne songeait qu'aux moyens d'en garantir sa fille". Une bascule opère entre la description Mme de Chartres en retrait à la ligne 6 avec la généralisation du propos dans "On songeait à s'élever". On a donc d'une part les inquiétudes de Mme de Chartres et au centre la description de la cour et de ses dangers. La cour est présentée comme étant ambitieuse et galante, vont se mêler deux aspects: une lutte d'intérêts et un conflit de sentiments, L'Histoire (les intérêts politiques, les alliances, les intérêts, les ambitions) et l'histoire (les êtres humains, les sentiments). **La lutte entre l'intérêt commun et l'intérêt individuel**.  

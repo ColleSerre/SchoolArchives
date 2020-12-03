@@ -1,4 +1,4 @@
-# Carnet de Lecteur [Carnet de lecteur Victor](https://docs.google.com/document/d/1Hb05TOM-bxX6xufFjwyJV_j5fpjroV9E_mtFUfdTq5o/edit?usp=sharing_eip&ts=5fc60d23)
+# Carnet de Lecteur - [Carnet de lecteur Victor](https://docs.google.com/document/d/1Hb05TOM-bxX6xufFjwyJV_j5fpjroV9E_mtFUfdTq5o/edit?usp=sharing_eip&ts=5fc60d23)
 ---
 
 # Répertoire des notions
@@ -13,7 +13,10 @@ Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a for
 
 ## La Foule
 
-Selon Gustave Le Bon dans *Psychologie des foules*: "Les seuls changements importants s'opèrent dans les opinions, les conceptions, les croyances.
+Selon Gustave Le Bon dans *Psychologie des foules*: 
+
+* "Les seuls changements importants s'opèrent dans les opinions, les conceptions, les croyances."
+* "L'action des foules est l'unique force que rien ne menace et dont prestige grandisse toujours."
 
 ## L'orateur (à compléter)
 
@@ -24,25 +27,48 @@ Selon Cicéron: il faut la **technique** (trouver, ranger, embellir, apprendre, 
 Selon Isocrate: il faut s'entraîner, se dépasser, ne pas être surpassé
 "nous nous sommes débarrassés de la vie sauvage, nous nous sommes réunis pour construire des villes; nous avons fixé des lois; nous avons découvert des arts; et, presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin." - Isocrate 
 
+## Les séductions de la parole [pdf](https://vs.ecolejeanninemanuel.net/FichiersExternes/f8fbba46e80d1a7f4cd6af3d2b91db8f4cda80fc3cbbfd9ce0826e8a1b53894c672a66eb845cc4d7330a7d5f08990b61/Cours%201%C3%A8re%20Humanit%C3%A9s%20Litt%C3%A9rature%20et%20Philosophie%20-%20La%20parole%20peut-elle%20induire%20en%20erreur%20(Les%20s%C3%A9ductions%20de%20la%20parole).pdf?Session=4422745)
+
+Du latin poesis (« poésie, art poétique, œuvre poétique »), lui-même issu du grec ancien ποίησις, poíêsis (« action de faire, création »).
+
+Il est tellement important de plaire en matière de parole, de discours et de rhétorique, que tout discours devient discours amoureux. Au début de chaque prise de parole, en exorde de chaque discours, un orateur cherche ainsi à capter, non pas seulement l’attention, mais aussi la bienveillance de l’auditoire (captatio benevolentiae).
+
+La nature est la plus belle des choses, il faut donc imiter la nature jusqu'à la tromper pour faire du beau. *Les raisins* de Zeuxis était célèbre chez les grecs pour imiter si bien les raisins que les oiseaux, rapporte Hérodote, tentaient de s'y poser. Même les temples grecs imitaient la nature: l'espacement des piliers correspond au nombre d'or. Les Pythagoriciens (créateur du terme de philosophe), qui avaient étudié le nombre d'or et ses occurrences, pensaient que toutes les belles choses étaient belles grâce à ce nombre d'or. 
+
+**L'art est un humble hommage à la nature dont il reconnaît la supériorité plutôt qu'une tentative de maîtrise**
+
+Platon imagine une Cité idéale basée sur la vérité où il n'y aurait aucun artiste car, pour lui, ce sont des imitateurs et donc des simulateurs. Il exprime cela dans *La République*:
+
+ "Qu'est-ce que l'imitation (595c)? Pour répondre à cette question, Platon pose la question préalable : Qui fabrique l'objet (596b)? Tout dépend quel genre d'objet.
+- la forme du lit est créée par Dieu (596c). Lui seul produit le lit naturel, dans sa vérité, la réalité du lit comme chose, sa perfection. Il ne produit qu'un seul lit, celui dont l'essence est d'être lit et qui a une existence naturelle.
+
+- les lits sont fabriqués par des ouvriers spécialisés (les menuisiers). Comme les autres artisans (par exemple les cordonniers), ils ne produisent pas la forme du lit, mais un certain lit (597a), ou de multiples lits.
+
+- l'image du lit peut être faite par n'importe quelle personne utilisant un miroir, par exemple un peintre (596e). Mais il ne produit rien, il est seulement l'imitateur de ce que les autres ont fait (597e), comme le faiseur de tragédies ou le poète. Ce qu'il imite n'est même pas l'essence du lit, mais l'ouvrage des professionnels (598a), et il n'en imite même pas la réalité, mais seulement l'apparence, et n'en atteint que le simulacre. Il n'entend rien à leur métier, et n'est qu'un faiseur d'illusions (598c), un sorcier.
+
+Il y a donc trois sortes de lits, mais aussi trois sortes d'art."
+
 ## L'autorité de la parole
 
 Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait pousser 
 
-1. Thucydide - *La Guerre du Péloponnèse*: il n'aborde que les faits qu'il a lui même vu. L'histoire peut-être déformée par le temps ou par les opinions. **C'est dans sa rigueur intellectuelle que sa parole trouve son autorité.**
+1. Thucydide (4ème siècle av-JC) pense qu'au lieu de styliser son texte, il faut tendre vers la véracité qu'il faut distinguer de la vérité. C'est cela qui fait son autorité. Il n'aborde que les faits qu'il a lui même vu. L'histoire peut-être déformée par le temps ou par les opinions. **C'est dans sa rigueur intellectuelle que sa parole trouve son autorité.** (*la Guerre du Péloponnèse*)
 
 	**"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
 
-2. Socrate - *Théétète*: Se compare a une sage-femme car il accouche les esprits et fait naître la vérité grâce au dialogue. Sa parole fait autorité car il n'affirme rien mais se réfute ce qui ne tend pas vers la véracité. **Le dialogue est donc une sorte de tamis.**
+2. Socrate - *Théétète*: Compare sa maïeutique à une sage-femme car il accouche les esprits et fait naître la vérité grâce au dialogue. Sa parole fait autorité car il n'affirme rien mais se réfute ce qui ne tend pas vers la véracité. **Le dialogue est donc une sorte de tamis.** La parole philosophique est aussi décrite comme libre en opposition à la parole de l'orateur ou de l'avocat qui sert soit la cause de l'orateur, soit la justice. La philosophie ne sert donc à rien mais c'est cela qui la rend belle et unique. Les philosophes antiques étaient riches et oisifs, pour eux l'utilité était la servitude (comme celle des esclaves), la philosophie ne sert aucun, elle ne sert donc à rien.
+
+	**"Les hommes élevés dans les tribunaux, comparés à ceux qui ont étés nourris dans la philosophie, sont comme des esclaves vis-à-vis d'hommes libres"** (*Théétète* - Platon)
 
 	**"Confie-toi à moi comme au fils d'une accoucheuse, qui est accoucheur lui aussi."** (*Théétète* - Platon)
 
 	**"Il ne m'est permis en aucune manière ni d'acquiescer à ce qui faux ni de cacher ce qui est vrai.** (*Théétète* - Platon)
 
-3. Bernard Le Bouyer de Fontenelle - La véracité des faits doivent être établie, en mettant de coté les croyances, pour pouvoir trouver une réponse elle aussi juste. Se sert de l'anecdote de la dent d'or pour appuyer son propos dans laquelle tous subissent le **biais de confirmation qui les mènent à voir une vision erronée**. Tout comme Thucydide, il pense qu'il faut faire preuve de rigueur intellectuelle et non d'opinion à l'approche d'un fait. Il aurais pu être utile que chacun des oracles ait un homme comme Socrate pour remettre en cause leur vision. 
+3. Bernard Le Bouyer de Fontenelle - Cet auteur nous rappel de vérifier la source, de vérifier les faits avant toute extrapolation, avant toute supputation. La véracité des faits doivent être établie, en mettant de coté les croyances, pour pouvoir trouver une réponse elle aussi juste. Se sert de l'anecdote de la dent d'or pour appuyer son propos dans laquelle tous subissent le **biais de confirmation qui les mènent à voir une vision erronée**. Tout comme Thucydide, il pense qu'il faut faire preuve de rigueur intellectuelle et non d'opinion à l'approche d'un fait. Il aurais pu être utile que chacun des oracles ait un homme comme Socrate pour remettre en cause leur vision. 
 
 	**"Assurons nous bien du fait avant de nous inquiéter de la cause."** (*Histoire des oracles* - Fontenelle)
 	
-	**N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling**
+	**N'admettez rien à priori si vous pouvez le vérifier** - Rudyard Kipling
 	
 4. Aristote - Pour Aristote, la philosophie commence avec l'étonnement: reconnaitre son ignorance c'est désirer la vérité. **La recherche de la vérité est une fin en soi.**
 
@@ -67,6 +93,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 3. L'appétit vient en mangeant - Rabelais *Gargantua*
 4. Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
 5. La vérité remonte toujours à la surface comme le petit Grégory - Seth Gueko
+6. Cueille le jour - Horace
 
 ## Amour
 
@@ -89,7 +116,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 ## La paix
 
 * La paix, le commerce, une honnête amitié avec toutes les nations, d'étroites alliances avec aucune - T. Jefferson *Discours inaugural*
-
+* L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
 
 ## L'argent
 
@@ -123,10 +150,10 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 
 ## L'autorité de la parole
 
-* L'homme est à la mesure de toute chose - Isocrate
-* Thucydide (4ème siècle av-JC) pense qu'au lieu de styliser son texte, il faut tendre vers la véracité qu'il faut distinguer de la vérité. C'est cela qui fait son autorité. **"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
-* Socrate propose sa maïeutique avec une métaphore de l'accouchement. Dans le *Théétète* (4ème siècle av-JC), Socrate explique que la parole, que la maïeutique permet à l'homme d'accoucher de lui même de la vérité. "Il ne m'est permis en aucun manière ni d'acquiescer à ce qui est faux ni de cacher ce qui est vrai." "Confie toi à moi comme au fils d'une accoucheuse [...] et quand je te poserais des questions, applique toi pour y répondre de mon mieux" (*Théétète* - Platon). Sa parole fait autorité car elle n'est pas que de lui mais majoritairement de son partenaire de conversation.
-* Bernard Le Bouyer de Fontenelle (1687) - Cet auteur nous rappel de vérifier la source, de vérifier les faits avant toute extrapolation, avant toute supputation. "Assurons nous bien du fait avant de nous inquiéter de la cause." (*Histoire des oracles* - Fontenelle). Frédéric Worms dans *Libération* reprend cette idée - Le discours rationnel n'est pas toujours efficace et peine à lutter contre les rumeurs qui sont rapides et impulsives. Cependant, "il ne faut pas désespérer de la vérité". **N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling**
+* L'homme est à la mesure de toute chose - Protagoras
+* **"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
+* Dans le *Théétète* (4ème siècle av-JC), Socrate explique que la parole, que la maïeutique permet à l'homme d'accoucher de lui même de la vérité. "Il ne m'est permis en aucun manière ni d'acquiescer à ce qui est faux ni de cacher ce qui est vrai." "Confie toi à moi comme au fils d'une accoucheuse [...] et quand je te poserais des questions, applique toi pour y répondre de mon mieux" (*Théétète* - Platon). Sa parole fait autorité car elle n'est pas que de lui mais majoritairement de son partenaire de conversation.
+* Bernard Le Bouyer de Fontenelle (1687) - "Assurons nous bien du fait avant de nous inquiéter de la cause." (*Histoire des oracles* - Fontenelle). Frédéric Worms dans *Libération* reprend cette idée - Le discours rationnel n'est pas toujours efficace et peine à lutter contre les rumeurs qui sont rapides et impulsives. Cependant, "il ne faut pas désespérer de la vérité". **N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling**
 * Aristote - Conseille de ne pas se reposer sur ses acquis et de réussir à "cultiver l'étonnement". La philosophie se détache des autres sciences car elle ne sert pas la société mais est une fin en elle même. "Apercevoir une difficulté et s'étonner, c'est reconnaitre sa propre ignorance". 
 * Roger Bacon - Nous dit de se méfier de toute pensée populaire et de toutes nos habitudes. "L'autorité ne doit jamais être prise sans examen ni discernement" (L'importance de la méthode)
 * Stendhal - les grandes âmes se cachent; ordinairement, il ne parait qu'un peu d'originalité. Il y a plus de grandes âmes qu'on ne le croirait. (Lié aux grands discours)
@@ -134,6 +161,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 ## Vérité
 
 * Vérité et amitié nous sont chères l'une et l'autre, mais c'est notre devoir sacré d'accorder la préférence à la vérité - Aristote *Éthique*
+* Mal nommer les choses, c'est ajouter au malheur du monde. - Albert Camus
 
 ## L'âge
 
