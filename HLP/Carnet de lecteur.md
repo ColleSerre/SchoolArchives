@@ -11,6 +11,8 @@
 
 Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a formé religare, lier plus fortement.
 
+* Il y a dans le coeur de l'homme un vide en forme de dieu - Blaise Pascal *Pensées*
+
 ## La Foule
 
 Selon Gustave Le Bon dans *Psychologie des foules*: 
