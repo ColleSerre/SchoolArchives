@@ -3,15 +3,21 @@
 
 # Répertoire des notions
 
+Loquor = parler (en latin)
+
+Zeugma = Construction qui consiste à ne pas énoncer de nouveau, quand l'esprit peut les rétablir aisément, un mot ou un groupe de mots déjà exprimés dans une proposition immédiatement voisine (ex. « Il entre, le même jour, dans la gloire et dans le tombeau.» [Hugo]).
+
 **Eloquence**: toucher, persuader
 "**Bien parler**": réussir à produire les effets de l'éloquence
 **Rhétorique**: technique qui vise à produire des discours éloquents
+**Grandiloquent**: pompeux, parole exagérée. 
 
 ## Religion
 
 Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a formé religare, lier plus fortement.
 
 * Il y a dans le coeur de l'homme un vide en forme de dieu - Blaise Pascal *Pensées*
+* La religion est l'opium du peuple - Karl Marx
 
 ## La Foule
 
@@ -29,7 +35,7 @@ Selon Cicéron: il faut la **technique** (trouver, ranger, embellir, apprendre, 
 Selon Isocrate: il faut s'entraîner, se dépasser, ne pas être surpassé
 "nous nous sommes débarrassés de la vie sauvage, nous nous sommes réunis pour construire des villes; nous avons fixé des lois; nous avons découvert des arts; et, presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin." - Isocrate 
 
-## Les séductions de la parole [pdf](https://vs.ecolejeanninemanuel.net/FichiersExternes/f8fbba46e80d1a7f4cd6af3d2b91db8f4cda80fc3cbbfd9ce0826e8a1b53894c672a66eb845cc4d7330a7d5f08990b61/Cours%201%C3%A8re%20Humanit%C3%A9s%20Litt%C3%A9rature%20et%20Philosophie%20-%20La%20parole%20peut-elle%20induire%20en%20erreur%20(Les%20s%C3%A9ductions%20de%20la%20parole).pdf?Session=4422745)
+## Les séductions de la parole [Cours en PDF](https://vs.ecolejeanninemanuel.net/FichiersExternes/f8fbba46e80d1a7f4cd6af3d2b91db8f4cda80fc3cbbfd9ce0826e8a1b53894c672a66eb845cc4d7330a7d5f08990b61/Cours%201%C3%A8re%20Humanit%C3%A9s%20Litt%C3%A9rature%20et%20Philosophie%20-%20La%20parole%20peut-elle%20induire%20en%20erreur%20(Les%20s%C3%A9ductions%20de%20la%20parole).pdf?Session=4422745)
 
 Du latin poesis (« poésie, art poétique, œuvre poétique »), lui-même issu du grec ancien ποίησις, poíêsis (« action de faire, création »).
 
@@ -84,7 +90,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 
 	**"L'autorité ne doit jamais être prise sans examen ni discernement"** (*L'importance de la méthode* - Roger Bacon)
 	
-6. Barbara Cassin - Il y a trois raisons pour lesquelles on veut parler: "parler de", "parler à" et "parler pour parler" (fonction phatique du langage). Dans la troisième, il se produit un "effet-monde" qui change le monde (ça peut être peu). Un discours qui transforme le monde ne ressemble pas à un discours et "se présente comme réel, comme ce qui va de soi", **"Mais attention, un "discours qui gagne" n'est pas forcément un "beau discours"**. Un discours ne peut pas se limiter à avoir un effet sur les consciences pour être gagnant. **"Le discours de la philosophie, qui n'apparait pas comme un discours formate notre perception du monde. Quand Marx parle de classes sociales, on se met à penser en ces termes.**. L'éloge est aussi un discours gagnant car il forme la perception d'une notion ou d'une chose et car il peut changer les valeurs. En conclusion, **un discours n'est pas gagnant car il touche mais car il a un impact et fait un changement à grande échelle**
+6. Barbara Cassin - Il y a trois raisons pour lesquelles on veut parler: "parler de", "parler à" et "parler pour parler" (fonction phatique du langage). Dans la troisième, il se produit un "effet-monde" qui change le monde (ça peut être peu). Un discours qui transforme le monde ne ressemble pas à un discours et "se présente comme réel, comme ce qui va de soi", **"Mais attention, un "discours qui gagne" n'est pas forcément un "beau discours"**. Un discours ne peut pas se limiter à avoir un effet sur les consciences pour être gagnant. **"Le discours de la philosophie, qui n'apparait pas comme un discours formate notre perception du monde.** Quand Marx parle de classes sociales, on se met à penser en ces termes. L'éloge est aussi un discours gagnant car il forme la perception d'une notion ou d'une chose et car il peut changer les valeurs. En conclusion, **un discours n'est pas gagnant car il touche mais car il a un impact et fait un changement à grande échelle**
 	
 # Répertoire de citations
 
@@ -149,6 +155,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * Céder à la force est un acte de nécessité, non de volonté; cʼest tout au plus un acte de prudence. - Jean Jacques Rousseau *Du contrat social*
 * La nature n'a fait ni serviteurs, ni maîtres. Je ne veut ni donner, ni recevoir de lois - Diderot 
 * L'ordre social ne vient pas de la nature. Il est fondé sur des conventions - JJR *Du contrat social*
+* Personne n'aime des missionnaires armés - Robespierre
 
 ## L'autorité de la parole
 
@@ -159,6 +166,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * Aristote - Conseille de ne pas se reposer sur ses acquis et de réussir à "cultiver l'étonnement". La philosophie se détache des autres sciences car elle ne sert pas la société mais est une fin en elle même. "Apercevoir une difficulté et s'étonner, c'est reconnaitre sa propre ignorance". 
 * Roger Bacon - Nous dit de se méfier de toute pensée populaire et de toutes nos habitudes. "L'autorité ne doit jamais être prise sans examen ni discernement" (L'importance de la méthode)
 * Stendhal - les grandes âmes se cachent; ordinairement, il ne parait qu'un peu d'originalité. Il y a plus de grandes âmes qu'on ne le croirait. (Lié aux grands discours)
+* Science sans conscience n'est que ruine de l'âme. - Rabelais
 
 ## Vérité
 
@@ -169,10 +177,13 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 
 * Ne pourrons nous jamais sur l'océan des âges, Jeter l'ancre un seul jour ? - Alphonse de Lamartine *Méditations poétiques* 
 * L'âge moderne représente le triomphe de la médiocrité collective - Gustave le Bon *Hier et Demain*
+* L'art est long et le temps est court - Charles Baudelaire *Les Fleurs du Mal*
 
-## Égo et humilité
+## Éloge
 
 * Comme un soufflé qu'on laisse attendre [l'adulation du public] ne tarde à se dégonfler - Charles Chaplin
+* "Les grands hommes font leur propre piédestal; l'avenir se charge de la statue" - Victor Hugo *Discours aux funérailles d'Honoré de Balzac*
+
 
 ## Les faits
 
@@ -180,6 +191,8 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling
 * Il ne faut lancer contre son adversaire des bruits infondés car il est, comme quiconque, un hôte de l'esprit - Dr 
 
-## Fonctions du langage
+## Fonctions et registres du langage
 
 Fonction phatique selon Barthes: la parole qui ne sert qu'à l'interaction sociale.
+
+Registre épidictique: pointer du doigt qqe chose 

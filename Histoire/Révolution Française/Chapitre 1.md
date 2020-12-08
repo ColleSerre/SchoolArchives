@@ -251,3 +251,25 @@ Définitions:
 * République: Forme de gouvernement où le chef de l'Etat n'est pas seul à détenir le pouvoir qui n'est pas héréditaire. 
 * Membre de la montagne, un groupe politique de la Révolution française favorable à la République et opposé aux Girondins. Se moment les montagnards car ils siègent en haut de l'Assemblée mais aussi car ils se distinguent de la Plaine, les députés les plus discrets. Menés par Robespierre, Danton, Saint-Just, Marat
 * Membres de la Gironde, ils sont opposés aux Montagnards, sont issus de la bourgeoisie aisée, craignent un retour à l'Ancien Régime et les insurrections populaires, y figurent Condorcet, Barbaroux, Roland de la Platière, Pache, Louvet. 
+
+## Le congrès de Vienne
+
+Les acteurs importants:
+ 
+* Metternich, chancelier Autrichien
+* Castelreagh, député anglais 
+* Hardenberg, délégué de la Prusse
+* Nesselrod, ministre Russe
+* Talleyrand, ministre Français
+
+### Questions sur la vidéo du congrès de Vienne
+
+1. En Espagne, en Italie, en Tyrol
+2. Avril 1814
+3. Louis XVIII
+4. Redéfinir les frontières de l'Europe. Les Anglais redoutent l'hégémonie Russe sur le continent. Les Anglais content sur le Prusse pour faire tampon contre les Russes. Les Russes demandent la majeure partie de la Pologne et une main mise sur la Méditerranée. Les français utilisent les antagonismes entre les pays pour négocier malgré leur faiblesse actuelle.
+5. 1er Mars 1815
+6. 9 juin 1815
+7. Non car cette dernière doit payer des indemnités de guerre
+8. Naissance de la confédération germanique et agrandissement territorial de la Russie et de la Prusse 
+9. Sainte Alliance entre catholiques/protestants/orthodoxes proposée par le tsar Alexandre 1er

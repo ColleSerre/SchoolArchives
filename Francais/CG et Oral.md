@@ -48,11 +48,11 @@ Partie 1 - Explication linéaire [France Culture Podcast](https://www.francecult
 Présenter l'auteur, son courant, son époque (cela contribue à être à propos durant l'explication)
 
 * Le lac [Explication linéaire](/Users/darenpalmer/Desktop/SchoolArchives/Francais/Parcours 1/S2/Analyse le lac.md) ✅  
-* Une charogne [explication linéaire](/Users/darenpalmer/Desktop/SchoolArchives/Francais/Parcours 1/S3/analyse une charogne.md) ❌
-* Dans bien longtemps [Explication linéaire](/Users/darenpalmer/Desktop/SchoolArchives/Francais/Parcours 1/S4/Analyse dans bien longtemps.docx) ❌
+* Une charogne [explication linéaire](https://bacdefrancais.net/charogne.php#commentaire) ❌
+* Dans bien longtemps [Explication linéaire](/Users/darenpalmer/Desktop/SchoolArchives/Francais/Parcours 1/S4/Analyse dans bien longtemps.docx) ✅
 * **Elle était déchaussée** [Explication linéaire](https://docs.google.com/document/d/1APyfWHMrd8VTRAbrr0EG_apIeEFlKFeM-96G2RMaANk/edit) ❌
 * **Melancholia** [Explication linéaire](https://drive.google.com/drive/u/0/search?q=M%C3%89LANCHOLIA) ❌
-* Demain, dès l'aube ❌
+* Demain, dès l'aube [Explication linéaire](https://bacdefrancais.net/demain-des-l-aube-hugo.php#commentaire)✅
 
 Partie 2 - Grammaire:
 
@@ -67,7 +67,8 @@ Expliquer le texte, pourquoi on l'a choisi, ce qui a plu, ce qui a semblé impor
 * Les Contemplations
 * **Paroles** [Podcast France Culture](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-14-avril-2017)
 
-Point d'entrée possibles:
+Points d'entrée possibles:
+
 * une question (problématique)
 * une autre oeuvre
 * le titre de l'oeuvre

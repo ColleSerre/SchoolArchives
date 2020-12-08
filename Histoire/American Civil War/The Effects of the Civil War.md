@@ -46,10 +46,28 @@ This made segregation legal & constitutional. Homer Plessy was jailed for sittin
 
 ### Jim Crow laws (see [3ème documents](https://docs.google.com/document/d/1nc3PRW92M2lRcarad2j15Nm3Ab-QHIrLJlUYNasjNwQ/edit)
 
-Interracial marriage was forbidden (link to Nuremberg laws of Nazis ?)
+Interracial marriage was forbidden (link to Nuremberg laws of Nazis?)
 
 Lynching was common in the South (hanging black people by a mob if suspected of committing a crime, **no justice involved**)
 
 ## OPLV analysis
 
-Origins, Purpose, Limitations, Value
+Origins, Purpose, Limitations, Value (what can it tell us on its times)
+
+## Andrew Johnson and the 1866 bill
+
+Andrew Johnson (a racist/white supremacist from North Carolina) moved into office when Abraham Lincoln was shot and killed. Therefore, Johnson was not seen as a rightful president. They weren't from the same political side. This increased the shock that was the president's veto on the 1866 bill on the Freedmen's Bureau. Johnson's point was that the bill was too close to being unconstitutional as it infringed on state's rights by allowing the military (under Federal orders) to protect freemen. 
+
+What can we learn?
+
+* High tensions between Congress and President
+* Johnson tried to block all improvements for African American's right
+* Persistance of high prejudice and racism against African Americans
+
+## Coon Chicken Inn
+
+Origin: A picture of a restaurant depicting a grinning, grotesque bald Black man with a porter's cap and winking eye. Established in 1930 in Seattle by Maxon Lester Graham.
+
+Purpose: Advertise the opening of the restaurant. Attract Customers
+
+Limitations: this 

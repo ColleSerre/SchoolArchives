@@ -51,8 +51,16 @@ Desnos est un créateur et son but et de révéler des aspects cachés du monde 
 - - - -
 Introduction
 
-L'amour envolé peut faire voir bien des mirages, c'est justement sur ces images oniriques que s'arrête Robert Desnos en 1927 dans *Dans bien longtemps*. Robert Desnos est un poète français du 20ème siècle, il fut impliqué dans la vie politique de son pays notamment en résistant contre l'occupant allemand durant la seconde guerre mondiale. Cette implication le conduira à la mort dans les camps de concentration de Tchécoslovaquie. Quand il écrit *Dans bien longtemps*, Desnos est rédacteur de “La Révolution Surréaliste” et fait donc partie de ce mouvement qu’il quittera en 1929 quand André Breton essayera de l’orienter vers le Communisme. On retrouve donc dans ce poème le thème principal du surréalisme: le rêve. Nous étudierons pourquoi Desnos est en rupture avec la progression du temps et le romantisme. 
+L'amour envolé peut faire voir bien des mirages, c'est justement sur ces images oniriques que s'arrête Robert Desnos en 1927 dans *Dans bien longtemps*. Robert Desnos est un poète français du 20ème siècle, il fut impliqué dans la vie politique de son pays notamment en résistant contre l'occupant allemand durant la seconde guerre mondiale. Cette implication le conduira à la mort dans les camps de concentration de Tchécoslovaquie. Quand il écrit *Dans bien longtemps*, Desnos est rédacteur de “La Révolution Surréaliste” et fait donc partie de ce mouvement qu’il quittera en 1929 quand André Breton essayera de l’orienter vers le Communisme. On retrouve donc dans ce poème le thème principal du surréalisme: le rêve. Nous étudierons pourquoi ce poème est représentatif du mouvement surréaliste
+
+## À améliorer
+
+* exploser les codes avec une construction du poème qui ne respecte aucun code
+* pas de rimes
+* retrouve sa communication avec la femme grâce à la poésie contrairement à Lamartine qui propose un réflexion philosophique (à évoquer dans la conclusion)
+
 [lecture du texte]
+
 On peut repérer quatre grandes parties ou grands mouvements dans ce poème: 
 		v1-3: description spatio-temporelle mise en valeur
 		v4-9 : apparition d'une présence spirituelle
@@ -75,7 +83,7 @@ Ce troisième mouvement s’ouvre avec un rappel au premier vers avec “dans bi
 
 D - L’ironie dans le quatrième mouvement
 
-On découvre dans ce quatrième mouvement ce que renferment les fameux flots illusoires du mouvement précédent: “La carcasse d’un navire naufragé”. Ce lieu commun a une symbolique forte, celle d’une mélancolie d’un moment détruit par le temps. Ce moment donc représenté par le navire qui est lui aussi figé dans le sol mais vieilli par le temps. Cette idée très froide et rude contraste avec son comparé, “un délicat chapeau de femme roulé par le vent dans la pluie du printemps”. Cette comparaison et cette hésitation qu’exprime le poète avec la conjonction *ou* dénotent une rupture avec le romantisme par la juxtaposition	de ces deux images radicalement différentes. On pourrait même distinguer une forme d’ironie dans celle ci. Cette ironie continue après la rupture *Et puis foutaise*avec une chanson enfantine, “les arcs-en-ciel […] aux glaces”, grossière, “foutaise” et festive, “apéritif”. Cette chansonnette conclut le poème et affirme une ultime fois que Desnos n’est pas un poète romantique et que celui ci se libère à la fois du joug du temps et du courant romantique en riant des deux pour affirmer sa position de démiurge capable de transcender ces deux autorités. 
+On découvre dans ce quatrième mouvement ce que renferment les fameux flots illusoires du mouvement précédent: “La carcasse d’un navire naufragé”. Ce lieu commun a une symbolique forte, celle d’une mélancolie d’un moment détruit par le temps. Ce moment donc représenté par le navire qui est lui aussi figé dans le sol mais vieilli par le temps. Cette idée très froide et rude contraste avec son comparé, “un délicat chapeau de femme roulé par le vent dans la pluie du printemps”. Cette comparaison et cette hésitation qu’exprime le poète avec la conjonction *ou* dénotent une rupture avec le romantisme par la juxtaposition	de ces deux images radicalement différentes. On pourrait même distinguer une forme d’ironie dans celle ci. Cette ironie continue après la rupture *Et puis foutaise* avec une chanson enfantine, “les arcs-en-ciel […] aux glaces”, grossière, “foutaise” et festive, “apéritif”. Cette chansonnette conclut le poème et affirme une ultime fois que Desnos n’est pas un poète romantique et que celui ci se libère à la fois du joug du temps et du courant romantique en riant des deux pour affirmer sa position de démiurge capable de transcender ces deux autorités. 
 
 Conclusion:
 

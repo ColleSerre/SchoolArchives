@@ -18,6 +18,20 @@ Premières impressions:
 
 #### Projet de lecture: Lamartine émet une réflexion sur les similarités entre la constance et la puissance du lac et celle du temps, des deux il est victime.
 
+### À améliorer
+
+* il revient sur le lieu de son amour (lieu du souvenir)
+* métaphore du marin face à la mer avec "jeter l'ancre un seul jour"
+* ne pas oublier de dire que Ô est une personnification
+* Le temps destructeur avec "Ô temps suspend ton vol, et vous heures propices", destructeur des moments chéris
+* Parler au moins une fois du souvenir (ralentir le temps pour passer du temps avec Julie)
+* L'impuissance du temps face au temps qui s'écoule
+* La nature à lier avec le temps pas cruel :
+	* Le paysage correspond à l'état d'esprit du poète ("le vent gémit", "le roseau soupire")
+	* Personnification de la nature qui l'accompagne dans son deuil
+	* La nature est garde du bonheur passé
+* Le poète qui est démiurge transcende le temps par sa représentation poétique de la nature qui renferme un moment passé avec Julie Charles.
+
 Mouvements:
 
 1. Lamartine implore le lac et décrit sa puissance
@@ -151,15 +165,17 @@ A - Similarités
 * Décris en utilisant le champ lexical de l'eau ce qui est naturel pour le lac mais inhabituel pour le temps.
 * Symboles d'infaillibilité à travers le poème 
 * Entités transcendant l'homme et son passage sur terre. 
-* **On peut donc constater que non seulement les similarités entre le lac et le temps sont nombreuses mais aussi que Lamartine part d'une expérience personnelle pour s'exprimer sur une expérience universelle: La mort et son inéducabilité.
+* **On peut donc constater que non seulement les similarités entre le lac et le temps sont nombreuses mais aussi que Lamartine part d'une expérience personnelle pour s'exprimer sur une expérience universelle: La mort et son inéluctabilité.
 **
 
 B - Affirmation du lien (vers 34, 35)
 
 * Ce lien est construit tout au long du texte par le développement clair des caractéristiques communes du temps et du lac. 
 * La construction du poème et relation entre Lamartine et Elvire nous posent l'équation suivante: **Si Lamartine implore le lac, Elvire le temps et que ces premiers sont liés alors ces seconds le sont aussi.** 
-* Confirmé au vers 34 (“L'homme n'a point de port, le temps n'a point de rive”)
-* Utilisation du champ lexical du nautique 
 * Le lien est finalement ancré au dernier vers avec “[le temps] coule, et nous passons” avec encore une coupure à l'hémistiche sur le champ lexical nautique
 
 Pour conclure, Lamartine émet une réflexion sur les similarités entre la constance et la puissance du lac et celle du temps, des deux il est victime. Il créé un lien fort entre le lac et le temps grâce à la construction du poème et au contexte dans lequel il écrit celui ci. Il couche aussi une pensée novatrice sur la nature du temps en le décrivant comme suivant simplement sa condition, comme nous.
+
+## Introduction
+
+Aujourd'hui je vais vous présenter un poème qui s'inscrit dans le registre lyrique, est paru dans le recueil *Méditations poétiques* en 1820 et écrit par Alphonse de Lamartine. Je parle bien sur de *Le Lac*. Le poète y décrit une de ses balades autour d'un lac qui lui rappel celle qu'il appellera Elvire dans ses textes. Julie Charles, qui se cache derrière ce pseudonyme, sa compagne meurt de la tuberculose, loin d'Alphonse. Les thèmes dominants de ce texte sont l'inéluctabilité de la mort, la constance du temps et la place de la nature dans le deuil de Lamartine. Nous étudierons en quoi Lamartine émet une réflexion sur les similarités entre la constance et la puissance du lac et celle du temps, des deux il est victime. Premièrement en étudiant **l'image d'un lac puissant** puis **l'indifférence de ce dernier face à la tristesse du poète**, ensuite nous passerons par une étude de **la puissance du temps dans le texte** et de **sa cruauté** et enfin nous établirons que **le lac est une analogie du temps. **
