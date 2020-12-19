@@ -218,3 +218,21 @@ QCM page 88:
 1. Montrer qu'au cours de l'histoire, il a été possible de construire une représentation correcte de la forme de la Terre à partir d'arguments qui ne le sont pas.
 	* Les interprétations antiques ne sont pas des preuves directes de la forme de la terre
 	* 0/260 = d/2*pi*r = 6300
+
+Théories:
+
+* Plate
+* Cylindrique
+* Sphérique
+
+Arguments:
+
+* La coque qui disparait avant le mat
+* les étoiles apparaissent selon la position
+* l'eclipse de la terre est une ombre circulair
+
+
+### Eratosthenes
+
+
+ 

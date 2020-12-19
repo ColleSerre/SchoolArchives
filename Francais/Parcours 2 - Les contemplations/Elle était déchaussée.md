@@ -1,6 +1,12 @@
 # Elle était déchaussée
-----
+---
+Intro : 
 
-La nature est l'un des thèmes principaux et récurrents du mouvement romantique dont Victor Hugo est l'un des chefs de file. Ce cadre privilégié de la séduction et de l'amour apparaît non seulement dans "Le lac" d'Alphonse de Lamartine, dans "Une Charogne" mais aussi dans "Les Contemplations" de Victor Hugo, recueil de **1856**, et plus précisément dans "Elle était déchaussée". En effet, Hugo présente encore la nature comme une scène de séduction. Ainsi, en quoi le poète et la femme s'adonnent-ils à un jeu de séduction typiquement romantique? Dans un premier temps, le poète découvre et décrit la femme dans la nature qui est son environnement puis l'invite à la balade et à l'amour pour ensuite mettre en scène une attirance réciproque qui fait office de réponse.
+V. Hugo appartient au XIXème siècle et au romantisme. Le recueil poétique Les Contemplations se divise en deux parties : « Autrefois » et « Aujourd'hui ». La mort de Léopoldine, fille de V. Hugo, trace la frontière entre ces deux mondes. Dans la première partie, « Autrefois », les poèmes chantent la joie de vivre. Ce poème de style très romantique décrit le bonheur de la rencontre amoureuse.
 
-Le poète rencontre la femme dès le premier vers. Il la représente telle qu'il la voit. Ainsi, le parallélisme du vers 1 et l'assonance en "é" dans ce même vers représentent une femme naturelle, attirante et immédiatement sensuelle. Le poète continue sa description et place à présent la femme dans l'environnement qui l'entoure. Elle semble faire partie intégrante du décor ce qui laisse donc penser en addition au naturel décrit précédemment que la femme est nature. Il s'intègre ensuite dans le déroulement d'une histoire comme le montre le présentatif "moi qui" et l'utilisation de la première personne du singulier au troisième vers. Grâce à cela, il met en valeur le "moi" après le "elle" de la femme, preuve de sa dévotion et de la création d'un véritable couple qui va entretenir un vrai jeu de séduction tout au long du poème.
+
+Le poème Elle était déchaussée, elle était décoiffée… relève d'une inspiration au type auto biographique : souvenir de jeunesse de la rencontre avec une belle inconnue.
+
+Victor Hugo fait une évocation jubilatoire d’une rencontre certes éphémère mais plaisante. L'expression est plus libre : répétitions (chanson), vocabulaire courant, forme simple, poème qui par ses aspects se rapproche de la prose, discours direct.
+
+L'atmosphère est intime. Gout pour le bucolique : La jeune fille semble en harmonie avec la nature ; elle est au naturel ce qui suggère qu’elle est une émanation de la nature. La nature devient le temple des amours éphémères.

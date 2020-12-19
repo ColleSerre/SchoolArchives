@@ -273,3 +273,18 @@ Les acteurs importants:
 7. Non car cette dernière doit payer des indemnités de guerre
 8. Naissance de la confédération germanique et agrandissement territorial de la Russie et de la Prusse 
 9. Sainte Alliance entre catholiques/protestants/orthodoxes proposée par le tsar Alexandre 1er
+
+## La Sainte Alliance: Un système répressif
+
+* Les souverains de Russie (orthodoxe), d'Autriche (Catholique) et la Prusse (Protestante) s'unissent contre les mouvements nationaux et libéraux le **26 Septembre 1815**.
+* La Quadruple alliance née le 26 Novembre avec l'entrée de l'Angleterre  
+
+Libéraux: Soutiens du libéralisme, notamment politique. Ils souhaitent encadrer les pouvoirs des souverains par des constitutions.
+
+Sentiment National: Sentiment d'appartenir à une nation qui se construit autour d'une langue,  d'une histoire, ou d'une religion commune. C'est en son nom que les peuples revendiquent un État indépendant.
+
+Les Espagnols par exemple ne demandent pas un nouvel état mais des limites aux pouvoirs de leur Roi. Les libéraux espagnols subiront une répression de la part des espagnols et des français en 1823 après avoir capturé le roi Ferdinand VII.
+
+Les Carbonari était une société secrète qui lutta contre la domination française et qui ont tentés d'établir un état italien.
+
+Les révoltes dans les principautés italiennes sont un exemple de la solidarité répressive des états de la Quadruple Alliance. 

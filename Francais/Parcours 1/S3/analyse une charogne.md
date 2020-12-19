@@ -54,12 +54,51 @@ Le chien veut reprendre la charogne, Baudelaire dit ensuite que sa bien aimée r
 ## Intro
 
 
-Le recueil des **Fleurs du mal**, paru en 1857, revendique de nouvelles sources pour la création poétique. L'association oxymorique des deux mots du titre a parait provocatrice par rapport à la tradition lyrique : le titre affirme qu'il existe une beauté qui peut naître du mal c'est-à-dire de la part sombre de l'homme et du monde. Très structuré, le livre comporte six sections. La première, « spleen et idéal », est celle qui pose la double aspiration de l'homme : d'une part, le rêve de l'idéal, exprimé le plus souvent par l'exotisme et l'évocation d'un ailleurs, d'autre part, la sordide réalité de la vie, qui pousse le poète au désespoir et au spleen. Intéressons nous à un poème en particulier: une charogne. Le poète y décrit une ballade en forêt avec sa compagne durant laquelle ils rencontrent le corps inerte d'un animal moisissant. Nous verrons donc comme Baudelaire parvient à transformer la charogne informe en un objet transfiguré. Le poème se découpe en 3 grands mouvements: le premier s'étend des vers 1 à 10, le second du vers 13 à 31 et finalement du vers 37 à 48. Ces parties, je les nommes respectivement "une rencontre surprenante", "une résurrection artistique" et "une prophétie cruelle".
+Le poème Une Charogne est extrait du recueil Les Fleurs du mal de Charles Baudelaire. Le poème fait partie de la section « spleen et idéal ». Dans ce poème, un couple en promenade tombe sur une charogne, qui devient le sujet du poème de Baudelaire. Nous étudierons en quoi la poésie de Baudelaire transcende la mort.
 
-## Analyse
+## Analyse Linéaire
 
-Le poème s'ouvre sur une invitation au souvenir + l'impératif à la femme aimée + création d'un couple avec "vous" + mise en valeur du couple avec 'mon âme" à la rime
+* Le poème s'ouvre sur une invitation au souvenir. S'adresse par l'impératif à la femme qu'il désigne par "mon âme" et avec "vous".
+* Il créé le couple avec "nous vîmes" et met en valeur la relation avec "mon âme" à la rime.
+* Il rappel un souvenir commun: "ce beau matin d'été si doux", "ce" pointe un matin précis pour les deux amants
+* Peint une magnifique balade amoureuse en reprenant tous ses codes, "beau matin [adjectif mélioratif]", "si doux [créé un climat propice à l'amour]". 
+* Les deux points créent une rupture avec "Au détour" en début de vers, on a aussi l'impression qu'il nous "attend au tournant". 
+* Le poète fait la découverte impromptue de la charogne au milieu de cette nature accueillante -> créé la surprise
+* Laideur de la première impression avec "infâme" à la rime. -> Cette promenade semble prendre un autre tour, celui de la provocation au lieu du sentiment 
+* Comme ci le poète prenait plaisir à  faire contempler la laideur. 
+* "Sur un lit semé de cailloux" est lié au vers suivant "les jambes en l'air" par l'enjambement évoque une scène provocante pour l'époque (champ lexical du lit), encore d'avantage avec la comparaison à une "femme lubrique". 
+* Le tout pousse à la discussion par sa provocation. *La charogne est donc comparée à une femme, cela appel à la discussion (es ce de l'obscénité?) mais est surtout symbole de l'ambivalence de la femme que l'on retrouvera dans la charogne ("de façon nonchalante et cynique").* Quoi qu'il en soit, Baudelaire rompt avec la tradition poétique lyrique et romantique en mettant au cœur du poème non pas la femme aimée mais la charogne. 
+* La description de cette découverte macabre est faite à l'imparfait [strophe 2 à 8] -> **prend plaisir à décrire la laideur** cette charogne et la décrit de manière détaillée: 
+	* L'horreur de la vision est alors accentuée par l'évocation ironique de la réaction de la femme, 
+	* le ton précieux avec l'utilisation subite du passé simple ("vous crûtes") qui créé un décalage entre la réalité macabre et l'ironie du spectacle
+	* La description dépasse le simple réalisme et devient une véritable vision épique du processus de décomposition. 
+		* Registre épique retrouvé grâce à l'enjambement qui mime l'écoulement du pus, 
+		* l'utilisation des pluriels ("les mouches", "les noirs bataillons", "les vivants haillons"), 
+		* tout le mouvement est accentué pour donner vie au cadavre. 
+		* "Tout cela" regroupe puis fait bouger tous ces corps avec des verbes de mouvement ("descendait", "montait comme une vague", "s'élançait", "enflé", "vivait") => déferlement du pus. 
+		* Tout cela donne une vision amplifiée de la scène jusqu'à troubler la vision. 
+* La peinture est inaugurée par la chaleur que dégage la carcasse à laquelle est associée de façon très réaliste l'odeur. 
+* Insiste avec une comparaison à la réalité => la cuisine ("cuit à point") => plus de réalisme. 
+* Antithèse => "le soleil rayonnait sur cette pourriture" entre le soleil toujours dans le cadre idyllique et la carcasse. 
+* Introduction de la mort et sa place dans la nature => "et de rendre à la Nature [...] avait joint". 
+* Le tout est donc lié au fameux vers du poète Horace "cueille le jour présent sans te soucier du lendemain" et à l'Idéal atteint grâce à la Nature en majuscule. 
 
-Description d'une ballade amoureuse en reprenant les codes classiques avec **adjectif mélioratif**, "beau matin", 
+* "Et le ciel regardait la carcasse superbe" -> finalise cette idée que la laideur et la beauté peuvent être entremêlées **grâce** à l'art poétique.
+* la comparaison avec la fleur est ironique. Ces deux vers résument, en faisant référence au titre du recueil, la poésie selon Baudelaire (**de votre boue je ferais de l'or soit donne moi ta carcasse j'en ferais une fleur**). L'art poétique de Baudelaire est résumé dans ce vers.
+* Durant les strophes 2 à 8 Baudelaire fait une description détaillée de la carcasse qui montre l'interdépendance, de la laideur et de la beauté. 
+* Les deux strophes suivantes effectuent un rapprochement avec l’art. 
+* La musique: « Et ce monde rendait une étrange musique »
+* Rythme (voir vers 27)
+* la peinture (voir les termes « formes », « ébauche », « toile », « artiste »). 
+* Ce rapprochement est légitimé par le travail sur la prosodie (rythme du tétrasyllabe « Les mouches / bourdonnaient / sur ce ven / tre putride », mais aussi le jeu sur les sonorités et notamment les assonances en « ou ») et la précision du tableau (ce qui est à proprement parler la définition de l’hypotypose). 
+* Riches en images, ces strophes accumulent les comparaisons (« comme », « On eût dit ») ou les métaphores (« enflé d’un souffle vague »).
+Cette référence à l’art font prévaloir la prédominance de l’art sur la nature (thème cher à Baudelaire), seule possibilité de faire « vivre » ce qui est condamné à périr.
 
+* Avant que le poète ne prenne la parole pour conclure, la strophe commençant par le tiret cadratin (« — Et pourtant... »)
+* Une dernière mention canine achève de montrer le sordide de la situation rappelant la présence d’une tierce personne. 
+* Si au début du poème, on pouvait avoir le sentiment que le poète s’adressait à son âme, on voit dans les trois dernières strophes qu’il s’adresse à la femme aimée, ce que montre le vocabulaire de l’amour courtois : « étoile de mes yeux », « soleil de ma nature » (vers 39), « mon ange et ma passion » (vers 40), « la reine des grâces » (vers 41). Dans un texte très parodique (l’éloge féminin n’est prononcé que pour être nié), 
+* Baudelaire rappelle à l’être aimé sa condition de mortelle, rappelant en ceci la poésie de Ronsard. Ce poème ressortit au thème du memento mori, mais non pas pour inviter à profiter du jour (comme dans le carpe diem), mais pour mieux affirmer la supériorité de l’art et du poète sur l’éphémère de la vie, art qui sait garder « la forme et l’essence divine » des « amours décomposés ».
 
+## Conclusion
+
+ Grâce à l’alchimie poétique, et en toute immodestie, le poète transcende la mort. Ne joue-t-il d’ailleurs pas implicitement sur l’homophonie entre les vers dévoreurs du cadavre et ses propres vers ? Entre memento mori et déclaration d’amour, entre cynisme et lyrisme, Baudelaire ne cesse de procéder par ruptures de ton et par retours, mouvements de va-et-vient entre la description et le discours, la réalité et sa sublimation, tenant le lecteur en haleine. Baudelaire transforme la femme aimée avec une cruauté particulière.

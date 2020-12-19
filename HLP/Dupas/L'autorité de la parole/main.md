@@ -86,3 +86,39 @@ Cette éloge est étonnante car Hugo évoque l'oeuvre et non l'homme. Il compare
 
 Victor Hugo est donc sincère mais traite trop de l'oeuvre et non de l'homme. Cela est  de son style lyrique et romantique. 
 
+### Éloge de Maupassant par Zola
+
+**Comment l'éloge est-il construit?**
+
+L'éloge commence avec une accroche qui fait comprendre que la relation était fraternelle. Il explique aussi son acheminement vers la grandeur qu'on lui connait. Ensuite, il fait recours au registre épidictique pour exprimer ses grands faits. Dans ce texte il explique qui il est, sa relation avec Maupassant, décrire sa vie, ce qu'il a accompli, ses sentiments et finalement explique que son travail ne sera pas oublié.
+
+**Sur quoi l'éloge "joue"-t-il?**
+
+Utilise l'anecdote pour créer l'émotion et l'empathie puis utilise des adjectifs mélioratifs. Il humanise le personnage en riant de Maupassant pour faire référence à ce dernier qui riait de sa myopie. Son éloge est concise, droit au but mais n'en fait pas trop. L'hypotypose créée, rend un portrait réaliste.
+
+### Éloge de Zola par Anatole France
+
+**Comme l'éloge est-il construit?**
+
+L'éloge d'Anatole France exprime l'universalité des émotions de France envers Zola. Ce qui est mis en avant est la vertu de Zola ainsi que sa puissance morale. La construction d'une statue et la description de la grandeur de l'écrivain avec des adjectifs mélioratifs créent un style proche de l'épique. Le discours est solennel, presque convenu. On sent qu'on tente de se séparer de l'homme pour se concentrer sur l'œuvre. Sur la fin, le registre d'Anatole France va l'emporter car on a une description épique de l'homme. 
+
+**Sur quoi l'éloge "joue"-t-il?**
+
+La sincérité et la sphère intime sont mis en avant. Il joue avec des phrases laconiques et avec le présent de vérité générale. Le registre épidictique souligne la grandeur de Zola. Les énumérations et les hyperboles aussi. C'est par l'enchainement des courtes phrases et les courtes phrases soulignent les qualités et la vertu de Zola.
+
+### Éloge de Desnos par Eluard
+
+**Comme l'éloge est-il construit?**
+
+Eluard capture d'abord l'auditoire en faisant le lien entre les Tchécoslovaques et Desnos. Il fait un passage graduel du poète à l'homme. On a un système anaphorique qui place l'homme sur un piédestal et qui exprime les diverses facettes de l'hommes. Il parle d'un registre lyrique qui se transforme en registre épique. **Ne parle pas de son expérience, ne dit jamais "je"**
+
+**Sur quoi l'éloge "joue"-t-il?**
+
+Eluard s'appuie sur les valeurs de Desnos (liberté, courage, audace). Il illustre les combats de Desnos avec des métaphores, des comparaisons. Il fait des aller-retours dans le temps pour montrer que Desnos transcende les âges et que sa mémoire subsistera. Tout cela pour montrer que sa condition de poète dépasse le commun des mortels. Desnos est aussi décrit comme étant un homme à plusieurs facettes (en Desnos il y avait deux hommes). 
+
+
+## Travail Collaboratif sur Malala à l'ONU
+
+Comment ce discours invite-t-il à une action durable?
+
+

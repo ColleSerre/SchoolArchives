@@ -5,12 +5,21 @@
 
 Loquor = parler (en latin)
 
-Zeugma = Construction qui consiste à ne pas énoncer de nouveau, quand l'esprit peut les rétablir aisément, un mot ou un groupe de mots déjà exprimés dans une proposition immédiatement voisine (ex. « Il entre, le même jour, dans la gloire et dans le tombeau.» [Hugo]).
+Phylosophie = l’amour de la sagesse ou l’amour du savoir en grec ancien.
+
+Zeugma = Construction qui consiste à ne pas énoncer de lien, quand l'esprit peut les rétablir aisément, un mot ou un groupe de mots déjà exprimés dans une proposition immédiatement voisine (ex. « Il entre, le même jour, dans la gloire et dans le tombeau.» [Hugo]).
 
 **Eloquence**: toucher, persuader
+
 "**Bien parler**": réussir à produire les effets de l'éloquence
+
 **Rhétorique**: technique qui vise à produire des discours éloquents
+
 **Grandiloquent**: pompeux, parole exagérée. 
+
+**Sophisme**: raisonnement fallacieux qui privilégie la forme au fond
+
+Loi de Brandolini: la quantité d'énergie nécessaire pour réfuter des idioties est d'un ordre de grandeur supérieur à celle nécessaire pour les produire.
 
 ## Religion
 
@@ -18,6 +27,8 @@ Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a for
 
 * Il y a dans le coeur de l'homme un vide en forme de dieu - Blaise Pascal *Pensées*
 * La religion est l'opium du peuple - Karl Marx
+* Si Dieu n'existait pas, il faudrait l'inventer - Voltaire
+* Ni dieu ni maitre -  Mikhaïl Bakounine
 
 ## La Foule
 
@@ -29,6 +40,15 @@ Selon Gustave Le Bon dans *Psychologie des foules*:
 ## L'orateur (à compléter)
 
 **Emprunté au latin orator, dérivé du verbe orare (« parler »).**
+
+Syllogisme (le bon et le mauvais) - Aristote Organon : 
+
+* Tous les hommes sont mortels (Prémisse 1), Socrate est mortel (Prémisse 2), Socrate est un homme (Conclusion) 
+
+Si A implique B et que C implique A alors C implique B 
+
+* Un cheval rare est cher, un cheval pas cher est rare, un cheval pas cher est cher
+* Plus il y a de gruyère, plus il y a de trous, plus il y a de trous, moins il y a de gruyère, donc plus il y a de gruyère, moins il y a de gruyère
 
 Selon Cicéron: il faut la **technique** (trouver, ranger, embellir, apprendre, dire avec grâce). On ne peut pas tout maîtriser ni implémenter tous les procédés appris c'est pourquoi il faut d'appuyer sur un talent personnel. Il n'est qu'un tuteur (insérer citation). Le pouvoir de la parole est au service du droit; la beauté de la parole rassemble les Hommes
 
@@ -55,6 +75,10 @@ Platon imagine une Cité idéale basée sur la vérité où il n'y aurait aucun 
 - l'image du lit peut être faite par n'importe quelle personne utilisant un miroir, par exemple un peintre (596e). Mais il ne produit rien, il est seulement l'imitateur de ce que les autres ont fait (597e), comme le faiseur de tragédies ou le poète. Ce qu'il imite n'est même pas l'essence du lit, mais l'ouvrage des professionnels (598a), et il n'en imite même pas la réalité, mais seulement l'apparence, et n'en atteint que le simulacre. Il n'entend rien à leur métier, et n'est qu'un faiseur d'illusions (598c), un sorcier.
 
 Il y a donc trois sortes de lits, mais aussi trois sortes d'art."
+
+### Le fin'amor
+
+Le fin’amor (amour courtois, ne jamais blesser et toujours être raffiné) n’est-il qu’utile à flatter l’égo de la femme soumise pour la conforter dans son infériorité. 
 
 ## L'autorité de la parole
 
@@ -102,8 +126,20 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 4. Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
 5. La vérité remonte toujours à la surface comme le petit Grégory - Seth Gueko
 6. Cueille le jour - Horace
+7. Memento Mori - Horace
+L'enfer c'est les autres - Jean Paul Sartre Le Huis Clos
+7. La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - Jean Jaurès cité par Robert Badinter dans son réquisitoire contre la peine de mort
+8. Le surréalisme est la surprise magique de trouver un lion dans un placard, là où on était sur de trouver des chemises - Frida Kahlo
+9. Tout est pour le mieux dans le meilleur des mondes. - Voltaire (ironiquement) *Candide*
+10. Plonger au fond du gouffre. Enfer ou Ciel, qu'importe ? Au fond de l'inconnu, pour trouver du nouveau ! - Charles Baudelaire *Le Voyage*
+11. Science sans conscience n'est que ruine de l'âme. - Rabelais *Pantagruel*
+12. Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
+13. Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de l'Etranger d'Albert Camus
+14. L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
 
 ## Amour
+
+Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et non une princesse raffinée)
 
 * Après le verbe "aimer", "aider" est le plus beau du monde - Bertha von Suttner
 * Et comme chaque jour, je t'aime d'avantage. Aujourd'hui plus qu'hier, et bien moins que demain - Rosemonde Gerard
@@ -114,6 +150,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * Être le premier amant d'une femme ne signifie rien; il faut être son dernier amant; tout est là - Maurice Donnay *Pensées*
 * Des femmes peuvent très bien se lier d'amitié avec un homme : mais pour la maintenir il faut peut-être le concours d'une petite antipathie physique - Nietzsche *humain, trop humain*
 * Qui n'a jamais connu l'amour n'a jamais connu la peine - *Tristan et Iseult*
+* Cueillez, cueillez votre jeunesse: Comme à cette fleur la vieillesse Fera ternir votre beauté - Pierre de Ronsard *Mignonne allons voir si la rose*
 
 ## Ambition
 
@@ -124,7 +161,6 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 ## La paix
 
 * La paix, le commerce, une honnête amitié avec toutes les nations, d'étroites alliances avec aucune - T. Jefferson *Discours inaugural*
-* L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
 
 ## L'argent
 
@@ -141,20 +177,23 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * À lier à Isocrate (la parole fondatrice de la société humaine): L'architecture est une sorte d'oratoire de la puissance au moyen de formes - Nietzsche *Crépuscule des idoles* 
 * Einstein - la connaissance ne s'acquiert que par l'expérience. Tout le reste n'est que de l'information. (Lien avec Cicéron?)
 * Les paroles gratuites dont on se paie coûtent généralement cher. - Stanislaw Jerzy Lec
-* "nous nous sommes débarrassés de la vie sauvage,nous nous sommes réunis pour construire des villes; nous avons fixé des lois; nous avons découvert des arts; et, presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin." - Isocrate *Éloge de la parole*
+* "nous nous sommes **débarrassés** de la vie sauvage,nous nous sommes réunis pour **construire** des villes; nous avons **fixé** des lois; nous avons **découvert** des arts; et, **presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin.**" - Isocrate *Éloge de la parole*
+* L’écrivain engagé sait que la parole est action: il sait que dévoiler c'est changer et qu'on ne peut dévoiler qu'en projetant de changer. Il a abandonné le rêve impossible de faire une peinture impartiale de la Société et de la condition humaine. - Sartre
 
 ## Actes
 
 * Nos actes ne sont éphémères qu'en apparence. La vie du présent tisse celle de l'avenir. - Gustave Le Bon
 * Il est souvent préférable d'être très actif plutôt que de penser trop intensément - Louis Bromfield *Mrs Parkington*
 * Agis de façon à ne point rougir de toi-même - Milarepa (moine poète tibétain)
+* Il faut une volonté surhumaine pour écrire et je ne suis qu'un homme - Flaubert
+* « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée Nationale
 
 ## L'autorité
 
 * Le plus fort nʼest jamais assez fort pour être toujours le maître, sʼil ne transforme sa force en droit & lʼobéissance en devoir. - Jean Jacques Rousseau *Du contrat social*
 * Céder à la force est un acte de nécessité, non de volonté; cʼest tout au plus un acte de prudence. - Jean Jacques Rousseau *Du contrat social*
 * La nature n'a fait ni serviteurs, ni maîtres. Je ne veut ni donner, ni recevoir de lois - Diderot 
-* L'ordre social ne vient pas de la nature. Il est fondé sur des conventions - JJR *Du contrat social*
+* L'ordre social ne vient pas de la nature. Il est fondé sur des conventions - Jean Jacques Rousseau *Du contrat social*
 * Personne n'aime des missionnaires armés - Robespierre
 
 ## L'autorité de la parole
@@ -163,10 +202,10 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * **"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
 * Dans le *Théétète* (4ème siècle av-JC), Socrate explique que la parole, que la maïeutique permet à l'homme d'accoucher de lui même de la vérité. "Il ne m'est permis en aucun manière ni d'acquiescer à ce qui est faux ni de cacher ce qui est vrai." "Confie toi à moi comme au fils d'une accoucheuse [...] et quand je te poserais des questions, applique toi pour y répondre de mon mieux" (*Théétète* - Platon). Sa parole fait autorité car elle n'est pas que de lui mais majoritairement de son partenaire de conversation.
 * Bernard Le Bouyer de Fontenelle (1687) - "Assurons nous bien du fait avant de nous inquiéter de la cause." (*Histoire des oracles* - Fontenelle). Frédéric Worms dans *Libération* reprend cette idée - Le discours rationnel n'est pas toujours efficace et peine à lutter contre les rumeurs qui sont rapides et impulsives. Cependant, "il ne faut pas désespérer de la vérité". **N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling**
-* Aristote - Conseille de ne pas se reposer sur ses acquis et de réussir à "cultiver l'étonnement". La philosophie se détache des autres sciences car elle ne sert pas la société mais est une fin en elle même. "Apercevoir une difficulté et s'étonner, c'est reconnaitre sa propre ignorance". 
-* Roger Bacon - Nous dit de se méfier de toute pensée populaire et de toutes nos habitudes. "L'autorité ne doit jamais être prise sans examen ni discernement" (L'importance de la méthode)
-* Stendhal - les grandes âmes se cachent; ordinairement, il ne parait qu'un peu d'originalité. Il y a plus de grandes âmes qu'on ne le croirait. (Lié aux grands discours)
-* Science sans conscience n'est que ruine de l'âme. - Rabelais
+* Conseille de ne pas se reposer sur ses acquis et de réussir à "cultiver l'étonnement". La philosophie se détache des autres sciences car elle ne sert pas la société mais est une fin en elle même. "Apercevoir une difficulté et s'étonner, c'est reconnaitre sa propre ignorance". - Aristote
+* Nous dit de se méfier de toute pensée populaire et de toutes nos habitudes. "L'autorité ne doit jamais être prise sans examen ni discernement" (L'importance de la méthode) - Roger Bacon
+* les grandes âmes se cachent; ordinairement, il ne parait qu'un peu d'originalité. Il y a plus de grandes âmes qu'on ne le croirait. (Lié aux grands discours) - Stendhal
+* Les Nuées célestes, grandes divinités des hommes oisifs, qui nous suggèrent pensée, parole, intelligence, charlatanisme, loquacité, ruse, compréhension. - Aristophane *Les Nuées*
 
 ## Vérité
 
@@ -184,15 +223,16 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * Comme un soufflé qu'on laisse attendre [l'adulation du public] ne tarde à se dégonfler - Charles Chaplin
 * "Les grands hommes font leur propre piédestal; l'avenir se charge de la statue" - Victor Hugo *Discours aux funérailles d'Honoré de Balzac*
 
-
 ## Les faits
 
 * "Assurons nous bien du fait avant de nous inquiéter de la cause." (Histoire des oracles - Bernard de Fontenelle)
 * N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling
-* Il ne faut lancer contre son adversaire des bruits infondés car il est, comme quiconque, un hôte de l'esprit - Dr 
+* Il ne faut lancer contre son adversaire des bruits infondés car il est, comme quiconque, un hôte de l'esprit - Albert Schweitzer
+* ex falso quodlibet -> d'une contradiction, on peut déduire ce qu'on veut
+	* utilisable dans un argument circulaire qui part d'une prémisse fausse pour l'affirmer.
 
 ## Fonctions et registres du langage
 
 Fonction phatique selon Barthes: la parole qui ne sert qu'à l'interaction sociale.
 
-Registre épidictique: pointer du doigt qqe chose 
+Registre épidictique: pointer du doigt quelque chose
