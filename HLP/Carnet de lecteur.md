@@ -5,7 +5,7 @@
 
 Loquor = parler (en latin)
 
-Phylosophie = l’amour de la sagesse ou l’amour du savoir en grec ancien.
+Philosophie = l’amour de la sagesse ou l’amour du savoir en grec ancien.
 
 Zeugma = Construction qui consiste à ne pas énoncer de lien, quand l'esprit peut les rétablir aisément, un mot ou un groupe de mots déjà exprimés dans une proposition immédiatement voisine (ex. « Il entre, le même jour, dans la gloire et dans le tombeau.» [Hugo]).
 
