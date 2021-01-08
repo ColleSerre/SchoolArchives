@@ -213,7 +213,7 @@ QCM page 88:
 
 - [x] La température de la Terre est constante du fait d'un équilibre dynamique. Cela signifie que le sol reçoit une puissance moyenne égale à celle qu'il émet
 
-## Comprendre que la Terre est sphérique
+# Comprendre que la Terre est sphérique
 
 1. Montrer qu'au cours de l'histoire, il a été possible de construire une représentation correcte de la forme de la Terre à partir d'arguments qui ne le sont pas.
 	* Les interprétations antiques ne sont pas des preuves directes de la forme de la terre
@@ -231,8 +231,18 @@ Arguments:
 * les étoiles apparaissent selon la position
 * l'eclipse de la terre est une ombre circulair
 
+## Référentiels
 
-### Eratosthenes
+Un référentiel a besoin d'un point d'origine et un repère.
 
+Lié au sol = référentiel terrestre ; a deux axes: nord-sud et est-ouest ; on utilise des méridiens et des parallèles pour se repérer dessus.
 
+ Activité 2 p.128:
  
+ 1. Latitude: 48° 51' 12 N ; Longitude: 2° 20' 55 E
+ 2. 6152 km 
+ 3. ?
+ 4. Car le chemin le plus court est celui qui passe par la parallèle, 
+
+# La terre dans l'univers
+

@@ -116,9 +116,33 @@ Eluard capture d'abord l'auditoire en faisant le lien entre les Tchécoslovaques
 
 Eluard s'appuie sur les valeurs de Desnos (liberté, courage, audace). Il illustre les combats de Desnos avec des métaphores, des comparaisons. Il fait des aller-retours dans le temps pour montrer que Desnos transcende les âges et que sa mémoire subsistera. Tout cela pour montrer que sa condition de poète dépasse le commun des mortels. Desnos est aussi décrit comme étant un homme à plusieurs facettes (en Desnos il y avait deux hommes). 
 
+## Observer l'émergence de l'autorité chez l'écrivain (cf: poly "Trois témoignages de la littérature du XII ème siècle")
 
-## Travail Collaboratif sur Malala à l'ONU
+### Travail Collaboratif sur Malala à l'ONU (sur docs)
 
-Comment ce discours invite-t-il à une action durable?
+Comment est née la notion d'auteur?
 
+La polyptote: l'utilisation d'un terme jusqu'à ce qu'il soit transformé. Les mots auteurs et autorité ont la même étymologie ce qui signifie que l'auteur doit faire autorité. L'autorité n'est pas chez celui qui la réclame ou chez celui qui es condescendant ou qui force à se placer au dessus ou en dessous, c'est le public qui lui confère. La communication se fait quand l'autre se sent au dessus et dans une relation de bienveillance, le pouvoir se gagne, il ne se vole pas.
 
+Il faut avoir:
+
+* Compétence
+* Confiance
+* Respect d'autrui
+
+L'écrivain fait donc autorité, par son savoir, par son respect.
+
+### Diffusion des idées 
+
+La diffusion des idées commence avec l'invention de l'imprimerie et avec cela commence la connaissance des auteurs (ex: Chrétien de Troyes avec le Chevalier de la charrette). Par exemple, Tristan et Iseult était un conte oral qui a été repris de nombreuses fois et dont on ne connais pas le premier auteur. Même si l'oeuvre est retranscrite (par Beroul par exemple), c'est l'auteur original et inconnu qui peut avoir l'autorité. 
+
+### Si la notion d'auteur n'existait pas, qui diffusait la littérature ?
+
+* Les jongleurs (dire pour divertir, il utilise la langue vulgaire)
+* Les copistes (un intellectuel qui copie puis ajoute et retire certains pour y ajouter sa personnalité, la figure de l'auteur se créé)
+* Le Clerc (homme de clergé)
+* Les aèdes / bardes
+
+### Une fois l'écrivain apparu, quid de la propriété intellectuelle?
+
+La chute de Constantinople (1553) éclate le centre de gravité des idées et propage les idées basées à Constantinople dans le reste du monde. Ils se réfugient dans les cours des Rois qui leurs commandent des écrits sur des croisades, les vies de la cour, la foi avant tout etc. Les auteurs dépendaient donc des Rois. 

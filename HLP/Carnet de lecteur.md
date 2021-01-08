@@ -5,7 +5,11 @@
 
 Loquor = parler (en latin)
 
-Phylosophie = l’amour de la sagesse ou l’amour du savoir en grec ancien.
+Du latin poesis (« poésie, art poétique, œuvre poétique »), lui-même issu du grec ancien ποίησις, poíêsis (« action de faire, création »).
+
+Auctor (auteur) = autor (même racine avec autorité)
+
+Philosophie = l’amour de la sagesse ou l’amour du savoir en grec ancien.
 
 Zeugma = Construction qui consiste à ne pas énoncer de lien, quand l'esprit peut les rétablir aisément, un mot ou un groupe de mots déjà exprimés dans une proposition immédiatement voisine (ex. « Il entre, le même jour, dans la gloire et dans le tombeau.» [Hugo]).
 
@@ -20,6 +24,10 @@ Zeugma = Construction qui consiste à ne pas énoncer de lien, quand l'esprit pe
 **Sophisme**: raisonnement fallacieux qui privilégie la forme au fond
 
 Loi de Brandolini: la quantité d'énergie nécessaire pour réfuter des idioties est d'un ordre de grandeur supérieur à celle nécessaire pour les produire.
+
+**Ataraxie**: L'absence de trouble/douleur (Épicure)
+
+Chez les grecs, *paideia* = éducation. Une relation romantique entre un homme mur et un homme jeune pour lui apprendre la vie
 
 ## Religion
 
@@ -36,6 +44,7 @@ Selon Gustave Le Bon dans *Psychologie des foules*:
 
 * "Les seuls changements importants s'opèrent dans les opinions, les conceptions, les croyances."
 * "L'action des foules est l'unique force que rien ne menace et dont prestige grandisse toujours."
+* "il n'y a nullement somme et moyenne des éléments, mais combinaison et création de nouveaux caractères"
 
 ## L'orateur (à compléter)
 
@@ -78,7 +87,7 @@ Il y a donc trois sortes de lits, mais aussi trois sortes d'art."
 
 ### Le fin'amor
 
-Le fin’amor (amour courtois, ne jamais blesser et toujours être raffiné) n’est-il qu’utile à flatter l’égo de la femme soumise pour la conforter dans son infériorité. 
+Le fin’amor (amour courtois, ne jamais blesser et toujours être raffiné) n’est-il qu’utile à flatter l’égo de la femme soumise pour la conforter dans son infériorité ?
 
 ## L'autorité de la parole
 
@@ -115,6 +124,8 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 	**"L'autorité ne doit jamais être prise sans examen ni discernement"** (*L'importance de la méthode* - Roger Bacon)
 	
 6. Barbara Cassin - Il y a trois raisons pour lesquelles on veut parler: "parler de", "parler à" et "parler pour parler" (fonction phatique du langage). Dans la troisième, il se produit un "effet-monde" qui change le monde (ça peut être peu). Un discours qui transforme le monde ne ressemble pas à un discours et "se présente comme réel, comme ce qui va de soi", **"Mais attention, un "discours qui gagne" n'est pas forcément un "beau discours"**. Un discours ne peut pas se limiter à avoir un effet sur les consciences pour être gagnant. **"Le discours de la philosophie, qui n'apparait pas comme un discours formate notre perception du monde.** Quand Marx parle de classes sociales, on se met à penser en ces termes. L'éloge est aussi un discours gagnant car il forme la perception d'une notion ou d'une chose et car il peut changer les valeurs. En conclusion, **un discours n'est pas gagnant car il touche mais car il a un impact et fait un changement à grande échelle**
+
+Placere e docere: plaire puis enseigner 
 	
 # Répertoire de citations
 
@@ -124,18 +135,19 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 2. L'angoisse est la disposition qui nous place face au néant - Martin Heidegger
 3. L'appétit vient en mangeant - Rabelais *Gargantua*
 4. Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
-5. La vérité remonte toujours à la surface comme le petit Grégory - Seth Gueko
-6. Cueille le jour - Horace
-7. Memento Mori - Horace
-L'enfer c'est les autres - Jean Paul Sartre Le Huis Clos
+5. Cueille le jour - Horace
+6. Memento Mori - Horace
+L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
 7. La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - Jean Jaurès cité par Robert Badinter dans son réquisitoire contre la peine de mort
 8. Le surréalisme est la surprise magique de trouver un lion dans un placard, là où on était sur de trouver des chemises - Frida Kahlo
 9. Tout est pour le mieux dans le meilleur des mondes. - Voltaire (ironiquement) *Candide*
 10. Plonger au fond du gouffre. Enfer ou Ciel, qu'importe ? Au fond de l'inconnu, pour trouver du nouveau ! - Charles Baudelaire *Le Voyage*
 11. Science sans conscience n'est que ruine de l'âme. - Rabelais *Pantagruel*
 12. Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
-13. Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de l'Etranger d'Albert Camus
+13. Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
 14. L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
+15. "Le succès c'est être capable d'aller d'échec en échec sans perdre son enthousiasme." - Winston Churchill
+16. Cogito ergo sum ; Je pense donc je suis - Descartes *Discours sur la méthode*
 
 ## Amour
 
@@ -161,11 +173,13 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 ## La paix
 
 * La paix, le commerce, une honnête amitié avec toutes les nations, d'étroites alliances avec aucune - T. Jefferson *Discours inaugural*
+* La mort n'est rien pour nous puisque quand nous sommes là, elle n'y est pas et lorsqu'elle arrive, nous n'y sommes plus - Épicure *Lettre à Mécénée*
 
 ## L'argent
 
 * Les affaires, c'est simple: c'est l'argent des autres - Alexandre Dumas (fils) *La question d'argent*
 * L'âge d'or c'était l'âge où l'or ne régnait pas - Lezay-Marnesia *Epître à mon curé*
+* Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Comte-Sponville
 
 ## L'orateur
 
@@ -177,7 +191,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * À lier à Isocrate (la parole fondatrice de la société humaine): L'architecture est une sorte d'oratoire de la puissance au moyen de formes - Nietzsche *Crépuscule des idoles* 
 * Einstein - la connaissance ne s'acquiert que par l'expérience. Tout le reste n'est que de l'information. (Lien avec Cicéron?)
 * Les paroles gratuites dont on se paie coûtent généralement cher. - Stanislaw Jerzy Lec
-* "nous nous sommes **débarrassés** de la vie sauvage,nous nous sommes réunis pour **construire** des villes; nous avons **fixé** des lois; nous avons **découvert** des arts; et, **presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin.**" - Isocrate *Éloge de la parole*
+* "nous nous sommes **débarrassés** de la vie sauvage, nous nous sommes réunis pour **construire** des villes; nous avons **fixé** des lois; nous avons **découvert** des arts; et, **presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin.**" - Isocrate *Éloge de la parole*
 * L’écrivain engagé sait que la parole est action: il sait que dévoiler c'est changer et qu'on ne peut dévoiler qu'en projetant de changer. Il a abandonné le rêve impossible de faire une peinture impartiale de la Société et de la condition humaine. - Sartre
 
 ## Actes
@@ -236,3 +250,5 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 Fonction phatique selon Barthes: la parole qui ne sert qu'à l'interaction sociale.
 
 Registre épidictique: pointer du doigt quelque chose
+
+Registre didactique: pour enseigner

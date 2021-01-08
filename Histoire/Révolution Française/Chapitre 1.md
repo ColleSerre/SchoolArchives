@@ -288,3 +288,23 @@ Les Espagnols par exemple ne demandent pas un nouvel état mais des limites aux 
 Les Carbonari était une société secrète qui lutta contre la domination française et qui ont tentés d'établir un état italien.
 
 Les révoltes dans les principautés italiennes sont un exemple de la solidarité répressive des états de la Quadruple Alliance. 
+
+## Massacre de Chios
+
+1. En Avril 1822, les Ottomans ont perpétré le massacre de Chios contre la population grecque de l'île de Chios. Il constitue un des épisodes les plus célèbres de la guerre d'indépendance grecque. Il a fait 25 000 morts et 45 000 personnes réduits en esclavage.
+2. Chios était une île commerçante. Le pillage et le massacre de l'île et de ses habitants ont fait que les pertes pour les correspondants européens s'élevaient à plus de 195 millions de piastres (pour les britanniques). Les émotions arrivèrent plus tard avec le ministre des affaires étrangères (Foreign Secretary) britannique *Castlereagh* qui menaça de rompre les relations diplomatiques avec l'empire ottoman. Delacroix exposa sa *Scène des massacres de Scio* au Salon de 1824. Charles X en fit immédiatement l'acquisition pour les collections du Louvre. Des collectes de fonds et des expositions furent organisées par le prince Golitsyne de Russie et la galerie Lebrun. Le poème *L'enfant grec* de Victor Hugo dans *Les Orientales* est consacré au massacre.
+3. L'engagement de personnalités non grecques, le plus souvent libérales pour la cause de la Grèce contre l'Empire ottoman lors de la guerre d'indépendance grecque (1821-1832)
+4. [Art](https://fr.wikipedia.org/wiki/Philhell%C3%A9nisme#L'art)
+5. Delacroix évoque un thème universel, la violence de la guerre sur les civiles qui sera évoquée dans Guernica par Picasso.
+
+Les deux documents se complètent car le peintre et le poète ont le même objectif, susciter l'émoi et l'indignation. Les artistes forcent l'opinion à ouvrir les yeux sur la réalité de la guerre du point de vue des Grecs. Le spectateur comme le lecteur sont sommés de choisir leur camp et de soutenir le mouvement philhellène. 
+
+## Les Trois glorieuses 
+
+En 1830, changement de Roi et de dynastie (plus les bourbons). C'est Louis Philippe d'Orléans qui est au pouvoir avec le soutien de la bourgeoisie. Elle est renversée en 1848. Elle est renversée car les ordonnances du roi restreignant la liberté de la presse a attisé la colère des français qui descendirent dans la rue.
+
+## Restauration 
+
+### La charte de 1814
+
+La chambre des pairs: composée des aristocrates, des nobles. On y accède par hérédité
