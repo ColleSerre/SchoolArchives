@@ -68,5 +68,21 @@ La passage (texte 1) se présente comme étant entouré l'opinion de Mme de Char
 1. Dans quel cadre culturel se développe la littérature précieuse ?  
 	* La littérature précieuse se développe dans les salons des femmes de la noblesse au 17ème siècle quand elles se rassemblent pour commenter la littérature, écrire leurs propres textes (surtout des romans et de la poésie).  
 2. En quoi peut-on dire que la préciosité propose avant tout une éthique amoureuse ? 
-3. En observant la Carte de Tendre, donnez des exemples de raffinement et de nuance dans  l’expression du sentiment amoureux.  
+3. En observant la Carte de Tendre, donnez des exemples de raffinement et de nuance dans l’expression du sentiment amoureux.  
 4. En quoi peut-on dire que la préciosité est une forme de féminisme ?  
+
+## Épisodes majeurs
+
+1. Description de la princesse
+2. Rencontre de la princesse et du duc au bal
+3. La scène du pavillon
+4. L'épisode du vol du portrait
+5. La séparation 
+
+## Citations
+
+1. "Est-il possible que l'amour m'ait si absolument ôté la raison et la hardiesse, et qu'il m'ait rendu si différent de ce que j'ai été dans les autres passions de ma vie ?"
+2. "L'auteur et son roman : couple infernal. Qui est le maître de l'autre ?" - Bernard Pingaud
+3. "J'avoue, répondit-elle, que les passions peuvent me conduire mais elles ne sauraient m'aveugler."
+4. "Les paroles les plus obscures d'un homme qui plaît donnent plus d'agitation que des déclarations ouvertes d'un homme qui ne plaît pas."
+

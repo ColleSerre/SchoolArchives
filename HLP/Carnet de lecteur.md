@@ -11,7 +11,7 @@ Auctor (auteur) = autor (même racine avec autorité)
 
 Philosophie = l’amour de la sagesse ou l’amour du savoir en grec ancien.
 
-Zeugma = Construction qui consiste à ne pas énoncer de lien, quand l'esprit peut les rétablir aisément, un mot ou un groupe de mots déjà exprimés dans une proposition immédiatement voisine (ex. « Il entre, le même jour, dans la gloire et dans le tombeau.» [Hugo]).
+Zeugma = Construction qui consiste à ne pas énoncer de lien, quand l'esprit peut les rétablir aisément, un mot ou un groupe de mots déjà exprimés dans une proposition immédiatement voisine (ex. « Il entre, le même jour, dans la gloire et dans le tombeau.» - Victor Hugo).
 
 **Eloquence**: toucher, persuader
 
@@ -27,14 +27,14 @@ Loi de Brandolini: la quantité d'énergie nécessaire pour réfuter des idiotie
 
 **Ataraxie**: L'absence de trouble/douleur (Épicure)
 
-Chez les grecs, *paideia* = éducation. Une relation romantique entre un homme mur et un homme jeune pour lui apprendre la vie
+Chez les grecs, *paideia* = éducation. Une relation romantique entre un homme mur et un homme jeune pour lui apprendre la vie. Ce qui donne **Placere e docere: plaire puis enseigner**
 
 ## Religion
 
 Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a formé religare, lier plus fortement.
 
 * Il y a dans le coeur de l'homme un vide en forme de dieu - Blaise Pascal *Pensées*
-* La religion est l'opium du peuple - Karl Marx
+* La religion est le soupir de la créature accablée, le coeur d’un monde sans coeur, comme elle est l’esprit d’une époque sans esprit. Elle est l’opium du peuple - Karl Marx
 * Si Dieu n'existait pas, il faudrait l'inventer - Voltaire
 * Ni dieu ni maitre -  Mikhaïl Bakounine
 
@@ -45,6 +45,7 @@ Selon Gustave Le Bon dans *Psychologie des foules*:
 * "Les seuls changements importants s'opèrent dans les opinions, les conceptions, les croyances."
 * "L'action des foules est l'unique force que rien ne menace et dont prestige grandisse toujours."
 * "il n'y a nullement somme et moyenne des éléments, mais combinaison et création de nouveaux caractères"
+* “Nos actes ne sont éphémères qu’en apparence, la vie du présent tisse celle de l’avenir”
 
 ## L'orateur (à compléter)
 
@@ -64,9 +65,7 @@ Selon Cicéron: il faut la **technique** (trouver, ranger, embellir, apprendre, 
 Selon Isocrate: il faut s'entraîner, se dépasser, ne pas être surpassé
 "nous nous sommes débarrassés de la vie sauvage, nous nous sommes réunis pour construire des villes; nous avons fixé des lois; nous avons découvert des arts; et, presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin." - Isocrate 
 
-## Les séductions de la parole [Cours en PDF](https://vs.ecolejeanninemanuel.net/FichiersExternes/f8fbba46e80d1a7f4cd6af3d2b91db8f4cda80fc3cbbfd9ce0826e8a1b53894c672a66eb845cc4d7330a7d5f08990b61/Cours%201%C3%A8re%20Humanit%C3%A9s%20Litt%C3%A9rature%20et%20Philosophie%20-%20La%20parole%20peut-elle%20induire%20en%20erreur%20(Les%20s%C3%A9ductions%20de%20la%20parole).pdf?Session=4422745)
-
-Du latin poesis (« poésie, art poétique, œuvre poétique »), lui-même issu du grec ancien ποίησις, poíêsis (« action de faire, création »).
+## Les séductions de la parole [Cours en PDF](Cours 1ère Humanités Littérature et Philosophie - La parole peut-elle induire en erreur (Les séductions de la parole).pdf)
 
 Il est tellement important de plaire en matière de parole, de discours et de rhétorique, que tout discours devient discours amoureux. Au début de chaque prise de parole, en exorde de chaque discours, un orateur cherche ainsi à capter, non pas seulement l’attention, mais aussi la bienveillance de l’auditoire (captatio benevolentiae).
 
@@ -84,6 +83,8 @@ Platon imagine une Cité idéale basée sur la vérité où il n'y aurait aucun 
 - l'image du lit peut être faite par n'importe quelle personne utilisant un miroir, par exemple un peintre (596e). Mais il ne produit rien, il est seulement l'imitateur de ce que les autres ont fait (597e), comme le faiseur de tragédies ou le poète. Ce qu'il imite n'est même pas l'essence du lit, mais l'ouvrage des professionnels (598a), et il n'en imite même pas la réalité, mais seulement l'apparence, et n'en atteint que le simulacre. Il n'entend rien à leur métier, et n'est qu'un faiseur d'illusions (598c), un sorcier.
 
 Il y a donc trois sortes de lits, mais aussi trois sortes d'art."
+
+“La séduction, on le sait passe par l’apparence et non par le corps” - Françoise Dastur
 
 ### Le fin'amor
 
@@ -125,29 +126,31 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 	
 6. Barbara Cassin - Il y a trois raisons pour lesquelles on veut parler: "parler de", "parler à" et "parler pour parler" (fonction phatique du langage). Dans la troisième, il se produit un "effet-monde" qui change le monde (ça peut être peu). Un discours qui transforme le monde ne ressemble pas à un discours et "se présente comme réel, comme ce qui va de soi", **"Mais attention, un "discours qui gagne" n'est pas forcément un "beau discours"**. Un discours ne peut pas se limiter à avoir un effet sur les consciences pour être gagnant. **"Le discours de la philosophie, qui n'apparait pas comme un discours formate notre perception du monde.** Quand Marx parle de classes sociales, on se met à penser en ces termes. L'éloge est aussi un discours gagnant car il forme la perception d'une notion ou d'une chose et car il peut changer les valeurs. En conclusion, **un discours n'est pas gagnant car il touche mais car il a un impact et fait un changement à grande échelle**
 
-Placere e docere: plaire puis enseigner 
+## L'autorité de l'auteur
+
+### Lamartine
+
+Lamartine se place comme l'anti-pétrarque car pour lui le poète doit savoir exprimer ses émotions de manière personnelle et sincère. Pour Lamartine, trouver sa voix en littérature ne saurait être "à la manière de"; c'est de la fausse littérature, de la vacuité. "Je n'étais pas devenu plus poète, j'étais devenu plus sensible, plus sérieux, plus vrai", "On entendit une âme, on vit un homme au lieu d'un livre"
+
+### Simone de Beauvoir
+
+Simone de Beauvoir raconte ses rapports conflictuels avec ses parents et surtout avec son père conservateur qui se désole qu'elle ne soit pas une "bonne fille rangée" alors que ses accomplissements académiques sont remarquables. Ce rapport à l'étude est exceptionnel pour l'époque car **l'apprentissages n'est pas un à-coté mais sa vie entière.** "Elles travaillaient en amateur tandis que j'étais passée professionnelle", "Il (mon père) aurait pu s'accommoder d'une fille exceptionnelle à condition qu'elle évitât d'être insolite.
+
+### Annie Leclerc
+
+Annie Leclerc expose sa volonté de trouver une plus grande place à la parole des femmes dans le débat public et dans les situations à hautes responsabilités en dénonçant le monopole que les hommes ont sur la parole et sur le monde. "Les paroles d'hommes ont l'air de se faire la guerre. C'est pour faire oublier que [les paroles d'hommes] disent toutes la même chose: notre parole d'homme décide."
 	
 # Répertoire de citations
 
 ## Non classées
 
-1. Dans l'adversité de nos meilleurs amis, nous trouvons quelque chose qui ne nous déplaît pas - La Rochefoucauld *Maximes*
-2. L'angoisse est la disposition qui nous place face au néant - Martin Heidegger
 3. L'appétit vient en mangeant - Rabelais *Gargantua*
-4. Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
-5. Cueille le jour - Horace
-6. Memento Mori - Horace
-L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
-7. La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - Jean Jaurès cité par Robert Badinter dans son réquisitoire contre la peine de mort
 8. Le surréalisme est la surprise magique de trouver un lion dans un placard, là où on était sur de trouver des chemises - Frida Kahlo
-9. Tout est pour le mieux dans le meilleur des mondes. - Voltaire (ironiquement) *Candide*
-10. Plonger au fond du gouffre. Enfer ou Ciel, qu'importe ? Au fond de l'inconnu, pour trouver du nouveau ! - Charles Baudelaire *Le Voyage*
-11. Science sans conscience n'est que ruine de l'âme. - Rabelais *Pantagruel*
-12. Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
-13. Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
-14. L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
-15. "Le succès c'est être capable d'aller d'échec en échec sans perdre son enthousiasme." - Winston Churchill
-16. Cogito ergo sum ; Je pense donc je suis - Descartes *Discours sur la méthode*
+
+## Politique
+
+* La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - Jean Jaurès cité par Robert Badinter dans son réquisitoire contre la peine de mort
+* Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
 
 ## Amour
 
@@ -163,28 +166,44 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Des femmes peuvent très bien se lier d'amitié avec un homme : mais pour la maintenir il faut peut-être le concours d'une petite antipathie physique - Nietzsche *humain, trop humain*
 * Qui n'a jamais connu l'amour n'a jamais connu la peine - *Tristan et Iseult*
 * Cueillez, cueillez votre jeunesse: Comme à cette fleur la vieillesse Fera ternir votre beauté - Pierre de Ronsard *Mignonne allons voir si la rose*
+* Dans l'adversité de nos meilleurs amis, nous trouvons quelque chose qui ne nous déplaît pas - La Rochefoucauld *Maximes*
+
+## Pensées
+
+* Plonger au fond du gouffre. Enfer ou Ciel, qu'importe ? Au fond de l'inconnu, pour trouver du nouveau ! - Charles Baudelaire *Le Voyage*
+* C'est dans le mots que nous pensons - Hegel *Encyclopédie des sciences philosophiques en abrégé*
+* Cogito ergo sum ; Je pense donc je suis - Descartes *Discours sur la méthode*
 
 ## Ambition
 
 * Deux démons partagent notre vie et ont chassé la raison; j'appelle l'un l'amour et l'autre l'ambition - J. De La Fontaine *Le Berger et le Roi*
 * L'ambition, c'est la richesse des pauvres - Marcel Pagnol 
 * On ne peut mieux vivre qu'en cherchant à devenir meilleur - Socrate
+* Memento Mori - Horace
 
 ## La paix
 
 * La paix, le commerce, une honnête amitié avec toutes les nations, d'étroites alliances avec aucune - T. Jefferson *Discours inaugural*
 * La mort n'est rien pour nous puisque quand nous sommes là, elle n'y est pas et lorsqu'elle arrive, nous n'y sommes plus - Épicure *Lettre à Mécénée*
+* L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
+* Tout est pour le mieux dans le meilleur des mondes. - Voltaire (ironiquement) *Candide*
+
+## Peur
+
+* L'angoisse est la disposition qui nous place face au néant - Martin Heidegger
 
 ## L'argent
 
 * Les affaires, c'est simple: c'est l'argent des autres - Alexandre Dumas (fils) *La question d'argent*
 * L'âge d'or c'était l'âge où l'or ne régnait pas - Lezay-Marnesia *Epître à mon curé*
 * Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Comte-Sponville
+* Ceux qui ont pris tout le plat dans leur assiette, laissant les assiettes des autres vides, et qui ayant tout disent avec une bonne figure « Nous qui avons tout, nous sommes pour la paix ! », je sais ce que je dois leur crier à ceux-là : les premiers violents, les provocateurs, c’est vous ! - l'Abbé Pierre *La voix des sans-voix*
+* Et qéuand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
 
 ## L'orateur
 
-* Tout orateur a deux génies, le sien et celui du siècle qui l'écoute - Lacordaire 
-* La parole a été donnée à l'homme pour déguiser sa pensée - Talleyrand
+* Tout orateur a deux génies, le sien et celui du siècle qui l'écoute - Henri Lacordaire 
+* La parole a été donnée à l'homme pour déguiser sa pensée - Charles-Maurice de Talleyrand-Périgord
 * il y a beaucoup de bouches qui parlent et fort peu de têtes qui pensent. - Victor Hugo *Les Misérables Tome 1*
 * Il faut être ignorant comme un maître d'école pour se flatter de dire une parole que personne n'ait pu dire avant nous - Montaigne *Essais 1*
 * Prend la parole dans deux circonstances: quand il s'agit de choses que tu sais parfaitement, ou quand la nécessité l'exige - Isocrate
@@ -201,6 +220,9 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Agis de façon à ne point rougir de toi-même - Milarepa (moine poète tibétain)
 * Il faut une volonté surhumaine pour écrire et je ne suis qu'un homme - Flaubert
 * « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée Nationale
+* Cueille le jour - Horace
+* "Le succès c'est être capable d'aller d'échec en échec sans perdre son enthousiasme." - Winston Churchill
+* Je ne m’étonne jamais de voir des hommes mauvais, mais je m’étonne souvent de ne point les voir honteux - Jonathan Swift
 
 ## L'autorité
 
@@ -209,8 +231,9 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * La nature n'a fait ni serviteurs, ni maîtres. Je ne veut ni donner, ni recevoir de lois - Diderot 
 * L'ordre social ne vient pas de la nature. Il est fondé sur des conventions - Jean Jacques Rousseau *Du contrat social*
 * Personne n'aime des missionnaires armés - Robespierre
+* Science sans conscience n'est que ruine de l'âme. - Rabelais *Pantagruel*
 
-## L'autorité de la parole
+## L'autorité de la parole - Cours
 
 * L'homme est à la mesure de toute chose - Protagoras
 * **"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
@@ -223,18 +246,21 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 ## Vérité
 
-* Vérité et amitié nous sont chères l'une et l'autre, mais c'est notre devoir sacré d'accorder la préférence à la vérité - Aristote *Éthique*
+* Vérité et amitié nous sont chères l'une et l'autre, mais c'est notre devoir sacré d'accorder la préférence à la vérité - Aristote *Éthique à Nicomaque*
 * Mal nommer les choses, c'est ajouter au malheur du monde. - Albert Camus
 
 ## L'âge
 
-* Ne pourrons nous jamais sur l'océan des âges, Jeter l'ancre un seul jour ? - Alphonse de Lamartine *Méditations poétiques* 
+* Ne pourrons nous jamais sur l'océan des âges, Jeter l'ancre un seul jour ? - Alphonse de Lamartine *Méditations poétiques - Le Lac* 
+* Le temps passe et nous coulons - Alphonse de Lamartine *Méditations poétiques - Le Lac*
 * L'âge moderne représente le triomphe de la médiocrité collective - Gustave le Bon *Hier et Demain*
 * L'art est long et le temps est court - Charles Baudelaire *Les Fleurs du Mal*
+* Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
+* Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
 
 ## Éloge
 
-* Comme un soufflé qu'on laisse attendre [l'adulation du public] ne tarde à se dégonfler - Charles Chaplin
+* Comme un soufflé qu'on laisse attendre [l'adulation du public] ne tarde à se dégonfler - Charlie Chaplin
 * "Les grands hommes font leur propre piédestal; l'avenir se charge de la statue" - Victor Hugo *Discours aux funérailles d'Honoré de Balzac*
 
 ## Les faits
@@ -242,8 +268,18 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * "Assurons nous bien du fait avant de nous inquiéter de la cause." (Histoire des oracles - Bernard de Fontenelle)
 * N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling
 * Il ne faut lancer contre son adversaire des bruits infondés car il est, comme quiconque, un hôte de l'esprit - Albert Schweitzer
+* Nous ne voyons pas les choses mêmes ; nous nous bornons à lire des étiquettes collées sur elles - Henri Bergson *Le rire*
+* Il n'y a de science que du général - Henri Poincaré (La science est la recherche d'un cas général)
 * ex falso quodlibet -> d'une contradiction, on peut déduire ce qu'on veut
 	* utilisable dans un argument circulaire qui part d'une prémisse fausse pour l'affirmer.
+* La vérité passe par 3 étapes: 
+	1. Elle est d'abord raillée, contredite
+	2. Elle est attaquée jusqu'à la mort s'il le faut
+	3. Elle est admise comme ayant été toujours une évidence - Schopenhauer 
+
+## Dictatures
+
+* Ce qu’il [l'homme blanc, bourgeois et occidental] ne pardonne pas à Hitler, ce n’est pas le crime en soi, le crime contre l’homme, ce n’est pas l’humiliation de l’homme en soi, c’est le crime contre l’homme blanc, c’est l’humiliation de l’homme blanc, et d’avoir appliqué à l’Europe des procédés colonialistes dont ne relevaient jusqu’ici que les Arabes d’Algérie, les coolies de l’Inde et les nègres d’Afrique. - Aimé Césaire *Discours sur le colonialisme*
 
 ## Fonctions et registres du langage
 

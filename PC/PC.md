@@ -40,4 +40,17 @@ $$\text{Concentration molaire C = [ espèce ]} = \frac{n}{V}$$
 $$[K^+] = \frac{2xmax}{Vsolution}$$
 $$[SO_4^{2-}] = \frac{max}{Vsolution}$$
 
-3)
+---
+## Les fluides au repos
+
+La pression est une force par unité de surface, plus la surface est petite, plus la pression est grande
+
+T température -> agitation des molécules 
+
+P pression -> Force pressante: $$P = \frac{F}{S}$$
+
+$$\rho \text{: masse volumique}$$ 
+
+$V_m\text{: Volume molaire}$
+
+Formule de la pression dans un fluide: $P = \rho\cdot g \cdot h$

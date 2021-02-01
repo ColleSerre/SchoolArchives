@@ -116,7 +116,7 @@ Eluard capture d'abord l'auditoire en faisant le lien entre les Tchécoslovaques
 
 Eluard s'appuie sur les valeurs de Desnos (liberté, courage, audace). Il illustre les combats de Desnos avec des métaphores, des comparaisons. Il fait des aller-retours dans le temps pour montrer que Desnos transcende les âges et que sa mémoire subsistera. Tout cela pour montrer que sa condition de poète dépasse le commun des mortels. Desnos est aussi décrit comme étant un homme à plusieurs facettes (en Desnos il y avait deux hommes). 
 
-## Observer l'émergence de l'autorité chez l'écrivain (cf: poly "Trois témoignages de la littérature du XII ème siècle")
+## Observer l'émergence de l'autorité chez l'écrivain (cf: poly "Trois témoignages de la littérature du XII ème siècle") au Moyen Âge (5ème au XVIème)
 
 ### Travail Collaboratif sur Malala à l'ONU (sur docs)
 
@@ -134,7 +134,7 @@ L'écrivain fait donc autorité, par son savoir, par son respect.
 
 ### Diffusion des idées 
 
-La diffusion des idées commence avec l'invention de l'imprimerie et avec cela commence la connaissance des auteurs (ex: Chrétien de Troyes avec le Chevalier de la charrette). Par exemple, Tristan et Iseult était un conte oral qui a été repris de nombreuses fois et dont on ne connais pas le premier auteur. Même si l'oeuvre est retranscrite (par Beroul par exemple), c'est l'auteur original et inconnu qui peut avoir l'autorité. 
+La diffusion des idées commence avec l'invention de l'imprimerie et avec cela commence la connaissance des auteurs (ex: Chrétien de Troyes avec le Chevalier de la charrette). Par exemple, Tristan et Iseut était un conte oral qui a été repris de nombreuses fois et dont on ne connais pas le premier auteur. Même si l'oeuvre est retranscrite (par Beroul par exemple), c'est l'auteur original et inconnu qui peut avoir l'autorité. 
 
 ### Si la notion d'auteur n'existait pas, qui diffusait la littérature ?
 
@@ -146,3 +146,73 @@ La diffusion des idées commence avec l'invention de l'imprimerie et avec cela c
 ### Une fois l'écrivain apparu, quid de la propriété intellectuelle?
 
 La chute de Constantinople (1553) éclate le centre de gravité des idées et propage les idées basées à Constantinople dans le reste du monde. Ils se réfugient dans les cours des Rois qui leurs commandent des écrits sur des croisades, les vies de la cour, la foi avant tout etc. Les auteurs dépendaient donc des Rois. 
+
+### Qui détient le pouvoir des mots au Moyen-âge
+
+Du XIIème au XVème siècle, la poésie fait autorité car c'est celui qui dit la parole malgré qu'il en soit pas toujours celui qui l'ai écrite. La poésie n'est pas forcément sincère car elle est de commande jusqu'au XVème siècle (quand les poèmes sont d'amour, le poète n'a jamais rencontré la femme). Cela change avec François Villon et Charles d'Orléans qui évoquent des émotions et des sentiments qui leurs sont propres, **la matière devient l'individu au XVème**. Villon se place en opposition au Clerc en s'interrogeant sur la mort, sur ses angoisses quand il est en prison, étant étudiant rebelle, et voyant ses amis pendus et en décrivant les corps de ses camarades (La Ballade des Pendus). **La poésie se personalise**.
+
+Au XVIème siècle, avec Clément Marot qui cherche des formes originales ce qui lui vaudra des querelles. Cette querelle oppose les anciens qui veulent la continuité et les modernes (les futurs auteurs de la pléiade). Il propose de quitter les oeuvres moyenâgeuses. Il fréquentera *Les lettres lyonnaises*, un salon lyonnais tenu par Louise Labé. Lyon était le centre des connaissances en France car les échanges de fil venants de Marseille se dirigeaient vers les nombreuses manufactures royales de Lyon. 
+
+Louis Labé (Je vis, je meurt) et *les lettres lyonnaises* imposent le sonnet dans la tendance actuelle pour décrire la passion éphémère envers d'autres hommes que son mari.
+
+Maurice Scève propose le Pétrarquisme (appliquer de manière superficielle les métaphores principales de la rhétorique de Pétrarque) qui deviendra le verbe pétrarquiser (péjoratif) qui signifie qu'on s'applique seulement à une recette. C'est à cela que s'opposera Louise Labé qui exprimera ses amours uniques à chaque fois en critiquant que les hommes calquent tous Pétrarque et n'osent pas exprimer leurs émotions avec une poésie qui leur est propre.
+
+Les poètes de *La Pléiade*, Ronsard et Du Bellay, sont jeunes à l'époque et modernes car ils emploient le français, imposé par François 1er en 1539 par l'ordonnance de Villers-Côterets. Ils sont partisans de cette langue dans *Défense et Illustration de la langue française* écrit par tout le groupe en 1549. L'oeuvre de Du Bellay, *Les Regrets* (Les vieux singes de la cour), qui impose des thèmes personnels et parle de ses émotions: "Je me plains à mes vers qui sont mes plus surs secrétaires". La poésie de Du Bellay est osée car il critique l'aristocratie dans *Les vieux singes de la cour*. 
+
+### N'y a t-il que la poésie qui vaille ?
+
+Le théâtre au XVème siècle est soit religieux soit profane et retourne au théâtre antique au XVIème siècle car Dorat (grand professeur de Ronsard) considère qu'il est fondamental de retourner au texte brut et que les siècles ont pervertis la langue. On revient à Sophocles, Euripides, Sénèque, Aristote. Garnier positionne le théâtre de Molière, de Racine, de Corneille en actes, en scènes.
+
+Le roman au XVème siècle était souvent satirique et se moque des moeurs de l'époque. Plutôt que de s'attaquer au roi ou au pouvoir en place on s'attaque à ce qui orbite autour. Puis ce sont les conteurs comme Marguerite de Navarre avec *Heptamerone* (10 anecdotes qui amènent à une morale) ou Rabelais avec *Gargantua* qui dominent au XVIème. Dans son prologue de *Gargantua;*, Rabelais s'adresse au lecteur qui ne s'arrête pas qu'au divertissement (l'oeuvre sera divertissante mais aussi apprenante "sudecere es ducere") mais s'adresse aussi à ses détracteurs qui pensent qu'il s'adresse à eux en affirmant un autre lectorat: "Buveur très illustres, et vos vérolés très précieux - car c'est à vous, et non aux autres, que je dédie mes écrits." On a le retour au Banquet de Socrate qui peut plaire aux érudits. On a donc: Socrate est laid, mon texte est intelligent, or Socrate est intelligent à l'intérieur donc mon texte est intelligent à l'intérieur. 
+
+Il veut montrer que son oeuvre est placée sous l'égide du jeu, du divertissement. Il nous accueille avec une provocation avec la première phrase "Buveur très illustres, et vos vérolés très précieux - car c'est à vous, et non aux autres, que je dédie mes écrits". Il la place sous l'égide du jeu mais elle ne manque pas de gravité ni d'intérêt. **Le grotesque n'empêche pas le didacte.**
+
+### Lamartine
+
+Lamartine se place comme l'anti-pétrarque car pour lui le poète doit savoir exprimer ses émotions de manière personnelle et sincère. Pour Lamartine, trouver sa voix en littérature ne saurait être "à la manière de"; c'est de la fausse littérature, de la vacuité. "Je n'étais pas devenu plus poète, j'étais devenu plus sensible, plus sérieux, plus vrai", "On entendit une âme, on vit un homme au lieu d'un livre"
+
+### Simone de Beauvoir
+
+Simone de Beauvoir raconte ses rapports conflictuels avec ses parents et surtout avec son père conservateur qui se désole qu'elle ne soit pas une "bonne fille rangée" alors que ses accomplissements académiques sont remarquables. Ce rapport à l'étude est exceptionnel pour l'époque car l'apprentissages n'est pas un à-coté mais sa vie entière. "Elles travaillaient en amateur tandis que j'étais passée professionnelle", "Il (mon père) aurait pu s'accommoder d'une fille exceptionnelle à condition qu'elle évitât d'être insolite.
+
+### Annie Leclerc
+
+Annie Leclerc expose sa volonté de trouver une plus grande place à la parole des femmes dans le débat public et dans les situations à hautes responsabilités en dénonçant le monopole que les hommes ont sur la parole et sur le monde. "Les paroles d'hommes ont l'air de se faire la guerre. C'est pour faire oublier que [les paroles d'hommes] disent toutes la même chose: notre parole d'homme décide."
+
+## Entrainement GO: Est-ce du ressort de l'écrivain que de faire autorité au sein de sa société? [Google Docs](https://docs.google.com/document/d/1BvR5SS_zNTaYlSgeTODq09lCHKaA949kvHX7yZeglvg/edit?usp=sharing)
+
+D'une part, le terme auteur partage la racine "autor" avec le mot autorité. De ce fait, l'autorité et l'auteur sont tout à fait indissociables. On constate que les mots d'un auteur fait autorité, presque en dépit de l'auteur lui même. Le simple fait de poser ses pensées sur le papier puis de les faire éditer semble donner un reflet de vérité même si celles ci ne sont que de la boue. Cela pourrait venir du fait que pour rencontrer le public, le manuscrit de l'auteur doit être revu par d'autres érudits. En cela, la parole de l'auteur ressemble à celle du scientifique qui tire la plupart de son autorité de sa communauté. 
+
+* La parole de l'auteur fait autorité car elle était "sponsorisée" par le dominant. En cela, elle en devient son extension. Or c'est car la littérature est un art des élites que les souverains voulaient s'entourer d'auteurs. Cela vient du fait que l'éducation et l'apprentissage de la lecture était réservé à une élite et de ce fait, seul les dominants avaient de l'intérêt pour la littérature et pour l'autorité de l'auteur.
+
+## Séance de lecture
+
+Supports:
+
+* Ovide p.116
+* Rostand p.119
+* Epictète p.123
+
+## Entrainement QR: Faut-il séduire ?
+
+Du latin: *Se-ducere*, détourner du droit chemin, envouter...
+
+Séduire, c’est surprendre , émouvoir (=faire sortir l’autre de ses émotions)
+
+Acception commune: toucher, plaire, persuader (depuis le XVI ème siècle)
+
+1er sens: égarer, abuser, tomber dans l’erreur, corrompre (latin médiéval)
+
+Différence entre séducteur, séduisant, beau parleur:
+
+* Le séducteur est intentionnel, il emploie des stratagèmes, des techniques pour toucher, qui instrumentalise.
+* Le séduisant séduit de sa personne, c’est dans sa façon d’être, il a une aura, un charisme. Il peut en jouer pour devenir un beau parleur ou un séducteur.
+* Beau parleur = bon comédien et non un bon penseur
+
+### Cyrano est-il un beau parleur ?
+
+Support: [Teaser Edmond](https://www.youtube.com/results?search_query=edmond+teaser) de Michalik 
+
+Cyrano tente de séduire, il est plus séducteur que beau parleur car ses mots sont sincères. Cyrano n’est pas non plus séducteur car il n’espère plus à la fin de la scène “il ne me reste plus que mourir”. Même si les mots ne nous sont pas adressés, nous sommes séduits et nous sommes dans sa poche. 
+
+Dino Buzzati *Quizz aux travaux forcés*, le personnage raconte les histoires de ses crimes, dire ce que l’on veut entendre.  

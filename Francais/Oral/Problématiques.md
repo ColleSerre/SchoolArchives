@@ -61,7 +61,7 @@ En quoi Melancholia traduit la détresse des enfants ?
 Trois Mouvements:
 
 1. Le tableau réaliste et tragique du travail des enfants
-2. Une polémique contre l'industrialisme
+2. Une polémique contre l'industrialisation
 3. Un réquisitoire contre le travail des enfants
 
 ### Elle était déchaussée

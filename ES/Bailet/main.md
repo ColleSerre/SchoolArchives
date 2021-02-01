@@ -109,7 +109,7 @@ Fossil fuels: forms over millions of years ; need pressure/heat ; amount of C  -
 
 Basal metabolic rate: minimum intake to be alive
 
-## How can energy in food be measured and what are the limitations to the method?
+## How can energy in food be measured and what are the limitations to the method? [Google docs](https://docs.google.com/document/d/1GU7Y2yr5OYIeIn8Cf8MiO2wweYV7SvdZ2ruLAOOVNVc/edit)
 
 	-> Work safely and collect/record data in a neat table
 
@@ -128,6 +128,85 @@ Constants:
 
 * Weigh-boat: 4,52 g
 
-| | Mass of food burned (g) | start temperature (°C) | final temperature (°C) | Energy |
-|---|---|---|---|---|
-| | | | | |
+Results:  [Google Sheets](https://docs.google.com/spreadsheets/d/1vwMH11Zvm5lHHfIJ6bioNaqhJEN-YTLwOZoFFOTMpnQ/edit?usp=drive_web&ouid=110004697363416876185)
+
+# 2.4 Human Energy Budget
+
+* Homeostatic regulation of body temperature
+	- Negative feedback loops 
+* Examples:
+	- Cold shock response
+	- Effect of alcohol
+	- Effects of cigarettes
+	- Effects of clothes
+
+## Homeostatic regulation of body temperature
+
+Homeostasis = Body temperature is constant (about 37° C). Different processes ensure that this temperature remains constant.
+
+To make heat:
+
+* Muscles contract (movement)
+* Organs produce energy 
+
+To lose heat:
+
+* Sweating (when sweat evaporates it takes some of the heat with it)
+* Conduction (touching something cold)
+* Convection (heat moving through a fluid, through air)
+
+## Negative feedback
+
+The hypothalamus senses the temperature of blood 
+Vasoconstriction: increases body temperature by constricting blood vessels to avoid heat loss from the skin
+Shivering: muscles contract and radiate heat.
+
+Questions:
+
+1. [Xmind doc](Under the sun for a long time.xmind)
+2. Cool off before going into water, rince your neck (where the hypothalamus is), do not jump in, wait for digestion to take place
+3. You generate less energy while sleeping than while walking 
+4. Cigarettes stops peripheral blood flow completely. This could be because it interferes with the hypothalamus, which provokes vasoconstriction
+
+# 3.2/9 - Age of the Earth
+
+Estimated age: 4.2 billion years old
+
+Louis-Leclerc, Darwin, Kelvin
+
+* Calculate the age of the Earth based on historical measurements
+* Identify uncertainties with these estimations
+
+## Calculation 1:
+
+Calculating the coefficient directeur de la fonction: 37, 5$x$
+
+37,5 $\cdot$ 12 600 $\cdot 10^5$ = 89 835 years
+
+The graph was not precise enough and we can’t see if the initial value is zero, the calculation was only made on size, not on mass, not on temperature or matter. The instrument for measuring temperature was his finger which led to the graph being imprecise. 
+
+## Calculation 2:
+ 
+ $ \frac{1,17}{3 500 000} \cdot 100= 299 145 299,1$ years
+ 
+ The limitation of this model is the estimation of the rate of erosion which can be false due to a short study time, the climate changed during the life of the earth. This estimation doesn’t account for this change and doesn’t take into account for the movement of the tectonic plates. It assumes that the valley was there at the Earth’s formation. 
+
+## Calculation 3:
+
+Geothermal gradient: amount of heat lost per km
+
+Using heat of rocks to calculate age of the earth.
+
+Age of earth: 125 million but it isn’t made of only one type of rock so is wrong, assumed that the geothermal gradient would be the same from the surface to the center of the earth.
+
+Between a 100million and 1 billion
+
+## Calculation 4:
+
+Sediment deposition rate: 8,56/1000 years
+
+Age of the earth: 390 million years
+
+$\frac{22\cdot10^5}{8,56}\cdot1000 = 257 009 345, 8$ years
+
+The sedimentation rate isn’t really precise as the samples aren’t all in the same areas. Doesn’t take into account erosion. 
