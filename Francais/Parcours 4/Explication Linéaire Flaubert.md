@@ -1,6 +1,8 @@
-# Explication Linéaire - Flaubert texte 1
+# Explication Linéaire - Marguerite Duras texte 2
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTEzNzI2MV19
+eyJoaXN0b3J5IjpbMjAyMTE2NzgyN119
 -->
