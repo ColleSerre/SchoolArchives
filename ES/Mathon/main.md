@@ -180,10 +180,10 @@ Questions compo:
 4. Une source lumineuse S1 
 
 Que pouvez vous dire sur la fission nucléaire?
-    La fission = désintégration d'un noyau
-    Un noyau se divise
-    Procédé habituel dans les centrales nucléaires
-    Il existe plusieurs types de désintégrations: 
+    La fission = désintégration d'un noyau
+    Un noyau se divise
+    Procédé habituel dans les centrales nucléaires
+    Il existe plusieurs types de désintégrations: 
 
 * Désintégration alpha (éjection d'un noyau d'hélium = particule alpha = ^4 He _2)
   
@@ -199,9 +199,9 @@ Que pouvez vous dire sur la fission nucléaire?
 
 Que pouvez vous dire sur la fusion nucléaire?
 
-    Fusion de deux noyaux qui en forment un seul. Beaucoup plus rare en labo, très     technique... 
-    La fusion a lieu dans les étoiles
-    La chaleur et la gravité sont nécessaires
+    Fusion de deux noyaux qui en forment un seul. Beaucoup plus rare en labo, très     technique... 
+    La fusion a lieu dans les étoiles
+    La chaleur et la gravité sont nécessaires
 
 QCM page 88:
 
@@ -252,4 +252,7 @@ Géocentrisme: placer la terre au centre
 
 Héliocentrisme: placer le soleil au centre
 
-Dans le modèle de Ptolémé, l’utilisation d’une rotation de la planète autour d’un point tournant lui même autour de la terre permet d’expliquer selon la position de la planète autour de ce point les mouvements de la terre.
+Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète autour d’un point, tournant lui-même autour de la terre permet d’expliquer selon la position de la planète autour de ce point les mouvements de la terre.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMDE4MzIxODJdfQ==
+-->
