@@ -18,7 +18,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 4. Le théâtre de la renaissance (la comédie, comedia del arte, Molière, les mécénats) et le théâtre baroque
 5. L'ère classique (17ème)
 6. Le théâtre des Lumières (18ème)
-7. Le théâtre romantique (
+7. Le théâtre romantique (19ème)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg2ODgxOTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMzUxOTM3MTFdfQ==
 -->
