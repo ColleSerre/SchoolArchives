@@ -14,8 +14,11 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 
 1. Le théâtre antique (grec, romain)
 2. Aristote, *La Poétique*
-2. Le théâtre médiéval (ménestrels, troubadours, arts du spectacle, Shakespeare)
-3. Le théâtre de la renaissance (la comédie, comedia del arte, Molière, les mécénats) et le théâtre baroque
+3. Le théâtre médiéval (ménestrels, troubadours, arts du spectacle, Shakespeare)
+4. Le théâtre de la renaissance (la comédie, comedia del arte, Molière, les mécénats) et le théâtre baroque
+5. L'ère classique (17ème)
+6. Le théâtre des Lumières (18ème)
+7. Le théâtre romantique (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyOTMxODM3XX0=
+eyJoaXN0b3J5IjpbLTE0Mjg2ODgxOTBdfQ==
 -->
