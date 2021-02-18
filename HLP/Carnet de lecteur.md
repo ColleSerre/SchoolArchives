@@ -140,7 +140,7 @@ Simone de Beauvoir raconte ses rapports conflictuels avec ses parents et surtout
 
 Annie Leclerc expose sa volonté de trouver une plus grande place à la parole des femmes dans le débat public et dans les situations à hautes responsabilités en dénonçant le monopole que les hommes ont sur la parole et sur le monde. "Les paroles d'hommes ont l'air de se faire la guerre. C'est pour faire oublier que [les paroles d'hommes] disent toutes la même chose: notre parole d'homme décide."
 	
-# Répertoire de citations
+# Répertoire de citations & de faits
 
 ## Non classées
 
@@ -151,6 +151,11 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 
 * La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - Jean Jaurès cité par Robert Badinter dans son réquisitoire contre la peine de mort
 * Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
+
+## Capitalisme
+
+Wall Street = marché aux esclaves au départ
+HSBC = banque des marchants d'opium en chine
 
 ## Amour
 
@@ -213,6 +218,15 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * "nous nous sommes **débarrassés** de la vie sauvage, nous nous sommes réunis pour **construire** des villes; nous avons **fixé** des lois; nous avons **découvert** des arts; et, **presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin.**" - Isocrate *Éloge de la parole*
 * L’écrivain engagé sait que la parole est action: il sait que dévoiler c'est changer et qu'on ne peut dévoiler qu'en projetant de changer. Il a abandonné le rêve impossible de faire une peinture impartiale de la Société et de la condition humaine. - Sartre
 
+## Moralité
+
+* La vraie morale se moque de la morale - Blaise Pascal
+
+## Connaissance
+
+* Connais toi toi même - Sur le fronton du temple d’Apollon
+* Connais ton ennemi et connais toi toit même - Sun Tzu *L’art de la guerre*
+
 ## Actes
 
 * Nos actes ne sont éphémères qu'en apparence. La vie du présent tisse celle de l'avenir. - Gustave Le Bon
@@ -265,7 +279,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 ## Les faits
 
-* "Assurons nous bien du fait avant de nous inquiéter de la cause." (Histoire des oracles - Bernard de Fontenelle)
+* "Assurons nous bien du fait avant de nous inquiéter de la cause." (Histoire des oracles - Bernard le Bovier de Fontenelle)
 * N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling
 * Il ne faut lancer contre son adversaire des bruits infondés car il est, comme quiconque, un hôte de l'esprit - Albert Schweitzer
 * Nous ne voyons pas les choses mêmes ; nous nous bornons à lire des étiquettes collées sur elles - Henri Bergson *Le rire*
@@ -277,9 +291,10 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	2. Elle est attaquée jusqu'à la mort s'il le faut
 	3. Elle est admise comme ayant été toujours une évidence - Schopenhauer 
 
-## Dictatures
+## L’esclavage et la tolérance
 
 * Ce qu’il [l'homme blanc, bourgeois et occidental] ne pardonne pas à Hitler, ce n’est pas le crime en soi, le crime contre l’homme, ce n’est pas l’humiliation de l’homme en soi, c’est le crime contre l’homme blanc, c’est l’humiliation de l’homme blanc, et d’avoir appliqué à l’Europe des procédés colonialistes dont ne relevaient jusqu’ici que les Arabes d’Algérie, les coolies de l’Inde et les nègres d’Afrique. - Aimé Césaire *Discours sur le colonialisme*
+* Périssent les colonies plutôt qu’un principe - Robespierre en abolissant l’esclavage
 
 ## Fonctions et registres du langage
 

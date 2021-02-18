@@ -185,7 +185,7 @@ D'une part, le terme auteur partage la racine "autor" avec le mot autorité. De 
 
 * La parole de l'auteur fait autorité car elle était "sponsorisée" par le dominant. En cela, elle en devient son extension. Or c'est car la littérature est un art des élites que les souverains voulaient s'entourer d'auteurs. Cela vient du fait que l'éducation et l'apprentissage de la lecture était réservé à une élite et de ce fait, seul les dominants avaient de l'intérêt pour la littérature et pour l'autorité de l'auteur.
 
-## Séance de lecture
+# Les séductions de la parole
 
 Supports:
 
@@ -205,8 +205,8 @@ Acception commune: toucher, plaire, persuader (depuis le XVI ème siècle)
 
 Différence entre séducteur, séduisant, beau parleur:
 
-* Le séducteur est intentionnel, il emploie des stratagèmes, des techniques pour toucher, qui instrumentalise.
-* Le séduisant séduit de sa personne, c’est dans sa façon d’être, il a une aura, un charisme. Il peut en jouer pour devenir un beau parleur ou un séducteur.
+* Le séducteur est intentionnel, il emploie des stratagèmes, des techniques pour toucher, qui instrumentalise (rusé).
+* Le séduisant séduit de sa personne, c’est dans sa façon d’être, il a une aura, un charisme, il n’a pas conscience de son charme. Il peut en jouer pour devenir un beau parleur ou un séducteur.
 * Beau parleur = bon comédien et non un bon penseur
 
 ### Cyrano est-il un beau parleur ?
@@ -216,3 +216,24 @@ Support: [Teaser Edmond](https://www.youtube.com/results?search_query=edmond+tea
 Cyrano tente de séduire, il est plus séducteur que beau parleur car ses mots sont sincères. Cyrano n’est pas non plus séducteur car il n’espère plus à la fin de la scène “il ne me reste plus que mourir”. Même si les mots ne nous sont pas adressés, nous sommes séduits et nous sommes dans sa poche. 
 
 Dino Buzzati *Quizz aux travaux forcés*, le personnage raconte les histoires de ses crimes, dire ce que l’on veut entendre.  
+
+## Correction plan de dissertation:
+
+Il faut séduire pour être entendue. 
+
+Pour persuader l’autre du bien fondé de notre pensée. 
+
+Il faut séduire parce que celui qui reçoit notre discours vit un moment plaisant, agréable et flatteur. 
+
+Mais il faut le faire à bon escient, 
+
+Avec sincérité, parce que la parole est illusoire.
+
+Il faut le faire à bon escient sans ruse. Sinon on risque la démagogie dans la politique domination dans la relation privée.
+
+
+## Le Corbeau et le Renard
+
+### Quelle stratégie déploient icic les beaux parleurs ?
+
+On adopte un stratégie qui repose sur la flatterie, les compliments, on place l’adversaire sur un piédestal (flatter son égo). Il feint l’admiration et l’enthousiasme. 

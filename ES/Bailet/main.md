@@ -210,3 +210,40 @@ Age of the earth: 390 million years
 $\frac{22\cdot10^5}{8,56}\cdot1000 = 257 009 345, 8$ years
 
 The sedimentation rate isn’t really precise as the samples aren’t all in the same areas. Doesn’t take into account erosion. 
+
+# 3.2 History of the age of the Earth
+
+* Radioactivity
+* Half-life
+* Radiometric-dating
+	* Draw a best fit curve
+	* Find the equation of a line
+
+Radioactivity: It is the spontaneous change of one unstable atom into a more stable atom, releasing energy Example: $C-14 \rightarrow N-14+1e^-$
+
+Half life: The amount fo time it takes, for half the number of unstable nuclei in a source to decay. 
+
+Isotopes: Different versions of the same atom (C-14 and C-12)
+
+Carbon 14 differs from Carbon 12 (the one in the periodic table) because it has two more neutrons. When it radiates, Carbon 14 turns into Nitrogen. The time it takes for an element to decay to half its mass is called the **half-life**. We don’t know how long it takes for one Carbon 14 to decompose how long it takes but for a lot of it we do know how long it will take for half of it to decay. 
+
+# 4.4 How do we hear music ?
+
+Ear diagram labelling:
+
+1. Tympanic eardrum (eardrum)
+2. Pinna
+3. Helix
+4. External acoustic meatus (ear canal)
+5. Cartilage
+6. Auricular lobule (Earlobe)
+7. Maillus, Incus, Tympanic cavity
+8. Semicircular canals
+9. Cochlea
+10. Vestibular nerve
+11. Cochlear nerve
+12. Eustachian tube
+13. Tympanic cavity
+14. Temporal bone
+
+Explain how sound is perceived by the ear, including the roles of the eardrum, bones of the middle ear, oval and round windows, and the hair cells of the cochlea.

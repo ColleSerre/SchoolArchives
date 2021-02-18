@@ -46,3 +46,12 @@ Les personnages sont anonymes et ne conversent pas avec Emma.
 * **Moderato Cantabile**
 
 Osmose des deux personnages, caractéristiques du mouvement du nouveau roman. 
+
+# Le nouveau roman - Alain Robbe-Grillet
+
+## Le personnage
+
+Le personnage de nouveau roman doit-être profond, doit avoir un psychologie pour que le lecteur puisse s’identifier. Il ne faut pas qu’il soit trop réaliste au point de tomber dans le réalisme. Le personnage doit pouvoir se conformer à un type ou être assez vraisemblable pour créer ce type. Des types de personnages incluent: Le Gavroche, l’Emma Bovary, le Père Goriot. Le personnage de nouveau roman a une personnalité, une hérédité, un travail, une identité, une psychologie. Avant le nouveau roman, le personnage existera il a des émotions. Le nouveau roman est un laboratoire pour faire des essais, l’histoire et le personnage deviennent secondaires.  
+
+“Le vrai peut parfois ne pas être vraisemblable” - Maupassant
+

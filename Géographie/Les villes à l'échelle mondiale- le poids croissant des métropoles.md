@@ -146,3 +146,46 @@ Genève (suisse): ville de 200 000 habitants + concentration d’organisations i
 Les grandes métropoles exercent grace à la présence de leurs quartiers d’affaires qui regroupent des Bourses, des banques et des sièges de grandes FTN (Firme TransNationale) une influence prépondérante dans la mondialisation 
 
 Dans la plupart des classements, Londres est en tête. 
+
+## Compétitivité entre métropoles (Paris vs Amsterdam post-Brexit p.25)
+
+**Du coté de Paris, quelle est la stratégie pour attirer les entreprises, une fois le divorce entre le Royaume-Uni et l’UE officiellement mis en oeuvre ?**
+
+Paris ne se bat pas sur le même terrain que sa consoeur néerlandaise. Amsterdam mise surtout sur les entreprises de la santé, et Paris sur le secteur banques. 
+
+### Les métropoles sont donc dans ce contexte de mondialisation en concurrence
+
+Elles bénéficient de l’aide des Etats afin d’attirer les investisseurs en aménageant le territoire (construction d’infrastructures de transport par exemple), en formant la population (développer  les Grandes Ecoles et les Universités + accueil d’étudiants étrangers), en développant les loisirs et en développant des politiques fiscales et réglementaires attractives. 
+
+## Un archipel mégapolitain mondial (AMM) - La notion de “Ville Globale”
+
+* *En 1991, la sociologue et économiste Saskia Sassen popularisait le terme “global city”.* Pour Saskia Sassen, la nouvelle géographie du capitalisme se caractérise par un dispersion planétaire des activités de production et par la concentration des activités de coordination dans un nombre limité de grandes métropoles définies comme “villes globales”.
+* Au nombre de trois: New York, Tokyo et Londres, cette vision est désormais dépassée
+
+La notion de mégalopole: Grande région urbaine concentrant des métropoles reliées entre-elles et exerçant un rayonnement mondial, on en compte trois:
+
+- La mégalopole nord-américaine
+- La mégalopole européenne
+- La mégalopole asiatique 
+
+Cette classification a largement évolué depuis avec la montée en puissance des grandes métropoles des pays émergents, les 5 premiers sont: Londres, New York, Paris, Tokyo, Singapour. 
+
+AMM: Olivier Dolphus en 1996, les grandes métropoles mondiales qui ont des flux financiers, migratoires, d’information entre elles.
+
+Bilan:
+
+* Selon le géographe français michel Lussault, les villes-mondes ne sont pas forcément des mégalopoles
+* Il y a tout un maillage de villes entre 500 000 et 1,5 million d’habitants qui constituent des éléments essentiels de la mondialisation: elles concentrent des ressources et sont des attracteurs de populations, de flux, de travail, de créativité, d’innovations sociales et culturelles.
+* Lausanne, par exemple, est une petite ville, qu’on peut même qualifier de provinciale, mais c’est aussi une ville qui se “métropolise” par son ancrage au monde: elle accueille le siège du comité olympique, compte deux très grandes universités (l’École polytechnique et l’université de Lausanne), détient un important potentiel touristique. 
+
+## Londres Métropole mondiale
+
+Fonctions politiques: Buckingham, Westminster, 10 Downing Street, Quartier des ambassades
+
+Fonctions économiques et financières: City, Canary Warf
+
+Fonctions culturelles: Big Ben, British Museum, Cimetière de Highgate, King’s College, Oxford, Cambridge, LSE, Imperial College
+
+Organisation spatiale: Aéroports (Heathrow, Luton, Gatwick, SouthEnd), Gares (St Pancras *Gare Eurostar*), Port de Londres, Douvres, autoroutes
+
+Caractéristiques socio-démographiques. 

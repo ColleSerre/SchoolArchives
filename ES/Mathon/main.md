@@ -246,3 +246,10 @@ Lié au sol = référentiel terrestre ; a deux axes: nord-sud et est-ouest ; on 
 
 # La terre dans l'univers
 
+## Activité 1 page 152
+ 
+Géocentrisme: placer la terre au centre
+
+Héliocentrisme: placer le soleil au centre
+
+Dans le modèle de Ptolémé, l’utilisation d’une rotation de la planète autour d’un point tournant lui même autour de la terre permet d’expliquer selon la position de la planète autour de ce point les mouvements de la terre.
