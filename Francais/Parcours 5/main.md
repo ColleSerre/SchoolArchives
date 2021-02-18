@@ -19,6 +19,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 5. L'ère classique (17ème)
 6. Le théâtre des Lumières (18ème)
 7. Le théâtre romantique (19ème)
+8. Le théâtre moderne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUxOTM3MTFdfQ==
+eyJoaXN0b3J5IjpbMjY4OTA5ODc0XX0=
 -->
