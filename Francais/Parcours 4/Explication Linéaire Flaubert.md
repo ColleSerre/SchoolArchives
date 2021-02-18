@@ -1,8 +1,9 @@
 # Explication Linéaire - Marguerite Duras texte 2
 
 
-eoFHOIzehfoihzeoF 
+je sui un héro de science 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcyMzI2ODQsMjAyMTE2NzgyN119
+eyJoaXN0b3J5IjpbMTc4MDE4OTIwMSwtMTUzNzIzMjY4NCwyMD
+IxMTY3ODI3XX0=
 -->
