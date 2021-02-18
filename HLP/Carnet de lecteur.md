@@ -203,7 +203,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * L'âge d'or c'était l'âge où l'or ne régnait pas - Lezay-Marnesia *Epître à mon curé*
 * Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Comte-Sponville
 * Ceux qui ont pris tout le plat dans leur assiette, laissant les assiettes des autres vides, et qui ayant tout disent avec une bonne figure « Nous qui avons tout, nous sommes pour la paix ! », je sais ce que je dois leur crier à ceux-là : les premiers violents, les provocateurs, c’est vous ! - l'Abbé Pierre *La voix des sans-voix*
-* Et qéuand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
+* Et quand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
 
 ## L'orateur
 
@@ -233,7 +233,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Il est souvent préférable d'être très actif plutôt que de penser trop intensément - Louis Bromfield *Mrs Parkington*
 * Agis de façon à ne point rougir de toi-même - Milarepa (moine poète tibétain)
 * Il faut une volonté surhumaine pour écrire et je ne suis qu'un homme - Flaubert
-* « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée Nationale
+* « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée Nationale
 * Cueille le jour - Horace
 * "Le succès c'est être capable d'aller d'échec en échec sans perdre son enthousiasme." - Winston Churchill
 * Je ne m’étonne jamais de voir des hommes mauvais, mais je m’étonne souvent de ne point les voir honteux - Jonathan Swift
@@ -256,7 +256,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Conseille de ne pas se reposer sur ses acquis et de réussir à "cultiver l'étonnement". La philosophie se détache des autres sciences car elle ne sert pas la société mais est une fin en elle même. "Apercevoir une difficulté et s'étonner, c'est reconnaitre sa propre ignorance". - Aristote
 * Nous dit de se méfier de toute pensée populaire et de toutes nos habitudes. "L'autorité ne doit jamais être prise sans examen ni discernement" (L'importance de la méthode) - Roger Bacon
 * les grandes âmes se cachent; ordinairement, il ne parait qu'un peu d'originalité. Il y a plus de grandes âmes qu'on ne le croirait. (Lié aux grands discours) - Stendhal
-* Les Nuées célestes, grandes divinités des hommes oisifs, qui nous suggèrent pensée, parole, intelligence, charlatanisme, loquacité, ruse, compréhension. - Aristophane *Les Nuées*
+* Les Nuées célestes, grandes divinités des hommes oisifs, qui nous suggèrent pensée, parole, intelligence, charlatanisme, loquacité, ruse, compréhension. - Aristophane *Les Nuées*
 
 ## Vérité
 
@@ -304,5 +304,5 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTM4MTkwMV19
+eyJoaXN0b3J5IjpbLTExOTkwNTE2NzRdfQ==
 -->
