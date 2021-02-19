@@ -34,11 +34,13 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Salle Richelieu depuis 1799
 	* Sa création marque l'importance grandissante du théâtre à l'époque
 	* Boileau
+		* Avocat issu d'une famille bourgeoise, il se consacrera à la littérature après la mort de son père
+		* Entrera à l'académie française 
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzM3MjIzOSwyMDk4ODM5MjE3LDkxOD
-EzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgw
-MDZdfQ==
+eyJoaXN0b3J5IjpbNDYxNTU4NzAsMjA5ODgzOTIxNyw5MTgxMz
+A4MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2
+XX0=
 -->
