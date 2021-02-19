@@ -258,7 +258,9 @@ Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète a
 
 | L| L-3|
 |---|---|
-| I| $\frac{I}{2}$|
+| $I$| $\frac{I}{2}$|
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDczNDY1NSwtMTgwMTgwNTI0OV19
+eyJoaXN0b3J5IjpbLTY3ODM5NDMxNywtMTgwMTgwNTI0OV19
 -->
