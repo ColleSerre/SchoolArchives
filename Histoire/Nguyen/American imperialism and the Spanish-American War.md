@@ -80,3 +80,7 @@ After the war Guam, Cuba, Puerto Rico and the Philippines belonged to the US. At
 * Treaty of Paris: Spain ceded the Philippines for $20 million; neither Filipinos nor Cubans were invited to the negotiations
 * Filipinos didn’t get their independence and turned against the US but were defeated in 1901
 * America ended up controlling Cuba, and annexing Puerto Rico, Guam and the Philippines.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQwMzU0MTc0Ml19
+-->
