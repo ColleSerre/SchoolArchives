@@ -266,8 +266,8 @@ $log(A) + log(B) = log(A\cdot B)$
 
 Activité 3 page 174
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDA1NTc1MCwxMjc2NDY0MTU3LDc4Mz
-MzNTI0MCwtMTczMjYxMjU4NSwtMTgwMTgwNTI0OV19
+eyJoaXN0b3J5IjpbLTE5MDkwNzg2MzIsMTM2MDA1NTc1MCwxMj
+c2NDY0MTU3LDc4MzMzNTI0MCwtMTczMjYxMjU4NSwtMTgwMTgw
+NTI0OV19
 -->
