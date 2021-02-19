@@ -16,12 +16,15 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 2. Aristote, *La Poétique*
 3. Le théâtre médiéval (ménestrels, troubadours, arts du spectacle, Shakespeare)
 4. Le théâtre de la renaissance (la comédie, comedia del arte, Molière, les mécénats) et le théâtre baroque
-	* Volonté des souverains de mieux contrôler les divertiossements pop
+	* Volonté des souverains de mieux contrôler les divertissements populaires subversifs
+	* Les bêtises ridiculisent la famille royale et l'Église avec parfois un contenu politique et partisan.
+	* La foi en l'homme
+	* L'intérêt pour toutes les formes de la *emphasized text*
 5. L'ère classique (17ᵉ)
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTExNjE0MzgsMTU1MTQ0ODc1MywtMT
-g3NDExODAwNl19
+eyJoaXN0b3J5IjpbLTczNTUwMTE2MywxNTUxNDQ4NzUzLC0xOD
+c0MTE4MDA2XX0=
 -->
