@@ -254,7 +254,11 @@ Héliocentrisme: placer le soleil au centre
 
 Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète autour d’un point, tournant lui-même autour de la terre permet d’expliquer selon la position de la planète autour de ce point les mouvements de la terre.
 
-# Son - f
+# Son - formules et rapports de grandeur
+
+| L| L-3|
+|---|---|
+| I| $\frac{I}{2}$|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg4NjI5MSwtMTgwMTgwNTI0OV19
+eyJoaXN0b3J5IjpbLTc0NDczNDY1NSwtMTgwMTgwNTI0OV19
 -->
