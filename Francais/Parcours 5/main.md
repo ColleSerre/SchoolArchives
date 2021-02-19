@@ -1,7 +1,7 @@
 
 
 
-# Objet d’étude - Le théâtre du XVIIème au XXIème siècle
+# Objet d’étude - Le théâtre du XVIIᵉ au XXIᵉ siècle
 
 ## Œuvres obligatoires:
 
@@ -21,5 +21,5 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgzMTcsLTE4NzQxMTgwMDZdfQ==
+eyJoaXN0b3J5IjpbMTU1MTQ0ODc1MywtMTg3NDExODAwNl19
 -->
