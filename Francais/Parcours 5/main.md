@@ -21,11 +21,17 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* La foi en l'homme
 	* L'intérêt pour toutes les formes de la connaissance
 	* La redécouverte de la littérature de l'antiquité
+	* Le baroque s'oppose au classicisme
+		* Thèmes principaux: 
+			1. La Métamorphose
+			2. 
+			3. Mouvement et instabilité (multiples intrigues)
+			4. Ostentation (étalage de ses avan  
 5. L'ère classique (17ᵉ)
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xOD
-c0MTE4MDA2XX0=
+eyJoaXN0b3J5IjpbMTc2Mzk5NjU0NywtNDEyNTk5NzE4LDE1NT
+E0NDg3NTMsLTE4NzQxMTgwMDZdfQ==
 -->
