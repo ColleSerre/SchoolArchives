@@ -1,4 +1,4 @@
-# Enseignement Scientifique ([manuel](https://www.calameo.com/read/00482295345647dec484e)
+# Enseignement Scientifique ([manuel](https://www.calameo.com/read/00482295345647dec484e))
 
 ## Introduction: Rappels et déjà su/déjà vu p.66
 
@@ -271,7 +271,7 @@ Activité 3 page 174
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDYxNzE1NywxMzYwMDU1NzUwLDEzNj
-AwNTU3NTAsMTI3NjQ2NDE1Nyw3ODMzMzUyNDAsLTE3MzI2MTI1
-ODUsLTE4MDE4MDUyNDldfQ==
+eyJoaXN0b3J5IjpbLTE1Njg5NTIwMzYsMTM2MDA1NTc1MCwxMz
+YwMDU1NzUwLDEyNzY0NjQxNTcsNzgzMzM1MjQwLC0xNzMyNjEy
+NTg1LC0xODAxODA1MjQ5XX0=
 -->
