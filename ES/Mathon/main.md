@@ -41,14 +41,14 @@ ou
 kWh = kW.h
 
 Application:
-Coiffeur => 5 sèche-cheveux 2000W 6 h par jour 312 jours/an
+Coiffeur => 5 sèche-cheveux 2000W 6 h par jour 312 jours/an
 Engie facture le kWh 20 centimes
 
 Cout ?
 
 Durée = $312 \cdot 6$
 Puissance = $2kW \cdot 5 = 10kW$
-Energie = $18720 kWh$
+Énergie = $18720 kWh$
 Cout = 3744 €
 
 -----
@@ -268,6 +268,6 @@ Activité 3 page 174
 
 Quand on touche une corde on la déforme. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDAwODQzMTksNzgzMzM1MjQwLC0xNz
-MyNjEyNTg1LC0xODAxODA1MjQ5XX0=
+eyJoaXN0b3J5IjpbMTI3NjQ2NDE1Nyw3ODMzMzUyNDAsLTE3Mz
+I2MTI1ODUsLTE4MDE4MDUyNDldfQ==
 -->
