@@ -1,4 +1,6 @@
-# Introduction: Rappels et déjà su/déjà vu p.66
+# Enseignement Scientifique ([manuel](https://www.calameo.com/read/00482295345647dec484e)
+
+## Introduction: Rappels et déjà su/déjà vu p.66
 
 ### Constantes:
 
@@ -267,8 +269,9 @@ $log(A) + log(B) = log(A\cdot B)$
 Activité 3 page 174
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDA1NTc1MCwxMzYwMDU1NzUwLDEyNz
-Y0NjQxNTcsNzgzMzM1MjQwLC0xNzMyNjEyNTg1LC0xODAxODA1
-MjQ5XX0=
+eyJoaXN0b3J5IjpbMTMwNDYxNzE1NywxMzYwMDU1NzUwLDEzNj
+AwNTU3NTAsMTI3NjQ2NDE1Nyw3ODMzMzUyNDAsLTE3MzI2MTI1
+ODUsLTE4MDE4MDUyNDldfQ==
 -->
