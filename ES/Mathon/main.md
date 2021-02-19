@@ -260,8 +260,15 @@ Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète a
 |---|---|
 | $I$| $\frac{I}{2}$|
 $log(10^x) = x$
+$(log(A)+log(B))^{10} = 10^{log(a)} \cdot 10^{log(B)} = A \cdot B$
+$log(10^{log(A)+log(B)}) = log(A \cdot B)$
+$log(A) + log(B) = log(A\cdot B)$
+
+Activité 3 page 174
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NjA3MDc2LC0xODAxODA1MjQ5XX0=
+eyJoaXN0b3J5IjpbLTE3MzI2MTI1ODUsLTE4MDE4MDUyNDldfQ
+==
 -->
