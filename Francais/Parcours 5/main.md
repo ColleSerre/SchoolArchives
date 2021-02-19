@@ -31,12 +31,14 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 			6. Exemples de pièces: *Theatrum mundi*, *Dom Juan*
 5. L'ère classique (17ᵉ)
 	* La comédie française est créée par Louis XIV par ordonnance en 1680
-	* 
+	* Salle Richelieu depuis 1799
+	* Sa création marque l'importance grandissante du théâtre à l'époque
+	* Boileau
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0Mzk4MzE2LDIwOTg4MzkyMTcsOTE4MT
-MwODAwLC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAw
-Nl19
+eyJoaXN0b3J5IjpbLTk2NzM3MjIzOSwyMDk4ODM5MjE3LDkxOD
+EzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgw
+MDZdfQ==
 -->
