@@ -36,11 +36,15 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Boileau
 		* Avocat issu d'une famille bourgeoise, il se consacrera à la littérature après la mort de son père
 		* Entrera à l'académie française 
+		* Exprime les règles fondamentales de la poésie classique
+	* Bienséance
+	* Unité de lieu, d'action et de temps
+	* Qu'en 
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNTU4NzAsMjA5ODgzOTIxNyw5MTgxMz
-A4MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2
-XX0=
+eyJoaXN0b3J5IjpbNzgwMDk5OTAxLDIwOTg4MzkyMTcsOTE4MT
+MwODAwLC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAw
+Nl19
 -->
