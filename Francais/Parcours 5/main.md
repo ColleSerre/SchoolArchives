@@ -28,12 +28,12 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 			3. Mouvement et instabilité (multiples intrigues)
 			4. Ostentation (étalage de ses avantages: décors foisonnants)
 			5. Illusion (mise en abyme: "théâtre dans le théâtre)  
-			6. Exemples de pièces: *Thatrum mundi*, *Dom Juan*
+			6. Exemples de pièces: *Theatrum mundi*, *Dom Juan*
 5. L'ère classique (17ᵉ)
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY1ODQ5MjIsOTE4MTMwODAwLC00MT
-I1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAwNl19
+eyJoaXN0b3J5IjpbMjA5ODgzOTIxNyw5MTgxMzA4MDAsLTQxMj
+U5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX0=
 -->
