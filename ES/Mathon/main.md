@@ -16,7 +16,7 @@
 
 * En 1666, Newton décompose la lumière blanche grâce à un prisme (système dispersif).
 * Dispersion = décomposition de la lumière blanche (polychromatique = plusieurs couleurs donc plusieurs longueurs d'onde) en radiation monochromatiques
-* Lumière visible: Gamma <==== RX <==== UV <==== 400nm (bleu) à 800nm (rouge) ====> IR
+* Lumière visible: Gamma <==== RX <==== UV <==== 400 nm (bleu) à 800 nm (rouge) ====> IR
 
 Spectre continu: Uniquement obtenu avec un corps chaud => plus la température augmente (et la lumière émise), plus le spectre s'élargit vers les fortes énergie et donc les faibles longueurs d'ondes
 
@@ -26,7 +26,7 @@ Spectre de raies d'émission = raies colorées sur fond noir
 
 #### Obtenir un spectre rayé:
 
-On a du gaz dans une enceinte. On introduit dans cette enceinte de l'électricité. Quand celle ci entre en contact avec le gaz, elle l'excite mais celui ci n'a pas d'autre moyen de se débarrasser de cette énergie que d'émettre de la lumière. Le prisme de cette émission sera rayé (raies noires sur fond coloré) en fonction du gaz. 
+On a du gaz dans une enceinte. On introduit dans cette enceinte de l'électricité. Quand celle-ci entre en contact avec le gaz, elle l'excite mais celui-ci n'a pas d'autre moyen de se débarrasser de cette énergie que d'émettre de la lumière. Le prisme de cette émission sera rayé (raies noires sur fond coloré) en fonction du gaz. 
 
 #### Lumières mono ou polychromatiques
 
@@ -35,13 +35,13 @@ Une lumière a autant de couleurs que de raies sur son spectre.
 ### Électronique
 
 Mnémotechnique: Elle Part Tranquillement 
-$E = P \cdot T$ dont E = Energie, P = Puissance, T = Temps
+$E = P \cdot T$ dont E = Énergie, P = Puissance, T = Temps
 J = W.s
 ou
 kWh = kW.h
 
 Application:
-Coiffeur => 5 sèche cheveux 2000W 6h par jour 312 jours/an
+Coiffeur => 5 sèche-cheveux 2000W 6 h par jour 312 jours/an
 Engie facture le kWh 20 centimes
 
 Cout ?
@@ -266,8 +266,8 @@ $log(A) + log(B) = log(A\cdot B)$
 
 Activité 3 page 174
 
-1. 
+Quand on touche une corde on la déforme. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMzM1MjQwLC0xNzMyNjEyNTg1LC0xOD
-AxODA1MjQ5XX0=
+eyJoaXN0b3J5IjpbLTE3NDAwODQzMTksNzgzMzM1MjQwLC0xNz
+MyNjEyNTg1LC0xODAxODA1MjQ5XX0=
 -->
