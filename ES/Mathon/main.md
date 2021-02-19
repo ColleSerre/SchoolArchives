@@ -260,7 +260,7 @@ Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète a
 |---|---|
 | $I$| $\frac{I}{2}$|
 
-
+$ log(10^x) = x $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODM5NDMxNywtMTgwMTgwNTI0OV19
+eyJoaXN0b3J5IjpbNzcxMDMwNzc2LC0xODAxODA1MjQ5XX0=
 -->
