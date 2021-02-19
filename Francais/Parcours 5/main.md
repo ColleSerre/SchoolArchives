@@ -30,10 +30,13 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 			5. Illusion (mise en abyme: "théâtre dans le théâtre)  
 			6. Exemples de pièces: *Theatrum mundi*, *Dom Juan*
 5. L'ère classique (17ᵉ)
+	* La comédie française est créée par Louis XIV par ordonnance en 1680
+	* 
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODgzOTIxNyw5MTgxMzA4MDAsLTQxMj
-U5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX0=
+eyJoaXN0b3J5IjpbMzQ0Mzk4MzE2LDIwOTg4MzkyMTcsOTE4MT
+MwODAwLC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAw
+Nl19
 -->
