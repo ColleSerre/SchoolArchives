@@ -229,7 +229,7 @@ Arguments:
 
 * La coque qui disparait avant le mat
 * les étoiles apparaissent selon la position
-* l'eclipse de la terre est une ombre circulair
+* l'éclipse de la terre est une ombre circulaire
 
 ## Référentiels
 
@@ -253,6 +253,8 @@ Géocentrisme: placer la terre au centre
 Héliocentrisme: placer le soleil au centre
 
 Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète autour d’un point, tournant lui-même autour de la terre permet d’expliquer selon la position de la planète autour de ce point les mouvements de la terre.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE4MzIxODJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDE4MDUyNDldfQ==
 -->
