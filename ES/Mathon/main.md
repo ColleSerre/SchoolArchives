@@ -266,8 +266,8 @@ $log(A) + log(B) = log(A\cdot B)$
 
 Activité 3 page 174
 
-Quand on touche une corde on la déforme. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjQ2NDE1Nyw3ODMzMzUyNDAsLTE3Mz
-I2MTI1ODUsLTE4MDE4MDUyNDldfQ==
+eyJoaXN0b3J5IjpbMTM2MDA1NTc1MCwxMjc2NDY0MTU3LDc4Mz
+MzNTI0MCwtMTczMjYxMjU4NSwtMTgwMTgwNTI0OV19
 -->
