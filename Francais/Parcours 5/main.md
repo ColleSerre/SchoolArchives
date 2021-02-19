@@ -39,12 +39,12 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Exprime les règles fondamentales de la poésie classique
 	* Bienséance
 	* Unité de lieu, d'action et de temps
-	* Qu'en 
+	* Qu'en un lieu, qu'en un jour, un seul fait accompli tienne jusqu'à la fin, le théâtre remplis.
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwMDk5OTAxLDIwOTg4MzkyMTcsOTE4MT
-MwODAwLC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAw
-Nl19
+eyJoaXN0b3J5IjpbMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxOD
+EzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgw
+MDZdfQ==
 -->
