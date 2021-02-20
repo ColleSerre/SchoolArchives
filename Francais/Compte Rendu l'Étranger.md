@@ -12,13 +12,13 @@ Questions: [Drive](https://docs.google.com/document/d/1GwJhs_u0BVinvv1ANiadNSTJ3
 8. Le personnage subit la société qui l'entoure en mourant et en étant une victime d'un état moral qui se proclame comme étant de droit. Meursault s'en échappe en ne perdant jamais la face et en reconnaissant la pleine conscience de son geste et en ne regrettant rien.
 9. Voici un texte que j'ai écrit dans lequel j'ai tenté de représenter la réflexion que j'ai eu sur la société de ce roman:
 
-On dit souvent qu’une image vaut mille mots. Mais que faire quand une idée est trop idéale pour être visible par la vulgaire lentille d’un appareil photo ? Que faire quand on sait que l’idéal ne touchera jamais la peau de l’humain même si ce dernier tend inexorablement vers celui-ci ? Et bien on écrit, on griffonne le papier, on le sacrifie, on le saigne jusqu’à ce que nos vices s’endorment et que nos ardeurs s'adoucissent. Pour se recueillir dans ce rituel messianique il faut seulement avoir le goût de l’écriture, de la lecture, des beaux mots, des bons mots. Ce goût ne fut pas celui de Meursault. Il était seul devant l’adversaire, devant les tortures de ce monde qui se criait toujours plus juste, toujours plus ouvert, qui coulait le sang contre l’intolérance mais qui scrutait sans un mot ces mouvements que pourtant aucune loi n’a jugé déplacés. C’est pour cela que quand la nuit était au plus noir, quand le lendemain promettait d’être toujours plus indifférenciable à l’hier, il n’a pût se recroqueviller devant une feuille de papier, se confier à l’encre qui ruisselle, se mêlant à sa sueur et à son sang. Pour Meursault, il n’y a pas de morale, pas d’émotions, pas de loi et donc pas d’alliés. Voyant cela le soleil saisit sa proie et la jeta devant les yeux cruels et hypocrites de l’humanité. 
+On dit souvent qu’une image vaut mille mots. Mais que faire quand une idée est trop idéale pour être visible par la vulgaire lentille d’un appareil photo ? Que faire quand on sait que l’idéal ne touchera jamais la peau de l’humain même si ce dernier tend inexorablement vers celui-ci ? Eh bien on écrit, on griffonne le papier, on le sacrifie, on le saigne jusqu’à ce que nos vices s’endorment et que nos ardeurs s'adoucissent. Pour se recueillir dans ce rituel messianique il faut seulement avoir le goût de l’écriture, de la lecture, des beaux mots, des bons mots. Ce goût ne fut pas celui de Meursault. Il était seul devant l’adversaire, devant les tortures de ce monde qui se criait toujours plus juste, toujours plus ouvert, qui coulait le sang contre l’intolérance mais qui scrutait sans un mot ces mouvements que pourtant aucune loi n’a jugé déplacés. C’est pour cela que quand la nuit était au plus noir, quand le lendemain promettait d’être toujours plus indifférenciable à l’hier, il n’a pût se recroqueviller devant une feuille de papier, se confier à l’encre qui ruisselle, se mêlant à sa sueur et à son sang. Pour Meursault, il n’y a pas de morale, pas d’émotions, pas de loi et donc pas d’alliés. Voyant cela le soleil saisit sa proie et la jeta devant les yeux cruels et hypocrites de l’humanité. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg0NDU3MDMsMTgxNjY1MzgzNSwxMT
-g3MTcxMDk0LDc0NDU5NjM0OCwtODk1OTM2MDc5LDEyMDEyMzQ3
-MTIsLTIyMDkyNTkwNCw3MDc2MDU5ODcsLTE5MzAyNzI5NzAsMT
-I0MDgxMTQ5MiwxMTY2ODQ2NzAsLTQ4NTkzNzUxNSw1MzM3ODA4
-MjQsLTE1MTc2MTAwMjMsMTE3NjUxNjkxNywxNjcxMTM5ODU0LC
-05MTQ0NDM2NDMsMTExMTk3NTk4MiwtMTM2NjgxMzg5NywtMTM3
-NTExMTIzOF19
+eyJoaXN0b3J5IjpbMTI3ODA1ODYyOSwxODE2NjUzODM1LDExOD
+cxNzEwOTQsNzQ0NTk2MzQ4LC04OTU5MzYwNzksMTIwMTIzNDcx
+MiwtMjIwOTI1OTA0LDcwNzYwNTk4NywtMTkzMDI3Mjk3MCwxMj
+QwODExNDkyLDExNjY4NDY3MCwtNDg1OTM3NTE1LDUzMzc4MDgy
+NCwtMTUxNzYxMDAyMywxMTc2NTE2OTE3LDE2NzExMzk4NTQsLT
+kxNDQ0MzY0MywxMTExOTc1OTgyLC0xMzY2ODEzODk3LC0xMzc1
+MTExMjM4XX0=
 -->
