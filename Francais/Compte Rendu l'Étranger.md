@@ -8,13 +8,14 @@ Questions: [Drive](https://docs.google.com/document/d/1GwJhs_u0BVinvv1ANiadNSTJ3
 4. On peut dire que Meursault est étranger aux normes sociales car il n'arrive pas à s'y conformer et n'a aucune volonté de le faire.  On peut aussi considérer que Meursault est étranger à tous les ennuis que ses proches ont (vie amoureuse, travail). On peut aussi dire que le reste du monde est étranger pour Meursault car rien ni personne ne semble pouvoir l'atteindre. 
 5. Le personnage de Meursault semble se laisser porter par la "vague" que la vie lui impose et que les autres lui proposent. Il n'objecte à rien, même aux propositions les plus immorales. La principale évolution du personnage est quand il tua l'Arabe, ou plutôt quand il tira à plusieurs reprises sur l'Arabe. Le premier coup de feu peut-être mis sur le compte du soleil qui l'éblouit et de la peur de voir l'Arabe sortir son couteau. En revanche, les coups suivants sont de sa pure volonté et ils sont en somme, son premier choix radical depuis le début du roman.
 6. Le pari de Meursault est celui de la liberté de tout. En effet, jusque dans la mort, Meursault ne fera aucune concession sur sa liberté. Ni la morale, ni la loi ne l'empêche de faire ce qu'il veut et ce qu'il veut c'est être libre de ne rien faire, de ne pas faire de choix malgré le fait que la société qui l'entoure l'y pousse à chaque seconde. C'est pour cela que rien ne semble l'atteindre car sa liberté et sa volonté de faire abstraction l'élève de tout cela. Cette volonté est peut-être aperçue durant la scène qui précède son exécution. Quand le prêtre s'approche de lui, tente de le comprendre et de lui faire dire ses dernières prières, Meursault s'insurge contre lui et réagit violemment. Cette réaction est compréhensible car le prêtre représente une société qui implore à Meursault de regretter d'être libre alors que ce dernier se fiche de tout et en particulier des remords. Ces choix, il les a faits, il les assume et le fait que le prêtre le force à exprimer des regrets qu'il n'a pas le met hors de lui.
-7. Meursault est victime d'une société qui l'interpelle constamment alors qu'il ne veut rien avoir à faire avec elle et qui insiste encore et encore quand il fait abstraction de ses cris. Il est, en revanche, plus responsable que quiconque de ses actions car il refuse de laisser sa liberté à autrui. Il est donc entièrement coupable de son crime et c'est surement pour cela qu'il décida de refuser l'aide de son avocat ainsi que du prêtre. Il est conscient de ses actes qu'il a accomplis consciemment et ne laissera personne
+7. Meursault est victime d'une société qui l'interpelle constamment alors qu'il ne veut rien avoir à faire avec elle et qui insiste encore et encore quand il fait abstraction de ses cris. Il est, en revanche, plus responsable que quiconque de ses actions car il refuse de laisser sa liberté à autrui. Il est donc entièrement coupable de son crime et c'est surement pour cela qu'il décida de refuser l'aide de son avocat ainsi que du prêtre. Il est conscient de ses actes qu'il a accomplis consciemment et ne laissera personne remettre en question sa liberté d'assumer ses actes. En cela il est absolument responsable de ses actes.
+8. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTkzNjA3OSwxMjAxMjM0NzEyLC0yMj
-A5MjU5MDQsNzA3NjA1OTg3LC0xOTMwMjcyOTcwLDEyNDA4MTE0
-OTIsMTE2Njg0NjcwLC00ODU5Mzc1MTUsNTMzNzgwODI0LC0xNT
-E3NjEwMDIzLDExNzY1MTY5MTcsMTY3MTEzOTg1NCwtOTE0NDQz
-NjQzLDExMTE5NzU5ODIsLTEzNjY4MTM4OTcsLTEzNzUxMTEyMz
-gsMTgyODk0ODk4NSwtMTkxNTIwMzIxOSw5NTg5Nzk4OTQsLTky
-MDY0MDg1NV19
+eyJoaXN0b3J5IjpbNzQ0NTk2MzQ4LC04OTU5MzYwNzksMTIwMT
+IzNDcxMiwtMjIwOTI1OTA0LDcwNzYwNTk4NywtMTkzMDI3Mjk3
+MCwxMjQwODExNDkyLDExNjY4NDY3MCwtNDg1OTM3NTE1LDUzMz
+c4MDgyNCwtMTUxNzYxMDAyMywxMTc2NTE2OTE3LDE2NzExMzk4
+NTQsLTkxNDQ0MzY0MywxMTExOTc1OTgyLC0xMzY2ODEzODk3LC
+0xMzc1MTExMjM4LDE4Mjg5NDg5ODUsLTE5MTUyMDMyMTksOTU4
+OTc5ODk0XX0=
 -->
