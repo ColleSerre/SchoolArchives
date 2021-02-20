@@ -28,7 +28,7 @@ Spectre de raies d'émission = raies colorées sur fond noir
 
 #### Obtenir un spectre rayé:
 
-On a du gaz dans une enceinte. On introduit dans cette enceinte de l'électricité. Quand celle-ci entre en contact avec le gaz, elle l'excite mais celui-ci n'a pas d'autre moyen de se débarrasser de cette énergie que d'émettre de la lumière. Le prisme de cette émission sera rayé (raies noires sur fond coloré) en fonction du gaz. 
+On a du gaz dans une enceinte. On introduit dans cette enceinte de l'électricité. Quand celle- ci entre en contact avec le gaz, elle l'excite mais celui- ci n'a pas d'autre moyen de se débarrasser de cette énergie que d'émettre de la lumière. Le prisme de cette émission sera rayé (raies noires sur fond coloré) en fonction du gaz. 
 
 #### Lumières mono ou polychromatiques
 
@@ -37,20 +37,20 @@ Une lumière a autant de couleurs que de raies sur son spectre.
 ### Électronique
 
 Mnémotechnique: Elle Part Tranquillement 
-$E = P \cdot T$ dont E = Énergie, P = Puissance, T = Temps
+$E = P \cdot T$ dont E = ÉEnergie, P = Puissance, T = Temps
 J = W.s
 ou
 kWh = kW.h
 
 Application:
-Coiffeur => 5 sèche-cheveux 2000W 6 h par jour 312 jours/an
+Coiffeur => 5 sèche- cheveux 2000W 6 h par jour 312 jours/an
 Engie facture le kWh 20 centimes
 
 Cout ?
 
 Durée = $312 \cdot 6$
 Puissance = $2kW \cdot 5 = 10kW$
-Énergie = $18720 kWh$
+ÉEnergie = $18720 kWh$
 Cout = 3744 €
 
 -----
@@ -182,10 +182,10 @@ Questions compo:
 4. Une source lumineuse S1 
 
 Que pouvez vous dire sur la fission nucléaire?
-    La fission = désintégration d'un noyau
-    Un noyau se divise
-    Procédé habituel dans les centrales nucléaires
-    Il existe plusieurs types de désintégrations: 
+        La fission = désintégration d'un noyau
+        Un noyau se divise
+        Procédé habituel dans les centrales nucléaires
+        Il existe plusieurs types de désintégrations: 
 
 * Désintégration alpha (éjection d'un noyau d'hélium = particule alpha = ^4 He _2)
   
@@ -201,9 +201,9 @@ Que pouvez vous dire sur la fission nucléaire?
 
 Que pouvez vous dire sur la fusion nucléaire?
 
-    Fusion de deux noyaux qui en forment un seul. Beaucoup plus rare en labo, très     technique... 
-    La fusion a lieu dans les étoiles
-    La chaleur et la gravité sont nécessaires
+        Fusion de deux noyaux qui en forment un seul. Beaucoup plus rare en labo, très         technique... 
+        La fusion a lieu dans les étoiles
+        La chaleur et la gravité sont nécessaires
 
 QCM page 88:
 
@@ -231,7 +231,7 @@ Arguments:
 
 * La coque qui disparait avant le mat
 * les étoiles apparaissent selon la position
-* l'éclipse de la terre est une ombre circulaire
+* l'éeclipse de la terre est une ombre circulaire
 
 ## Référentiels
 
@@ -254,7 +254,7 @@ Géocentrisme: placer la terre au centre
 
 Héliocentrisme: placer le soleil au centre
 
-Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète autour d’un point, tournant lui-même autour de la terre permet d’expliquer selon la position de la planète autour de ce point les mouvements de la terre.
+Dans le modèle de Ptolémée, l’utilisation d’une rotation de la planète autour d’un point, tournant lui- même autour de la terre permet d’expliquer selon la position de la planète autour de ce point les mouvements de la terre.
 
 # Son - formules et rapports de grandeur
 
@@ -269,7 +269,8 @@ $log(A) + log(B) = log(A\cdot B)$
 Activité 3 page 174
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMDE0NzIwLC0xNTY4OTUyMDM2LDEzNj
-AwNTU3NTAsMTM2MDA1NTc1MCwxMjc2NDY0MTU3LDc4MzMzNTI0
-MCwtMTczMjYxMjU4NSwtMTgwMTgwNTI0OV19
+eyJoaXN0b3J5IjpbLTEwMTg5MjYxNTUsMjkxMDE0NzIwLC0xNT
+Y4OTUyMDM2LDEzNjAwNTU3NTAsMTM2MDA1NTc1MCwxMjc2NDY0
+MTU3LDc4MzMzNTI0MCwtMTczMjYxMjU4NSwtMTgwMTgwNTI0OV
+19
 -->
