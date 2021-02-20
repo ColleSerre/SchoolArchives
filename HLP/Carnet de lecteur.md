@@ -151,7 +151,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 
 * La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - Jean Jaurès cité par Robert Badinter dans son réquisitoire contre la peine de mort
 * Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
-
+* Une des propriétés des sondages consiste à poser aux gens des problèmes qu'ils ne se posent pas, à faire g
 ## Capitalisme
 
 Wall Street = marché aux esclaves au départ
@@ -304,5 +304,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjIxNDUxMzgsLTExOTkwNTE2NzRdfQ
+==
 -->
