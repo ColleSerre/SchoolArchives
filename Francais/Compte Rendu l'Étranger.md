@@ -7,12 +7,12 @@ Questions: [Drive](https://docs.google.com/document/d/1GwJhs_u0BVinvv1ANiadNSTJ3
 3. L'auteur est Albert Camus, l'Étranger se place dans ce que Camus a appelé le cycle de l'absurde, une collection d'œuvres qui exposent sa philosophie de l'absurde. Cette philosophie veut que l'existence soit injustifiée. En cela, Meursault est l'archétype de l'humain qui n'a pas de sens ou de conviction et qui agit en accord avec l'absence de justification de son existence. Il est aussi à noter qu'Albert Camus a été résistant durant la seconde guerre mondiale. Camus a aussi grandi en Algérie française, le contexte historique du livre relève donc du vécu. On peut aussi relever que les Algériens ne sont jamais nommés et constituent une sorte d'arrière fond passif. 
 4. On peut dire que Meursault est étranger aux normes sociales car il n'arrive pas à s'y conformer et n'a aucune volonté de le faire.  On peut aussi considérer que Meursault est étranger à tous les ennuis que ses proches ont (vie amoureuse, travail). On peut aussi dire que le reste du monde est étranger pour Meursault car rien ni personne ne semble pouvoir l'atteindre. 
 5. Le personnage de Meursault semble se laisser porter par la "vague" que la vie lui impose et que les autres lui proposent. Il n'objecte à rien, même aux propositions les plus immorales. La principale évolution du personnage est quand il tua l'Arabe, ou plutôt quand il tira à plusieurs reprises sur l'Arabe. Le premier coup de feu peut-être mis sur le compte du soleil qui l'éblouit et de la peur de voir l'Arabe sortir son couteau. En revanche, les coups suivants sont de sa pure volonté et ils sont en somme, son premier choix radical depuis le début du roman.
-6. Le pari de Meursault est celui de la liberté de tous. En effet, jusque dans la mort, Meursault ne fera aucune concession sur sa liberté. Ni la morale, ni la loi ne l'empêche de faire ce qu'il veut et ce qu'il veut c'est être libre de ne rien faire, de ne pas faire de choix malgré le fait que la socié
+6. Le pari de Meursault est celui de la liberté de tout. En effet, jusque dans la mort, Meursault ne fera aucune concession sur sa liberté. Ni la morale, ni la loi ne l'empêche de faire ce qu'il veut et ce qu'il veut c'est être libre de ne rien faire, de ne pas faire de choix malgré le fait que la société qui l'entoure l'y pousse à chaque seconde. C'est pour cela que rien ne semble l'atteindre car sa liberté et sa volonté de faire abstraction l'él
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDA0NDI4NSwtMTkzMDI3Mjk3MCwxMj
-QwODExNDkyLDExNjY4NDY3MCwtNDg1OTM3NTE1LDUzMzc4MDgy
-NCwtMTUxNzYxMDAyMywxMTc2NTE2OTE3LDE2NzExMzk4NTQsLT
-kxNDQ0MzY0MywxMTExOTc1OTgyLC0xMzY2ODEzODk3LC0xMzc1
-MTExMjM4LDE4Mjg5NDg5ODUsLTE5MTUyMDMyMTksOTU4OTc5OD
-k0LC05MjA2NDA4NTUsMTQzMjU0NzcwOV19
+eyJoaXN0b3J5IjpbLTEzNzEyOTk4MjMsLTE5MzAyNzI5NzAsMT
+I0MDgxMTQ5MiwxMTY2ODQ2NzAsLTQ4NTkzNzUxNSw1MzM3ODA4
+MjQsLTE1MTc2MTAwMjMsMTE3NjUxNjkxNywxNjcxMTM5ODU0LC
+05MTQ0NDM2NDMsMTExMTk3NTk4MiwtMTM2NjgxMzg5NywtMTM3
+NTExMTIzOCwxODI4OTQ4OTg1LC0xOTE1MjAzMjE5LDk1ODk3OT
+g5NCwtOTIwNjQwODU1LDE0MzI1NDc3MDldfQ==
 -->
