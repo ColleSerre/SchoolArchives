@@ -7,6 +7,7 @@
 
 - Parcours 5: Marivaux, *Les fausses confidences*
 - Parcours 6: Théâtre et stratagèmes
+- Perso: le Barbier de Séville - Beaumarchais
 
 ## Séance d’Histoire littéraire, les grandes étapes de l’histoire du théâtre occidental
 
@@ -44,7 +45,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc3MTQyODEsMTEwNDk4MjczOSwyMD
-k4ODM5MjE3LDkxODEzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3
-NTMsLTE4NzQxMTgwMDZdfQ==
+eyJoaXN0b3J5IjpbMTM5NDE1NjIxNiwtMTE2NzcxNDI4MSwxMT
+A0OTgyNzM5LDIwOTg4MzkyMTcsOTE4MTMwODAwLC00MTI1OTk3
+MTgsMTU1MTQ0ODc1MywtMTg3NDExODAwNl19
 -->
