@@ -1,7 +1,7 @@
 
 
 
-# Objet d’étude - Le théâtre du XVIIᵉ au XXIᵉ siècle
+# Objet d’étude - Le théâtre du XVIIᵉ au XXIᵉ siècle ([Cours](https://cotentinghislaine.wixsite.com/aimerlalitterature/theatre-stratageme))
 
 ## Œuvres obligatoires:
 
@@ -44,7 +44,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 7. Le théâtre romantique (19ᵉ)
 8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxOD
-EzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgw
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTExNjc3MTQyODEsMTEwNDk4MjczOSwyMD
+k4ODM5MjE3LDkxODEzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3
+NTMsLTE4NzQxMTgwMDZdfQ==
 -->
