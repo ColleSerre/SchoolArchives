@@ -247,8 +247,8 @@ Dans la Cour du Lion, La Fontaine rappel l'hypocrisie de la cour qui veut que l'
 
 ### Dom Juan 
 
-Dans cet extrait, Dom Juan convaint une paysanne de le marrier 
+Dans cet extrait, Dom Juan convaint une paysanne de le marrier grâce à de la flatterie. Il arrive même à la détourner des conseils que son entourage proche lui a donné vis-à-vis des beaux parleurs et des courtisans. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzA1MTg5LDEzODMxMDUyMjMsLTc2Mj
-Q5Nzg2Nl19
+eyJoaXN0b3J5IjpbMTA5Mzc0MzIxNiwxMzgzMTA1MjIzLC03Nj
+I0OTc4NjZdfQ==
 -->
