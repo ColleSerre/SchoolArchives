@@ -156,6 +156,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 
 Wall Street = marché aux esclaves au départ
 HSBC = banque des marchants d'opium en chine
+Henry Ford = a reçu la plus haute décoration du IIIème Reich (
 
 ## Amour
 
@@ -304,5 +305,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjE4MDcyMiwtMTE5OTA1MTY3NF19
+eyJoaXN0b3J5IjpbLTYxODE5ODY5OSwxMjkyMTgwNzIyLC0xMT
+k5MDUxNjc0XX0=
 -->
