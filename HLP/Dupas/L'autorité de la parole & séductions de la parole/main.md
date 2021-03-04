@@ -246,6 +246,9 @@ Dans le Corbeau et le Renard, La Fontaine montre l'efficacité de la flatterie e
 Dans la Cour du Lion, La Fontaine rappel l'hypocrisie de la cour qui veut que l'on mente sans trop mentir et que l'on soit honnête sans trop l'être. Ce jeu d'équilibriste, quand il est raté, propulse les mauvais jongleurs hors de La Cour qui est leur seule raison de vivre, caractérisé par "Le monarque irrité l'envoya chez Pluton". Il est donc clair que ni raison ni flatterie ne sont assez pour s'attirer la bénévolence de toutes les foules. 
 
 ### Dom Juan 
+
+Dans cet extrait, Dom Juan convaint une paysanne de le marrier 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzEwNTIyMywtNzYyNDk3ODY2XX0=
+eyJoaXN0b3J5IjpbMTAyMzA1MTg5LDEzODMxMDUyMjMsLTc2Mj
+Q5Nzg2Nl19
 -->
