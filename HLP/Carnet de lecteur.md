@@ -29,7 +29,7 @@ Loi de Brandolini: la quantité d'énergie nécessaire pour réfuter des idiotie
 
 Chez les grecs, *paideia* = éducation. Une relation romantique entre un homme mur et un homme jeune pour lui apprendre la vie. Ce qui donne **Placere e docere: plaire puis enseigner**
 
-## Religion
+## Religion & Croyances
 
 Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a formé religare, lier plus fortement.
 
@@ -37,6 +37,7 @@ Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a for
 * La religion est le soupir de la créature accablée, le coeur d’un monde sans coeur, comme elle est l’esprit d’une époque sans esprit. Elle est l’opium du peuple - Karl Marx
 * Si Dieu n'existait pas, il faudrait l'inventer - Voltaire
 * Ni dieu ni maitre -  Mikhaïl Bakounine
+* Autrefois, la naissance d'un 'monstre', un enfant avec des m
 
 ## La Foule
 
@@ -315,7 +316,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMT
-UyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgw
-NzIyLC0xMTk5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbLTI3MDY1MTE1NiwtMTkyNDIzMjQwNiw5Nz
+k4NDMwOTksLTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQw
+NjUyLDEyOTIxODA3MjIsLTExOTkwNTE2NzRdfQ==
 -->
