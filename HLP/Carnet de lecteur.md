@@ -204,7 +204,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 ## Nature
 
-* Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude
+* Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitud: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'une enfant monstrueux*
 
 ## Peur
 
@@ -320,7 +320,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQyNDQxMTgsLTE5MjQyMzI0MDYsOT
-c5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0
-MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbNDkyMjYxOTAsLTE5MjQyMzI0MDYsOTc5OD
+QzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0MDY1
+MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
 -->
