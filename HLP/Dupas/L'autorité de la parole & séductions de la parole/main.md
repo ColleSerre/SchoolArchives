@@ -242,7 +242,7 @@ On adopte un stratégie qui repose sur la flatterie, les compliments, on place l
 
 ### La Cour du Lion
 
-Dans cette fable, La Fontaine rappel l'hypocri
+Dans cette fable, La Fontaine rappel l'hypocrisie de la cour qui veut que l'on mente sans trop mentir et que l'on soit honnête sans trop l'être. Ce jeu d'équilibriste, quand il est raté, propulse les mauvais jongleurs hors de La Cour qui est leur seule raison de vivre, caractérisé par "l'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTUyMjQ0OSwtNzYyNDk3ODY2XX0=
+eyJoaXN0b3J5IjpbLTU3MjQ3NjExLC03NjI0OTc4NjZdfQ==
 -->
