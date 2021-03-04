@@ -242,11 +242,11 @@ On adopte un stratégie qui repose sur la flatterie, les compliments, on place l
 
 ### Le Corbeau et le Renard & La Cour du Lion
 
-Dans le Corbeau et le Renard, La Fontaine montre l'efficacité de la flatterie en rhétorique dans un exemple concret. Il montre le piège qu'est la flatterie et la maniu
+Dans le Corbeau et le Renard, La Fontaine montre l'efficacité de la flatterie en rhétorique dans un exemple concret. Il montre le piège qu'est la flatterie pour l'orateur car elle est souvent une arme à usage unique ("Tout flatteur vit au dépens de celui qui l'écoute", "Le Corbeau jura qu'on ne l'y prendrait plus").
 
 Dans cette seconde fable, La Fontaine rappel l'hypocrisie de la cour qui veut que l'on mente sans trop mentir et que l'on soit honnête sans trop l'être. Ce jeu d'équilibriste, quand il est raté, propulse les mauvais jongleurs hors de La Cour qui est leur seule raison de vivre, caractérisé par "Le monarque irrité l'envoya chez Pluton". Il est donc clair que ni raison ni flatterie ne sont assez pour s'attirer la bénévolence de toutes les foules. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDk4Njc4NywtNzYyNDk3ODY2XX0=
+eyJoaXN0b3J5IjpbMTIyODQ5MDAwOSwtNzYyNDk3ODY2XX0=
 -->
