@@ -222,7 +222,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 ## Moralité
 
 * La vraie morale se moque de la morale - Blaise Pascal
-* Dans le dénouement de Médée, Corneille fait dire à Médée, après qu'elle ai tué ses propres enfants, "Je ne me repens plus
+* Dans le dénouement de Médée, Corneille fait dire à Médée, après qu'elle ai tué ses propres enfants, "Mes désirs sont contents. Mon père et mon pays, Je ne me repens plus de vous avoir trahis ; Avec cette douceur j'en accepte le blame". On peut comprendre que même si les actes de Médée ne sont pas moraux, elle se sort de la situation désaventageuse du début de la pièce en 
 
 ## Connaissance
 
@@ -306,6 +306,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzI3ODA3MywxMjkyMTgwNzIyLC0xMT
+eyJoaXN0b3J5IjpbMTk0MDEzOTUzNSwxMjkyMTgwNzIyLC0xMT
 k5MDUxNjc0XX0=
 -->
