@@ -237,3 +237,12 @@ Il faut le faire à bon escient sans ruse. Sinon on risque la démagogie dans la
 ### Quelle stratégie déploient icic les beaux parleurs ?
 
 On adopte un stratégie qui repose sur la flatterie, les compliments, on place l’adversaire sur un piédestal (flatter son égo). Il feint l’admiration et l’enthousiasme. 
+
+## Séance 4: Stratagèmes de séduction rusée
+
+### La Cour du Lion
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2MjQ5Nzg2Nl19
+-->
