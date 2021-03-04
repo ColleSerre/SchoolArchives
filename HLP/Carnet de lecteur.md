@@ -150,7 +150,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 ## Savoir
 
 * La seule chose que je sais c'est que je ne sais pas - Aristote
-* On n'est pas bête, quand on croit n'a
+* On n'est pas bête quand on croit n'avoir point d'esprit: un sot n'a jamais su cela -  Jeanne Marie Leprince de Beaumont *La Belle et la Bête* 
 
 ## Politique
 
@@ -179,6 +179,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Qui n'a jamais connu l'amour n'a jamais connu la peine - *Tristan et Iseult*
 * Cueillez, cueillez votre jeunesse: Comme à cette fleur la vieillesse Fera ternir votre beauté - Pierre de Ronsard *Mignonne allons voir si la rose*
 * Dans l'adversité de nos meilleurs amis, nous trouvons quelque chose qui ne nous déplaît pas - La Rochefoucauld *Maximes*
+* Dans la Belle et la Bête, de Jeanne-Marie Leprince de 
 
 ## Pensées
 
@@ -314,7 +315,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc1MzAzNjMsLTExNTI1NDkzOTEsLT
-M5NTkyNjQzMywxMTIyOTQwNjUyLDEyOTIxODA3MjIsLTExOTkw
-NTE2NzRdfQ==
+eyJoaXN0b3J5IjpbMjAyMDMzNjczOCwtMTE1MjU0OTM5MSwtMz
+k1OTI2NDMzLDExMjI5NDA2NTIsMTI5MjE4MDcyMiwtMTE5OTA1
+MTY3NF19
 -->
