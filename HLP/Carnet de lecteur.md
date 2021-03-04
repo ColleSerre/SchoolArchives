@@ -202,6 +202,10 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
 * Tout est pour le mieux dans le meilleur des mondes. - Voltaire (ironiquement) *Candide*
 
+## Nature
+
+* Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude
+
 ## Peur
 
 * L'angoisse est la disposition qui nous place face au néant - Martin Heidegger
@@ -316,7 +320,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTA1MDY3OSwtMTkyNDIzMjQwNiw5Nz
-k4NDMwOTksLTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQw
-NjUyLDEyOTIxODA3MjIsLTExOTkwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzQyNDQxMTgsLTE5MjQyMzI0MDYsOT
+c5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0
+MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
 -->
