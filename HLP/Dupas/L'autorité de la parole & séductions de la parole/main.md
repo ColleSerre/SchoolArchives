@@ -242,7 +242,11 @@ On adopte un stratégie qui repose sur la flatterie, les compliments, on place l
 
 ### La Cour du Lion
 
-Dans cette fable, La Fontaine rappel l'hypocrisie de la cour qui veut que l'on mente sans trop mentir et que l'on soit honnête sans trop l'être. Ce jeu d'équilibriste, quand il est raté, propulse les mauvais jongleurs hors de La Cour qui est leur seule raison de vivre, caractérisé par "l'
+Dans cette fable, La Fontaine rappel l'hypocrisie de la cour qui veut que l'on mente sans trop mentir et que l'on soit honnête sans trop l'être. Ce jeu d'équilibriste, quand il est raté, propulse les mauvais jongleurs hors de La Cour qui est leur seule raison de vivre, caractérisé par "Le monarque irrité l'envoya chez Pluton". Il est donc clair que ni raison ni flatterie ne sont assez pour s'attirer la bénévolence de toutes les foules. 
+
+### Le Corbeau et le Renard
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjQ3NjExLC03NjI0OTc4NjZdfQ==
+eyJoaXN0b3J5IjpbLTkyMTI1MTg2MywtNzYyNDk3ODY2XX0=
 -->
