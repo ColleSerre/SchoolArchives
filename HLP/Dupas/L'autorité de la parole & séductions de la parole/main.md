@@ -247,8 +247,8 @@ Dans la Cour du Lion, La Fontaine rappel l'hypocrisie de la cour qui veut que l'
 
 ### Dom Juan 
 
-Dans cet extrait, Dom Juan convaint une paysanne de le marrier grâce à de la flatterie. Il arrive même à la détourner des conseils que son entourage proche lui a donné vis-à-vis des beaux parleurs et des courtisans. Pour l'assurer de sa différence, Dom Juan flatte et flatte encore. Quand Charlotte doute de la sincérité de ses compliments, il redouble de ces derniers et cela fonctionne.
+Dans cet extrait, Dom Juan convaint une paysanne de le marrier grâce à de la flatterie. Il arrive même à la détourner des conseils que son entourage proche lui a donné vis-à-vis des beaux parleurs et des courtisans. Pour l'assurer de sa différence, Dom Juan flatte et flatte encore. Quand Charlotte doute de la sincérité de ses compliments, il redouble de ces derniers et cela fonctionne. Il est aussi à noter que les compliments de Dom Juan sont d'autant plus significatifs qu'ils sont encouragés par Sganarelle qui approuve et "enfonce le clou" à chque doute de Charlotte. Cela a pour effet de confirmer l'instin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjIyMDI1NiwxMDkzNzQzMjE2LDEzOD
+eyJoaXN0b3J5IjpbLTc3MjQ4MzczNiwxMDkzNzQzMjE2LDEzOD
 MxMDUyMjMsLTc2MjQ5Nzg2Nl19
 -->
