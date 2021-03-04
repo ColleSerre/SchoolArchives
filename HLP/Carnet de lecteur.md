@@ -179,7 +179,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Qui n'a jamais connu l'amour n'a jamais connu la peine - *Tristan et Iseult*
 * Cueillez, cueillez votre jeunesse: Comme à cette fleur la vieillesse Fera ternir votre beauté - Pierre de Ronsard *Mignonne allons voir si la rose*
 * Dans l'adversité de nos meilleurs amis, nous trouvons quelque chose qui ne nous déplaît pas - La Rochefoucauld *Maximes*
-* Dans la Belle et la Bête, de Jeanne-Marie Leprince de Beaumont, les deux personnages partagent leur premier dîner romantique. En dépit des apparences, la Bête traite la Belle avec respect et lui réitère que tout son château est à elle et qu'elle ne doit absolument pas se sentir menaçée. Il va même jusqu'à lui propser qu'il se retire comme s'il était invité. Le 
+* Dans la Belle et la Bête, de Jeanne-Marie Leprince de Beaumont, les deux personnages partagent leur premier dîner romantique. En dépit des apparences, la Bête traite la Belle avec respect et lui réitère que tout son château est à elle et qu'elle ne doit absolument pas se sentir menaçée. Il va même jusqu'à lui propser qu'il se retire comme s'il était invité. Belle se sent donc à l'aise 
 
 ## Pensées
 
@@ -315,7 +315,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzOTg4ODU4LC0xMTUyNTQ5MzkxLC0zOT
+eyJoaXN0b3J5IjpbNDI2MzkyNjQyLC0xMTUyNTQ5MzkxLC0zOT
 U5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUx
 Njc0XX0=
 -->
