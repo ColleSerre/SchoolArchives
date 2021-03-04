@@ -3,7 +3,7 @@
 Questions: [Drive](https://docs.google.com/document/d/1GwJhs_u0BVinvv1ANiadNSTJ3Ru9l4bO/edit)
 
 1. J'ai choisi de lire l'Étranger d'Albert Camus car je sais que c'est un roman important de la littérature française moderne. Ma mère me parlait beaucoup de Camus quand j'étais petit et j'étais donc content de découvrir cet auteur et cette œuvre qui ont tous deux été récompensés d'un prix Nobel de littérature. 
-2. L'Étranger parait en 1942. C'est 3 ans avant le massacre de Sétif après lequel Albert Camus demandera pour l'Algérie «le régime démocratique dont jouissent les Français» signifiant que les Algérois étaient défavorisés face aux habitants de France métropolitaine. En 1942, quand bien même la seconde guerre mondiale bat son plein, la question de l'indépendance algérienne prend de l'importance car beaucoup d'Algérois se battent sous les drapeaux de la France malgré que les Algériens musulmans n'aient que le statu d'indigènes et n'ont donc pas accès à la nationalité ou aux droits civiques qui vont avec. 
+2. L'Étranger parait en 1942. C'est 3 ans avant le massacre de Sétif après lequwel Albert Camus demandera pour l'Algérie «le régime démocratique dont jouissent les Français» signifiant que les Algérois étaient défavorisés face aux habitants de France métropolitaine. En 1942, quand bien même la seconde guerre mondiale bat son plein, la question de l'indépendance algérienne prend de l'importance car beaucoup d'Algérois se battent sous les drapeaux de la France malgré que les Algériens musulmans n'aient que le statu d'indigènes et n'ont donc pas accès à la nationalité ou aux droits civiques qui vont avec. 
 3. L'auteur est Albert Camus, l'Étranger se place dans ce que Camus a appelé le cycle de l'absurde, une collection d'œuvres qui exposent sa philosophie de l'absurde. Cette philosophie veut que l'existence soit injustifiée. En cela, Meursault est l'archétype de l'humain qui n'a pas de sens ou de conviction et qui agit en accord avec l'absence de justification de son existence. Il est aussi à noter qu'Albert Camus a été résistant durant la seconde guerre mondiale. Camus a aussi grandi en Algérie française, le contexte historique du livre relève donc du vécu. On peut aussi relever que les Algériens ne sont jamais nommés et constituent une sorte d'arrière fond passif. 
 4. On peut dire que Meursault est étranger aux normes sociales car il n'arrive pas à s'y conformer et n'a aucune volonté de le faire.  On peut aussi considérer que Meursault est étranger à tous les ennuis que ses proches ont (vie amoureuse, travail). On peut aussi dire que le reste du monde est étranger pour Meursault car rien ni personne ne semble pouvoir l'atteindre. 
 5. Le personnage de Meursault semble se laisser porter par la "vague" que la vie lui impose et que les autres lui proposent. Il n'objecte à rien, même aux propositions les plus immorales. La principale évolution du personnage est quand il tua l'Arabe, ou plutôt quand il tira à plusieurs reprises sur l'Arabe. Le premier coup de feu peut-être mis sur le compte du soleil qui l'éblouit et de la peur de voir l'Arabe sortir son couteau. En revanche, les coups suivants sont de sa pure volonté et ils sont en somme, son premier choix radical depuis le début du roman.
@@ -14,11 +14,11 @@ Questions: [Drive](https://docs.google.com/document/d/1GwJhs_u0BVinvv1ANiadNSTJ3
 
 On dit souvent qu’une image vaut mille mots. Mais que faire quand une idée est trop idéale pour être visible par la vulgaire lentille d’un appareil photo ? Que faire quand on sait que l’idéal ne touchera jamais la peau de l’humain même si ce dernier tend inexorablement vers celui-ci ? Eh bien on écrit, on griffonne le papier, on le sacrifie, on le saigne jusqu’à ce que nos vices s’endorment et que nos ardeurs s'adoucissent. Pour se recueillir dans ce rituel messianique il faut seulement avoir le goût de l’écriture, de la lecture, des beaux mots, des bons mots. Ce goût ne fut pas celui de Meursault. Il était seul devant l’adversaire, devant les tortures de ce monde qui se criait toujours plus juste, toujours plus ouvert, qui coulait le sang contre l’intolérance mais qui scrutait sans un mot ces mouvements que pourtant aucune loi n’a jugé déplacés. C’est pour cela que quand la nuit était au plus noir, quand le lendemain promettait d’être toujours plus indifférenciable à l’hier, il n’a pût se recroqueviller devant une feuille de papier, se confier à l’encre qui ruisselle, se mêlant à sa sueur et à son sang. Pour Meursault, il n’y a pas de morale, pas d’émotions, pas de loi et donc pas d’alliés. Voyant cela le soleil saisit sa proie et la jeta devant les yeux cruels et hypocrites de l’humanité. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODA1ODYyOSwxODE2NjUzODM1LDExOD
-cxNzEwOTQsNzQ0NTk2MzQ4LC04OTU5MzYwNzksMTIwMTIzNDcx
-MiwtMjIwOTI1OTA0LDcwNzYwNTk4NywtMTkzMDI3Mjk3MCwxMj
-QwODExNDkyLDExNjY4NDY3MCwtNDg1OTM3NTE1LDUzMzc4MDgy
-NCwtMTUxNzYxMDAyMywxMTc2NTE2OTE3LDE2NzExMzk4NTQsLT
-kxNDQ0MzY0MywxMTExOTc1OTgyLC0xMzY2ODEzODk3LC0xMzc1
-MTExMjM4XX0=
+eyJoaXN0b3J5IjpbMTUyNzgyNTE5NiwxMjc4MDU4NjI5LDE4MT
+Y2NTM4MzUsMTE4NzE3MTA5NCw3NDQ1OTYzNDgsLTg5NTkzNjA3
+OSwxMjAxMjM0NzEyLC0yMjA5MjU5MDQsNzA3NjA1OTg3LC0xOT
+MwMjcyOTcwLDEyNDA4MTE0OTIsMTE2Njg0NjcwLC00ODU5Mzc1
+MTUsNTMzNzgwODI0LC0xNTE3NjEwMDIzLDExNzY1MTY5MTcsMT
+Y3MTEzOTg1NCwtOTE0NDQzNjQzLDExMTE5NzU5ODIsLTEzNjY4
+MTM4OTddfQ==
 -->
