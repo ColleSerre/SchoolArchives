@@ -152,6 +152,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - *Jean Jaurès* cité par *Robert Badinter* dans son réquisitoire contre la peine de mort
 * Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
 * Une des propriétés des sondages consiste à poser aux gens des problèmes qu'ils ne se posent pas, à faire glisser des réponses aux problèmes qu'ils n'ont pas posés, donc à imposer des réponses. - *Pierre Bourdieu* au Collège de France 1990
+
 ## Capitalisme
 
 Wall Street = marché aux esclaves au départ
@@ -207,7 +208,6 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Ceux qui ont pris tout le plat dans leur assiette, laissant les assiettes des autres vides, et qui ayant tout disent avec une bonne figure « Nous qui avons tout, nous sommes pour la paix ! », je sais ce que je dois leur crier à ceux-là : les premiers violents, les provocateurs, c’est vous ! - l'Abbé Pierre *La voix des sans-voix*
 * Et quand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
 * Ulysse face au cyclope, tente de le convaincre en réduisant la chair de ses camarades à de l'"abominable nourriture". Il essaye d'employer un argument dit *reductio ad unum* pour à la fois rendre le cyclope empathique et le dissuader de rejoindre le camp de ceux qui ont fait souffrir les hommes. Cela ne fonctionne pas face au cyclopse qui adopte une position semblable au *carpe diem* d'Horace en affirmant qu'aucun Dieu ne peut l'atteindre dans sa grotte et qu'il vit sa vie sans demander de plus. Les hommes ont tout simplement eu le malheur de croiser son chemin alors qu'il avait faim. La richesse exprimée dans **"La richesse est le dieu des sages: tout le reste n'est que vanité et beaux discours.** est une richesse spirituelle ainsi que matérielle. - Euripide *Le Cyclope*
-* 
 
 ## L'orateur
 
@@ -309,7 +309,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzUxNTYzLC0xMTUyNTQ5MzkxLC0zOT
+eyJoaXN0b3J5IjpbNzc1NDg1ODIzLC0xMTUyNTQ5MzkxLC0zOT
 U5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUx
 Njc0XX0=
 -->
