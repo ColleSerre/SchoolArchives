@@ -206,6 +206,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Comte-Sponville
 * Ceux qui ont pris tout le plat dans leur assiette, laissant les assiettes des autres vides, et qui ayant tout disent avec une bonne figure « Nous qui avons tout, nous sommes pour la paix ! », je sais ce que je dois leur crier à ceux-là : les premiers violents, les provocateurs, c’est vous ! - l'Abbé Pierre *La voix des sans-voix*
 * Et quand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
+* Ulysse face au cyclope, tente de le convaincre en réduisant la chair de ses camarades à de l'"abominable nourriture". Il essaye de 
 
 ## L'orateur
 
@@ -307,6 +308,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMT
-IyOTQwNjUyLDEyOTIxODA3MjIsLTExOTkwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbLTExNDI3ODgyMDAsLTExNTI1NDkzOTEsLT
+M5NTkyNjQzMywxMTIyOTQwNjUyLDEyOTIxODA3MjIsLTExOTkw
+NTE2NzRdfQ==
 -->
