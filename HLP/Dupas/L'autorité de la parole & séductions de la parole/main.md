@@ -249,9 +249,9 @@ Dans la Cour du Lion, La Fontaine rappel l'hypocrisie de la cour qui veut que l'
 
 Dans cet extrait, Dom Juan convaint une paysanne de le marrier grâce à de la flatterie. Il arrive même à la détourner des conseils que son entourage proche lui a donné vis-à-vis des beaux parleurs et des courtisans. Pour l'assurer de sa différence, Dom Juan flatte et flatte encore. Quand Charlotte doute de la sincérité de ses compliments, il redouble de ces derniers et cela fonctionne. Il est aussi à noter que les compliments de Dom Juan sont d'autant plus significatifs qu'ils sont encouragés par Sganarelle qui approuve et "enfonce le clou" à chque doute de Charlotte. Cela a pour effet de confirmer et de donner de la validité aux paroles de Dom Juan. 
 
-Une question de réflexion qui engloberai ces trois textes serait "La flatterie est-elle un outi?"
+Une question de réflexion qui engloberai ces trois textes serait "La flatterie est-elle un outil efficace pour un orateur ?" ou "L'orateur doit-il flatter ?"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ2MzkwMDMsLTE5NDgxNDQ2NDAsMj
+eyJoaXN0b3J5IjpbLTE1MDEyMTY3NzYsLTE5NDgxNDQ2NDAsMj
 U4ODI4OTAzLDEwOTM3NDMyMTYsMTM4MzEwNTIyMywtNzYyNDk3
 ODY2XX0=
 -->
