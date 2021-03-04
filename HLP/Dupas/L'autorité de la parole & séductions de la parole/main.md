@@ -242,7 +242,7 @@ On adopte un stratégie qui repose sur la flatterie, les compliments, on place l
 
 ### La Cour du Lion
 
-
+Dans cette fable, La Fontaine rappel l'hypocri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQ5Nzg2Nl19
+eyJoaXN0b3J5IjpbMTc4OTUyMjQ0OSwtNzYyNDk3ODY2XX0=
 -->
