@@ -37,7 +37,7 @@ Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a for
 * La religion est le soupir de la créature accablée, le coeur d’un monde sans coeur, comme elle est l’esprit d’une époque sans esprit. Elle est l’opium du peuple - Karl Marx
 * Si Dieu n'existait pas, il faudrait l'inventer - Voltaire
 * Ni dieu ni maitre -  Mikhaïl Bakounine
-* Autrefois, la naissance d'un 'monstre', un enfant avec des m
+* Autrefois, la naissance d'un 'monstre', un enfant avec des défauts de naissance, était vue comme le présage d'un mauvais évènement.
 
 ## La Foule
 
@@ -316,7 +316,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDY1MTE1NiwtMTkyNDIzMjQwNiw5Nz
+eyJoaXN0b3J5IjpbMTYzMTA1MDY3OSwtMTkyNDIzMjQwNiw5Nz
 k4NDMwOTksLTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQw
 NjUyLDEyOTIxODA3MjIsLTExOTkwNTE2NzRdfQ==
 -->
