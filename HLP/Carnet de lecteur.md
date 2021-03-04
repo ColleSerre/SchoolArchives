@@ -156,7 +156,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 
 Wall Street = marché aux esclaves au départ
 HSBC = banque des marchants d'opium en chine
-Henry Ford = a reçu la plus haute décoration du IIIème Reich (
+Henry Ford = a reçu la plus haute décoration du IIIème Reich (La Grande Croix de l'Ordre de l'Aigle allemand)
 
 ## Amour
 
@@ -222,6 +222,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 ## Moralité
 
 * La vraie morale se moque de la morale - Blaise Pascal
+* Dans le dénouement de Médée, Corneille fait dire à Médée, après qu'elle ai tué ses propres enfants, "Je ne me repens plus
 
 ## Connaissance
 
@@ -305,6 +306,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODE5ODY5OSwxMjkyMTgwNzIyLC0xMT
+eyJoaXN0b3J5IjpbLTQ0NzI3ODA3MywxMjkyMTgwNzIyLC0xMT
 k5MDUxNjc0XX0=
 -->
