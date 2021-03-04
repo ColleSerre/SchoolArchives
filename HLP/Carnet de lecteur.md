@@ -249,7 +249,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Personne n'aime des missionnaires armés - Robespierre
 * Science sans conscience n'est que ruine de l'âme. - Rabelais *Pantagruel*
 
-## L'autorité de la parole - Cours
+## L'autorité de la parole - citations de cours
 
 * L'homme est à la mesure de toute chose - Protagoras
 * **"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
@@ -306,6 +306,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMT
-k5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbLTM5NTkyNjQzMywxMTIyOTQwNjUyLDEyOT
+IxODA3MjIsLTExOTkwNTE2NzRdfQ==
 -->
