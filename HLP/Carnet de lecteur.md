@@ -147,6 +147,11 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 3. L'appétit vient en mangeant - Rabelais *Gargantua*
 8. Le surréalisme est la surprise magique de trouver un lion dans un placard, là où on était sur de trouver des chemises - Frida Kahlo
 
+## Savoir
+
+* La seule chose que je sais c'est que je ne sais pas - Aristote
+* On n'est pas bête, quand on croit n'a
+
 ## Politique
 
 * La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - *Jean Jaurès* cité par *Robert Badinter* dans son réquisitoire contre la peine de mort
@@ -309,7 +314,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NDg1ODIzLC0xMTUyNTQ5MzkxLC0zOT
-U5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUx
-Njc0XX0=
+eyJoaXN0b3J5IjpbLTE0OTc1MzAzNjMsLTExNTI1NDkzOTEsLT
+M5NTkyNjQzMywxMTIyOTQwNjUyLDEyOTIxODA3MjIsLTExOTkw
+NTE2NzRdfQ==
 -->
