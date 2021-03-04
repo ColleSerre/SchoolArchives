@@ -240,13 +240,13 @@ On adopte un stratégie qui repose sur la flatterie, les compliments, on place l
 
 ## Séance 4: Stratagèmes de séduction rusée
 
-### La Cour du Lion
+### Le Corbeau et le Renard & La Cour du Lion
 
-Dans cette fable, La Fontaine rappel l'hypocrisie de la cour qui veut que l'on mente sans trop mentir et que l'on soit honnête sans trop l'être. Ce jeu d'équilibriste, quand il est raté, propulse les mauvais jongleurs hors de La Cour qui est leur seule raison de vivre, caractérisé par "Le monarque irrité l'envoya chez Pluton". Il est donc clair que ni raison ni flatterie ne sont assez pour s'attirer la bénévolence de toutes les foules. 
+Dans le Corbeau et le Renard, La Fontaine montre l'efficacité de la flatterie en rhétorique dans un exemple concret. Il montre le piège qu'est la flatterie et la maniu
 
-### Le Corbeau et le Renard
+Dans cette seconde fable, La Fontaine rappel l'hypocrisie de la cour qui veut que l'on mente sans trop mentir et que l'on soit honnête sans trop l'être. Ce jeu d'équilibriste, quand il est raté, propulse les mauvais jongleurs hors de La Cour qui est leur seule raison de vivre, caractérisé par "Le monarque irrité l'envoya chez Pluton". Il est donc clair que ni raison ni flatterie ne sont assez pour s'attirer la bénévolence de toutes les foules. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTI1MTg2MywtNzYyNDk3ODY2XX0=
+eyJoaXN0b3J5IjpbMTc1MDk4Njc4NywtNzYyNDk3ODY2XX0=
 -->
