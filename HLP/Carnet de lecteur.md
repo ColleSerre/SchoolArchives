@@ -161,9 +161,10 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 
 ## Capitalisme
 
-Wall Street = marché aux esclaves au départ
-HSBC = banque des marchants d'opium en chine
-Henry Ford = a reçu la plus haute décoration du IIIème Reich (La Grande Croix de l'Ordre de l'Aigle allemand)
+* Wall Street = marché aux esclaves au départ
+* HSBC = banque des marchants d'opium en chine
+* Henry Ford = a reçu la plus haute décoration du IIIème Reich (La Grande Croix de l'Ordre de l'Aigle allemand)
+* Le capitalisme a tendance à détruire les deux choses qui font sa richesse: les êtres humains et la nature - Karl Marx
 
 ## Amour
 
@@ -320,7 +321,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMjYxOTAsLTE5MjQyMzI0MDYsOTc5OD
-QzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0MDY1
-MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbMTc5NjMyMjQsNDkyMjYxOTAsLTE5MjQyMz
+I0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMs
+MTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
 -->
