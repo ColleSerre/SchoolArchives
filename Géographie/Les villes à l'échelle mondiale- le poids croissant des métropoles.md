@@ -207,7 +207,11 @@ Deux exemples, un dans le nord et un dans le sud:
 
 On peut parler d'étalement urbain à Toulouse car la superficie de l'aire urbaine a augmenté entre 1968 et 2013, passant de 900 km2 à 4000 km2, tout comme le nombre de communes (de 90 à 453 communes entre ces mêmes dates)
 Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d'un cadre de vie plus rustique, Pollution sonore/athmosphérique, l'insécurité. 
+
+* Dans les pays développés, les périphéries se composent de banlieus résidentielles en habitat collectif ou individuel (banlieue pavillionnaire)
+* Los Angeles est la deuxième plus grande ville des États-Unis avec plus de 16 millions d'habitants
+* Les périphéries de Los Angeles s'étalent sur plus de 150 km, cet 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjgyMDg4MiwtMTUxNzU0OTg2MiwtMT
-QzNDE3NjkwXX0=
+eyJoaXN0b3J5IjpbMTYyMTg0Mjg0NSwtOTAyODIwODgyLC0xNT
+E3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
 -->
