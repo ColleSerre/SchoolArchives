@@ -229,9 +229,9 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 * Le Guggenheim à Bilbao en est un des exemples les plus emblématiques. 
 * À Dubaï, le Burj Khalifa est le plus haut gratte-ciel du monde, culminant à 828 mètres. La tour Burj Khalifa, inaugurée en janvier 2010, est devenue un des joyaux de Dubaï, une destination touristique de plus en plus courue. 
 * La Dubaï Creek Tower, lancée en 2016 devrait faire 1km de hauteur pour l'exposition universelle de 2020.
-* Les centres commerciaux ou Malls sont des constructions pharaoniques,  
+* Les centres commerciaux ou Malls sont des constructions pharaoniques, les plus grands sont aux États-Unis, à Dubaï et en Chine et en Asie. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwOTI5OTYwLDU2MjcwNzY4LC0xOTk3Mz
-gzMjg3LDEyNDk0MjA3MzcsLTkwMjgyMDg4MiwtMTUxNzU0OTg2
-MiwtMTQzNDE3NjkwXX0=
+eyJoaXN0b3J5IjpbMTE5MzU2MzMzNCw1NjI3MDc2OCwtMTk5Nz
+M4MzI4NywxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLTE1MTc1NDk4
+NjIsLTE0MzQxNzY5MF19
 -->
