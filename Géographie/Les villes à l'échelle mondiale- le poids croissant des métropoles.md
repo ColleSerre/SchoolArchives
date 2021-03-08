@@ -212,7 +212,12 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 * Los Angeles est la deuxième plus grande ville des États-Unis avec plus de 16 millions d'habitants
 * Les périphéries de Los Angeles s'étalent sur plus de 150 km, cet étalement est rendu possible grâce aux autoroutes et à l'utilisation de la voiture.
 * **La principale caractéristique des périphéries des grandes villes est leur étalement le long des voies de communication.**
+
+### Les marques de l'étalement urbain du Caire
+
+* Une forte croissance entre 1920(15M) et 2005 (14M). **Aujourd'hui, plus de 21 millions d'habitants**.
+* L'extan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTQyMDczNywtOTAyODIwODgyLC0xNT
-E3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbLTM4NzkzNjk2MiwxMjQ5NDIwNzM3LC05MD
+I4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
 -->
