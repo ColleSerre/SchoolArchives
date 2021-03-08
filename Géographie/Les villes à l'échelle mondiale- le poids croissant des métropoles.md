@@ -224,7 +224,9 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 * C'est chaque jour l'équivalent de la surface de Paris (150 km2) qui est urbanisée. 
 
 ## Des contructions pharaoniques
+
+Pour devenir un ville mondiale, il faut le signaler à tou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODg0OTI1NiwxMjQ5NDIwNzM3LC05MD
+eyJoaXN0b3J5IjpbLTYzMzM1MzIyNCwxMjQ5NDIwNzM3LC05MD
 I4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
 -->
