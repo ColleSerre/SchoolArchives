@@ -210,8 +210,9 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 
 * Dans les pays développés, les périphéries se composent de banlieus résidentielles en habitat collectif ou individuel (banlieue pavillionnaire)
 * Los Angeles est la deuxième plus grande ville des États-Unis avec plus de 16 millions d'habitants
-* Les périphéries de Los Angeles s'étalent sur plus de 150 km, cet 
+* Les périphéries de Los Angeles s'étalent sur plus de 150 km, cet étalement est rendu possible grâce aux autoroutes et à l'utilisation de la voiture.
+* **La principale caractéristique des périphéries des grandes villes est leur étalement le long des voies de communication.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTg0Mjg0NSwtOTAyODIwODgyLC0xNT
+eyJoaXN0b3J5IjpbMTI0OTQyMDczNywtOTAyODIwODgyLC0xNT
 E3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
 -->
