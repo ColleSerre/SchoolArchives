@@ -225,8 +225,9 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 
 ## Des contructions pharaoniques
 
-Pour devenir un ville mondiale, il faut le signaler à tou
+* Pour devenir un ville mondiale, il faut le signaler au monde, et pour le signaler au monde, il n'y a rien de mieux qu'un grand projet architectural. 
+* Le Guggenheim à Bilbao en est un des exemples les plus emblématiques. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzM1MzIyNCwxMjQ5NDIwNzM3LC05MD
+eyJoaXN0b3J5IjpbLTk5MjU3ODUzNiwxMjQ5NDIwNzM3LC05MD
 I4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
 -->
