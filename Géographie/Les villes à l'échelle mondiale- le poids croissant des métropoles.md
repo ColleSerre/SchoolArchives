@@ -189,3 +189,8 @@ Fonctions culturelles: Big Ben, British Museum, Cimetière de Highgate, King’s
 Organisation spatiale: Aéroports (Heathrow, Luton, Gatwick, SouthEnd), Gares (St Pancras *Gare Eurostar*), Port de Londres, Douvres, autoroutes
 
 Caractéristiques socio-démographiques. 
+
+# Chapitre II: Des métropoles inégales et en mutation
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgwMTk4NzI0NV19
+-->
