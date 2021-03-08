@@ -220,8 +220,9 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 
 ## Bilan 
 
-* L'espace urbain mondial (seulement 0,5% des terres émergées en 2000) devrait être multiplié par 3 d'ici
+* L'espace urbain mondial (seulement 0,5% des terres émergées en 2000) devrait être multiplié par 3 d'ici 2030
+* C'est chaque jour l'équivalent de la surface de Paris (150 km2) qui est urbanisée. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwNzU3MDI4LDEyNDk0MjA3MzcsLTkwMj
-gyMDg4MiwtMTUxNzU0OTg2MiwtMTQzNDE3NjkwXX0=
+eyJoaXN0b3J5IjpbLTExMTUzNjMwMjAsMTI0OTQyMDczNywtOT
+AyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
 -->
