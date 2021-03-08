@@ -218,11 +218,13 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 * Une forte croissance entre 1920(15M) et 2005 (14M). **Aujourd'hui, plus de 21 millions d'habitants**.
 * L'extansion de la surface urbanisée, 10 000 ha en 1920, 70 000 en 2000, les Cairotes sont obligés de se loger dans des habitats précaires (cité des morts, cité des toits, bidonvilles)
 
-## Bilan 
+### Bilan 
 
 * L'espace urbain mondial (seulement 0,5% des terres émergées en 2000) devrait être multiplié par 3 d'ici 2030
 * C'est chaque jour l'équivalent de la surface de Paris (150 km2) qui est urbanisée. 
+
+## Des contructions pharaoniques
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUzNjMwMjAsMTI0OTQyMDczNywtOT
-AyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbMTQxODg0OTI1NiwxMjQ5NDIwNzM3LC05MD
+I4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
 -->
