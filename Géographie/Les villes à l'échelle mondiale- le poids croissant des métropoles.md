@@ -206,6 +206,8 @@ Deux exemples, un dans le nord et un dans le sud:
 2. Le Caire
 
 On peut parler d'étalement urbain à Toulouse car la superficie de l'aire urbaine a augmenté entre 1968 et 2013, passant de 900 km2 à 4000 km2, tout comme le nombre de communes (de 90 à 453 communes entre ces mêmes dates)
+Points forts de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
+eyJoaXN0b3J5IjpbOTY1ODc1MTgsLTE1MTc1NDk4NjIsLTE0Mz
+QxNzY5MF19
 -->
