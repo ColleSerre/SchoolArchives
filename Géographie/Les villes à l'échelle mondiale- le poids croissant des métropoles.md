@@ -216,8 +216,8 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 ### Les marques de l'étalement urbain du Caire
 
 * Une forte croissance entre 1920(15M) et 2005 (14M). **Aujourd'hui, plus de 21 millions d'habitants**.
-* L'extan
+* L'extansion de la surface urbanisée, 10 000 ha en 1920, 70 000 en 2000, les Cairotes sont obligés de se loger dans des habitats précaires (cité des morts, cité des toits, bidonvilles)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzkzNjk2MiwxMjQ5NDIwNzM3LC05MD
-I4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
+eyJoaXN0b3J5IjpbLTE0NDMwODAwMDIsMTI0OTQyMDczNywtOT
+AyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
 -->
