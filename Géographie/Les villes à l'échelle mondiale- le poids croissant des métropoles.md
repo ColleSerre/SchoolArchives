@@ -191,6 +191,10 @@ Organisation spatiale: Aéroports (Heathrow, Luton, Gatwick, SouthEnd), Gares (S
 Caractéristiques socio-démographiques. 
 
 # Chapitre II: Des métropoles inégales et en mutation
+
+## Introduction
+
+* Les métropoles sont devenues en quelques décennies les moteurs de la mondialisation. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTk4NzI0NV19
+eyJoaXN0b3J5IjpbMjAwOTY1MzQ0MF19
 -->
