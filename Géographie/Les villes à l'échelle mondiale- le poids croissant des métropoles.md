@@ -194,7 +194,9 @@ Caractéristiques socio-démographiques.
 
 ## Introduction
 
-* Les métropoles sont devenues en quelques décennies les moteurs de la mondialisation. 
+* Les métropoles sont devenues en quelques décennies les moteurs de la mondialisation. Cette croissance a provoqué de fortes disparités socio-économiques qui sont visibles au niveau des paysages urbains. 
+* Ces inégalités, loin de s'atténuer ont tendance à s'accroitre. On assiste en effet, de plus en plus, à une fragmentation des métropoles. 
+* **Problématique:** Quesls
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTY1MzQ0MF19
+eyJoaXN0b3J5IjpbLTE0MDUyNjIyXX0=
 -->
