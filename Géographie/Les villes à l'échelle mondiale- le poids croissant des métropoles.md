@@ -228,7 +228,9 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 * Pour devenir un ville mondiale, il faut le signaler au monde, et pour le signaler au monde, il n'y a rien de mieux qu'un grand projet architectural. 
 * Le Guggenheim à Bilbao en est un des exemples les plus emblématiques. 
 * À Dubaï, le Burj Khalifa est le plus haut gratte-ciel du monde, culminant à 828 mètres. La tour Burj Khalifa, inaugurée en janvier 2010, est devenue un des joyaux de Dubaï, une destination touristique de plus en plus courue. 
+* La Dubaï Creek Tower, lancée en 2016 devrait faire 1km de hauteur pour l'exposition universelle de 2020. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczODMyODcsMTI0OTQyMDczNywtOT
-AyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbNTYyNzA3NjgsLTE5OTczODMyODcsMTI0OT
+QyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2
+OTBdfQ==
 -->
