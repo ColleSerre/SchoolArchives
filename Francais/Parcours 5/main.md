@@ -52,6 +52,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Rupture avec le classique
 		* Histoire contemporaine
 	* Hernani: "À peuple nouveau, art nouveau"
+		* Bataille critituqe (Bataille d'He
 	* Présentation romantisme, s'oppose au rationalisme des lumières
 	* Le public visé par la comédie ou la tragédie n'est pas le même
 	* Le mélange du grotesque et du sublime
@@ -61,7 +62,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* 
 9. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NzExMjkwLDEzOTQxNTYyMTYsLTExNj
+eyJoaXN0b3J5IjpbOTM0NTY2Njc2LDEzOTQxNTYyMTYsLTExNj
 c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
 MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
 ==
