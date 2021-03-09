@@ -71,7 +71,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* "Sous le familier découvrez l'insolite"
 		* On se sépare de la mimesis et on souligne l'artificialité du décor
 	* Antonin Artaud
-		* re-théâtrealiser, théâtre grotesque
+		* re-théâtraliser, théâtre grotesque
 		* *Le théâtre et son double*
 	* L'absurde
 		* Rupture avec les genres classiques
@@ -82,8 +82,8 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Jean Genet:
 			* montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences, à l'infini.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjEyOTU2NCwxMzk0MTU2MjE2LC0xMT
-Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
-MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
-0=
+eyJoaXN0b3J5IjpbMTgyNjIzMjU2NywyMTAyMTI5NTY0LDEzOT
+QxNTYyMTYsLTExNjc3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5
+MjE3LDkxODEzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLT
+E4NzQxMTgwMDZdfQ==
 -->
