@@ -61,6 +61,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Théorisée par Hugo
 		* L'objectif des romantiques est une quête de la réalité humaine
 8. Les apports du théâtre contemporain (20ᵉ):
+	* *Les Justes* - Camus
 	* Refus du naturalisme et du réalisme
 	* Influence de la psychanalyse
 	* Complexité de l'inconscient humain
@@ -79,9 +80,9 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Samuel Beckett:
 			* Nie faire partie de ce mouvement, mais ses deux grandes œuvres remplissent les critères: En attendant Godot et fin de partie
 		* Jean Genet:
-			* 
+			* Chaque réalité est une illusion qui révèle 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTI5MzY3OSwxMzk0MTU2MjE2LC0xMT
+eyJoaXN0b3J5IjpbMTM2NDA3MTE5NCwxMzk0MTU2MjE2LC0xMT
 Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
 MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
 0=
