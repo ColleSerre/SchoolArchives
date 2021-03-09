@@ -80,10 +80,10 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Samuel Beckett:
 			* Nie faire partie de ce mouvement, mais ses deux grandes œuvres remplissent les critères: En attendant Godot et fin de partie
 		* Jean Genet:
-			* montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences, à l'infini.
+			* Montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences, à l'infini.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjIzMjU2NywyMTAyMTI5NTY0LDEzOT
-QxNTYyMTYsLTExNjc3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5
-MjE3LDkxODEzMDgwMCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLT
-E4NzQxMTgwMDZdfQ==
+eyJoaXN0b3J5IjpbMTUyMjI1OTIyMywxODI2MjMyNTY3LDIxMD
+IxMjk1NjQsMTM5NDE1NjIxNiwtMTE2NzcxNDI4MSwxMTA0OTgy
+NzM5LDIwOTg4MzkyMTcsOTE4MTMwODAwLC00MTI1OTk3MTgsMT
+U1MTQ0ODc1MywtMTg3NDExODAwNl19
 -->
