@@ -38,8 +38,9 @@ Monstres en littérature:
 ### Dans quelles circonstances interroge-t-on le monstre en soi ?
 Dans des circonstances extrêmes (orgueil, colère, frustration, jalousie, envie)
 *Ubris* (démesure menant à la transgression violente, comportement inspiré par les passions)
-Elle est 
+Elle est l'erreur, la faute morale, menant à la *nemesis* (vengeance juste)
+D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place dans l'univers. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDE4NTAwNSwtMTY2NDMyMzUwMiwxMD
+eyJoaXN0b3J5IjpbMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMD
 QzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF19
 -->
