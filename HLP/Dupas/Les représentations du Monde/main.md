@@ -43,9 +43,10 @@ D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place d
 
 ### Comment y remédier ?
 * Grâce au moi, au surmoi (naturellement)
-* Grâce à 
+* Grâce à l'exemple, l'expérience d'autrui (par effet miroir)
+* Grâce à la Littérature, la Philosophie (par réflexion)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzE3NzgyOCwxMDk1MjkxMzUyLC0xNj
-Y0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NSwtOTI3Mjcy
-NjM0XX0=
+eyJoaXN0b3J5IjpbLTE5Njg0NjA4NTksMTA5NTI5MTM1MiwtMT
+Y2NDMyMzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3
+MjYzNF19
 -->
