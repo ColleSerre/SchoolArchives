@@ -43,6 +43,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Qu'en un lieu, qu'en un jour, un seul fait accompli tienne jusqu'à la fin, le théâtre remplis.
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
+	* Découle du drame bourgeois de Diderot
 	* drame = tout acte scénique
 	* Le drame romantique met en scène des mélo-drames et laisse place à la créativité
 	* La pièce de théâtre se rapproche de la vie (se rapproche de la mimesis)
@@ -52,17 +53,16 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Rupture avec le classique
 		* Histoire contemporaine
 	* Hernani: "À peuple nouveau, art nouveau"
-		* Bataille critituqe (Bataille d'He
+		* Bataille crititiqe (Bataille d'Hernani)
 	* Présentation romantisme, s'oppose au rationalisme des lumières
 	* Le public visé par la comédie ou la tragédie n'est pas le même
 	* Le mélange du grotesque et du sublime
 		* Mélange entre beau et laid
 		* Théorisée par Hugo
 		* L'objectif des romantiques est une quête de la réalité humaine
-	* 
-9. Les apports du théâtre contemporain
+8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NTY2Njc2LDEzOTQxNTYyMTYsLTExNj
+eyJoaXN0b3J5IjpbOTMyNDA4MTQ4LDEzOTQxNTYyMTYsLTExNj
 c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
 MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
 ==
