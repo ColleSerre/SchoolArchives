@@ -71,10 +71,16 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* On se sépare de la mimesis et on souligne l'artificialité du décor
 	* Antonin Artaud
 		* re-théâtrealiser, théâtre grotesque
-		* Le théâtre et son double, 
+		* *Le théâtre et son double*
+	* L'absurde
+		* Rupture avec les genres classiques
+		* Causé par les traumatismes de la seconde guerre mondiale
+		* Ionesco, Beckett, Adamov, Genet, Pinter
+		* Samuel Beckett:
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NTIwNjk4LDEzOTQxNTYyMTYsLTExNj
-c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
-MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
-==
+eyJoaXN0b3J5IjpbMTk5OTIwMjk4NywxMzk0MTU2MjE2LC0xMT
+Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
+MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
+0=
 -->
