@@ -55,11 +55,14 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Présentation romantisme, s'oppose au rationalisme des lumières
 	* Le public visé par la comédie ou la tragédie n'est pas le même
 	* Le mélange du grotesque et du sublime
-		* Mélange entre beau et laid pore
+		* Mélange entre beau et laid
+		* Théorisée par Hugo
+		* L'objectif des romantiques est une quête de la réalité humaine
+	* 
 9. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTI3NjgxNywxMzk0MTU2MjE2LC0xMT
-Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
-MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
-0=
+eyJoaXN0b3J5IjpbMjI1NzExMjkwLDEzOTQxNTYyMTYsLTExNj
+c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
+MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
+==
 -->
