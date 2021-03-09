@@ -42,11 +42,11 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Unité de lieu, d'action et de temps
 	* Qu'en un lieu, qu'en un jour, un seul fait accompli tienne jusqu'à la fin, le théâtre remplis.
 6. Le théâtre des Lumières (18ᵉ)
-7. 
-8. Le théâtre romantique (19ᵉ)
-9. Les apports du théâtre contemporain
+	* 
+7. Le théâtre romantique (19ᵉ)
+8. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjkyODU1OSwxMzk0MTU2MjE2LC0xMT
+eyJoaXN0b3J5IjpbMTg1NzMzMzcyMCwxMzk0MTU2MjE2LC0xMT
 Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
 MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
 0=
