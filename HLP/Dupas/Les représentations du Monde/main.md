@@ -25,8 +25,9 @@ Monstres en littérature:
  - Le monstre peut-être malgré lui:
 	 - Frankenstein
 	 - Dorian Grey
-	 - 
+	 - Les gueules cassées (La chambre des officiers, Au revoir là-haut)
+	 - Ceux qui ont pris tout le plat dans leur assiette, laissant les assiettes des autres vides, et qui ayant tout disent avec une bonne figure « Nous qui avons tout, nous sommes pour la paix ! », je sais ce que je dois leur crier à ceux-là : les premiers violents, les provocateurs, c’est vous ! Et quand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTAwMDU5NiwtOTg4OTQ4NTg1LC05Mj
+eyJoaXN0b3J5IjpbLTc5NjIwMTE1NSwtOTg4OTQ4NTg1LC05Mj
 cyNzI2MzRdfQ==
 -->
