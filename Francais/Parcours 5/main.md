@@ -43,11 +43,15 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Qu'en un lieu, qu'en un jour, un seul fait accompli tienne jusqu'à la fin, le théâtre remplis.
 6. Le théâtre des Lumières (18ᵉ)
 7. Le théâtre romantique (19ᵉ)
-
+	* drame = tout acte scénique
+	* Le drame romantique met en scène des mélo-drames et laisse place à la créativité
+	* La Préface de Cromwell:
+		* Pièce écrite par Victor Hugo
+		* K
 9. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NjEzNjcxLDEzOTQxNTYyMTYsLTExNj
-c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
-MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
-==
+eyJoaXN0b3J5IjpbMTkzMzEyOTg5NiwxMzk0MTU2MjE2LC0xMT
+Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
+MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
+0=
 -->
