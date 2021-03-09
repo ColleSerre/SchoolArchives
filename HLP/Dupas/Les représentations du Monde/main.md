@@ -20,7 +20,8 @@ Monstres en littérature:
  - L'adversaire (un homme qui tue toute sa famille, interviewé par Emmanuel Carrère)
  - Au revoir là-haut (parallèle à la chambre des officiers)
  - Le bossu de Notre-Dame, le monstre physique qui est vertueux 
- - La Belle et la Bête
+ - La Belle et la Bête, parallèle au bossu de Notre-Dame
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODk0ODU4NSwtOTI3MjcyNjM0XX0=
+eyJoaXN0b3J5IjpbLTE3MDc5NDA1MzEsLTk4ODk0ODU4NSwtOT
+I3MjcyNjM0XX0=
 -->
