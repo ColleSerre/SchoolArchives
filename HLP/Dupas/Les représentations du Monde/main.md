@@ -34,7 +34,8 @@ Monstres en littérature:
 1. Physique: Minotaure
 	- Thésée a besoin du Minotaure pour devenir brave. Après avoir tué le Minotaure, Thésée devient un monstre en abandonnant Ariane puis est sanctionné par la mort de son père. 
 2. Moral: Néron
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOT
-g4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
+eyJoaXN0b3J5IjpbLTU3NzE3Mjk3LC0xNjY0MzIzNTAyLDEwND
+M2NDU3NTgsLTk4ODk0ODU4NSwtOTI3MjcyNjM0XX0=
 -->
