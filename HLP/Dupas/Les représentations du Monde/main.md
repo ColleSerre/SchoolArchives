@@ -21,13 +21,13 @@ Monstres en littérature:
  - Au revoir là-haut (parallèle à la chambre des officiers)
  - Le bossu de Notre-Dame, le monstre physique qui est vertueux 
  - La Belle et la Bête, parallèle au bossu de Notre-Dame
- - L'Étranger dans son indifférence, l'action est parfois monstrueuse, mais l'inaction peut aussi l'être
+ - L'Étranger dans son indifférence, l'action est parfois monstrueuse, mais l'inaction peut aussi l'être. Il aime sans le dire, il vit sans le dire et n'en ressent pas le besoin. Il n'est pas insensible juste i
  - Le monstre peut-être malgré lui:
 	 - Frankenstein
 	 - Dorian Grey
 	 - Les gueules cassées (La chambre des officiers, Au revoir là-haut)
 	 - Ceux qui ont pris tout le plat dans leur assiette, laissant les assiettes des autres vides, et qui ayant tout disent avec une bonne figure « Nous qui avons tout, nous sommes pour la paix ! », je sais ce que je dois leur crier à ceux-là : les premiers violents, les provocateurs, c’est vous ! Et quand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMxMDExNDUsLTk4ODk0ODU4NSwtOT
+eyJoaXN0b3J5IjpbLTE0MTYyODYyOTgsLTk4ODk0ODU4NSwtOT
 I3MjcyNjM0XX0=
 -->
