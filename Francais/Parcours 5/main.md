@@ -68,10 +68,12 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* théâtre épique: défini par sa fonction sociale et politique
 		* Verfremdungseffekt: distancier le spectateur pour lui rendre sa liberté de critique.
 		* "Sous le familier découvrez l'insolite"
-		* On se sépare du mimesis et on souligne l'artificialité du décor
-		* 
+		* On se sépare de la mimesis et on souligne l'artificialité du décor
+	* Antonin Artaud
+		* re-théâtrealiser, théâtre grotesque
+		* Le théâtre et son double, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0NTA5MzgxLDEzOTQxNTYyMTYsLTExNj
+eyJoaXN0b3J5IjpbMzg3NTIwNjk4LDEzOTQxNTYyMTYsLTExNj
 c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
 MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
 ==
