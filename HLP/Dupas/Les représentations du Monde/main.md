@@ -28,8 +28,8 @@ Monstres en littérature:
 	 - Les gueules cassées (La chambre des officiers, Au revoir là-haut)
 	 - Ceux qui ont pris tout le plat dans leur assiette, laissant les assiettes des autres vides, et qui ayant tout disent avec une bonne figure « Nous qui avons tout, nous sommes pour la paix ! », je sais ce que je dois leur crier à ceux-là : les premiers violents, les provocateurs, c’est vous ! Et quand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
 	 - La mythologie, le monstre "classique" qui représente tous les vices. 
-	 - La mine de Germinal, 
+	 - Pour montrerl'horreur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTg1NzYxOSwxMDQzNjQ1NzU4LC05OD
-g5NDg1ODUsLTkyNzI3MjYzNF19
+eyJoaXN0b3J5IjpbLTEzNjgwOTg4NTQsMTA0MzY0NTc1OCwtOT
+g4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
 -->
