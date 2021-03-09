@@ -80,10 +80,10 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Samuel Beckett:
 			* Nie faire partie de ce mouvement, mais ses deux grandes œuvres remplissent les critères: En attendant Godot et fin de partie
 		* Jean Genet:
-			* Chaque réalité est une illusion qui révèle 
+			* montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDA3MTE5NCwxMzk0MTU2MjE2LC0xMT
-Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
-MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
-0=
+eyJoaXN0b3J5IjpbNDc4MjY5NTI4LDEzOTQxNTYyMTYsLTExNj
+c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
+MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
+==
 -->
