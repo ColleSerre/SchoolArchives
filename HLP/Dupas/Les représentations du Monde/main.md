@@ -30,12 +30,12 @@ Monstres en littérature:
 	 - La mythologie, le monstre "classique" qui représente tous les vices. 
 	 - Pour montrer l'horreur de l'industrialisation, Hugo et Zola décrivent l'usine et la mine comme étant des monstres, *Melancholia* et *Germinal*. On utilise le registre épique.
 
-### Qu'est ce qu'un monstre ?
+### Qu'est-ce qu'un monstre ?
 1. Physique: Minotaure
-	- 
+	- Thésée a besoin du Minotaure pour devenir brave. Après avoir tué le Minotaure, Thésée devient un monstre en abandonnant Ariane puis est sanctionné par la mort de son père. 
 2. Moral: Néron
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzE4NDA1LDEwNDM2NDU3NTgsLTk4OD
-k0ODU4NSwtOTI3MjcyNjM0XX0=
+eyJoaXN0b3J5IjpbLTE4NzAwNzMxMSwxMDQzNjQ1NzU4LC05OD
+g5NDg1ODUsLTkyNzI3MjYzNF19
 -->
