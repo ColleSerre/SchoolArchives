@@ -61,9 +61,15 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Théorisée par Hugo
 		* L'objectif des romantiques est une quête de la réalité humaine
 8. Les apports du théâtre contemporain (20ᵉ):
-	* Ref
+	* Refus du naturalisme et du réalisme
+	* Influence de la psychanalyse
+	* Complexité de l'inconscient humain
+	* Distanciation brechtienne
+		* théâtre épique: défini par sa fonction sociale et politique
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMjIxLDEzOTQxNTYyMTYsLTExNjc3MT
-QyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgwMCwt
-NDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ==
+eyJoaXN0b3J5IjpbLTQ0MDAwMzI2LDEzOTQxNTYyMTYsLTExNj
+c3MTQyODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgw
+MCwtNDEyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ
+==
 -->
