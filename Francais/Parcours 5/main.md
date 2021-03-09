@@ -52,11 +52,11 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Rupture avec le classique
 		* Histoire contemporaine
 	* Hernani: "À peuple nouveau, art nouveau"
+	* Présentation romantisme, s'oppose au rationalisme des lumières
 	* 
 9. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEyNDYxMDEsMTM5NDE1NjIxNiwtMT
-E2NzcxNDI4MSwxMTA0OTgyNzM5LDIwOTg4MzkyMTcsOTE4MTMw
-ODAwLC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAwNl
-19
+eyJoaXN0b3J5IjpbLTI1MzMwOTUsMTM5NDE1NjIxNiwtMTE2Nz
+cxNDI4MSwxMTA0OTgyNzM5LDIwOTg4MzkyMTcsOTE4MTMwODAw
+LC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAwNl19
 -->
