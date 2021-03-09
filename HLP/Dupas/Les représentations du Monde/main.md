@@ -16,7 +16,8 @@ Monstres en littérature:
  - Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'une enfant monstrueux*
  - La Chambre des officiers - Marc Dugain (les gueules cassées ne sont des monstres qu'en apparence)
  - Le silence de la mer - Vercors (une famille héberge un soldat allemand qui se révèle n'être un monstre qu'en apparences, l'homme avant l'ennemi)
- - 
+ - La classe de neige - Emmanuel Carrère (la manière d'obtenir de l'argent pour une cause vertueuse, l'éducation de son fils, n'
+ - L'adversaire (un homme qui tue toute sa famille, interviewé par Emmanuel Carrère)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Njg5Nzc2MywtOTI3MjcyNjM0XX0=
+eyJoaXN0b3J5IjpbLTExODc1MTU1NDYsLTkyNzI3MjYzNF19
 -->
