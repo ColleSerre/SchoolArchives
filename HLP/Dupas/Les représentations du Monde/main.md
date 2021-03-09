@@ -7,7 +7,7 @@
 L'image du monstre en Littérature nous permet-elle de prendre conscience des "monstres" que nous sommes? 
 
 ### Séance 1
-Convoquer des ressources littéraires pour nourrir une QR et pour s'immerger dans une QI. Le premier *monstre* est sans guillemets, il est littéral. Le second est entendu comme étant un monstre incomplet et non caricatural. **Étymologiquement, le monstre est ce qui doit être montré du doigt (montrare)** comme une bête de foire. Une autre étymologie possible est **monstrum** qui signifie prodige, avertissement qui octroie au monstre une aura prémonitoire
+Convoquer des ressources littéraires pour nourrir une QR et pour s'immerger dans une QI. Le premier *monstre* est sans guillemets, il est littéral. Le second est entendu comme étant un monstre incomplet et non caricatural. Étymologiquement, le monstre est ce qui doit être montré du doigt (montrare) comme une bête de foire. **Une autre étymologie possible est monstrum qui signifie prodige, avertissement qui octroie au monstre une aura prémonitoire**
 Monstres en littérature: 
  - Médée qui tua par amour et par vengeance, deux émotions humaines. Les crimes passionnels sont donc ceux que l'on peut considérer comme les plus humains
  - Macbeth qui devient un tueur au fur et à mesure de l'œuvre sous l'influence des sorcières qui sont la personnification du *fatum* 
@@ -34,8 +34,7 @@ Monstres en littérature:
 1. Physique: Minotaure
 	- Thésée a besoin du Minotaure pour devenir brave. Après avoir tué le Minotaure, Thésée devient un monstre en abandonnant Ariane puis est sanctionné par la mort de son père. 
 2. Moral: Néron
-3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMjYyNTUsMTA0MzY0NTc1OCwtOTg4OT
-Q4NTg1LC05MjcyNzI2MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOT
+g4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
 -->
