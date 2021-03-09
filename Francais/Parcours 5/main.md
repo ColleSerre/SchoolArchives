@@ -45,13 +45,18 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 7. Le théâtre romantique (19ᵉ)
 	* drame = tout acte scénique
 	* Le drame romantique met en scène des mélo-drames et laisse place à la créativité
+	* La pièce de théâtre se rapproche de la vie (se rapproche de la mimesis)
 	* La Préface de Cromwell:
 		* Pièce écrite par Victor Hugo
-		* K
+		* Jamais jouée en intégralité 
+		* Rupture avec le classique
+		* Histoire contemporaine
+	* Hernani: "À peuple nouveau, art nouveau"
+	* 
 9. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzEyOTg5NiwxMzk0MTU2MjE2LC0xMT
-Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
-MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
-0=
+eyJoaXN0b3J5IjpbLTEyNTEyNDYxMDEsMTM5NDE1NjIxNiwtMT
+E2NzcxNDI4MSwxMTA0OTgyNzM5LDIwOTg4MzkyMTcsOTE4MTMw
+ODAwLC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAwNl
+19
 -->
