@@ -53,10 +53,13 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 		* Histoire contemporaine
 	* Hernani: "À peuple nouveau, art nouveau"
 	* Présentation romantisme, s'oppose au rationalisme des lumières
-	* 
+	* Le public visé par la comédie ou la tragédie n'est pas le même
+	* Le mélange du grotesque et du sublime
+		* Mélange entre beau et laid pore
 9. Les apports du théâtre contemporain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzMwOTUsMTM5NDE1NjIxNiwtMTE2Nz
-cxNDI4MSwxMTA0OTgyNzM5LDIwOTg4MzkyMTcsOTE4MTMwODAw
-LC00MTI1OTk3MTgsMTU1MTQ0ODc1MywtMTg3NDExODAwNl19
+eyJoaXN0b3J5IjpbMTMxNTI3NjgxNywxMzk0MTU2MjE2LC0xMT
+Y3NzE0MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4
+MDAsLTQxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX
+0=
 -->
