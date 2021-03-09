@@ -40,7 +40,12 @@ Dans des circonstances extrêmes (orgueil, colère, frustration, jalousie, envie
 *Ubris* (démesure menant à la transgression violente, comportement inspiré par les passions)
 Elle est l'erreur, la faute morale, menant à la *nemesis* (vengeance juste)
 D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place dans l'univers. 
+
+### Comment y remédier ?
+* Grâce au moi, au surmoi (naturellement)
+* Grâce à 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMD
-QzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF19
+eyJoaXN0b3J5IjpbLTg3NzE3NzgyOCwxMDk1MjkxMzUyLC0xNj
+Y0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NSwtOTI3Mjcy
+NjM0XX0=
 -->
