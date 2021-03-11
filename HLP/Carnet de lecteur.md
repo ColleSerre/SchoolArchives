@@ -66,7 +66,7 @@ Selon Cicéron: il faut la **technique** (trouver, ranger, embellir, apprendre, 
 Selon Isocrate: il faut s'entraîner, se dépasser, ne pas être surpassé
 "nous nous sommes débarrassés de la vie sauvage, nous nous sommes réunis pour construire des villes; nous avons fixé des lois; nous avons découvert des arts; et, presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin." - Isocrate 
 
-## Mythes
+## Mythes (Présentation Eva et Violette)
 
 * 
 
@@ -325,8 +325,8 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcwMTUwNzQsMTc5NjMyMjQsNDkyMj
-YxOTAsLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5Mzkx
-LC0zOTU5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMT
-k5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbLTE1ODAyMDMxNCwtMTEyNzAxNTA3NCwxNz
+k2MzIyNCw0OTIyNjE5MCwtMTkyNDIzMjQwNiw5Nzk4NDMwOTks
+LTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQwNjUyLDEyOT
+IxODA3MjIsLTExOTkwNTE2NzRdfQ==
 -->
