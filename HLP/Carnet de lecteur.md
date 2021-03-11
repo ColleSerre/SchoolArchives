@@ -66,6 +66,10 @@ Selon Cicéron: il faut la **technique** (trouver, ranger, embellir, apprendre, 
 Selon Isocrate: il faut s'entraîner, se dépasser, ne pas être surpassé
 "nous nous sommes débarrassés de la vie sauvage, nous nous sommes réunis pour construire des villes; nous avons fixé des lois; nous avons découvert des arts; et, presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin." - Isocrate 
 
+## Mythes
+
+* 
+
 ## Les séductions de la parole [Cours en PDF](Cours 1ère Humanités Littérature et Philosophie - La parole peut-elle induire en erreur (Les séductions de la parole).pdf)
 
 Il est tellement important de plaire en matière de parole, de discours et de rhétorique, que tout discours devient discours amoureux. Au début de chaque prise de parole, en exorde de chaque discours, un orateur cherche ainsi à capter, non pas seulement l’attention, mais aussi la bienveillance de l’auditoire (captatio benevolentiae).
@@ -321,8 +325,8 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTA2NDE3NiwxNzk2MzIyNCw0OTIyNj
-E5MCwtMTkyNDIzMjQwNiw5Nzk4NDMwOTksLTExNTI1NDkzOTEs
-LTM5NTkyNjQzMywxMTIyOTQwNjUyLDEyOTIxODA3MjIsLTExOT
-kwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbLTExMjcwMTUwNzQsMTc5NjMyMjQsNDkyMj
+YxOTAsLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5Mzkx
+LC0zOTU5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMT
+k5MDUxNjc0XX0=
 -->
