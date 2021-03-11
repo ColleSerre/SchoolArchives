@@ -69,7 +69,7 @@ Selon Isocrate: il faut s'entraîner, se dépasser, ne pas être surpassé
 ## Mythes (Présentation Eva et Violette)
 
 * Cosmogonie = mythe sur la création du monde
-* 
+* La Théogonie d'Hésiode: L'histoire des dieux grecs. 
 
 ## Les séductions de la parole [Cours en PDF](Cours 1ère Humanités Littérature et Philosophie - La parole peut-elle induire en erreur (Les séductions de la parole).pdf)
 
@@ -326,8 +326,8 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY1MTQ2NjUsLTE1ODAyMDMxNCwtMT
-EyNzAxNTA3NCwxNzk2MzIyNCw0OTIyNjE5MCwtMTkyNDIzMjQw
-Niw5Nzk4NDMwOTksLTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMT
-IyOTQwNjUyLDEyOTIxODA3MjIsLTExOTkwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbMTMwODc0MTczMSwtMTU4MDIwMzE0LC0xMT
+I3MDE1MDc0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0MjMyNDA2
+LDk3OTg0MzA5OSwtMTE1MjU0OTM5MSwtMzk1OTI2NDMzLDExMj
+I5NDA2NTIsMTI5MjE4MDcyMiwtMTE5OTA1MTY3NF19
 -->
