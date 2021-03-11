@@ -140,7 +140,7 @@ Simone de Beauvoir raconte ses rapports conflictuels avec ses parents et surtout
 ### Annie Leclerc
 
 Annie Leclerc expose sa volonté de trouver une plus grande place à la parole des femmes dans le débat public et dans les situations à hautes responsabilités en dénonçant le monopole que les hommes ont sur la parole et sur le monde. "Les paroles d'hommes ont l'air de se faire la guerre. C'est pour faire oublier que [les paroles d'hommes] disent toutes la même chose: notre parole d'homme décide."
-	
+
 # Répertoire de citations & de faits
 
 ## Non classées
@@ -321,7 +321,8 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjMyMjQsNDkyMjYxOTAsLTE5MjQyMz
-I0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMs
-MTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbMTY4OTA2NDE3NiwxNzk2MzIyNCw0OTIyNj
+E5MCwtMTkyNDIzMjQwNiw5Nzk4NDMwOTksLTExNTI1NDkzOTEs
+LTM5NTkyNjQzMywxMTIyOTQwNjUyLDEyOTIxODA3MjIsLTExOT
+kwNTE2NzRdfQ==
 -->
