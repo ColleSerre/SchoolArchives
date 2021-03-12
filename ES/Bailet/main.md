@@ -248,9 +248,7 @@ Ear diagram labelling:
 12. Eustachian tube
 13. Tympanic cavity
 14. Temporal bone
-
-How do we hear sounds: the vibration moves the eardrum which then causes vibration in the 3 bones (7). The intensity of the vibration is bigger in these bones because they are smaller than the eardrum (they enhance the sound 20 times). The hammer hits the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM2MjQ0MDksLTE4OTU1MDI4NzAsLT
-IxMDM0Mjg2MzNdfQ==
+eyJoaXN0b3J5IjpbMTA5ODAyODE4NiwtMTg5NTUwMjg3MCwtMj
+EwMzQyODYzM119
 -->
