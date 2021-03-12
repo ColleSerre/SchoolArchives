@@ -93,7 +93,7 @@ Il y a donc trois sortes de lits, mais aussi trois sortes d'art."
 
 “La séduction, on le sait passe par l’apparence et non par le corps” - Françoise Dastur
 
-La première qualité du st
+La première qualité du style c'est la clarté - Aristote
 
 ### Le fin'amor
 
@@ -330,9 +330,9 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNjkwMDQxLC0xODY4ODA3MzEsMTMwOD
-c0MTczMSwtMTU4MDIwMzE0LC0xMTI3MDE1MDc0LDE3OTYzMjI0
-LDQ5MjI2MTkwLC0xOTI0MjMyNDA2LDk3OTg0MzA5OSwtMTE1Mj
-U0OTM5MSwtMzk1OTI2NDMzLDExMjI5NDA2NTIsMTI5MjE4MDcy
-MiwtMTE5OTA1MTY3NF19
+eyJoaXN0b3J5IjpbLTE5NzcxNDU0MzUsLTE4Njg4MDczMSwxMz
+A4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQsMTc5NjMy
+MjQsNDkyMjYxOTAsLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMT
+UyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgw
+NzIyLC0xMTk5MDUxNjc0XX0=
 -->
