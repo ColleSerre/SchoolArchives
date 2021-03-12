@@ -55,7 +55,7 @@ Greenhouse gases:
 Questions:
 
 1. Temperature today → 13-14 C ; Concentration today → H2O=70%, *CO2=388*, *CH4=1.843*, N2O=0.316 ; Ice Age temp → 7-8 C ; Concentration ice age → H2O=?, *CO2=180*, *CH4=0.380*, N2H=0.215
-2. Temperature today => 13-14 C ; Concentration today => H2O=70%, *CO2=388*, *CH4=1.843*, N2O=0.316 ; 1750 temp => 14-15 ; Concentration 1750 => H20=70%, *CO2=280*, *CH4=0.730*, N2H=0.270 
+2. Temperature today → 13-14 C ; Concentration today → H2O=70%, *CO2=388*, *CH4=1.843*, N2O=0.316 ; 1750 temp → 14-15 ; Concentration 1750 → H20=70%, *CO2=280*, *CH4=0.730*, N2H=0.270 
 3. The temp would drop to -20 C
 
 
@@ -67,7 +67,7 @@ Objectives:
 
 * What is photosynthesis ?
 * Efficiency of photosynthesis
-  * Light absorption by plants (practical) => using a spectrophotometer
+  * Light absorption by plants (practical) → using a spectrophotometer
 * Other effects 
 
 **Photosynthesis** is a function of the amount of light received. It varies throughout the day. Occurs in chloroplasts of green plant cells.
@@ -85,7 +85,7 @@ The spectrophotometer tells us that photosynthesis is very effective for some li
 
 What else happens to light when it encounters plants ?
 
-Reflection. It gets absorbed by other parts => heats up the plant. Transmitted (goes through the plant)
+Reflection. It gets absorbed by other parts → heats up the plant. Transmitted (goes through the plant)
 
 ### Outcome
 
@@ -96,7 +96,7 @@ Only 1 and 2% of the light that reaches a plant can be converted by photosynthes
 ### The effect of light on plants (not photosynthesis)
 
 Transpiration: loss of water by plants due to light ; more light = more transpiration
-Regulation by stomata -> they can open/close
+Regulation by stomata → they can open/close
 Plants are the origin of biomass
 
 ### Efficiency of photosynthesis
@@ -104,12 +104,12 @@ Plants are the origin of biomass
 Very little glucose is produced
 Losses: reflection/transmission ; conversion to heat/wrong wavelength (red+blue only)
 Limitations: water/CO2/Nutrients
-loses in biomass between trophic levels -> respiration uses glucose ; Biomass stored in trunks/bones and other inedible parts ; 90% lost between each trophic level
-Fossil fuels: forms over millions of years ; need pressure/heat ; amount of C  -> determines state (coal/petrol/natural gas)
+loses in biomass between trophic levels → respiration uses glucose ; Biomass stored in trunks/bones and other inedible parts ; 90% lost between each trophic level
+Fossil fuels: forms over millions of years ; need pressure/heat ; amount of C  → determines state (coal/petroleum/natural gas)
 
 Basal metabolic rate: minimum intake to be alive
 
-## How can energy in food be measured and what are the limitations to the method? [Google docs](https://docs.google.com/document/d/1GU7Y2yr5OYIeIn8Cf8MiO2wweYV7SvdZ2ruLAOOVNVc/edit)
+## How can energy in food be measured, and what are the limitations to the method? [Google Docs](https://docs.google.com/document/d/1GU7Y2yr5OYIeIn8Cf8MiO2wweYV7SvdZ2ruLAOOVNVc/edit)
 
 	-> Work safely and collect/record data in a neat table
 
@@ -151,7 +151,7 @@ To make heat:
 
 To lose heat:
 
-* Sweating (when sweat evaporates it takes some of the heat with it)
+* Sweating (when sweat evaporates it takes some heat with it)
 * Conduction (touching something cold)
 * Convection (heat moving through a fluid, through air)
 
@@ -166,7 +166,7 @@ Questions:
 1. [Xmind doc](Under the sun for a long time.xmind)
 2. Cool off before going into water, rince your neck (where the hypothalamus is), do not jump in, wait for digestion to take place
 3. You generate less energy while sleeping than while walking 
-4. Cigarettes stops peripheral blood flow completely. This could be because it interferes with the hypothalamus, which provokes vasoconstriction
+4. Cigarettes stop peripheral blood flow completely. This could be because it interferes with the hypothalamus, which provokes vasoconstriction
 
 # 3.2/9 - Age of the Earth
 
@@ -179,15 +179,15 @@ Louis-Leclerc, Darwin, Kelvin
 
 ## Calculation 1:
 
-Calculating the coefficient directeur de la fonction: 37, 5$x$
+Calculating the coefficient directeur de la function: 37, 5$x$
 
 37,5 $\cdot$ 12 600 $\cdot 10^5$ = 89 835 years
 
-The graph was not precise enough and we can’t see if the initial value is zero, the calculation was only made on size, not on mass, not on temperature or matter. The instrument for measuring temperature was his finger which led to the graph being imprecise. 
+The graph was not precise enough, and we can’t see if the initial value is zero, the calculation was only made on size, not on mass, not on temperature or matter. The instrument for measuring temperature was his finger which led to the graph being imprecise. 
 
 ## Calculation 2:
  
- $ \frac{1,17}{3 500 000} \cdot 100= 299 145 299,1$ years
+ $ \frac{1,17}{3 500 000} \cdot 100= $299145299.1 years
  
  The limitation of this model is the estimation of the rate of erosion which can be false due to a short study time, the climate changed during the life of the earth. This estimation doesn’t account for this change and doesn’t take into account for the movement of the tectonic plates. It assumes that the valley was there at the Earth’s formation. 
 
@@ -249,6 +249,6 @@ Ear diagram labelling:
 13. Tympanic cavity
 14. Temporal bone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTA3NjAwMCwtMTg5NTUwMjg3MCwtMj
-EwMzQyODYzM119
+eyJoaXN0b3J5IjpbLTEwNjI4NDg4MjUsLTE4OTU1MDI4NzAsLT
+IxMDM0Mjg2MzNdfQ==
 -->
