@@ -38,6 +38,7 @@ Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a for
 * Si Dieu n'existait pas, il faudrait l'inventer - Voltaire
 * Ni dieu ni maitre -  Mikhaïl Bakounine
 * Autrefois, la naissance d'un 'monstre', un enfant avec des défauts de naissance, était vue comme le présage d'un mauvais évènement.
+* Si Dieu n'existe pas, tout est permis - Dostoïevski
 
 ## La Foule
 
@@ -293,6 +294,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * L'art est long et le temps est court - Charles Baudelaire *Les Fleurs du Mal*
 * Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
 * Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
+* Le temps avale ses enfants - Tiré du mythe de Kronos qui avala ses enfants
 
 ## Éloge
 
@@ -326,8 +328,9 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODc0MTczMSwtMTU4MDIwMzE0LC0xMT
-I3MDE1MDc0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0MjMyNDA2
-LDk3OTg0MzA5OSwtMTE1MjU0OTM5MSwtMzk1OTI2NDMzLDExMj
-I5NDA2NTIsMTI5MjE4MDcyMiwtMTE5OTA1MTY3NF19
+eyJoaXN0b3J5IjpbLTE4Njg4MDczMSwxMzA4NzQxNzMxLC0xNT
+gwMjAzMTQsLTExMjcwMTUwNzQsMTc5NjMyMjQsNDkyMjYxOTAs
+LTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOT
+U5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUx
+Njc0XX0=
 -->
