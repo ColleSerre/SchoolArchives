@@ -240,7 +240,7 @@ Ear diagram labelling:
 4. External acoustic meatus (ear canal)
 5. Cartilage
 6. Auricular lobule (Earlobe)
-7. Maillus, Incus, Tympanic cavity
+7. Malleus (hammer), Incus (anvil), Tympanic cavity
 8. Semicircular canals
 9. Cochlea
 10. Vestibular nerve
@@ -249,5 +249,6 @@ Ear diagram labelling:
 13. Tympanic cavity
 14. Temporal bone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM0Mjg2MzNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDEwOTQ1NjMsLTIxMDM0Mjg2MzNdfQ
+==
 -->
