@@ -54,7 +54,7 @@ Greenhouse gases:
 
 Questions:
 
-1. Temperature today => 13-14 C ; Concentration today => H2O=70%, *CO2=388*, *CH4=1.843*, N2O=0.316 ; Ice Age temp => 7-8 C ; Concentration ice age => H2O=?, *CO2=180*, *CH4=0.380*, N2H=0.215
+1. Temperature today → 13-14 C ; Concentration today → H2O=70%, *CO2=388*, *CH4=1.843*, N2O=0.316 ; Ice Age temp → 7-8 C ; Concentration ice age → H2O=?, *CO2=180*, *CH4=0.380*, N2H=0.215
 2. Temperature today => 13-14 C ; Concentration today => H2O=70%, *CO2=388*, *CH4=1.843*, N2O=0.316 ; 1750 temp => 14-15 ; Concentration 1750 => H20=70%, *CO2=280*, *CH4=0.730*, N2H=0.270 
 3. The temp would drop to -20 C
 
@@ -249,6 +249,6 @@ Ear diagram labelling:
 13. Tympanic cavity
 14. Temporal bone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU1MDI4NzAsLTIxMDM0Mjg2MzNdfQ
-==
+eyJoaXN0b3J5IjpbLTkxOTA3NjAwMCwtMTg5NTUwMjg3MCwtMj
+EwMzQyODYzM119
 -->
