@@ -229,6 +229,9 @@ Carbon 14 differs from Carbon 12 (the one in the periodic table) because it has 
 
 # 4.4 How do we hear music ?
 
+- Structure of the ear and how we hear sound 
+- What sounds do we hear best ?
+
 Ear diagram labelling:
 
 1. Tympanic eardrum (eardrum)
@@ -245,5 +248,6 @@ Ear diagram labelling:
 12. Eustachian tube
 13. Tympanic cavity
 14. Temporal bone
-
-Explain how sound is perceived by the ear, including the roles of the eardrum, bones of the middle ear, oval and round windows, and the hair cells of the cochlea.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMDM0Mjg2MzNdfQ==
+-->
