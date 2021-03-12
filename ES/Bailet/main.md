@@ -195,9 +195,9 @@ The graph was not precise enough, and we can’t see if the initial value is zer
 
 Geothermal gradient: amount of heat lost per km
 
-Using heat of rocks to calculate age of the earth.
+Using heat of rocks to calculate the age of the earth.
 
-Age of earth: 125 million but it isn’t made of only one type of rock so is wrong, assumed that the geothermal gradient would be the same from the surface to the center of the earth.
+Age of earth: 125 million but it isn’t made of only one type of rock so is wrong, assumed that the geothermal gradient would be the same from the surface to the centre of the earth.
 
 Between a 100million and 1 billion
 
@@ -216,12 +216,12 @@ The sedimentation rate isn’t really precise as the samples aren’t all in the
 * Radioactivity
 * Half-life
 * Radiometric-dating
-	* Draw a best fit curve
+	* Draw the best fit curve
 	* Find the equation of a line
 
 Radioactivity: It is the spontaneous change of one unstable atom into a more stable atom, releasing energy Example: $C-14 \rightarrow N-14+1e^-$
 
-Half life: The amount fo time it takes, for half the number of unstable nuclei in a source to decay. 
+Half life: The amount of time it takes, for half the number of unstable nuclei in a source to decay. 
 
 Isotopes: Different versions of the same atom (C-14 and C-12)
 
@@ -248,7 +248,9 @@ Ear diagram labelling:
 12. Eustachian tube
 13. Tympanic cavity
 14. Temporal bone
+
+How do we hear sounds: the vibration moves the eardrum which then causes vibration in the 3 bones (7) that 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI4NDg4MjUsLTE4OTU1MDI4NzAsLT
+eyJoaXN0b3J5IjpbLTE4OTUyMzI5NDIsLTE4OTU1MDI4NzAsLT
 IxMDM0Mjg2MzNdfQ==
 -->
