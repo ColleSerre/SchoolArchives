@@ -322,6 +322,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 * Ce qu’il [l'homme blanc, bourgeois et occidental] ne pardonne pas à Hitler, ce n’est pas le crime en soi, le crime contre l’homme, ce n’est pas l’humiliation de l’homme en soi, c’est le crime contre l’homme blanc, c’est l’humiliation de l’homme blanc, et d’avoir appliqué à l’Europe des procédés colonialistes dont ne relevaient jusqu’ici que les Arabes d’Algérie, les coolies de l’Inde et les nègres d’Afrique. - Aimé Césaire *Discours sur le colonialisme*
 * Périssent les colonies plutôt qu’un principe - Robespierre en abolissant l’esclavage
+* Génération Identitaire s'est inspirée du National Socialist Movement (le plus grand groupe néo-nazi aux États-Unis) pour leur opération de communication *Defend Europe*.
 
 ## Fonctions et registres du langage
 
@@ -331,7 +332,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY4MDE0MTQsLTE5NzcxNDU0MzUsLT
+eyJoaXN0b3J5IjpbLTEwMDUwMTEwMzAsLTE5NzcxNDU0MzUsLT
 E4Njg4MDczMSwxMzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcw
 MTUwNzQsMTc5NjMyMjQsNDkyMjYxOTAsLTE5MjQyMzI0MDYsOT
 c5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0
