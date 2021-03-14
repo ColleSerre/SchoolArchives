@@ -135,6 +135,10 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 	
 6. Barbara Cassin - Il y a trois raisons pour lesquelles on veut parler: "parler de", "parler à" et "parler pour parler" (fonction phatique du langage). Dans la troisième, il se produit un "effet-monde" qui change le monde (ça peut être peu). Un discours qui transforme le monde ne ressemble pas à un discours et "se présente comme réel, comme ce qui va de soi", **"Mais attention, un "discours qui gagne" n'est pas forcément un "beau discours"**. Un discours ne peut pas se limiter à avoir un effet sur les consciences pour être gagnant. **"Le discours de la philosophie, qui n'apparait pas comme un discours formate notre perception du monde.** Quand Marx parle de classes sociales, on se met à penser en ces termes. L'éloge est aussi un discours gagnant car il forme la perception d'une notion ou d'une chose et car il peut changer les valeurs. En conclusion, **un discours n'est pas gagnant car il touche mais car il a un impact et fait un changement à grande échelle**
 
+## Les représentations du monde 
+
+« Il n’y a rien de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage. » - Montaigne, *Des Cannibales*
+
 ## L'autorité de l'auteur
 
 ### Lamartine
@@ -332,9 +336,10 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUwMTEwMzAsLTE5NzcxNDU0MzUsLT
-E4Njg4MDczMSwxMzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcw
-MTUwNzQsMTc5NjMyMjQsNDkyMjYxOTAsLTE5MjQyMzI0MDYsOT
-c5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0
-MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwtMT
+k3NzE0NTQzNSwtMTg2ODgwNzMxLDEzMDg3NDE3MzEsLTE1ODAy
+MDMxNCwtMTEyNzAxNTA3NCwxNzk2MzIyNCw0OTIyNjE5MCwtMT
+kyNDIzMjQwNiw5Nzk4NDMwOTksLTExNTI1NDkzOTEsLTM5NTky
+NjQzMywxMTIyOTQwNjUyLDEyOTIxODA3MjIsLTExOTkwNTE2Nz
+RdfQ==
 -->
