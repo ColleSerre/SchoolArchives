@@ -287,6 +287,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 * Vérité et amitié nous sont chères l'une et l'autre, mais c'est notre devoir sacré d'accorder la préférence à la vérité - Aristote *Éthique à Nicomaque*
 * Mal nommer les choses, c'est ajouter au malheur du monde. - Albert Camus
+* In vino veritas - Pline l'Ancien
 
 ## L'âge
 
@@ -330,9 +331,9 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTUwNTQzMywtMTk3NzE0NTQzNSwtMT
-g2ODgwNzMxLDEzMDg3NDE3MzEsLTE1ODAyMDMxNCwtMTEyNzAx
-NTA3NCwxNzk2MzIyNCw0OTIyNjE5MCwtMTkyNDIzMjQwNiw5Nz
-k4NDMwOTksLTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQw
-NjUyLDEyOTIxODA3MjIsLTExOTkwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbLTEwODY4MDE0MTQsLTE5NzcxNDU0MzUsLT
+E4Njg4MDczMSwxMzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcw
+MTUwNzQsMTc5NjMyMjQsNDkyMjYxOTAsLTE5MjQyMzI0MDYsOT
+c5ODQzMDk5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0
+MDY1MiwxMjkyMTgwNzIyLC0xMTk5MDUxNjc0XX0=
 -->
