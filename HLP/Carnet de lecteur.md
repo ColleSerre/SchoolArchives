@@ -137,7 +137,8 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 
 ## Les représentations du monde 
 
-« Il n’y a rien de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage. » - Montaigne, *Des Cannibales*
+* « Il n’y a rien de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage. » - Montaigne, *Des Cannibales*
+* Je ne suis pas marri que nous remarquons l'horreur barbaresque qu'il y a en une telle action, mais oui bien de quoi, jugeant bien de leurs fautes, nous soyons si aveugles aux nôtres. - Montaigne *Des Cannibales*
 
 ## L'autorité de l'auteur
 
@@ -336,10 +337,10 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwtMT
-k3NzE0NTQzNSwtMTg2ODgwNzMxLDEzMDg3NDE3MzEsLTE1ODAy
-MDMxNCwtMTEyNzAxNTA3NCwxNzk2MzIyNCw0OTIyNjE5MCwtMT
-kyNDIzMjQwNiw5Nzk4NDMwOTksLTExNTI1NDkzOTEsLTM5NTky
-NjQzMywxMTIyOTQwNjUyLDEyOTIxODA3MjIsLTExOTkwNTE2Nz
-RdfQ==
+eyJoaXN0b3J5IjpbLTE0MTczNDAzNTEsLTEzNjYwOTI4MiwtMT
+AwNTAxMTAzMCwtMTk3NzE0NTQzNSwtMTg2ODgwNzMxLDEzMDg3
+NDE3MzEsLTE1ODAyMDMxNCwtMTEyNzAxNTA3NCwxNzk2MzIyNC
+w0OTIyNjE5MCwtMTkyNDIzMjQwNiw5Nzk4NDMwOTksLTExNTI1
+NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQwNjUyLDEyOTIxODA3Mj
+IsLTExOTkwNTE2NzRdfQ==
 -->
