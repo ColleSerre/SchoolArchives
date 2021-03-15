@@ -239,9 +239,10 @@ Les plus dynamiques:
 * NB: Paris est de retour dans le top 5 des 30 métropoles mondiales les plus dynamiques derrière Londres, Singapour et Torronto et devant Amsterdam. 
 
 Les métropoles en devenir:
-Le classement de 2019 montre que la croissance urbaine la plus rapide continue de mogrer de l'Ouest vers l'Est. L'Asie-Pacifique 
+Le classement de 2019 montre que la croissance urbaine la plus rapide continue de mogrer de l'Ouest vers l'Est. **L'Asie-Pacifique abrite 19 des 20 villes les mieux classées en 2019** et dans l'ensemble les villes indiennes et chinoises dominent le classement, représentant les trois quarts des 20 villes en haut du classement.
+Une seule ville en dehors de la région Asie-Pacifique, Nairobi, figure parmi les 20 villes les plus dynamique
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTAzMDcwMSwtMTIzMjM1NDcyMSwxMT
+eyJoaXN0b3J5IjpbMTM3MDk5Mjk4NywtMTIzMjM1NDcyMSwxMT
 U0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMy
 ODcsMTI0OTQyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC
 0xNDM0MTc2OTBdfQ==
