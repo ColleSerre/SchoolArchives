@@ -245,11 +245,11 @@ Une seule ville en dehors de la région Asie-Pacifique, Nairobi, figure parmi le
 ### Les métropoles en marge de la mondialisation
 Ce sont des villes qui souffrent de leur enclavement et qui les éloignent des principaux flux de la mondialisation, celles qui sont victimes de conflits (comme Damas par exemple en Syrie) et enfin celles qui dans le passé ont connu un fort développement économique et qui aujourd'hui subissent les conséquences de la désindustrialisation. Comme Détroit ou Liverpool ou Beirut. **On parle de "shrinking cities" littéralement les villes qui rétrécissement ** 
 
-Le terme de 
+Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déclin désigne les conséquences d'un phénomène de rétrécissement urbain, le *shrinkage*, qui touche les villes sur trois plans: **démographique** par la perte d'activités, de fonctions, de revenus,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTczODUxOSwtMTUwNzg2NjAwNCw1ND
-U3NjkzNjEsMTk0OTYyMjAxNywtMTIzMjM1NDcyMSwxMTU0MDgy
-MDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMyODcsMT
-I0OTQyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0
-MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbNTk1Nzc3MTE4LC0xNTA3ODY2MDA0LDU0NT
+c2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0NzIxLDExNTQwODIw
+OTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMTk5NzM4MzI4NywxMj
+Q5NDIwNzM3LC05MDI4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQx
+NzY5MF19
 -->
