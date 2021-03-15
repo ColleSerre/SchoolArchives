@@ -129,7 +129,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 	
 	**Cette science est la seule qui soit libre, car elle est sa propre fin** (*Métaphysique* - Aristote)
 	
-5. Roger Bacon - Il y a trois cause d'erreur qu'on peut éviter grâce à la raison: les exemples fragiles, les habitudes, les foules idiotes. **"Le premier conduit à l'erreur, le deuxième paralyse, le troisième rassure"**. il rejette ceux qui usent trop des arguments d'autorité, qui suivent les habitudes et les pensées courantes. Selon lui, on peut "aussi bien établir une conclusion que son contraire, et même prouver n'importe quoi" en utilisant ces erreurs. Il faut donc savoir raisonner et savoir discerner grâce à la méthode les arguments vrais et les arguments populaires. 
+5. Roger Bacon - Il y a trois cause d'erreur qu'on peut éviter grâce à la raison: les exemples fragiles, les @s, les foules idiotes. **"Le premier conduit à l'erreur, le deuxième paralyse, le troisième rassure"**. il rejette ceux qui usent trop des arguments d'autorité, qui suivent les habitudes et les pensées courantes. Selon lui, on peut "aussi bien établir une conclusion que son contraire, et même prouver n'importe quoi" en utilisant ces erreurs. Il faut donc savoir raisonner et savoir discerner grâce à la méthode les arguments vrais et les arguments populaires. 
 
 	**"L'autorité ne doit jamais être prise sans examen ni discernement"** (*L'importance de la méthode* - Roger Bacon)
 	
@@ -139,6 +139,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 
 * « Il n’y a rien de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage. » - Montaigne, *Des Cannibales*
 * Je ne suis pas marri que nous remarquons l'horreur barbaresque qu'il y a en une telle action, mais oui bien de quoi, jugeant bien de leurs fautes, nous soyons si aveugles aux nôtres. - Montaigne *Des Cannibales*
+* Tératologie, 
 
 ## L'autorité de l'auteur
 
@@ -337,10 +338,10 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTczNDAzNTEsLTEzNjYwOTI4MiwtMT
-AwNTAxMTAzMCwtMTk3NzE0NTQzNSwtMTg2ODgwNzMxLDEzMDg3
-NDE3MzEsLTE1ODAyMDMxNCwtMTEyNzAxNTA3NCwxNzk2MzIyNC
-w0OTIyNjE5MCwtMTkyNDIzMjQwNiw5Nzk4NDMwOTksLTExNTI1
-NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQwNjUyLDEyOTIxODA3Mj
-IsLTExOTkwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbMTM1MjIwMzI5NiwtMTQxNzM0MDM1MSwtMT
+M2NjA5MjgyLC0xMDA1MDExMDMwLC0xOTc3MTQ1NDM1LC0xODY4
+ODA3MzEsMTMwODc0MTczMSwtMTU4MDIwMzE0LC0xMTI3MDE1MD
+c0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0MjMyNDA2LDk3OTg0
+MzA5OSwtMTE1MjU0OTM5MSwtMzk1OTI2NDMzLDExMjI5NDA2NT
+IsMTI5MjE4MDcyMiwtMTE5OTA1MTY3NF19
 -->
