@@ -247,9 +247,14 @@ Ce sont des villes qui souffrent de leur enclavement et qui les éloignent des p
 
 Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déclin désigne les conséquences d'un phénomène de rétrécissement urbain, le *shrinkage*, qui touche les villes sur trois plans: **démographique** par la perte de population,  **social** par la perte d'activités, de fonctions, de revenus et d'emplois ; et **social**par le dévelopmmeent de la pauvreté urbaine, du chômage et de l'insécurité. Exemple Détroit: 19 milliards de dollars, première banqueroute pour une ville américaine. 1,8 millions à 700 000 habitants (1950 à 2020), chomage 20%, 35% du territoire inhabité. 
 
-# La diversité des quartiers et des périphérie
+# La diversité des quartiers et des périphéries
+
+## 1. Le Central Business District (CBD)
+
+* Les CBDs et leurs gratte-ciel sont les symvoles des villes les plus dynamiques de la planète.
+* Les centres des gra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTE2ODQ5MSwtNDQ1ODQ3MDY4LC0xNT
+eyJoaXN0b3J5IjpbLTUwMjQxNDE0MywtNDQ1ODQ3MDY4LC0xNT
 A3ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0
 NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMT
 k5NzM4MzI4NywxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLTE1MTc1
