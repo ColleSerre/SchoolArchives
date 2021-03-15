@@ -246,10 +246,12 @@ Une seule ville en dehors de la région Asie-Pacifique, Nairobi, figure parmi le
 Ce sont des villes qui souffrent de leur enclavement et qui les éloignent des principaux flux de la mondialisation, celles qui sont victimes de conflits (comme Damas par exemple en Syrie) et enfin celles qui dans le passé ont connu un fort développement économique et qui aujourd'hui subissent les conséquences de la désindustrialisation. Comme Détroit ou Liverpool ou Beirut. **On parle de "shrinking cities" littéralement les villes qui rétrécissement ** 
 
 Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déclin désigne les conséquences d'un phénomène de rétrécissement urbain, le *shrinkage*, qui touche les villes sur trois plans: **démographique** par la perte de population,  **social** par la perte d'activités, de fonctions, de revenus et d'emplois ; et **social**par le dévelopmmeent de la pauvreté urbaine, du chômage et de l'insécurité. Exemple Détroit: 19 milliards de dollars, première banqueroute pour une ville américaine. 1,8 millions à 700 000 habitants (1950 à 2020), chomage 20%, 35% du territoire inhabité. 
+
+# La diversité des quartiers et des périphérie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTg0NzA2OCwtMTUwNzg2NjAwNCw1ND
-U3NjkzNjEsMTk0OTYyMjAxNywtMTIzMjM1NDcyMSwxMTU0MDgy
-MDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMyODcsMT
-I0OTQyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0
-MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbMTMzOTE2ODQ5MSwtNDQ1ODQ3MDY4LC0xNT
+A3ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0
+NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMT
+k5NzM4MzI4NywxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLTE1MTc1
+NDk4NjIsLTE0MzQxNzY5MF19
 -->
