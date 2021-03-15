@@ -258,13 +258,13 @@ Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déc
 ## 2. Le poids grandissant des périphéries
 * Les périphéries urbaines sont multiples comme nous l'avons vu précédemment avec les banlieues de Los Angeles ou celle du Caire
 * On retiendra donc l'existence de banlieus constituées par de grands ensembles (Type HLM) et les banlieus constituées par des habitats individuelles (ou pavillonnaires) issues de la périurbanisation ( processus d'urbanisation des marges rurales d'une agglomération urbaine)
-* Les favelas de Rio: 6% de la population habite dans des favelas, (11, 4 millions en 2010), arrivées avec l'industrialisation au 20ème siècle. 
+* Les favelas de Rio: 6% de la population habite dans des favelas, (11, 4 millions en 2010), arrivées avec l'industrialisation au 20ème siècle. Les favelas et plus largement les bidonvilles ont pour caractéristiques: le manque d'infrastructures, misère, violence, trafics illégaux, manque d'hygiène, manque de réglementation, densité de pop
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NzMyMDM5LDExNjE0MDg3OTksLTI4Nj
-Y3MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3ODY2MDA0LDU0NTc2OTM2
-MSwxOTQ5NjIyMDE3LC0xMjMyMzU0NzIxLDExNTQwODIwOTcsLT
-IzMjI1OTM5OSw1NjI3MDc2OCwtMTk5NzM4MzI4NywxMjQ5NDIw
-NzM3LC05MDI4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF
-19
+eyJoaXN0b3J5IjpbMTUxMzU3NjY4OCwxMTYxNDA4Nzk5LC0yOD
+Y2NzM2NzYsLTQ0NTg0NzA2OCwtMTUwNzg2NjAwNCw1NDU3Njkz
+NjEsMTk0OTYyMjAxNywtMTIzMjM1NDcyMSwxMTU0MDgyMDk3LC
+0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMyODcsMTI0OTQy
+MDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OT
+BdfQ==
 -->
