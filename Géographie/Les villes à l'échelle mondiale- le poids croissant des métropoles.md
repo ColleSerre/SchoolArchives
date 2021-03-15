@@ -231,8 +231,11 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 * La Dubaï Creek Tower, lancée en 2016 devrait faire 1km de hauteur pour l'exposition universelle de 2020.
 * Les centres commerciaux ou Malls sont des constructions pharaoniques, les plus grands sont aux États-Unis, à Dubaï et en Chine et en Asie (South China Mall). 
 * Le Dubaï Mall possède plus de 33 000 espèces dont 400 requins.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDA4MjA5NywtMjMyMjU5Mzk5LDU2Mj
-cwNzY4LC0xOTk3MzgzMjg3LDEyNDk0MjA3MzcsLTkwMjgyMDg4
-MiwtMTUxNzU0OTg2MiwtMTQzNDE3NjkwXX0=
+eyJoaXN0b3J5IjpbLTc1MjY2OTI5OSwxMTU0MDgyMDk3LC0yMz
+IyNTkzOTksNTYyNzA3NjgsLTE5OTczODMyODcsMTI0OTQyMDcz
+NywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ
+==
 -->
