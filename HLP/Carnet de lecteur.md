@@ -139,7 +139,8 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 
 * « Il n’y a rien de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage. » - Montaigne, *Des Cannibales*
 * Je ne suis pas marri que nous remarquons l'horreur barbaresque qu'il y a en une telle action, mais oui bien de quoi, jugeant bien de leurs fautes, nous soyons si aveugles aux nôtres. - Montaigne *Des Cannibales*
-* Tératologie, 
+* Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'un enfant monstrueux*
+* Tératologie, étude des "monstruosités" au XVIIème et XVIIIème
 
 ## L'autorité de l'auteur
 
@@ -338,7 +339,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjIwMzI5NiwtMTQxNzM0MDM1MSwtMT
+eyJoaXN0b3J5IjpbLTQyODk5MjgzNiwtMTQxNzM0MDM1MSwtMT
 M2NjA5MjgyLC0xMDA1MDExMDMwLC0xOTc3MTQ1NDM1LC0xODY4
 ODA3MzEsMTMwODc0MTczMSwtMTU4MDIwMzE0LC0xMTI3MDE1MD
 c0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0MjMyNDA2LDk3OTg0
