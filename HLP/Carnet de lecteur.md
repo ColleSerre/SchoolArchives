@@ -142,7 +142,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'un enfant monstrueux*
 * « Le monstre incarne l’excès, la vitalité, l’interdit, la sauvagerie proscrite par la société. Le monstre poulpeux est celui de nos instincts les plus bas. » - Alexandre Hougron
 * Tératologie, étude des "monstruosités" au XVIIème et XVIIIème
-* La psychanalise suppose que le monstre se cache à l'intèrieur de chacun d'entre nous.
+* La psychanalise de Freud suppose que le monstre se cache à l'intèrieur de chacun d'entre nous.
 
 ## L'autorité de l'auteur
 
@@ -341,10 +341,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEwNjk0MjYsLTE0MTczNDAzNTEsLT
-EzNjYwOTI4MiwtMTAwNTAxMTAzMCwtMTk3NzE0NTQzNSwtMTg2
-ODgwNzMxLDEzMDg3NDE3MzEsLTE1ODAyMDMxNCwtMTEyNzAxNT
-A3NCwxNzk2MzIyNCw0OTIyNjE5MCwtMTkyNDIzMjQwNiw5Nzk4
-NDMwOTksLTExNTI1NDkzOTEsLTM5NTkyNjQzMywxMTIyOTQwNj
-UyLDEyOTIxODA3MjIsLTExOTkwNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbMTc3MTgwMzUwNywtMTEyMTA2OTQyNiwtMT
+QxNzM0MDM1MSwtMTM2NjA5MjgyLC0xMDA1MDExMDMwLC0xOTc3
+MTQ1NDM1LC0xODY4ODA3MzEsMTMwODc0MTczMSwtMTU4MDIwMz
+E0LC0xMTI3MDE1MDc0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0
+MjMyNDA2LDk3OTg0MzA5OSwtMTE1MjU0OTM5MSwtMzk1OTI2ND
+MzLDExMjI5NDA2NTIsMTI5MjE4MDcyMiwtMTE5OTA1MTY3NF19
+
 -->
