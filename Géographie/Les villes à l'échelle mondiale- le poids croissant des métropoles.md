@@ -250,15 +250,17 @@ Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déc
 # La diversité des quartiers et des périphéries
 
 ## 1. Le Central Business District (CBD)
-
 * Les CBDs et leurs gratte-ciel sont les symvoles des villes les plus dynamiques de la planète.
 * Les centres des grandes villes du monde comportent des similitudes: la verticalité avec les hautes tours des quartiers d'affaire, les équipements de service (banques, commerces, musées, gares)
 * Ils ont aussi leurs soucis communs, la pollution, les problèmes de déplacement et le coût de l'immobilier.
 * Exemple 1: Sao Paulo: 5ème ville mondiale, marquée par la verticalité de ses contructions. 
 
 ## 2. Le poids grandissant des périphéries
+* Les périphéries urbaines sont multiples comme nous l'avons vu précédemment avec les banlieues de Los Angeles ou celle du Caire
+* On retiendra donc l'existence de banlieus constituées par de grands ensembles (Type HLM) et les banlieus constituées par des habitats individuelles (ou pavillonn
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE1ODIwODgsLTI4NjY3MzY3NiwtND
+eyJoaXN0b3J5IjpbLTExODM4OTIwMTUsLTI4NjY3MzY3NiwtND
 Q1ODQ3MDY4LC0xNTA3ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIy
 MDE3LC0xMjMyMzU0NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OS
 w1NjI3MDc2OCwtMTk5NzM4MzI4NywxMjQ5NDIwNzM3LC05MDI4
