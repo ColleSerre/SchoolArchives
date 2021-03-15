@@ -255,10 +255,12 @@ Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déc
 * Les centres des grandes villes du monde comportent des similitudes: la verticalité avec les hautes tours des quartiers d'affaire, les équipements de service (banques, commerces, musées, gares)
 * Ils ont aussi leurs soucis communs, la pollution, les problèmes de déplacement et le coût de l'immobilier.
 * Exemple 1: Sao Paulo: 5ème ville mondiale, marquée par la verticalité de ses contructions. 
+
+## 2. Le poids grandissant des périphéries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4LC0xNT
-A3ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0
-NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMT
-k5NzM4MzI4NywxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLTE1MTc1
-NDk4NjIsLTE0MzQxNzY5MF19
+eyJoaXN0b3J5IjpbLTIwODE1ODIwODgsLTI4NjY3MzY3NiwtND
+Q1ODQ3MDY4LC0xNTA3ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIy
+MDE3LC0xMjMyMzU0NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OS
+w1NjI3MDc2OCwtMTk5NzM4MzI4NywxMjQ5NDIwNzM3LC05MDI4
+MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
 -->
