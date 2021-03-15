@@ -243,10 +243,10 @@ Le classement de 2019 montre que la croissance urbaine la plus rapide continue d
 Une seule ville en dehors de la région Asie-Pacifique, Nairobi, figure parmi les 20 villes les plus dynamiques du monde - et même à Nairobi, l'influence asiatique est forte avec d'importants investissements de la Chine, notamment dans les projets d'infrastructure. 
 
 ### Les métropoles en marge de la mondialisation
-Ce sont des villes qui souffrent de leur enclavement et qui les éloignent des principaux flux de la mondialisation  
+Ce sont des villes qui souffrent de leur enclavement et qui les éloignent des principaux flux de la mondialisation, celles qui sont victimes de conflits (comme Damas par exemple en Syrie) et enfin celles qui dans le passé ont connu un fort développement économique et qui aujourd'hui subissent les conséquences de la désindustrialisation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzUyNTc2ODEsMTk0OTYyMjAxNywtMT
-IzMjM1NDcyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3
-NjgsLTE5OTczODMyODcsMTI0OTQyMDczNywtOTAyODIwODgyLC
-0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbMTY3MDg4NTY1NCwxOTQ5NjIyMDE3LC0xMj
+MyMzU0NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2
+OCwtMTk5NzM4MzI4NywxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLT
+E1MTc1NDk4NjIsLTE0MzQxNzY5MF19
 -->
