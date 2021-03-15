@@ -234,16 +234,19 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 
 ## Les Différences de dynamisme des métropoles
 
-Les plus dynamiques:
+### Les plus dynamiques:
 * elles sont situées dans les pays dévelppés comme Tokyo, LA, Londres ou Paris.
 * NB: Paris est de retour dans le top 5 des 30 métropoles mondiales les plus dynamiques derrière Londres, Singapour et Torronto et devant Amsterdam. 
 
-Les métropoles en devenir:
+### Les métropoles en devenir:
 Le classement de 2019 montre que la croissance urbaine la plus rapide continue de mogrer de l'Ouest vers l'Est. **L'Asie-Pacifique abrite 19 des 20 villes les mieux classées en 2019** et dans l'ensemble les villes indiennes et chinoises dominent le classement, représentant les trois quarts des 20 villes en haut du classement.
 Une seule ville en dehors de la région Asie-Pacifique, Nairobi, figure parmi les 20 villes les plus dynamiques du monde - et même à Nairobi, l'influence asiatique est forte avec d'importants investissements de la Chine, notamment dans les projets d'infrastructure. 
+
+### Les métropoles en marge de la mondialisation
+Ce sont des villes qui souffrent de leur enclavement et qui les éloignent des principaux flux de la mondialisation  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTYyMjAxNywtMTIzMjM1NDcyMSwxMT
-U0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMy
-ODcsMTI0OTQyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC
-0xNDM0MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbLTEyMzUyNTc2ODEsMTk0OTYyMjAxNywtMT
+IzMjM1NDcyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3
+NjgsLTE5OTczODMyODcsMTI0OTQyMDczNywtOTAyODIwODgyLC
+0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
 -->
