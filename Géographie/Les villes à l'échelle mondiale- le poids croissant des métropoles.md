@@ -237,9 +237,12 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 Les plus dynamiques:
 * elles sont situées dans les pays dévelppés comme Tokyo, LA, Londres ou Paris.
 * NB: Paris est de retour dans le top 5 des 30 métropoles mondiales les plus dynamiques derrière Londres, Singapour et Torronto et devant Amsterdam. 
+
+Les métropoles en devenir:
+Le classement de 2019 montre que la croissance urbaine la plus rapide continue de mogrer de l'Ouest vers l'Est. L'Asie-Pacifique 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIzNTQ3MjEsMTE1NDA4MjA5NywtMj
-MyMjU5Mzk5LDU2MjcwNzY4LC0xOTk3MzgzMjg3LDEyNDk0MjA3
-MzcsLTkwMjgyMDg4MiwtMTUxNzU0OTg2MiwtMTQzNDE3NjkwXX
-0=
+eyJoaXN0b3J5IjpbLTYyOTAzMDcwMSwtMTIzMjM1NDcyMSwxMT
+U0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMy
+ODcsMTI0OTQyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC
+0xNDM0MTc2OTBdfQ==
 -->
