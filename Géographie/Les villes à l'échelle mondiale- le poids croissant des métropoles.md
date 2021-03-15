@@ -232,10 +232,14 @@ Points forts de la vie périurbaine/à la campagne: Prix immobilier, recherche d
 * Les centres commerciaux ou Malls sont des constructions pharaoniques, les plus grands sont aux États-Unis, à Dubaï et en Chine et en Asie (South China Mall). 
 * Le Dubaï Mall possède plus de 33 000 espèces dont 400 requins.
 
+## Les Différences de dynamisme des métropoles
 
+Les plus dynamiques:
+* elles sont situées dans les pays dévelppés comme Tokyo, LA, Londres ou Paris.
+* NB: Paris est de retour dans le top 5 des 30 métropoles mondiales les plus dynamiques derrière Londres, Singapour et Torronto et devant Amsterdam. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjY2OTI5OSwxMTU0MDgyMDk3LC0yMz
-IyNTkzOTksNTYyNzA3NjgsLTE5OTczODMyODcsMTI0OTQyMDcz
-NywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMzIzNTQ3MjEsMTE1NDA4MjA5NywtMj
+MyMjU5Mzk5LDU2MjcwNzY4LC0xOTk3MzgzMjg3LDEyNDk0MjA3
+MzcsLTkwMjgyMDg4MiwtMTUxNzU0OTg2MiwtMTQzNDE3NjkwXX
+0=
 -->
