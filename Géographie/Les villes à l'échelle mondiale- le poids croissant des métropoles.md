@@ -240,9 +240,9 @@ Les plus dynamiques:
 
 Les métropoles en devenir:
 Le classement de 2019 montre que la croissance urbaine la plus rapide continue de mogrer de l'Ouest vers l'Est. **L'Asie-Pacifique abrite 19 des 20 villes les mieux classées en 2019** et dans l'ensemble les villes indiennes et chinoises dominent le classement, représentant les trois quarts des 20 villes en haut du classement.
-Une seule ville en dehors de la région Asie-Pacifique, Nairobi, figure parmi les 20 villes les plus dynamique
+Une seule ville en dehors de la région Asie-Pacifique, Nairobi, figure parmi les 20 villes les plus dynamiques du monde - et même à Nairobi, l'influence asiatique est forte avec d'importants investissements de la Chine, notamment dans les projets d'infrastructure. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDk5Mjk4NywtMTIzMjM1NDcyMSwxMT
+eyJoaXN0b3J5IjpbMTk0OTYyMjAxNywtMTIzMjM1NDcyMSwxMT
 U0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMy
 ODcsMTI0OTQyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC
 0xNDM0MTc2OTBdfQ==
