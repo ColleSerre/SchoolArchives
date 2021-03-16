@@ -81,9 +81,10 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 			* Nie faire partie de ce mouvement, mais ses deux grandes œuvres remplissent les critères: En attendant Godot et fin de partie
 		* Jean Genet:
 			* Montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences, à l'infini.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjI1OTIyMywxODI2MjMyNTY3LDIxMD
-IxMjk1NjQsMTM5NDE1NjIxNiwtMTE2NzcxNDI4MSwxMTA0OTgy
-NzM5LDIwOTg4MzkyMTcsOTE4MTMwODAwLC00MTI1OTk3MTgsMT
-U1MTQ0ODc1MywtMTg3NDExODAwNl19
+eyJoaXN0b3J5IjpbMzQwODUxMDc3LDE1MjIyNTkyMjMsMTgyNj
+IzMjU2NywyMTAyMTI5NTY0LDEzOTQxNTYyMTYsLTExNjc3MTQy
+ODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgwMCwtND
+EyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ==
 -->
