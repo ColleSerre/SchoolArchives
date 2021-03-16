@@ -328,7 +328,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	2. Elle est attaquée jusqu'à la mort s'il le faut
 	3. Elle est admise comme ayant été toujours une évidence - Schopenhauer 
 
-## Dictatures
+## Crimes contre l'humanité
 
 * Ce qu’il [l'homme blanc, bourgeois et occidental] ne pardonne pas à Hitler, ce n’est pas le crime en soi, le crime contre l’homme, ce n’est pas l’humiliation de l’homme en soi, c’est le crime contre l’homme blanc, c’est l’humiliation de l’homme blanc, et d’avoir appliqué à l’Europe des procédés colonialistes dont ne relevaient jusqu’ici que les Arabes d’Algérie, les coolies de l’Inde et les nègres d’Afrique. - Aimé Césaire *Discours sur le colonialisme*
 * Périssent les colonies plutôt qu’un principe - Robespierre en abolissant l’esclavage
@@ -342,7 +342,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjQwODYwMCwxNzcxODAzNTA3LC0xMT
+eyJoaXN0b3J5IjpbMjE0MTY1NzE5NiwxNzcxODAzNTA3LC0xMT
 IxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyODIsLTEwMDUw
 MTEwMzAsLTE5NzcxNDU0MzUsLTE4Njg4MDczMSwxMzA4NzQxNz
 MxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQsMTc5NjMyMjQsNDky
