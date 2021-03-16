@@ -58,9 +58,9 @@ QR: L'image du monstre dans la littérature nous éclaire-t-elle sur l'Homme que
 Thèses possibles: 
 * L'image du monstre permet, accompagnée d'une analyse tenant compte de la théorie psychanalytique de Freud, de révéler les caractéristiques communes qu'ont les Hommes et les monstres.
 * L'image du monstre permet, en extrapolant certaines composantes des trames narratives respectives, de mieux comprendre les similarités entre monstre fictif Humain réel. 
-* En analysant l'image du monstre comme étant le produit de trois composantes fondamentales (naissance, relativité et raison du monstre) nous pouvons transposer ces composan
+* En considérant l'image du monstre comme étant la somme de trois composantes fondamentales (naissance, relativité et raison du monstre) nous pouvons transposer ces composants à la race humaine. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNzc5MTU2LDE3MjE0MDA1MzAsLTE5Nj
-g0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQzNjQ1
-NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF19
+eyJoaXN0b3J5IjpbMTg3NDgyMTc2MSwxNzIxNDAwNTMwLC0xOT
+Y4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0MzY0
+NTc1OCwtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
 -->
