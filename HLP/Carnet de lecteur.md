@@ -259,6 +259,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 ## Connaissance
 
 * Connais toi toi même - Sur le fronton du temple d’Apollon
+* Nul ne doit entrer sous mon toit, s'il n'est géomètre - Gravé sur l'école de Platon
 * Connais ton ennemi et connais toi toit même - Sun Tzu *L’art de la guerre*
 
 ## Actes
@@ -341,11 +342,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTgwMzUwNywtMTEyMTA2OTQyNiwtMT
-QxNzM0MDM1MSwtMTM2NjA5MjgyLC0xMDA1MDExMDMwLC0xOTc3
-MTQ1NDM1LC0xODY4ODA3MzEsMTMwODc0MTczMSwtMTU4MDIwMz
-E0LC0xMTI3MDE1MDc0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0
-MjMyNDA2LDk3OTg0MzA5OSwtMTE1MjU0OTM5MSwtMzk1OTI2ND
-MzLDExMjI5NDA2NTIsMTI5MjE4MDcyMiwtMTE5OTA1MTY3NF19
-
+eyJoaXN0b3J5IjpbMTE4NjQwODYwMCwxNzcxODAzNTA3LC0xMT
+IxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyODIsLTEwMDUw
+MTEwMzAsLTE5NzcxNDU0MzUsLTE4Njg4MDczMSwxMzA4NzQxNz
+MxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQsMTc5NjMyMjQsNDky
+MjYxOTAsLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5Mz
+kxLC0zOTU5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0x
+MTk5MDUxNjc0XX0=
 -->
