@@ -65,9 +65,10 @@ Correction:
 	* Elle permet, une distance, un arrêt sur image, une sorte "électro-choc"
 	* Elle invite à repousser les pulsions premières
 	* Elle nous renseigne sur nos limites qui peu vent servir de curseurs
+* Toutefois, elle a ss l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtND
-I4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4NTksMTA5NTI5
-MTM1MiwtMTY2NDMyMzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1OD
-UsLTkyNzI3MjYzNF19
+eyJoaXN0b3J5IjpbLTE1Nzk0NTc5NjIsMTkwMzU2MDMxMSwtMT
+Y5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0
+NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQzNjQ1Nz
+U4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF19
 -->
