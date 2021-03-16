@@ -9,9 +9,11 @@ Notes from vide (available on Drive):
 	* Black = commander's costume, fear, authority, autocracy (priests wear black)
 	* Blue = colour of the wives, symbolic of the Virgin Mary
 	* Khaki = Aunts, military colour, No femininity, reference to Nazi 'brownshirts'
-* Eyes: A society in which everything is visible to an unknown, hostile authority is sometimes known as panoptic. Literally this means eyes are everywhere. This idea of not being able to escape observation is a common feature in dystopian fiction, most famously explored in Orwell's 1984 where big br
+* Eyes: A society in which everything is visible to an unknown, hostile authority is sometimes known as panoptic. Literally this means eyes are everywhere. This idea of not being able to escape observation is a common feature in dystopian fiction, most famously explored in Orwell's 1984 where big brother is always watching you. Offred has a plaster eye in her room.
+* Mirrors:
+	* Handmaids are not allowed to mirrors because vanity is a deadly sin.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzkyMzU0MCwtMTcwNDA1NzI1OSwtMj
-EzNjM4MjAyOSwxNzc4NjMyNjM3LC0xNzkwODEzMDM1LDUyMjUy
-MzkzMV19
+eyJoaXN0b3J5IjpbLTE5OTM5MTU2ODEsLTE3MDQwNTcyNTksLT
+IxMzYzODIwMjksMTc3ODYzMjYzNywtMTc5MDgxMzAzNSw1MjI1
+MjM5MzFdfQ==
 -->
