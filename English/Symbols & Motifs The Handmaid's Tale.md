@@ -15,9 +15,9 @@ Notes from vide (available on Drive):
 	* Can be formed into weapons (much like books - another proscribed object)
 	* Links to removal of possession of their bodies
 * Flowers
-	* 
+	* Represe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjEwMTY5MywtODg2ODAyMTY5LC0xNz
-A0MDU3MjU5LC0yMTM2MzgyMDI5LDE3Nzg2MzI2MzcsLTE3OTA4
-MTMwMzUsNTIyNTIzOTMxXX0=
+eyJoaXN0b3J5IjpbLTU2NjAzMjY1MSwxNDA2MTAxNjkzLC04OD
+Y4MDIxNjksLTE3MDQwNTcyNTksLTIxMzYzODIwMjksMTc3ODYz
+MjYzNywtMTc5MDgxMzAzNSw1MjI1MjM5MzFdfQ==
 -->
