@@ -54,8 +54,10 @@ D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place d
 ## Séance 2: Apprendre à insérer dans une QR des exemples vus en cours
 
 QR: L'image du monstre dans la littérature nous éclaire-t-elle sur l'Homme que nous sommes ?
+
+Thèses possibles: L'image du monstre permet, accompagnée  théorie psychanalytique de Freud, peut éclairer 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMD
-k1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0
-ODU4NSwtOTI3MjcyNjM0XX0=
+eyJoaXN0b3J5IjpbLTQ0ODE3NzMyMiwxNzIxNDAwNTMwLC0xOT
+Y4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0MzY0
+NTc1OCwtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
 -->
