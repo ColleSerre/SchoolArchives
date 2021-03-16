@@ -48,10 +48,10 @@ D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place d
 
 ### Caractéristiques communes des monstres:
 * Ils sont causés: ils naissent d'une circonstance extrème (biologique, sociale, diplomatique)
-* Ils ne sont pas absolus (souvent, ils ont des 
-* Ils ont une raison (il faut bien une justification pour leurs actes, aucun méchant est méchant pour être méchant)
+* Ils ne sont pas absolus (souvent, ils ont des aspects plus humains, certaines femmes au sein de l'EI veulent simplement vivre leur foi et élever leurs enfants dans une vision fondamentaliste de l'Islam ce qui n'est pas en soit mauvais)
+* Ils ont une raison (il faut bien une justification pour leurs actes, aucun méchant est méchant pour être méchant, l'accès au paradis pour les djihadistes)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTYwMzYzOCwtMTk2ODQ2MDg1OSwxMD
+eyJoaXN0b3J5IjpbLTcxMDIyNzk2OSwtMTk2ODQ2MDg1OSwxMD
 k1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0
 ODU4NSwtOTI3MjcyNjM0XX0=
 -->
