@@ -53,8 +53,9 @@ D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place d
 
 ## Séance 2: Apprendre à insérer dans une QR des exemples vus en cours
 
+QR: L'image du monstre dans la littérature nous éclaire-t-elle sur l'Homme que nous sommes ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjkxNzQ2MiwtMTk2ODQ2MDg1OSwxMD
+eyJoaXN0b3J5IjpbMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMD
 k1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0
 ODU4NSwtOTI3MjcyNjM0XX0=
 -->
