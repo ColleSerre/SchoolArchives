@@ -9,7 +9,7 @@ Le rôle de confidente. L'adjectif fausses implique une falsification d'un rôle
 
 ## Scène I & II
 
-
+La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dans cette scènen, car il connaît le secret de Dorante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTE3ODI2MiwxNDUyMjk1NzM0XX0=
+eyJoaXN0b3J5IjpbLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
