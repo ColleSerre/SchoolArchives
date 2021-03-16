@@ -5,7 +5,7 @@ On trouve que le théâtre tragique d'être immorale et ennuyante, car le *phatu
 
 ## Réflexion sur le titre - Les Fausses Confidences
 
-Le rôle de confiden.t.ce. Le mot faus
+Le rôle de confidente. L'adjectif fausses implique une falsification d'un rôle. Usurpation d'une confiance. À l'origine en **mars 1737**, pour la première représentation, le titre 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3ODk0NTk1XX0=
+eyJoaXN0b3J5IjpbMjA2NzI4MTQxNl19
 -->
