@@ -3,8 +3,9 @@
 
 On trouve que le théâtre tragique d'être immorale et ennuyante, car le *phatum* n'est plus une bonne excuse pour l'immoralité et aussi, car au nom de la bienséance on ne peut pas montrer d'actions choquantes sur scène. Les comédies et tragédies classiques lassent donc. Arrivent *Marivaux* et *Beaumarchais* qui essayent de faire sourire plutôt que rire, car ils traitent de sujets qui ne sont pas hilarants. Le principal thème est l'amour. Il ne peut pas s'accomplir à cause de l'argent et de la classe sociale. Ces deux obstacles ne sont pas infranchissables contrairement au *fatum* et à la mort. **L'amour va triompher par stratagème.** 
 
-## Scène. 1
+## Réflexion sur le titre - Les Fausses Confidences
 
+Le rôle de confiden.t.ce. Le mot faus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzQ3OTIzXX0=
+eyJoaXN0b3J5IjpbNTQ3ODk0NTk1XX0=
 -->
