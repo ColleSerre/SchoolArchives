@@ -15,9 +15,9 @@ Notes from vide (available on Drive):
 	* Can be formed into weapons (much like books - another proscribed object)
 	* Links to removal of possession of their bodies
 * Flowers
-	* Represe
+	* Represent purity, fertility
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjAzMjY1MSwxNDA2MTAxNjkzLC04OD
+eyJoaXN0b3J5IjpbMTc3MDI3MTgwMiwxNDA2MTAxNjkzLC04OD
 Y4MDIxNjksLTE3MDQwNTcyNTksLTIxMzYzODIwMjksMTc3ODYz
 MjYzNywtMTc5MDgxMzAzNSw1MjI1MjM5MzFdfQ==
 -->
