@@ -13,8 +13,9 @@ Notes from vide (available on Drive):
 * Mirrors:
 	* Handmaids are not allowed to see their reflection in mirrors because vanity is a deadly sin. Links to the removal of other 'dangerous' objects. A symbol of control
 	* Can be formed into weapons (much like books - another proscribed object)
+	* Links to removal of possession of their bodies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNDc3MzU5LC0xNzA0MDU3MjU5LC0yMT
-M2MzgyMDI5LDE3Nzg2MzI2MzcsLTE3OTA4MTMwMzUsNTIyNTIz
-OTMxXX0=
+eyJoaXN0b3J5IjpbLTg4NjgwMjE2OSwtMTcwNDA1NzI1OSwtMj
+EzNjM4MjAyOSwxNzc4NjMyNjM3LC0xNzkwODEzMDM1LDUyMjUy
+MzkzMV19
 -->
