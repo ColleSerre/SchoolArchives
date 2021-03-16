@@ -1,6 +1,5 @@
 
 
-
 # Les représentations du monde
 
 ## Questionnement 1
@@ -72,8 +71,9 @@ Correction:
 
 Le roman *Frankenstein ou le Prométhée moderne* de *Mary Shelley* décrit un archétype du monstre: celui qui est le fruit des agissements d'autrui. C'est ce même monstre qu'évoquera 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMz
-U2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1
-MzAsLTE5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMi
-wxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF19
+eyJoaXN0b3J5IjpbMTYxMTkzMTM1MywxMTMzOTA3MTc5LDY5OD
+QyODIzMSwxOTAzNTYwMzExLC0xNjk3NTAzNDkwLC00Mjg1MTg3
+MTAsMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1MjkxMzUyLC
+0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NSwtOTI3
+MjcyNjM0XX0=
 -->
