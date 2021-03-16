@@ -47,11 +47,14 @@ D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place d
 * Grâce à la Littérature, la Philosophie (par réflexion)
 
 ### Caractéristiques communes des monstres:
-* Ils sont causés: ils naissent d'une circonstance extrème (biologique, sociale, diplomatique, l'EI et les mouvements djihadistes sont nés des guerres et de la présence américaine au moyen orient, sous les bombes) *La voix des sans-voix* L'Abbé Pierre
+* Ils sont causés: ils naissent d'une circonstance extrême (biologique, sociale, diplomatique, l'EI et les mouvements djihadistes sont nés des guerres et de la présence américaine au moyen orient, sous les bombes) *La voix des sans-voix* L'Abbé Pierre
 * Ils ne sont pas absolus (souvent, ils ont des aspects plus humains, certaines femmes au sein de l'EI veulent simplement vivre leur foi et élever leurs enfants dans une vision fondamentaliste de l'Islam ce qui n'est pas en soit mauvais)
 * Ils ont une raison (il faut bien une justification pour leurs actes, aucun méchant est méchant pour être méchant, l'accès au paradis pour les djihadistes) 
+
+## Séance 2: Apprendre à insérer dans une QR des exemples vus en cours
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDEwMDYyMSwtMTk2ODQ2MDg1OSwxMD
+eyJoaXN0b3J5IjpbMTg0MjkxNzQ2MiwtMTk2ODQ2MDg1OSwxMD
 k1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0
 ODU4NSwtOTI3MjcyNjM0XX0=
 -->
