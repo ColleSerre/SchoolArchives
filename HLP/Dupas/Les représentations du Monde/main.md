@@ -67,10 +67,11 @@ Correction:
 	* Elle nous renseigne sur nos limites qui peu vent servir de curseurs
 * Toutefois, elle a ses limites; elle n'est ni le seul vecteur, ni le meilleur
 	* La littérature n'est pas la seule à permettre cette prise de conscience: spectacles vivants, arts, croyances
-	* Faire preuve, pour et par soi, de raison, de réflexion, de sagesse avant d'agir de 
+	* Faire preuve, pour et par soi, de raison, de réflexion, de sagesse avant d'agir de façon pulsionnaire
+	* Développer l'empathie, la compassion pour voir autrement l'autre (que l'on jugerait monstrueux)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzE0NjQsMTkwMzU2MDMxMSwtMTY5Nz
-UwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4
-NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQzNjQ1NzU4LC
-05ODg5NDg1ODUsLTkyNzI3MjYzNF19
+eyJoaXN0b3J5IjpbNjk4NDI4MjMxLDE5MDM1NjAzMTEsLTE2OT
+c1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC0xOTY4NDYw
+ODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0MzY0NTc1OC
+wtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
 -->
