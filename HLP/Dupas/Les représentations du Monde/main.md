@@ -55,9 +55,11 @@ D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place d
 
 QR: L'image du monstre dans la littérature nous éclaire-t-elle sur l'Homme que nous sommes ?
 
-Thèses possibles: L'image du monstre permet, accompagnée d'une analyse tenant compte de la théorie psychanalytique de Freud, peut révéler les caractéristiques qu'ont les Hommes et les monstres.
+Thèses possibles: 
+* L'image du monstre permet, accompagnée d'une analyse tenant compte de la théorie psychanalytique de Freud, de révéler les caractéristiques communes qu'ont les Hommes et les monstres.
+* L'image du monstre permet, en extrapolant certaines composantes des trames narratives respectives, de mieux comprendre les similarités entre monstre fictif 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Njc0NjQ4MSwxNzIxNDAwNTMwLC0xOT
-Y4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0MzY0
-NTc1OCwtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjE2MDM0MDcsMTcyMTQwMDUzMCwtMT
+k2ODQ2MDg1OSwxMDk1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2
+NDU3NTgsLTk4ODk0ODU4NSwtOTI3MjcyNjM0XX0=
 -->
