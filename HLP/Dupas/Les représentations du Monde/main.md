@@ -61,10 +61,13 @@ Thèses possibles:
 * En considérant l'image du monstre comme étant la somme de trois composantes fondamentales (naissance, relativité et raison du monstre) nous pouvons transposer ces composants à la race humaine. 
 
 Correction:
-* Effectivement, on peut dire qu'elle nous éclaire dans 
+* Effectivement, on peut dire qu'elle nous éclaire dans le sens où elle permet une prise de conscience grâce au recul
+	* Elle permet, une distance, un arrêt sur image, une sorte "électro-choc"
+	* Elle invite à repousser les pulsions premières
+	* Elle nous renseigne sur nos limites qui peu vent servir de curseurs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwMDU1NDM1LC0xNjk3NTAzNDkwLC00Mj
-g1MTg3MTAsMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1Mjkx
-MzUyLC0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NS
-wtOTI3MjcyNjM0XX0=
+eyJoaXN0b3J5IjpbMTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtND
+I4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4NTksMTA5NTI5
+MTM1MiwtMTY2NDMyMzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1OD
+UsLTkyNzI3MjYzNF19
 -->
