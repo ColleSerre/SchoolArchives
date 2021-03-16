@@ -6,6 +6,8 @@ On trouve que le théâtre tragique d'être immorale et ennuyante, car le *phatu
 ## Réflexion sur le titre - Les Fausses Confidences
 
 Le rôle de confidente. L'adjectif fausses implique une falsification d'un rôle. Usurpation d'une confiance. À l'origine en **mars 1737**, pour la première représentation, le titre est au singulier. La principale fausse confidence est celle qui vise à lier Araminte et Dorante. Dubois, le valet, aide. La différence entre la et les est dans l'idée qu'au pluriel, chaque personnage est un tricheur. **Chez Marivaux, le mensonge est une étape vers la vérité.** Le titre est oxymorique. Les mots confidences et fidélité ont une racine commune. Il y a aussi une fausse confidence (une manipulation) quand Dubois dit à Araminte que Dorante l'aime en prétendant que ce dernier n'est pas au courant du startagème. 
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5Njk1NjI0LDE0NTIyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbMTYxODkzMDA1MiwxNDUyMjk1NzM0XX0=
 -->
