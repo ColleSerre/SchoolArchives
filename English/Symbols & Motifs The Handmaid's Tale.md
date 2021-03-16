@@ -11,9 +11,10 @@ Notes from vide (available on Drive):
 	* Khaki = Aunts, military colour, No femininity, reference to Nazi 'brownshirts'
 * Eyes: A society in which everything is visible to an unknown, hostile authority is sometimes known as panoptic. Literally this means eyes are everywhere. This idea of not being able to escape observation is a common feature in dystopian fiction, most famously explored in Orwell's 1984 where big brother is always watching you. Offred has a plaster eye in her room.
 * Mirrors:
-	* Handmaids are not allowed to mirrors because vanity is a deadly sin.
+	* Handmaids are not allowed to see their reflection in mirrors because vanity is a deadly sin. Links to the removal of other 'dangerous' objects. A symbol of control
+	* Can be formed into weapons (much like books - another proscribed object)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM5MTU2ODEsLTE3MDQwNTcyNTksLT
-IxMzYzODIwMjksMTc3ODYzMjYzNywtMTc5MDgxMzAzNSw1MjI1
-MjM5MzFdfQ==
+eyJoaXN0b3J5IjpbNDUzNDc3MzU5LC0xNzA0MDU3MjU5LC0yMT
+M2MzgyMDI5LDE3Nzg2MzI2MzcsLTE3OTA4MTMwMzUsNTIyNTIz
+OTMxXX0=
 -->
