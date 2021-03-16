@@ -45,8 +45,13 @@ D'où la nécessité de se mesurer en tout (*pan metron*) et de tenir sa place d
 * Grâce au moi, au surmoi (naturellement)
 * Grâce à l'exemple, l'expérience d'autrui (par effet miroir)
 * Grâce à la Littérature, la Philosophie (par réflexion)
+
+### Caractéristiques communes des monstres:
+* Ils sont causés: ils naissent d'une circonstance extrème (biologique, sociale, diplomatique)
+* Ils ne sont pas absolus (souvent, ils ont des 
+* Ils ont une raison (il faut bien une justification pour leurs actes, aucun méchant est méchant pour être méchant)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg0NjA4NTksMTA5NTI5MTM1MiwtMT
-Y2NDMyMzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3
-MjYzNF19
+eyJoaXN0b3J5IjpbLTM0MTYwMzYzOCwtMTk2ODQ2MDg1OSwxMD
+k1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0
+ODU4NSwtOTI3MjcyNjM0XX0=
 -->
