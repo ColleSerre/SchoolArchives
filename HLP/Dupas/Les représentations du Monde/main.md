@@ -59,9 +59,12 @@ Thèses possibles:
 * L'image du monstre permet, accompagnée d'une analyse tenant compte de l'importance du mythe dans la psychanalyse Freudienne, de révéler les caractéristiques communes qu'ont les Hommes et les monstres. Cependant, l'homme et le monstre n'étant pas absolus dans leurs conditions respectives, moins de 
 * L'image du monstre permet, en extrapolant certaines composantes des trames narratives respectives, de mieux comprendre les similarités entre monstre fictif Humain réel. 
 * En considérant l'image du monstre comme étant la somme de trois composantes fondamentales (naissance, relativité et raison du monstre) nous pouvons transposer ces composants à la race humaine. 
+
+Correction:
+* Effectivement, on peut dire qu'elle nous éclaire dans 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNz
-IxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQz
-MjM1MDIsMTA0MzY0NTc1OCwtOTg4OTQ4NTg1LC05MjcyNzI2Mz
-RdfQ==
+eyJoaXN0b3J5IjpbNDMwMDU1NDM1LC0xNjk3NTAzNDkwLC00Mj
+g1MTg3MTAsMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1Mjkx
+MzUyLC0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NS
+wtOTI3MjcyNjM0XX0=
 -->
