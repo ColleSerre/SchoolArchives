@@ -69,9 +69,11 @@ Correction:
 	* La littérature n'est pas la seule à permettre cette prise de conscience: spectacles vivants, arts, croyances
 	* Faire preuve, pour et par soi, de raison, de réflexion, de sagesse avant d'agir de façon pulsionnaire
 	* Développer l'empathie, la compassion pour voir autrement l'autre (que l'on jugerait monstrueux)
+
+Le roman *Frankenstein ou le Prométhée moderne* de *Mary Shelley* décrit un archétype du monstre: celui qui est le fruit des agissements d'autrui, à l'image du 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NDI4MjMxLDE5MDM1NjAzMTEsLTE2OT
-c1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC0xOTY4NDYw
-ODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0MzY0NTc1OC
-wtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
+eyJoaXN0b3J5IjpbMTUzNzc5MjMyMiw2OTg0MjgyMzEsMTkwMz
+U2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1
+MzAsLTE5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMi
+wxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF19
 -->
