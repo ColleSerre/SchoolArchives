@@ -15,8 +15,8 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 Comment l'anxiété et l'amour de Dubois inversent les rôles socialement acquis dans cette scène ? 
 
-Les Fausses Confidences, pièce de  . Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. 
+Les Fausses Confidences, pièce de théâtre écrite par Marivaux en  . Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjQ2MTI0OCwtNDg1ODIzNjIwLC0xNT
-c2MTc2MTksMTQ1MjI5NTczNF19
+eyJoaXN0b3J5IjpbODQyMDU0NDg1LC00ODU4MjM2MjAsLTE1Nz
+YxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
