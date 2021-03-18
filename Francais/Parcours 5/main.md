@@ -46,7 +46,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Les penseurs revendiquent la liberté de créer et de penser
 	* Marivaux s'inscrit dans cette optique et créé des pièces de théâtre novatrices
 	* Marivaux propose un théâtre qui ne fait plus rire, mais qui fait sourire (la tragédie = immorale, comédie = grotesque et vulgaire)
-	* Des personnages propices au Marivaudage
+	* Des personnages propices au Marivaudage (Tenir, échanger des propos d'une galanterie délicate et recherchée.)
 7. Le théâtre romantique (19ᵉ)
 	* Découle du drame bourgeois de Diderot
 	* drame = tout acte scénique
@@ -88,7 +88,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 			* Montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences, à l'infini.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzE3NjI1MCwxNTIyMjU5MjIzLDE4Mj
+eyJoaXN0b3J5IjpbMTg1NTk2OTk1NCwxNTIyMjU5MjIzLDE4Mj
 YyMzI1NjcsMjEwMjEyOTU2NCwxMzk0MTU2MjE2LC0xMTY3NzE0
 MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4MDAsLT
 QxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX0=
