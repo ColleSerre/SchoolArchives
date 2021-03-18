@@ -13,10 +13,8 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 ## Séance 5: Explication Linéaire Acte I Scène 2
 
-Quels z
-
-
+Comment l'anxiété et l'amour de Dubois inverse les rôles socialements acquis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDU0OTIxNCwtMTU3NjE3NjE5LDE0NT
-IyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbLTIwNDE4MzQwMTQsLTE1NzYxNzYxOSwxND
+UyMjk1NzM0XX0=
 -->
