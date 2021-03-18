@@ -44,8 +44,9 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 6. Le théâtre des Lumières (18ᵉ)
 	* **Les fausses confidences**
 	* Les penseurs revendiquent la liberté de créer et de penser
-	* Marivaux s'inscrit dans cette optique et créé des pièces de théâtre 
-
+	* Marivaux s'inscrit dans cette optique et créé des pièces de théâtre novatrices
+	* Marivaux propose un théâtre qui ne fait plus rire, mais qui fait sourire (la tragédie = immorale, comédie = grotesque et vulgaire)
+	* Des personnages propices au Marivaudage
 7. Le théâtre romantique (19ᵉ)
 	* Découle du drame bourgeois de Diderot
 	* drame = tout acte scénique
@@ -87,8 +88,8 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 			* Montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences, à l'infini.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NjIwMjg2LDE1MjIyNTkyMjMsMTgyNj
-IzMjU2NywyMTAyMTI5NTY0LDEzOTQxNTYyMTYsLTExNjc3MTQy
-ODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgwMCwtND
-EyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ==
+eyJoaXN0b3J5IjpbMTIxMzE3NjI1MCwxNTIyMjU5MjIzLDE4Mj
+YyMzI1NjcsMjEwMjEyOTU2NCwxMzk0MTU2MjE2LC0xMTY3NzE0
+MjgxLDExMDQ5ODI3MzksMjA5ODgzOTIxNyw5MTgxMzA4MDAsLT
+QxMjU5OTcxOCwxNTUxNDQ4NzUzLC0xODc0MTE4MDA2XX0=
 -->
