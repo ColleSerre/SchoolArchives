@@ -20,9 +20,11 @@ Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante 
 
 Grands mouvements :
 
-1. 
+1. Dorante est un maître reconnaissant (1 à 10)
+2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NT
-gyMzYyMCwtMTU3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbNTM5ODM0NjU4LDI5ODQ1MjM2OCwtODI5MD
+cwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0
+XX0=
 -->
