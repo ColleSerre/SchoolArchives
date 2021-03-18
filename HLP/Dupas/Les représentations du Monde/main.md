@@ -69,11 +69,11 @@ Correction:
 	* Faire preuve, pour et par soi, de raison, de réflexion, de sagesse avant d'agir de façon pulsionnaire
 	* Développer l'empathie, la compassion pour voir autrement l'autre (que l'on jugerait monstrueux)
 
-Étymologiquement, le mot "monstre" est signe
+Étymologiquement, le mot "monstre" est signe de mauvaise augure, provenant du latin *monstrare* signifiant 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDE1ODE0MiwxMTMzOTA3MTc5LDY5OD
-QyODIzMSwxOTAzNTYwMzExLC0xNjk3NTAzNDkwLC00Mjg1MTg3
-MTAsMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1MjkxMzUyLC
-0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NSwtOTI3
-MjcyNjM0XX0=
+eyJoaXN0b3J5IjpbNTEwMTczMTM0LDExMzM5MDcxNzksNjk4ND
+I4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcx
+MCwxNzIxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLT
+E2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOTg4OTQ4NTg1LC05Mjcy
+NzI2MzRdfQ==
 -->
