@@ -21,10 +21,10 @@ Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante 
 Grands mouvements :
 
 1. Dorante est un maître reconnaissant (1 à 10)
-2. 
+2. Dubois, un valet en réalité maître de la situation (10 à fin)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5ODM0NjU4LDI5ODQ1MjM2OCwtODI5MD
-cwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0
-XX0=
+eyJoaXN0b3J5IjpbLTEwMzcwOTM1NCwyOTg0NTIzNjgsLTgyOT
+A3MDAwNiwtNDg1ODIzNjIwLC0xNTc2MTc2MTksMTQ1MjI5NTcz
+NF19
 -->
