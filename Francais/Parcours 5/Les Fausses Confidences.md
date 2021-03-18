@@ -15,8 +15,8 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 Comment l'anxiété et l'amour de Dubois inversent les rôles socialement acquis dans cette scène ? 
 
-
+Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème et expose la pièce. Cette scène est remarquable, car  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTQyMTMyNiwtNDg1ODIzNjIwLC0xNT
-c2MTc2MTksMTQ1MjI5NTczNF19
+eyJoaXN0b3J5IjpbNTE0NjcxNjYwLC00ODU4MjM2MjAsLTE1Nz
+YxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
