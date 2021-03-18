@@ -69,11 +69,11 @@ Correction:
 	* Faire preuve, pour et par soi, de raison, de réflexion, de sagesse avant d'agir de façon pulsionnaire
 	* Développer l'empathie, la compassion pour voir autrement l'autre (que l'on jugerait monstrueux)
 
-Étymologiquement, le mot "monstre" est signe de mauvaise augure, provenant du latin *monstrare* signifiant "montrer" et de *monstrum* rattaché à "avertir". Cette étymologie nous vient d'un temps durant lequel la naissance d'un enfant "monstrueux" était interprété comme un mauvais présage, un message funeste des dieux. Montaigne traitera de cette croyance dans l'un de ses *Essais*, plus précisément dans *Au sujet d'un enfant monstrueux*. Il choisira de relativiser la monstruosité de l'enfant en affirmant que " Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte." et que par extension la nature monstrueuse de l'enfant n'est que par apparences et préjugés. Cette idée d'un monstre qui possèderait une réelle humanité sous un physique désavantageux fût reprise plus tard par la romancière Mary Shelley dans son œuvre la plus célèbre : *Frankenstein ou le Prométhée moderne*. Shelley écrit l'histoire d'un monstre créé par le Docteur Frankenstein, avide de percer le secret de la création. Or, les réelles propriétés monstrueuses du monstre du Docteur Frankenstein
+Étymologiquement, le mot "monstre" est signe de mauvaise augure, provenant du latin *monstrare* signifiant "montrer" et de *monstrum* rattaché à "avertir". Cette étymologie nous vient d'un temps durant lequel la naissance d'un enfant "monstrueux" était interprété comme un mauvais présage, un message funeste des dieux. Montaigne traitera de cette croyance dans l'un de ses *Essais*, plus précisément dans *Au sujet d'un enfant monstrueux*. Il choisira de relativiser la monstruosité de l'enfant en affirmant que " Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte." et que par extension la nature monstrueuse de l'enfant n'est que par apparences et préjugés. Cette idée d'un monstre qui possèderait une réelle humanité sous un physique désavantageux fût reprise plus tard par la romancière Mary Shelley dans son œuvre la plus célèbre : *Frankenstein ou le Prométhée moderne*. Shelley écrit l'histoire d'un monstre créé par le Docteur Frankenstein, avide de percer le secret de la création. Ce monstre qui n'a jamais demandé à l'être se révéla étonnamment humain quand il demanda au Docteur de lui créer une compagne à son image afin de vivre paisiblement. Le Docteur, encore trop effrayé de sa création, refusa en plein milieu de l'expérience, tuant la future femme de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYxMzIzNjEsMTEzMzkwNzE3OSw2OT
-g0MjgyMzEsMTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4
-NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4NTksMTA5NTI5MTM1Mi
-wtMTY2NDMyMzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTky
-NzI3MjYzNF19
+eyJoaXN0b3J5IjpbMTgwODI3OTkxOSwxMTMzOTA3MTc5LDY5OD
+QyODIzMSwxOTAzNTYwMzExLC0xNjk3NTAzNDkwLC00Mjg1MTg3
+MTAsMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1MjkxMzUyLC
+0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NSwtOTI3
+MjcyNjM0XX0=
 -->
