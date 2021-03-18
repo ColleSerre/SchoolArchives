@@ -42,6 +42,10 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Unité de lieu, d'action et de temps
 	* Qu'en un lieu, qu'en un jour, un seul fait accompli tienne jusqu'à la fin, le théâtre remplis.
 6. Le théâtre des Lumières (18ᵉ)
+	* **Les fausses confidences**
+	* Les penseurs revendiquent la liberté de créer et de penser
+	* Marivaux s'inscrit dans cette optique et créé des pièces de théâtre 
+
 7. Le théâtre romantique (19ᵉ)
 	* Découle du drame bourgeois de Diderot
 	* drame = tout acte scénique
@@ -83,7 +87,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 			* Montre aux spectateurs un miroir déformant où chaque réalité se révèle être une illusion qui n'est qu'apparences, à l'infini.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwODUxMDc3LDE1MjIyNTkyMjMsMTgyNj
+eyJoaXN0b3J5IjpbOTA5NjIwMjg2LDE1MjIyNTkyMjMsMTgyNj
 IzMjU2NywyMTAyMTI5NTY0LDEzOTQxNTYyMTYsLTExNjc3MTQy
 ODEsMTEwNDk4MjczOSwyMDk4ODM5MjE3LDkxODEzMDgwMCwtND
 EyNTk5NzE4LDE1NTE0NDg3NTMsLTE4NzQxMTgwMDZdfQ==
