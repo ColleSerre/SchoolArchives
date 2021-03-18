@@ -15,9 +15,14 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 Comment l'anxiété et l'amour de Dubois inversent les rôles socialement acquis dans cette scène ? 
 
-Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un parcequ
+Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un parceque
 Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. 
+
+Grands mouvements :
+
+1. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTA3MDAwNiwtNDg1ODIzNjIwLC0xNT
-c2MTc2MTksMTQ1MjI5NTczNF19
+eyJoaXN0b3J5IjpbMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NT
+gyMzYyMCwtMTU3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
 -->
