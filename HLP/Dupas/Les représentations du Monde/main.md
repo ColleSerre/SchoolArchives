@@ -69,11 +69,11 @@ Correction:
 	* Faire preuve, pour et par soi, de raison, de réflexion, de sagesse avant d'agir de façon pulsionnaire
 	* Développer l'empathie, la compassion pour voir autrement l'autre (que l'on jugerait monstrueux)
 
-Étymologiquement, le mot "monstre" est signe de mauvaise augure, provenant du latin *monstrare* signifiant "montrer" et de *monstrum* rattaché à "avertir". Cette étymologie nous vient d'un temps durant lequel la naissance d'un enfant "monstrueux" était interprété comme un mauvais présage 
+Étymologiquement, le mot "monstre" est signe de mauvaise augure, provenant du latin *monstrare* signifiant "montrer" et de *monstrum* rattaché à "avertir". Cette étymologie nous vient d'un temps durant lequel la naissance d'un enfant "monstrueux" était interprété comme un mauvais présage, un message funeste des dieux. Montaigne traitera de cette croyance dans l'un de ses *Essais*, plus précisément dans *Au sujet d'un enfant monstrueux*. Il choisira de relativi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDMzMTEyLDExMzM5MDcxNzksNjk4ND
-I4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcx
-MCwxNzIxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLT
-E2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOTg4OTQ4NTg1LC05Mjcy
-NzI2MzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTQ0ODEwMDEsMTEzMzkwNzE3OSw2OT
+g0MjgyMzEsMTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4
+NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4NTksMTA5NTI5MTM1Mi
+wtMTY2NDMyMzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTky
+NzI3MjYzNF19
 -->
