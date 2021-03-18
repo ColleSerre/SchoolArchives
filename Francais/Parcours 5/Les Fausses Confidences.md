@@ -13,10 +13,10 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 ## Séance 5: Explication Linéaire Acte I Scène 2
 
-Quels différences y a-t-il entre le traitement de 
+Quels z
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDExNzM4LC0xNTc2MTc2MTksMTQ1Mj
-I5NTczNF19
+eyJoaXN0b3J5IjpbMTQwMDU0OTIxNCwtMTU3NjE3NjE5LDE0NT
+IyOTU3MzRdfQ==
 -->
