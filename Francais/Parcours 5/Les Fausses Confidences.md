@@ -13,7 +13,7 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 ## [Séance 5: Explication Linéaire Acte I Scène 2](https://docs.google.com/document/d/158FD9wg_6SVYCi-EtQEA_SaO5k2QJr9zhIkY9n8hWn0/edit)
 
-Comment l'ingéniosité de Dubois emploie-t-elle l'amour, l'anxiété et la candeur de Dorante pour devenir maître du jeu ? 
+Comment Dubois emploie-t-il l'amour, l'anxiété et la candeur de Dorante pour devenir maître du jeu ? 
 ou 
 En quoi cette scène renouvelle-t-elle les rapports maître-valet ?
 
@@ -26,7 +26,7 @@ Grands mouvements :
 2. Dubois, un valet en réalité maître de la situation (10 à fin)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI3MDExNTQsMjk4NDUyMzY4LC04Mj
-kwNzAwMDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NTIyOTU3
-MzRdfQ==
+eyJoaXN0b3J5IjpbNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MD
+cwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0
+XX0=
 -->
