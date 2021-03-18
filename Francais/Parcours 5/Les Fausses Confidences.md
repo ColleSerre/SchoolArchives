@@ -13,7 +13,9 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 ## [Séance 5: Explication Linéaire Acte I Scène 2](https://docs.google.com/document/d/158FD9wg_6SVYCi-EtQEA_SaO5k2QJr9zhIkY9n8hWn0/edit)
 
-Comment l'ingéniosité de Dubois emploie-t-elle l'amour, l'anxiété et la candeur de Dorante pour devenir maître du jeu ?
+Comment l'ingéniosité de Dubois emploie-t-elle l'amour, l'anxiété et la candeur de Dorante pour devenir maître du jeu ? 
+ou 
+En quoi cette scène renouvelle-t-elle les rapports maître-valet ?
 
 Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un parceque
 Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. 
@@ -24,7 +26,7 @@ Grands mouvements :
 2. Dubois, un valet en réalité maître de la situation (10 à fin)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI5NDg0MTYsMjk4NDUyMzY4LC04Mj
+eyJoaXN0b3J5IjpbLTE4NTI3MDExNTQsMjk4NDUyMzY4LC04Mj
 kwNzAwMDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NTIyOTU3
 MzRdfQ==
 -->
