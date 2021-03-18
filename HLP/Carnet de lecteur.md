@@ -309,7 +309,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
 * Le temps avale ses enfants - Tiré du mythe de Kronos qui avala ses enfants
 * Les révolutions sont la locomotive de l'histoire - Karl Marx 
-* Il se peut que les révolutions soient l'acte par lequel l'humanité qui voyage dans le train tire les freins d'urgencs
+* Il se peut que les révolutions soient l'acte par lequel l'humanité qui voyage dans le train tire les freins d'urgence - Walter Benjamin *Thèses sur le concept d'histoire* en reprenant Marx
 
 ## Éloge
 
@@ -344,7 +344,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMxMTQ2MSwxNzcxODAzNTA3LC0xMT
+eyJoaXN0b3J5IjpbLTI5Mjk1NTAwMywxNzcxODAzNTA3LC0xMT
 IxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyODIsLTEwMDUw
 MTEwMzAsLTE5NzcxNDU0MzUsLTE4Njg4MDczMSwxMzA4NzQxNz
 MxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQsMTc5NjMyMjQsNDky
