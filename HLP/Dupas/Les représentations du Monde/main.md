@@ -69,9 +69,9 @@ Correction:
 	* Faire preuve, pour et par soi, de raison, de réflexion, de sagesse avant d'agir de façon pulsionnaire
 	* Développer l'empathie, la compassion pour voir autrement l'autre (que l'on jugerait monstrueux)
 
-Le roman *Frankenstein ou le Prométhée moderne* de *Mary Shelley* décrit un archétype du monstre: celui qui est le fruit des agissements d'autrui. C'est ce même monstre qu'évoquera 
+Étymologiquement, le mot "monstre" est signe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTkzMTM1MywxMTMzOTA3MTc5LDY5OD
+eyJoaXN0b3J5IjpbMTQxNDE1ODE0MiwxMTMzOTA3MTc5LDY5OD
 QyODIzMSwxOTAzNTYwMzExLC0xNjk3NTAzNDkwLC00Mjg1MTg3
 MTAsMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1MjkxMzUyLC
 0xNjY0MzIzNTAyLDEwNDM2NDU3NTgsLTk4ODk0ODU4NSwtOTI3
