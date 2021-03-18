@@ -1,7 +1,7 @@
-# Oral - Daren Palmer
+# Orale - Daren Palmer
 
-Hallo, Ich heiße Daren Palmer. Ich bin in der elften Klasse am Gymnasium Jeannine Manuel. Ich wohne in Marcq en Baroeul seit neun Jahren. Ich mag mein Haus, weil es mir erlaubt, ein Zimmer zu haben, das groß genug für mich ist. Außerdem programmiere ich in meinem Zimmer gerne und erstelle Projekte wie Websites oder Applikation. 
+Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Toujours vis à Marcq en Baroeul depuis neuf ans. J'aime ma maison car elle me permet d'avoir une pièce assez grande pour moi. Je suis également programmeur dans la ma chambre et créer des projets tels que des sites web ou des applications.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzAzMjI1MywtMTY1MzM0NTc4MywtOD
-Y4NjY3NTQzLC0yMTE2NDIxNTc2XX0=
+eyJoaXN0b3J5IjpbLTE0ODc1ODM5ODcsMTU3NzAzMjI1MywtMT
+Y1MzM0NTc4MywtODY4NjY3NTQzLC0yMTE2NDIxNTc2XX0=
 -->
