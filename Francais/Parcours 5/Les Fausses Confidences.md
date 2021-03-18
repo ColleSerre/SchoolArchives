@@ -9,14 +9,14 @@ Le rôle de confidente. L'adjectif fausses implique une falsification d'un rôle
 
 ## Scène I & II
 
-La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dans cette scène, car il connaît le secret de Dorante.
+La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dans cette scène, car il connaît le secret de Dorante. Dorante est diminué par son anxiété. 
 
 ## Séance 5: Explication Linéaire Acte I Scène 2
 
-Quels différences y a t-il
+Quels différences y a-t-il entre le traitement de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTYxNzQ2OSwtMTU3NjE3NjE5LDE0NT
-IyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbLTkxMDExNzM4LC0xNTc2MTc2MTksMTQ1Mj
+I5NTczNF19
 -->
