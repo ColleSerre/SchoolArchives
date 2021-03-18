@@ -17,7 +17,7 @@ Comment Dubois emploie-t-il l'amour, l'anxiété et la candeur de Dorante pour d
 ou  
 En quoi cette scène renouvelle-t-elle les rapports maître-valet ?
 
-Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un parcq
+Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral  l'autre car 
 Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. 
 
 Grands mouvements :
@@ -26,7 +26,7 @@ Grands mouvements :
 2. Dubois, un valet en réalité maître de la situation (10 à fin)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA3MDU2MzIsLTE1NjExNzAyODksNj
+eyJoaXN0b3J5IjpbLTE1MDQzOTA4NTAsLTE1NjExNzAyODksNj
 A0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00ODU4MjM2
 MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
