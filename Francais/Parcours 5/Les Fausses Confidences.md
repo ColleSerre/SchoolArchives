@@ -116,12 +116,12 @@ Plan d'Analyse Linéaire:
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
+		* La négation dans 
 		* Il n'est pas de reconnaissance que je ne te doive
-		* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTczNTA1NCwtMTAxODAzMjcyMiwyMD
-M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
-NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
-U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQ0MTIwOTYsLTEwMTgwMzI3MjIsMj
+AzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAyODksNjA0NTgx
+OTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLT
+E1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
