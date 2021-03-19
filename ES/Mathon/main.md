@@ -270,9 +270,11 @@ Activité 1 page 186 :
 
 1. On coupe 6 cordes pour qu'elle soit chacune les deux tiers de la corde suivante.
 2. 
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0ODUzODMyLDE2NjUxMDE1OTAsMTcwNT
-c5MjM3MCwtMTAxODkyNjE1NSwyOTEwMTQ3MjAsLTE1Njg5NTIw
-MzYsMTM2MDA1NTc1MCwxMzYwMDU1NzUwLDEyNzY0NjQxNTcsNz
-gzMzM1MjQwLC0xNzMyNjEyNTg1LC0xODAxODA1MjQ5XX0=
+eyJoaXN0b3J5IjpbLTE0NzkwMjk4NjMsNTY0ODUzODMyLDE2Nj
+UxMDE1OTAsMTcwNTc5MjM3MCwtMTAxODkyNjE1NSwyOTEwMTQ3
+MjAsLTE1Njg5NTIwMzYsMTM2MDA1NTc1MCwxMzYwMDU1NzUwLD
+EyNzY0NjQxNTcsNzgzMzM1MjQwLC0xNzMyNjEyNTg1LC0xODAx
+ODA1MjQ5XX0=
 -->
