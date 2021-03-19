@@ -112,8 +112,10 @@ Grands mouvements :
 
 Plan d'Analyse Linéaire:
 
+1. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODE5MjMzNiwyMDM3OTQzODkyLDMzNz
+eyJoaXN0b3J5IjpbLTkwODc4ODY3MSwyMDM3OTQzODkyLDMzNz
 A3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5NjEsMjk4NDUyMzY4
 LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NT
 IyOTU3MzRdfQ==
