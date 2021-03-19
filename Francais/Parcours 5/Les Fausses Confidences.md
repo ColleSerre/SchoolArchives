@@ -117,7 +117,7 @@ Plan d'Analyse Linéaire:
 		* On voit que Dubois sera dominant, car la construction de sa phrase est en tous points différente à celle qui introduit la pièce (celle d'Arlequin qui demande la bonté de Dorante pour simplement s'asseoir). 
 		* Dubois prend une liberté en s'assurant que Dorante n'ai pas dérogé à ses instructions (inversant donc les rôles) - *n'avez rien dit*
 		* *Notre*, déterminant possessif qui montre la relation proche des deux hommes et leur participation égale à la confidence.
-		* Votre parent, montre l'importan
+		* Votre parent, montre l'importance du stratagème (il en va à le cacher à sa propre famille)
 	* Pas le moindre mot, phrase nominale qui donne une réponse ferme et radicale
 	* *Il ne sait rien du tout* Monsieur Rémy est présenté comme étant un pion et renforce le lien de confiance entre les deux personnages
 	* Que je me rendisse: montre que le stratagème est omniprésent et qu'il dirigera la pièce (subjonctif imparfait). Le temps montre que Dubois manie très bien le français et est surement un bon orateur et donc bon manipulateur et stratège. 
@@ -130,7 +130,7 @@ Plan d'Analyse Linéaire:
 		* Il n'est pas de reconnaissance que je ne te doive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzExMDc5MCwtMTAxODAzMjcyMiwyMD
+eyJoaXN0b3J5IjpbLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMD
 M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
 NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
 U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
