@@ -119,8 +119,9 @@ Plan d'Analyse Linéaire:
 		* *Notre*, déterminant possessif qui montre la relation proche des deux hommes et leur participation égale à la confidence.
 	* Pas le moindre mot, phrase nominale qui donne une réponse ferme et radicale
 	* *Il ne sait rien du tout* Monsieur Rémy est présenté comme étant un pion et renforce le lien de confiance entre les deux personnages
-	* Que je me rendisse: montre que le stratagème est omniprésent et qu'il dirigera la pièce (sub
+	* Que je me rendisse: montre que le stratagème est omniprésent et qu'il dirigera la pièce (subjonctif imparfait)
 	* Le conditionnel présent, quand il est dans une proposition subordonnée (qu'il me présenterait, qu'il y serait), quand la principale est au passé, le conditionnel est à valeur d'un de futur dans le passé.  
+	* Le stratagème est exposé dans une série de subordonnées complétives et qui annoncent une rencontre avec une personne de niveau social élevé. Cela donne l'impression que la personne à atteindre (Araminte) est inaccessible, que la tâche sera dur
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
@@ -128,8 +129,8 @@ Plan d'Analyse Linéaire:
 		* Il n'est pas de reconnaissance que je ne te doive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTIxNjMyNCwtMTAxODAzMjcyMiwyMD
-M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
-NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
-U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbNjM3NTgxNDkzLC0xMDE4MDMyNzIyLDIwMz
+c5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LDYwNDU4MTk2
+MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIzNjIwLC0xNT
+c2MTc2MTksMTQ1MjI5NTczNF19
 -->
