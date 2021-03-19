@@ -129,11 +129,11 @@ Plan d'Analyse Linéaire:
 		* Une série d'accumulations négatives exposent la situation entre lui et Dubois, elle exprime la reconnaissance de Dorante et qu'il est en sa dette (*que je ne te doive*). Cela montre que Dorante est précaire financièrement.
 
 2. Dubois, un valet encourageant
-	* L'impératif *Laissons cela* montre le retournement de situation, car c'est Dubois qui clos la conversation. Le respect subsiste néanmoins *monsieur*. Or, il ne se moque pas de son maître contrairement à Scapin par exemple. 
+	* L'impératif *Laissons cela* montre le retournement de situation, car c'est Dubois qui clos la conversation. Le respect subsiste néanmoins *monsieur*. Or, il ne se moque pas de son maître contrairement à Scapin par exemple, on le sait par la suite de la pièce et par l'abscence d'un aparté.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzMyNjk5OSwtNTQ5NDIzNDYwLC0xMD
-E4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcw
-Mjg5LDYwNDU4MTk2MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtND
-g1ODIzNjIwLC0xNTc2MTc2MTksMTQ1MjI5NTczNF19
+eyJoaXN0b3J5IjpbOTE1NDczMjczLC01NDk0MjM0NjAsLTEwMT
+gwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAy
+ODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00OD
+U4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
