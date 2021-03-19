@@ -115,13 +115,13 @@ Plan d'Analyse Linéaire:
 1. Dorante est un maître reconnaissant
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
-	* Un éloge de Dubois démesuré
+	* Dorante ne mérite pas Dubois
 		* Il n'est pas de reconnaissance que je ne te doive
 		* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMz
-cwNzEwMDgsLTE1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2
-OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxND
-UyMjk1NzM0XX0=
+eyJoaXN0b3J5IjpbMjAwNTczNTA1NCwtMTAxODAzMjcyMiwyMD
+M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
+NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
+U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
 -->
