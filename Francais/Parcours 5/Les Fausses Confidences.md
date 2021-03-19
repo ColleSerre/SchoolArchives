@@ -130,10 +130,10 @@ Plan d'Analyse Linéaire:
 
 2. Dubois, un valet encourageant
 	* L'impératif *Laissons cela* montre le retournement de situation, car c'est Dubois qui clos la conversation. Le respect subsiste néanmoins *monsieur*. Or, il ne se moque pas de son maître contrairement à Scapin par exemple, on le sait par la suite de la pièce et par l'absence d'un aparté et le mot *à votre service* qui montre l'amitié des deux hommes. Le mot hyperbolique *excellent homme*. Encore plus loin dans l'inversion des rôles, car le valet propose de donner de l'argent qu'il n'a pas à son maître.
-	* L'
+	* L'impuissance de Dorante qui n'a plus qu'à suivre les projets de Dubois, *Quand pourrai-je reconnaître tes sentiments pour moi ?*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjc3NzU1OSwtNTQ5NDIzNDYwLC0xMD
+eyJoaXN0b3J5IjpbMTI0NjgzNjA4NCwtNTQ5NDIzNDYwLC0xMD
 E4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcw
 Mjg5LDYwNDU4MTk2MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtND
 g1ODIzNjIwLC0xNTc2MTc2MTksMTQ1MjI5NTczNF19
