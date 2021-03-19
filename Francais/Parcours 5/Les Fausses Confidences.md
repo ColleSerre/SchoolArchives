@@ -121,14 +121,15 @@ Plan d'Analyse Linéaire:
 	* *Il ne sait rien du tout* Monsieur Rémy est présenté comme étant un pion et renforce le lien de confiance entre les deux personnages
 	* Que je me rendisse: montre que le stratagème est omniprésent et qu'il dirigera la pièce
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
+	* Le conditionnel présent, quand il est dans une proposition subordonnée (qu'il me présenterait, qu'il y serait), quand la principale est au p 
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
 		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant le thème de l'argent) coupables d'avoir renvoyé Dubois. Dorante se diminue lui-même.
 		* Il n'est pas de reconnaissance que je ne te doive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjA0NDkxLC0xMDE4MDMyNzIyLDIwMz
-c5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LDYwNDU4MTk2
-MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIzNjIwLC0xNT
-c2MTc2MTksMTQ1MjI5NTczNF19
+eyJoaXN0b3J5IjpbLTEyMjQxOTYxODQsLTEwMTgwMzI3MjIsMj
+AzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAyODksNjA0NTgx
+OTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLT
+E1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
