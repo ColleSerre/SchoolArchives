@@ -266,12 +266,12 @@ $(log(A)+log(B))^{10} = 10^{log(a)} \cdot 10^{log(B)} = A \cdot B$
 $log(10^{log(A)+log(B)}) = log(A \cdot B)$
 $log(A) + log(B) = log(A\cdot B)$
 
-Activité 1 page 186:
+Activité 1 page 186 :
 
-1.
+1. On coupe 5 cordes e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzODY0NjkzLDE3MDU3OTIzNzAsLTEwMT
-g5MjYxNTUsMjkxMDE0NzIwLC0xNTY4OTUyMDM2LDEzNjAwNTU3
-NTAsMTM2MDA1NTc1MCwxMjc2NDY0MTU3LDc4MzMzNTI0MCwtMT
-czMjYxMjU4NSwtMTgwMTgwNTI0OV19
+eyJoaXN0b3J5IjpbLTczOTExMzk3NCwxNzA1NzkyMzcwLC0xMD
+E4OTI2MTU1LDI5MTAxNDcyMCwtMTU2ODk1MjAzNiwxMzYwMDU1
+NzUwLDEzNjAwNTU3NTAsMTI3NjQ2NDE1Nyw3ODMzMzUyNDAsLT
+E3MzI2MTI1ODUsLTE4MDE4MDUyNDldfQ==
 -->
