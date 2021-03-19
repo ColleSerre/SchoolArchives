@@ -112,11 +112,12 @@ Grands mouvements :
 
 Plan d'Analyse Linéaire:
 
-1. 
+1. Dorante est un maître reconnaissant
+	* L'argent, un symbole fort (il ne lui en reste
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODc4ODY3MSwyMDM3OTQzODkyLDMzNz
-A3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5NjEsMjk4NDUyMzY4
-LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NT
-IyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbLTExODY0NTY5MTEsMjAzNzk0Mzg5MiwzMz
+cwNzEwMDgsLTE1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2
+OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxND
+UyMjk1NzM0XX0=
 -->
