@@ -113,14 +113,17 @@ Grands mouvements :
 Plan d'Analyse Linéaire:
 
 1. Dorante est un maître reconnaissant
+	* Vous n'avez rien dit de notre projet à Monsieur Remy
+		* Dubois prend une liberté en s'assurant que Dorante n'ai pas dérogé à ses 
+		* Pas le moindre mot, phrase nolinale qui 
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
-		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant le thème de l'argent) coupables de 
+		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant le thème de l'argent) coupables d'avoir renvoyé Dubois. Dorante se diminue lui même.
 		* Il n'est pas de reconnaissance que je ne te doive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzAwNjU2OTYsLTEwMTgwMzI3MjIsMj
+eyJoaXN0b3J5IjpbLTE4NDg2OTc1ODAsLTEwMTgwMzI3MjIsMj
 AzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAyODksNjA0NTgx
 OTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLT
 E1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
