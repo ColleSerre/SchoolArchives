@@ -110,8 +110,11 @@ Grands mouvements :
 1. Dorante est un maître reconnaissant (1 à 10)
 2. Dubois, un valet en réalité maître de la situation (10 à fin)
 
+Plan d'Analyse Linéaire:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1Nj
-ExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2
-LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
+eyJoaXN0b3J5IjpbMTY2ODE5MjMzNiwyMDM3OTQzODkyLDMzNz
+A3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5NjEsMjk4NDUyMzY4
+LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NT
+IyOTU3MzRdfQ==
 -->
