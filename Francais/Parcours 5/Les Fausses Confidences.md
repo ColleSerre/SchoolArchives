@@ -116,11 +116,11 @@ Plan d'Analyse Linéaire:
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
-		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant la )
+		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant le thème de l'argent) coupables de 
 		* Il n'est pas de reconnaissance que je ne te doive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYzMzI1OTIsLTEwMTgwMzI3MjIsMj
+eyJoaXN0b3J5IjpbLTEwMzAwNjU2OTYsLTEwMTgwMzI3MjIsMj
 AzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAyODksNjA0NTgx
 OTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLT
 E1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
