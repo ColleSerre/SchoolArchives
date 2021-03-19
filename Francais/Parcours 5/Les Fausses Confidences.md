@@ -114,20 +114,20 @@ Plan d'Analyse Linéaire:
 
 1. Dorante est un maître reconnaissant
 	* Vous n'avez rien dit de notre projet à Monsieur Remy
-		* On voit que Dubois sera dominant car la construction de sa phrase est en tous poin
+		* On voit que Dubois sera dominant, car la construction de sa phrase est en tous points différente à celle qui introduit la pièce (celle d'Arlequin qui demande la bonté de Dorante pour simplement s'asseoir). 
 		* Dubois prend une liberté en s'assurant que Dorante n'ai pas dérogé à ses instructions (inversant donc les rôles) - *n'avez rien dit*
 		* *Notre*, déterminant possessif qui montre la relation proche des deux hommes et leur participation égale à la confidence.
 		* Pas le moindre mot, phrase nominale qui donne une réponse ferme et radicale
-		* Le lien de subordination
+		* Monsieur Rémy est présenté comme étant un po
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
-		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant le thème de l'argent) coupables d'avoir renvoyé Dubois. Dorante se diminue lui même.
+		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant le thème de l'argent) coupables d'avoir renvoyé Dubois. Dorante se diminue lui-même.
 		* Il n'est pas de reconnaissance que je ne te doive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjgwODY5NSwtMTAxODAzMjcyMiwyMD
-M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
-NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
-U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbNzg1MjQ0OTc0LC0xMDE4MDMyNzIyLDIwMz
+c5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LDYwNDU4MTk2
+MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIzNjIwLC0xNT
+c2MTc2MTksMTQ1MjI5NTczNF19
 -->
