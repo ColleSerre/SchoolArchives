@@ -182,10 +182,10 @@ Questions compo:
 4. Une source lumineuse S1 
 
 Que pouvez vous dire sur la fission nucléaire?
-        La fission = désintégration d'un noyau
-        Un noyau se divise
-        Procédé habituel dans les centrales nucléaires
-        Il existe plusieurs types de désintégrations: 
+        La fission = désintégration d'un noyau
+        Un noyau se divise
+        Procédé habituel dans les centrales nucléaires
+        Il existe plusieurs types de désintégrations: 
 
 * Désintégration alpha (éjection d'un noyau d'hélium = particule alpha = ^4 He _2)
   
@@ -201,9 +201,9 @@ Que pouvez vous dire sur la fission nucléaire?
 
 Que pouvez vous dire sur la fusion nucléaire?
 
-        Fusion de deux noyaux qui en forment un seul. Beaucoup plus rare en labo, très         technique... 
-        La fusion a lieu dans les étoiles
-        La chaleur et la gravité sont nécessaires
+        Fusion de deux noyaux qui en forment un seul. Beaucoup plus rare en labo, très         technique... 
+        La fusion a lieu dans les étoiles
+        La chaleur et la gravité sont nécessaires
 
 QCM page 88:
 
@@ -266,11 +266,12 @@ $(log(A)+log(B))^{10} = 10^{log(a)} \cdot 10^{log(B)} = A \cdot B$
 $log(10^{log(A)+log(B)}) = log(A \cdot B)$
 $log(A) + log(B) = log(A\cdot B)$
 
-Activité 3 page 174
+Activité 1 page 186:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg5MjYxNTUsMjkxMDE0NzIwLC0xNT
-Y4OTUyMDM2LDEzNjAwNTU3NTAsMTM2MDA1NTc1MCwxMjc2NDY0
-MTU3LDc4MzMzNTI0MCwtMTczMjYxMjU4NSwtMTgwMTgwNTI0OV
-19
+eyJoaXN0b3J5IjpbMTcwNTc5MjM3MCwtMTAxODkyNjE1NSwyOT
+EwMTQ3MjAsLTE1Njg5NTIwMzYsMTM2MDA1NTc1MCwxMzYwMDU1
+NzUwLDEyNzY0NjQxNTcsNzgzMzM1MjQwLC0xNzMyNjEyNTg1LC
+0xODAxODA1MjQ5XX0=
 -->
