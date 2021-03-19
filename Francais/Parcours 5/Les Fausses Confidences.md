@@ -126,11 +126,13 @@ Plan d'Analyse Linéaire:
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
-		* Une série d'accumulations négatives exposent la situation entre lui et Dubois, elle exprime la reconnaissance de Dorante et qu'il est en sa dette
-		* Il n'est pas de reconnaissance que je ne te doive
+		* Une série d'accumulations négatives exposent la situation entre lui et Dubois, elle exprime la reconnaissance de Dorante et qu'il est en sa dette (*que je ne te doive*). Cela montre que Dorante est précaire financièrement.
+
+2. Dubois, un valet encourageant
+	* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NTMzNjI3LC01NDk0MjM0NjAsLTEwMT
+eyJoaXN0b3J5IjpbODE0MDIwNjM0LC01NDk0MjM0NjAsLTEwMT
 gwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAy
 ODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00OD
 U4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
