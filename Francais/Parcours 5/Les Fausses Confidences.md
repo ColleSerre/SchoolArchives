@@ -119,17 +119,17 @@ Plan d'Analyse Linéaire:
 		* *Notre*, déterminant possessif qui montre la relation proche des deux hommes et leur participation égale à la confidence.
 	* Pas le moindre mot, phrase nominale qui donne une réponse ferme et radicale
 	* *Il ne sait rien du tout* Monsieur Rémy est présenté comme étant un pion et renforce le lien de confiance entre les deux personnages
-	* Que je me rendisse: montre que le stratagème est omniprésent et qu'il dirigera la pièce
+	* Que je me rendisse: montre que le stratagème est omniprésent et qu'il dirigera la pièce (sub
+	* Le conditionnel présent, quand il est dans une proposition subordonnée (qu'il me présenterait, qu'il y serait), quand la principale est au passé, le conditionnel est à valeur d'un de futur dans le passé.  
 	* L'argent, un symbole fort (il ne lui en reste plus beaucoup et il est particulièrement précieux dans sa classe sociale)
-	* Le conditionnel présent, quand il est dans une proposition subordonnée (qu'il me présenterait, qu'il y serait), quand la principale est au p 
 		* Réciprocité du lien: *Si j'avais de l'argent, il serait encore à  votre service* et *Ma fortune serait la tienne*
 	* Dorante ne mérite pas Dubois
 		* La négation liée à la première personne du singulier rend Dorante et la désuétude de sa fortune (reprenant le thème de l'argent) coupables d'avoir renvoyé Dubois. Dorante se diminue lui-même.
 		* Il n'est pas de reconnaissance que je ne te doive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQxOTYxODQsLTEwMTgwMzI3MjIsMj
-AzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAyODksNjA0NTgx
-OTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLT
-E1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
+eyJoaXN0b3J5IjpbMTYyNTIxNjMyNCwtMTAxODAzMjcyMiwyMD
+M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
+NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
+U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
 -->
