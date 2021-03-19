@@ -268,11 +268,11 @@ $log(A) + log(B) = log(A\cdot B)$
 
 Activité 1 page 186 :
 
-1. On coupe 6 cordes pour qu'elle soit chacune les deux tiers de la corde suivante
-2. u
+1. On coupe 6 cordes pour qu'elle soit chacune les deux tiers de la corde suivante.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTM5MTkxMywxNjY1MTAxNTkwLDE3MD
-U3OTIzNzAsLTEwMTg5MjYxNTUsMjkxMDE0NzIwLC0xNTY4OTUy
-MDM2LDEzNjAwNTU3NTAsMTM2MDA1NTc1MCwxMjc2NDY0MTU3LD
-c4MzMzNTI0MCwtMTczMjYxMjU4NSwtMTgwMTgwNTI0OV19
+eyJoaXN0b3J5IjpbNTY0ODUzODMyLDE2NjUxMDE1OTAsMTcwNT
+c5MjM3MCwtMTAxODkyNjE1NSwyOTEwMTQ3MjAsLTE1Njg5NTIw
+MzYsMTM2MDA1NTc1MCwxMzYwMDU1NzUwLDEyNzY0NjQxNTcsNz
+gzMzM1MjQwLC0xNzMyNjEyNTg1LC0xODAxODA1MjQ5XX0=
 -->
