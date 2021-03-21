@@ -183,6 +183,10 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Henry Ford = a reçu la plus haute décoration du IIIème Reich (La Grande Croix de l'Ordre de l'Aigle allemand)
 * Le capitalisme a tendance à détruire les deux choses qui font sa richesse: les êtres humains et la nature - Karl Marx
 
+## Apparences vs Réalité
+
+* Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action i
+
 ## Amour
 
 Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et non une princesse raffinée)
@@ -344,11 +348,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mjk1NTAwMywxNzcxODAzNTA3LC0xMT
-IxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyODIsLTEwMDUw
-MTEwMzAsLTE5NzcxNDU0MzUsLTE4Njg4MDczMSwxMzA4NzQxNz
-MxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQsMTc5NjMyMjQsNDky
-MjYxOTAsLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5Mz
-kxLC0zOTU5MjY0MzMsMTEyMjk0MDY1MiwxMjkyMTgwNzIyLC0x
-MTk5MDUxNjc0XX0=
+eyJoaXN0b3J5IjpbLTE2MzQ4NzUwODcsLTI5Mjk1NTAwMywxNz
+cxODAzNTA3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2
+MDkyODIsLTEwMDUwMTEwMzAsLTE5NzcxNDU0MzUsLTE4Njg4MD
+czMSwxMzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQs
+MTc5NjMyMjQsNDkyMjYxOTAsLTE5MjQyMzI0MDYsOTc5ODQzMD
+k5LC0xMTUyNTQ5MzkxLC0zOTU5MjY0MzMsMTEyMjk0MDY1Miwx
+MjkyMTgwNzIyXX0=
 -->
