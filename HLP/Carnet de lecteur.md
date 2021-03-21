@@ -185,7 +185,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 
 ## Apparences vs Réalité
 
-* Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action i
+* Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action immorale qu'il commetra.
 
 ## Amour
 
@@ -348,7 +348,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ4NzUwODcsLTI5Mjk1NTAwMywxNz
+eyJoaXN0b3J5IjpbLTE3NDIxMTEzNzYsLTI5Mjk1NTAwMywxNz
 cxODAzNTA3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2
 MDkyODIsLTEwMDUwMTEwMzAsLTE5NzcxNDU0MzUsLTE4Njg4MD
 czMSwxMzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQs
