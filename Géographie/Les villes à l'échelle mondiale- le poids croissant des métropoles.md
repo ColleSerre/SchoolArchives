@@ -283,12 +283,14 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Exemple: À Sao Paulo, la favela de Paraìsopolis (100 000 habitants) se trouve près d'un quartier résidentiel, le *Paco dos Reis* (Le Palais des Rois)
 * Exemple: Mumbai
 * Exemple: Nairobi
+* Les métropoles du Nord ne sont pas épargnées par la montée des inégalités socio-spatiales 
+	* Les banlieues des grandes villes co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc4MjgxNzEsMjE0NjczOTc2NSwyNj
-UyOTc2MTQsLTE0OTg5MzY2MjksLTE5MDIzOTMxMjEsMTkzMDQ2
-MTA3OSw5OTQ4MjMzNDQsMTE2MTQwODc5OSwtMjg2NjczNjc2LC
-00NDU4NDcwNjgsLTE1MDc4NjYwMDQsNTQ1NzY5MzYxLDE5NDk2
-MjIwMTcsLTEyMzIzNTQ3MjEsMTE1NDA4MjA5NywtMjMyMjU5Mz
-k5LDU2MjcwNzY4LC0xOTk3MzgzMjg3LDEyNDk0MjA3MzcsLTkw
-MjgyMDg4Ml19
+eyJoaXN0b3J5IjpbMTQ0NTA3MTgyMCwyMTQ2NzM5NzY1LDI2NT
+I5NzYxNCwtMTQ5ODkzNjYyOSwtMTkwMjM5MzEyMSwxOTMwNDYx
+MDc5LDk5NDgyMzM0NCwxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLT
+Q0NTg0NzA2OCwtMTUwNzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYy
+MjAxNywtMTIzMjM1NDcyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOT
+ksNTYyNzA3NjgsLTE5OTczODMyODcsMTI0OTQyMDczNywtOTAy
+ODIwODgyXX0=
 -->
