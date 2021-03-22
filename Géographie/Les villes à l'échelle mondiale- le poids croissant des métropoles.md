@@ -272,13 +272,13 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Cette notion inventée par Joël Garreau dans les années 1990 (cf son ouvrage "Edge City: Life on the New Frontier", 1992)
 * Pour désengorger le Caire, les authorités ont décidé de créer une nouvelle capitale. 
 * Dans les métropoles des pays émergents, les *hubs* aéroportuaires ont contribué au développement d'espaces urbanisés
-* Le concept d'aérotropolis ou *airport driven urban development* désigne une c
+* Le concept d'aérotropolis ou *airport driven urban development* désigne une vaste région urbaine cosmopolite et ouverte sur le monde qui se développe autour d'un grand aéroport. Ces analyses font écho aux pratiques des acteurs de ces pôles, qui multiplient les *sky cities* ou aéropôles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzc2NjkyNSwtMTQ5ODkzNjYyOSwtMT
-kwMjM5MzEyMSwxOTMwNDYxMDc5LDk5NDgyMzM0NCwxMTYxNDA4
-Nzk5LC0yODY2NzM2NzYsLTQ0NTg0NzA2OCwtMTUwNzg2NjAwNC
-w1NDU3NjkzNjEsMTk0OTYyMjAxNywtMTIzMjM1NDcyMSwxMTU0
-MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5OTczODMyOD
-csMTI0OTQyMDczNywtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0x
-NDM0MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbMjY1Mjk3NjE0LC0xNDk4OTM2NjI5LC0xOT
+AyMzkzMTIxLDE5MzA0NjEwNzksOTk0ODIzMzQ0LDExNjE0MDg3
+OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3ODY2MDA0LD
+U0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0NzIxLDExNTQw
+ODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMTk5NzM4MzI4Ny
+wxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLTE1MTc1NDk4NjIsLTE0
+MzQxNzY5MF19
 -->
