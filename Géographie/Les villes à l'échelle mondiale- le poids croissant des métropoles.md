@@ -264,13 +264,13 @@ Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déc
 
 La banlieue pavillionaire et la banlieue constituée de Grands ensembles (HLM ou grands immeubles résidentiels). Les fonctions de ces périphéries sont essentiellement résidentielles et commerciales. Il n'y a pas beaucoup d'entreprises. Exemple de banlieue pavillionnaire: Marcq en Baroeul, exemple de ZUP (zone à urbaniser en priorité): Mons en Baroeul.
 
-Contraire
+Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle: "cookie-cutter houses"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzM2NDQzMSwxOTMwNDYxMDc5LDk5ND
-gyMzM0NCwxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLTQ0NTg0NzA2
-OCwtMTUwNzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYyMjAxNywtMT
-IzMjM1NDcyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3
-NjgsLTE5OTczODMyODcsMTI0OTQyMDczNywtOTAyODIwODgyLC
-0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
+eyJoaXN0b3J5IjpbNjkwODc4NTY1LDE5MzA0NjEwNzksOTk0OD
+IzMzQ0LDExNjE0MDg3OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4
+LC0xNTA3ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMj
+MyMzU0NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2
+OCwtMTk5NzM4MzI4NywxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLT
+E1MTc1NDk4NjIsLTE0MzQxNzY5MF19
 -->
