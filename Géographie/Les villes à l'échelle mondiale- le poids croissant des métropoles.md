@@ -273,12 +273,19 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Pour désengorger le Caire, les authorités ont décidé de créer une nouvelle capitale. 
 * Dans les métropoles des pays émergents, les *hubs* aéroportuaires ont contribué au développement d'espaces urbanisés
 * Le concept d'aérotropolis ou *airport driven urban development* désigne une vaste région urbaine cosmopolite et ouverte sur le monde qui se développe autour d'un grand aéroport. Ces analyses font écho aux pratiques des acteurs de ces pôles, qui multiplient les *sky cities* ou aéropôles.
+
+# III. Richesse et pauvreté
+## 1. La ségrégation socio-spatiale
+
+* Les métropoles sont de plus en plus fragmentées. Les disparités socio-spatiales marquent le territoire urbain.
+* Le terme de ségrégation est donc pertinent pour dési
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1Mjk3NjE0LC0xNDk4OTM2NjI5LC0xOT
-AyMzkzMTIxLDE5MzA0NjEwNzksOTk0ODIzMzQ0LDExNjE0MDg3
-OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3ODY2MDA0LD
-U0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0NzIxLDExNTQw
-ODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMTk5NzM4MzI4Ny
-wxMjQ5NDIwNzM3LC05MDI4MjA4ODIsLTE1MTc1NDk4NjIsLTE0
-MzQxNzY5MF19
+eyJoaXN0b3J5IjpbMTA4NTY0MTY0MiwyNjUyOTc2MTQsLTE0OT
+g5MzY2MjksLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4MjMz
+NDQsMTE2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNjgsLT
+E1MDc4NjYwMDQsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLTEyMzIz
+NTQ3MjEsMTE1NDA4MjA5NywtMjMyMjU5Mzk5LDU2MjcwNzY4LC
+0xOTk3MzgzMjg3LDEyNDk0MjA3MzcsLTkwMjgyMDg4MiwtMTUx
+NzU0OTg2Ml19
 -->
