@@ -264,10 +264,15 @@ Le terme de "shrinking city", traduit par ville rétrécissante ou ville en déc
 
 La banlieue pavillionaire et la banlieue constituée de Grands ensembles (HLM ou grands immeubles résidentiels). Les fonctions de ces périphéries sont essentiellement résidentielles et commerciales. Il n'y a pas beaucoup d'entreprises. Exemple de banlieue pavillionnaire: Marcq en Baroeul, exemple de ZUP (zone à urbaniser en priorité): Mons en Baroeul.
 
-Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle: "cookie-cutter houses"
+Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle: "cookie-cutter houses". 
+
+## 3. De nouveaux pôles urbains en formation
+
+* Dans les métropoles étasuniennes, des "villes-lisières" (Edge-cities: centres périurbains où se concentrent les bureaux et activités divers) ont vu le jour aux périphéries des grandes métropoles
+* Cette notion on
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwODc4NTY1LDE5MzA0NjEwNzksOTk0OD
+eyJoaXN0b3J5IjpbNjk1NjQ2MzY0LDE5MzA0NjEwNzksOTk0OD
 IzMzQ0LDExNjE0MDg3OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4
 LC0xNTA3ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMj
 MyMzU0NzIxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2
