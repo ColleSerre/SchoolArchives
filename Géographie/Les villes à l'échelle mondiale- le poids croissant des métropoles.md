@@ -278,14 +278,15 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 ## 1. La ségrégation socio-spatiale
 
 * Les métropoles sont de plus en plus fragmentées. Les disparités socio-spatiales marquent le territoire urbain.
-* Le terme de ségrégation est donc pertinent pour dési
+* Le terme de ségrégation est donc pertinent pour désigner ce phénomène où les riches ne se "mélangent" pas aux pauvres
+* Si le critère social est le plus répandu, on trouve parfois des ségrégations liées aux croyances religieuses et/ou ethniques notamment dans les pays du Sud. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTY0MTY0MiwyNjUyOTc2MTQsLTE0OT
-g5MzY2MjksLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4MjMz
-NDQsMTE2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNjgsLT
-E1MDc4NjYwMDQsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLTEyMzIz
-NTQ3MjEsMTE1NDA4MjA5NywtMjMyMjU5Mzk5LDU2MjcwNzY4LC
-0xOTk3MzgzMjg3LDEyNDk0MjA3MzcsLTkwMjgyMDg4MiwtMTUx
-NzU0OTg2Ml19
+eyJoaXN0b3J5IjpbNDIzNDU1NTM5LDI2NTI5NzYxNCwtMTQ5OD
+kzNjYyOSwtMTkwMjM5MzEyMSwxOTMwNDYxMDc5LDk5NDgyMzM0
+NCwxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLTQ0NTg0NzA2OCwtMT
+UwNzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYyMjAxNywtMTIzMjM1
+NDcyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLT
+E5OTczODMyODcsMTI0OTQyMDczNywtOTAyODIwODgyLC0xNTE3
+NTQ5ODYyXX0=
 -->
