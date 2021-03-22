@@ -284,9 +284,11 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Exemple: Mumbai
 * Exemple: Nairobi
 * Les métropoles du Nord ne sont pas épargnées par la montée des inégalités socio-spatiales 
-	* Les banlieues des grandes villes co
+	* Les banlieues des grandes villes concentrent les exclus et les petits revenus
+	* Aujourd'hui, 13% des Français vivent dans des quartiers pauvres (soit 8,3 millions de personnes)
+	* Aux États-Unis, c'est au contraire dans les quartiers centraux des grandes villes que l'on trouve les ghettos, espaces défavorisés depuis plusieurs dizaines d'années. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTA3MTgyMCwyMTQ2NzM5NzY1LDI2NT
+eyJoaXN0b3J5IjpbLTExNzI2NTA1NiwyMTQ2NzM5NzY1LDI2NT
 I5NzYxNCwtMTQ5ODkzNjYyOSwtMTkwMjM5MzEyMSwxOTMwNDYx
 MDc5LDk5NDgyMzM0NCwxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLT
 Q0NTg0NzA2OCwtMTUwNzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYy
