@@ -288,14 +288,14 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 	* Aujourd'hui, 13% des Français vivent dans des quartiers pauvres (soit 8,3 millions de personnes)
 	* Aux États-Unis, c'est au contraire dans les quartiers centraux des grandes villes que l'on trouve les ghettos, espaces défavorisés depuis plusieurs dizaines d'années. 
 	* Exemple: Hong Kong (38 000 hab/$km^2$)
-	* Exemple: New-York (Manhattan, Staten Island vs. le Bronx et Brooklyn)
+	* Exemple: New-York (Manhattan, Staten Island, Upper East Side vs. le Bronx et Brooklyn)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU1NTI1MzAsLTEzMTE4NDY2MDIsLT
-ExNzI2NTA1NiwyMTQ2NzM5NzY1LDI2NTI5NzYxNCwtMTQ5ODkz
-NjYyOSwtMTkwMjM5MzEyMSwxOTMwNDYxMDc5LDk5NDgyMzM0NC
-wxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLTQ0NTg0NzA2OCwtMTUw
-Nzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYyMjAxNywtMTIzMjM1ND
-cyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOTksNTYyNzA3NjgsLTE5
-OTczODMyODddfQ==
+eyJoaXN0b3J5IjpbMTI0NzI0NzQ2OCwtMTMxMTg0NjYwMiwtMT
+E3MjY1MDU2LDIxNDY3Mzk3NjUsMjY1Mjk3NjE0LC0xNDk4OTM2
+NjI5LC0xOTAyMzkzMTIxLDE5MzA0NjEwNzksOTk0ODIzMzQ0LD
+ExNjE0MDg3OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3
+ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0Nz
+IxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMTk5
+NzM4MzI4N119
 -->
