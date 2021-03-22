@@ -2,7 +2,7 @@
 
 Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Toujours vis à Marcq en Baroeul depuis neuf ans. J'aime ma maison, car elle me permet d'avoir une pièce assez grande pour moi. Le bénéfice de cette chambre pour faire de la programmation et création d'applications ou les sites Web. En ce moment je travaille sur un réseau-social avec un ami et nous sommes à la recherche d'investisseurs donc si vous avez des amis qui travaillent dans ce secteur vous pouvez nous appeler. Plus tard j'aimerais suivre un cursus double en informatique et en philosophie, car je pense qu'il est important de maîtriser les deux pour être un bon ingénieur et ne pas tomber le piège de l'argent.
 
-Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Toujours vis à Marcq en Baroeul depuis neuf ans. Ma maison est belle car elle me permet d'avoir une pièce assez grande pour moi. Utilisez l'espace pour le programmeur et la création des applications ou des sites Web. Dans le moment où jamais travaille sur un réseau social avec un ami et nous recherche de l'investisseur. Donc, si vous avez des amis qui travaillent dans ce domaine, vous pouvez nous appeler. Plus tard, j'aimerais faire un double diplôme en informatique et en philosophie, car je pense qu'il est important de maîtriser les deux pour être un bon ingénieur et ne pas tomber dans le piège de l'argent. Ainsi, récemment, le couscous a été classé "patrimoine culturel de l'humanité" par l'ONU et je trouve que ma maman le fait très bien donc voici l'histoire du couscous.
+Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Toujours vis à Marcq en Baroeul depuis neuf ans. Ma maison est belle voiture elle me permet d'avoir une pièce assez grande pour moi. Utilisez l'espace pour le programmeur et la création des applications ou des sites Web. Dans le moment où jamais travaille sur un réseau social avec un ami et nous recherche de l'investisseur. Donc, si vous avez des amis qui travaillent dans ce domaine, vous pouvez nous appeler. Plus tard, j'aimerais faire un double diplôme en informatique et en philosophie, car je pense qu'il est important de maîtriser les deux pour être un bon ingénieur et ne pas tomber dans le piège de l'argent. Ainsi, récemment, le couscous a été classé "patrimoine culturel de l'humanité" par l'ONU et j '
 
 Nous ne savons pas exactement d'où vient le couscous ou quand il a été inventé, mais il est très probablement d'origine berbère car des pots remplis de couscous ont été trouvés dans la tombe du roi Massinissa, ce qui signifie que le couscous existe depuis 239 avant JC. existe depuis 239 avant JC.
  
@@ -17,7 +17,7 @@ Même s'il était connu par François Rabelais ou Alexandre Dumas, le couscous n
 
 En conclusion, le couscous est un plat très ancien qui a traversé les guerres. La prochaine fois que vous aurez un couscous, veillez pas que vous mangez un petit morceau d'histoire avec.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MDkxMjg3LDkxMDgxMTM2NCw2Mjk4MT
+eyJoaXN0b3J5IjpbNjQwNjIzMjIyLDkxMDgxMTM2NCw2Mjk4MT
 AxODAsMTc5MjIyMTcxMCwtMTQ4NzU4Mzk4NywxNTc3MDMyMjUz
 LC0xNjUzMzQ1NzgzLC04Njg2Njc1NDMsLTIxMTY0MjE1NzZdfQ
 ==
