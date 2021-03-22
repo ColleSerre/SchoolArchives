@@ -289,13 +289,16 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 	* Aux États-Unis, c'est au contraire dans les quartiers centraux des grandes villes que l'on trouve les ghettos, espaces défavorisés depuis plusieurs dizaines d'années. 
 	* Exemple: Hong Kong (38 000 hab/$km^2$)
 	* Exemple: New-York (Manhattan, Staten Island, Upper East Side vs. le Bronx, Queensbridge et Brooklyn)
-* 
+
+## La France et ses quartiers "sensibles"
+
+* Roubaix (l'Alma, l'Épeule
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Mjc1MjE3NCwtMTMxMTg0NjYwMiwtMT
-E3MjY1MDU2LDIxNDY3Mzk3NjUsMjY1Mjk3NjE0LC0xNDk4OTM2
-NjI5LC0xOTAyMzkzMTIxLDE5MzA0NjEwNzksOTk0ODIzMzQ0LD
-ExNjE0MDg3OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3
-ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0Nz
-IxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMTk5
-NzM4MzI4N119
+eyJoaXN0b3J5IjpbNDY4MTUyOSwtMTMxMTg0NjYwMiwtMTE3Mj
+Y1MDU2LDIxNDY3Mzk3NjUsMjY1Mjk3NjE0LC0xNDk4OTM2NjI5
+LC0xOTAyMzkzMTIxLDE5MzA0NjEwNzksOTk0ODIzMzQ0LDExNj
+E0MDg3OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3ODY2
+MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0NzIxLD
+ExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMTk5NzM4
+MzI4N119
 -->
