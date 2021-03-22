@@ -294,13 +294,16 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 
 * Roubaix (l'Alma, l'Épeule)
 * Lille (Lille-Sud)
-* 
+
+## 2. La Gentrification
+
+* Le terme vient de l'anglais *gentry*, bourgeoisie ; il a un sens proche mais diff
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzc4OTU5NCwtMTMxMTg0NjYwMiwtMT
-E3MjY1MDU2LDIxNDY3Mzk3NjUsMjY1Mjk3NjE0LC0xNDk4OTM2
-NjI5LC0xOTAyMzkzMTIxLDE5MzA0NjEwNzksOTk0ODIzMzQ0LD
-ExNjE0MDg3OTksLTI4NjY3MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3
-ODY2MDA0LDU0NTc2OTM2MSwxOTQ5NjIyMDE3LC0xMjMyMzU0Nz
-IxLDExNTQwODIwOTcsLTIzMjI1OTM5OSw1NjI3MDc2OCwtMTk5
-NzM4MzI4N119
+eyJoaXN0b3J5IjpbMTc1ODM2MzM1LC0xMzExODQ2NjAyLC0xMT
+cyNjUwNTYsMjE0NjczOTc2NSwyNjUyOTc2MTQsLTE0OTg5MzY2
+MjksLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4MjMzNDQsMT
+E2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNjgsLTE1MDc4
+NjYwMDQsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLTEyMzIzNTQ3Mj
+EsMTE1NDA4MjA5NywtMjMyMjU5Mzk5LDU2MjcwNzY4LC0xOTk3
+MzgzMjg3XX0=
 -->
