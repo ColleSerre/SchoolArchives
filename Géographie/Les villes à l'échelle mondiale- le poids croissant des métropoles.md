@@ -271,8 +271,10 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Dans les métropoles étasuniennes, des "villes-lisières" (**Edge-cities: centres périurbains où se concentrent les bureaux et activités divers**) ont vu le jour aux périphéries des grandes métropoles. Exemple: À Chicago, l'activité économique ne se concentre pas uniquement dans le *Loop* et concerne les pôles suburbains comme **Schhaumburg**. Une municipalité située à 45 km de Chicago.
 * Cette notion inventée par Joël Garreau dans les années 1990 (cf son ouvrage "Edge City: Life on the New Frontier", 1992)
 * Pour désengorger le Caire, les authorités ont décidé de créer une nouvelle capitale. 
+* Dans les métropoles des pays émergents, les *hubs* aéroportuaires ont contribué au développement d'espaces urbanisés
+* Le concept d'aérotropolis ou *airport driven urban development* désigne une c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODE1NzE5MywtMTQ5ODkzNjYyOSwtMT
+eyJoaXN0b3J5IjpbMjEzNzc2NjkyNSwtMTQ5ODkzNjYyOSwtMT
 kwMjM5MzEyMSwxOTMwNDYxMDc5LDk5NDgyMzM0NCwxMTYxNDA4
 Nzk5LC0yODY2NzM2NzYsLTQ0NTg0NzA2OCwtMTUwNzg2NjAwNC
 w1NDU3NjkzNjEsMTk0OTYyMjAxNywtMTIzMjM1NDcyMSwxMTU0
