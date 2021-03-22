@@ -1,23 +1,24 @@
 # Orale - Daren Palmer
 
-Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Je vis à Marcq en Baroeul depuis neuf ans. J'aime ma maison, car elle me permet d'avoir une pièce assez grande pour moi. Je profite de cette chambre pour faire de la programmation et pour créer des applications ou des sites web. En ce moment je travaille sur un réseau-social avec un ami et nous sommes à la recherche d'investisseurs donc si vous avez des amis qui travaillent dans ce secteur vous pourrez nous appeler. Plus tard j'aimerais suivre un cursus double en informatique et en philosophie, car je pense qu'il est important de maîtriser les deux pour être un bon ingénieur et ne pas tomber de le piège de l'argent. 
+Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Toujours vis à Marcq en Baroeul depuis neuf ans. J'aime ma maison, car elle me permet d'avoir une pièce assez grande pour moi. Le bénéfice de cette chambre pour faire de la programmation et création d'applications ou les sites Web. En ce moment je travaille sur un réseau-social avec un ami et nous sommes à la recherche d'investisseurs donc si vous avez des amis qui travaillent dans ce secteur vous pouvez nous appeler. Plus tard j'aimerais suivre un cursus double en informatique et en philosophie, car je pense qu'il est important de maîtriser les deux pour être un bon ingénieur et ne pas tomber le piège de l'argent.
 
-Hallo, mein Name ist Daren Palmer. Ich bin in der elften Klasse der Jeannine Manuel High School. Ich lebe seit neun Jahren in Marcq en Baroeul. Mein Haus ist schön, weil es mir erlaubt, ein Zimmer zu haben, das groß genug für mich ist. Ich nutze diesen Raum, um zu programmieren und Anwendungen oder Webseiten zu erstellen. Im Moment arbeite ich mit einem Freund an einem sozialen Netzwerk und wir suchen nach Investoren. Wenn Sie also Freunde haben, die in diesem Bereich arbeiten, können Sie uns anrufen. Später möchte ich ein Doppelstudium in Informatik und Philosophie machen, denn ich denke, es ist wichtig, beides zu beherrschen, um ein guter Ingenieur zu sein und nicht in die Geldfalle zu tappen. Also, vor kurzem wurde Couscous von der UNO in das "kulturelle Erbe der Menschheit" eingestuft und ich mag dieses Gericht sehr, denn meine Mutter macht es sehr gut, also habe ich beschlossen, Ihnen die Geschichte des Couscous zu präsentieren
+Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Toujours vis à Marcq en Baroeul depuis neuf ans. Ma maison est belle voiture elle me permet d'avoir une pièce assez grande pour moi. Utilisez l'espace pour le programmeur et la création des applications ou des sites Web. Dans le moment où jamais travaille sur un réseau social avec un ami et nous recherche de l'investisseur. Donc, si vous avez des amis qui travaillent dans ce domaine, vous pouvez nous appeler. Plus tard, j'aimerais faire un double diplôme en informatique et en philosophie, car je pense qu'il est important de maîtriser les deux pour être un bon ingénieur et ne pas tomber dans le piège de l'argent. Ainsi, récemment, le couscous a été classé "patrimoine culturel de l'humanité" par l'ONU et j '
 
-Wir wissen nicht genau, woher Couscous kommt und wann es erfunden wurde, aber höchstwahrscheinlich ist es berberischen Ursprungs, da mit Couscous gefüllte Töpfe im Grab des Königs Massinissa gefunden wurden.Das bedeutet, dass es Couscous schon seit 239 vor Christus gibt.Das bedeutet, dass es Couscous schon seit 239 vor Christus gibt. 
+Nous ne savons pas exactement d'où vient le couscous ou quand il a été inventé, mais il est très probablement d'origine berbère car des pots remplis de couscous ont été trouvés dans la tombe du roi Massinissa, ce qui signifie que le couscous existe depuis 239 avant JC. existe depuis 239 avant JC.
  
 
-Traditionell wird Couscous mit saisonalem Gemüse gegessen und man sollte kein Fleisch untermischen. Der königliche Couscous, der in Frankreich am häufigsten gegessen wird, ist also falsch. 
+Traditionnel, le couscous est consommé avec des légumes de saison et aucune viande ne doit être mélangée. Le couscous royal le plus consommé en France est donc faux.
 
-Die Araber übernahmen das Gericht während der Kriege und stellten das Werkzeug zur Herstellung von Couscous her: den Couscoussier. Spuren dieses Werkzeugs finden sich um das 9. Jahrhundert nach Chirstus.
+Les Arabes ont représailles le plat pendant les guerres et ont l'outil de fabrication du couscous: le couscousier. Des traces de cet outil peuvent être trouvés vers le 9ème siècle après Chirstus.
 
-Mit der arabischen Eroberung Spaniens und Portugals kam der Couscous auf die Reise. 
+Avec la conquête arabe de l'Espagne et du Portugal, le couscous est venu en voyage. 
 
-Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam der Couscous erst nach der Unabhängigkeit Algeriens mit den Pieds Noirs und dem Exodus von 1962 nach Frankreich
+Même s'il était connu par François Rabelais ou Alexandre Dumas, le couscous n'est venu en France qu'après l'indépendance de l'Algérie avec les Pieds Noirs et l'Exode de 1962
 
-Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
+En conclusion, le couscous est un plat très ancien qui a traversé les guerres. La prochaine fois que vous aurez un couscous, n'oubliez pas que vous mangez un petit morceau d'histoire avec.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwODExMzY0LDYyOTgxMDE4MCwxNzkyMj
-IxNzEwLC0xNDg3NTgzOTg3LDE1NzcwMzIyNTMsLTE2NTMzNDU3
-ODMsLTg2ODY2NzU0MywtMjExNjQyMTU3Nl19
+eyJoaXN0b3J5IjpbLTk1OTUyOTc2LDkxMDgxMTM2NCw2Mjk4MT
+AxODAsMTc5MjIyMTcxMCwtMTQ4NzU4Mzk4NywxNTc3MDMyMjUz
+LC0xNjUzMzQ1NzgzLC04Njg2Njc1NDMsLTIxMTY0MjE1NzZdfQ
+==
 -->
