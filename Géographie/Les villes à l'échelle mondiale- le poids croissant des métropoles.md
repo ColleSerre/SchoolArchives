@@ -269,13 +269,14 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 ## 3. De nouveaux pôles urbains en formation
 
 * Dans les métropoles étasuniennes, des "villes-lisières" (Edge-cities: centres périurbains où se concentrent les bureaux et activités divers) ont vu le jour aux périphéries des grandes métropoles
-* Cette notion inventée par Joël Garreau dans les années 1990 (cf son ouvrage "Edge City: Life on the New Frontier", 1992)
+* Cette notion inventée par Joël Garreau dans les années 1990 (cf son ouvrage "Edge City: Life on the New Frontier", 1992 )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OT
-Q4MjMzNDQsMTE2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcw
-NjgsLTE1MDc4NjYwMDQsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLT
-EyMzIzNTQ3MjEsMTE1NDA4MjA5NywtMjMyMjU5Mzk5LDU2Mjcw
-NzY4LC0xOTk3MzgzMjg3LDEyNDk0MjA3MzcsLTkwMjgyMDg4Mi
-wtMTUxNzU0OTg2MiwtMTQzNDE3NjkwXX0=
+eyJoaXN0b3J5IjpbLTEwNTg4MDE3NjEsLTE5MDIzOTMxMjEsMT
+kzMDQ2MTA3OSw5OTQ4MjMzNDQsMTE2MTQwODc5OSwtMjg2Njcz
+Njc2LC00NDU4NDcwNjgsLTE1MDc4NjYwMDQsNTQ1NzY5MzYxLD
+E5NDk2MjIwMTcsLTEyMzIzNTQ3MjEsMTE1NDA4MjA5NywtMjMy
+MjU5Mzk5LDU2MjcwNzY4LC0xOTk3MzgzMjg3LDEyNDk0MjA3Mz
+csLTkwMjgyMDg4MiwtMTUxNzU0OTg2MiwtMTQzNDE3NjkwXX0=
+
 -->
