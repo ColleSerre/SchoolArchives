@@ -270,12 +270,12 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 
 * Dans les métropoles étasuniennes, des "villes-lisières" (**Edge-cities: centres périurbains où se concentrent les bureaux et activités divers**) ont vu le jour aux périphéries des grandes métropoles. Exemple: Schaumburg pour Chicago
 * Cette notion inventée par Joël Garreau dans les années 1990 (cf son ouvrage "Edge City: Life on the New Frontier", 1992)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzOTE2MTY0LC0xOTAyMzkzMTIxLDE5Mz
-A0NjEwNzksOTk0ODIzMzQ0LDExNjE0MDg3OTksLTI4NjY3MzY3
-NiwtNDQ1ODQ3MDY4LC0xNTA3ODY2MDA0LDU0NTc2OTM2MSwxOT
-Q5NjIyMDE3LC0xMjMyMzU0NzIxLDExNTQwODIwOTcsLTIzMjI1
-OTM5OSw1NjI3MDc2OCwtMTk5NzM4MzI4NywxMjQ5NDIwNzM3LC
-05MDI4MjA4ODIsLTE1MTc1NDk4NjIsLTE0MzQxNzY5MF19
+eyJoaXN0b3J5IjpbLTQ3OTUwMTczOCwtMTkwMjM5MzEyMSwxOT
+MwNDYxMDc5LDk5NDgyMzM0NCwxMTYxNDA4Nzk5LC0yODY2NzM2
+NzYsLTQ0NTg0NzA2OCwtMTUwNzg2NjAwNCw1NDU3NjkzNjEsMT
+k0OTYyMjAxNywtMTIzMjM1NDcyMSwxMTU0MDgyMDk3LC0yMzIy
+NTkzOTksNTYyNzA3NjgsLTE5OTczODMyODcsMTI0OTQyMDczNy
+wtOTAyODIwODgyLC0xNTE3NTQ5ODYyLC0xNDM0MTc2OTBdfQ==
+
 -->
