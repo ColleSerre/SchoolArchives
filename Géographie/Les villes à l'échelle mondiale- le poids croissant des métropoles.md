@@ -280,14 +280,14 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Les métropoles sont de plus en plus fragmentées. Les disparités socio-spatiales marquent le territoire urbain.
 * Le terme de ségrégation est donc pertinent pour désigner ce phénomène où les riches ne se "mélangent" pas aux pauvres
 * Si le critère social est le plus répandu, on trouve parfois des ségrégations liées aux croyances religieuses et/ou ethniques notamment dans les pays du Sud. 
-* Exemple: Rio, Sao Paulo
+* Exemple: À Sao Paulo, la favela de Paraìsopolis se trouve près d'un quartier résidentiel, le *Paco dos Reis* (Le Palais des
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjczOTc2NSwyNjUyOTc2MTQsLTE0OT
-g5MzY2MjksLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4MjMz
-NDQsMTE2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNjgsLT
-E1MDc4NjYwMDQsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLTEyMzIz
-NTQ3MjEsMTE1NDA4MjA5NywtMjMyMjU5Mzk5LDU2MjcwNzY4LC
-0xOTk3MzgzMjg3LDEyNDk0MjA3MzcsLTkwMjgyMDg4MiwtMTUx
-NzU0OTg2Ml19
+eyJoaXN0b3J5IjpbLTE1ODgxNzY1NDQsMjE0NjczOTc2NSwyNj
+UyOTc2MTQsLTE0OTg5MzY2MjksLTE5MDIzOTMxMjEsMTkzMDQ2
+MTA3OSw5OTQ4MjMzNDQsMTE2MTQwODc5OSwtMjg2NjczNjc2LC
+00NDU4NDcwNjgsLTE1MDc4NjYwMDQsNTQ1NzY5MzYxLDE5NDk2
+MjIwMTcsLTEyMzIzNTQ3MjEsMTE1NDA4MjA5NywtMjMyMjU5Mz
+k5LDU2MjcwNzY4LC0xOTk3MzgzMjg3LDEyNDk0MjA3MzcsLTkw
+MjgyMDg4Ml19
 -->
