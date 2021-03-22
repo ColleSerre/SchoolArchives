@@ -299,9 +299,9 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 
 * Le terme vient de l'anglais *gentry*, bourgeoisie ; il a un sens proche mais différent de l'embourgeoisement
 * Caroline Clair, professeure de SES à Sciences Po Lille précise que "la gentrification est une transformation socio-spatiale d'un quartier populaire, marqué par l'arrivée de populations issues de couches moyennes"
-* Définition: processus de remplacement des classes populaires par des classes aisées
+* Définition: processus de remplacement des classes populaires par des classes aisées. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzYzNjY1LC0xMzExODQ2NjAyLC0xMT
+eyJoaXN0b3J5IjpbNDc3MjU1MTAxLC0xMzExODQ2NjAyLC0xMT
 cyNjUwNTYsMjE0NjczOTc2NSwyNjUyOTc2MTQsLTE0OTg5MzY2
 MjksLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4MjMzNDQsMT
 E2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNjgsLTE1MDc4
