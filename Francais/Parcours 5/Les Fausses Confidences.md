@@ -137,11 +137,14 @@ Plan d'Analyse Linéaire:
 	* Infaillible, absolument infaillible: cette assurance montre que Dubois est le cerveau de l'opération. La virgule montre la détermination de Dubois qui marque une pause pour souligner l'importance du mot. 
 	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie (le messager qui relate la mort d'un personnage). Le présent a une valeur de futur proche.
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyND
-kyMDM5MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0
-LC01NDk0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMz
-cwNzEwMDgsLTE1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2
-OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxND
-UyMjk1NzM0XX0=
+eyJoaXN0b3J5IjpbLTM1OTY4MTU5MSwzNDk2NDE5ODMsMzc2Nj
+I3NjkzLC0xNjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMjMzMTYy
+LDEyNDY4MzYwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMD
+M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
+NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
+U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
 -->
