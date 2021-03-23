@@ -132,12 +132,13 @@ Plan d'Analyse Linéaire:
 	* L'impératif *Laissons cela* montre le retournement de situation, car c'est Dubois qui clos la conversation. Le respect subsiste néanmoins *monsieur*. Or, il ne se moque pas de son maître contrairement à Scapin par exemple, on le sait par la suite de la pièce et par l'absence d'un aparté et le mot *à votre service* qui montre l'amitié des deux hommes. Le mot hyperbolique *excellent homme*. Encore plus loin dans l'inversion des rôles, car le valet propose de donner de l'argent qu'il n'a pas à son maître.
 	* L'impuissance de Dorante qui n'a plus qu'à suivre les projets de Dubois, *Quand pourrai-je reconnaître tes sentiments pour moi ?*
 	* La sensibilité de Dorante contraste avec la comédie de la situation, il est absolument amoureux et le marque avec une description méliorative et fataliste qui le rend vulnérable. Il termine avec une rime et un parallélisme et une anaphore qui apporte une évocation poétique qui amène la sensibilité d'un homme réellement amoureux, ce qui va à l'encontre du principe du startagème. 
-	* Votre bonne mine est un Pérou: la phrase est hyperbolique et compare la beauté de Dorante aux richesses de l'Eldorado et des mines d'or du Pérou. Cette expression créé un léger décalage car cela ne résout pas le problême de sa richesse mais fait référence à un. 
+	* Votre bonne mine est un Pérou: la phrase est hyperbolique et compare la beauté de Dorante aux richesses de l'Eldorado et des mines d'or du Pérou. Cette expression créé un léger décalage car cela ne résout pas le problême de sa richesse mais fait référence à une richesse réelle: les mines d'or du Pérou.
+	* Tournez vous un peu, que je vous considère encore. La phrase est impérative et est choquante car le domestique donne un ordre à son maître. Le ton est cavalier, mais bien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDk2Mzk5OSwtMTYyNDkyMDM5MSwtND
-QxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01NDk0MjM0
-NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLT
-E1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcw
-MDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX
-0=
+eyJoaXN0b3J5IjpbLTIwNjAyMzkwMTcsLTE2MjQ5MjAzOTEsLT
+Q0MTc4MTU5Myw5NjAyMzMxNjIsMTI0NjgzNjA4NCwtNTQ5NDIz
+NDYwLC0xMDE4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC
+0xNTYxMTcwMjg5LDYwNDU4MTk2MSwyOTg0NTIzNjgsLTgyOTA3
+MDAwNiwtNDg1ODIzNjIwLC0xNTc2MTc2MTksMTQ1MjI5NTczNF
+19
 -->
