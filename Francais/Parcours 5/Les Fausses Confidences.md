@@ -131,11 +131,12 @@ Plan d'Analyse Linéaire:
 2. Dubois, un valet encourageant
 	* L'impératif *Laissons cela* montre le retournement de situation, car c'est Dubois qui clos la conversation. Le respect subsiste néanmoins *monsieur*. Or, il ne se moque pas de son maître contrairement à Scapin par exemple, on le sait par la suite de la pièce et par l'absence d'un aparté et le mot *à votre service* qui montre l'amitié des deux hommes. Le mot hyperbolique *excellent homme*. Encore plus loin dans l'inversion des rôles, car le valet propose de donner de l'argent qu'il n'a pas à son maître.
 	* L'impuissance de Dorante qui n'a plus qu'à suivre les projets de Dubois, *Quand pourrai-je reconnaître tes sentiments pour moi ?*
-	* La sensibilité de Dorante contraste avec la comédie de la situation, il est absolument amoureux et le marque avec une description méliorative et fataliste qui le rend vulnérable. Il termine avec une rime et un parallélisme et une anaphore qui apporte une évocation poétique qui amène la sensibilité d'un homme qui 
+	* La sensibilité de Dorante contraste avec la comédie de la situation, il est absolument amoureux et le marque avec une description méliorative et fataliste qui le rend vulnérable. Il termine avec une rime et un parallélisme et une anaphore qui apporte une évocation poétique qui amène la sensibilité d'un homme qui saît manier la langue française. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OT
-QyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAw
-OCwtMTU2MTE3MDI4OSw2MDQ1ODE5NjEsMjk4NDUyMzY4LC04Mj
-kwNzAwMDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NTIyOTU3
-MzRdfQ==
+eyJoaXN0b3J5IjpbLTk5OTA5MDczOSw5NjAyMzMxNjIsMTI0Nj
+gzNjA4NCwtNTQ5NDIzNDYwLC0xMDE4MDMyNzIyLDIwMzc5NDM4
+OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LDYwNDU4MTk2MSwyOT
+g0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIzNjIwLC0xNTc2MTc2
+MTksMTQ1MjI5NTczNF19
 -->
