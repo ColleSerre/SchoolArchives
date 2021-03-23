@@ -3,7 +3,7 @@
 
  ## Germany v Russia
 
-Le pacte slave, le panslavisme 
+Le pacte slave, le panslavisme (congrès de St Petersburg en 1910) = menace sur l'alleg 
  
 c'est à cause des russes qui ont démarré la guerre sur le front Est que la guerre est devenue mondiale (l'allemagne encerclée)
 
@@ -13,5 +13,5 @@ Leur mobilisation était trop importante envers l'allemagne
 
 La russie, une puissance en pleine expansion, ils avaient besoin d'une guerre pour gagner des territoires et montrer qu'ils pouvaient devenir la première puissance européenne. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDA2MDA0NF19
+eyJoaXN0b3J5IjpbLTEwNjYxMjk0NTZdfQ==
 -->
