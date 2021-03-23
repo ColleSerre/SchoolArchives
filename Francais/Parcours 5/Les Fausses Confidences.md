@@ -133,11 +133,10 @@ Plan d'Analyse Linéaire:
 	* L'impuissance de Dorante qui n'a plus qu'à suivre les projets de Dubois, *Quand pourrai-je reconnaître tes sentiments pour moi ?*
 	* La sensibilité de Dorante contraste avec la comédie de la situation, il est absolument amoureux et le marque avec une description méliorative et fataliste qui le rend vulnérable. Il termine avec une rime et un parallélisme et une anaphore qui apporte une évocation poétique qui amène la sensibilité d'un homme réellement amoureux, ce qui va à l'encontre du principe du startagème. 
 	* 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTc4MTU5Myw5NjAyMzMxNjIsMTI0Nj
-gzNjA4NCwtNTQ5NDIzNDYwLC0xMDE4MDMyNzIyLDIwMzc5NDM4
-OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LDYwNDU4MTk2MSwyOT
-g0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIzNjIwLC0xNTc2MTc2
-MTksMTQ1MjI5NTczNF19
+eyJoaXN0b3J5IjpbLTE2MjQ5MjAzOTEsLTQ0MTc4MTU5Myw5Nj
+AyMzMxNjIsMTI0NjgzNjA4NCwtNTQ5NDIzNDYwLC0xMDE4MDMy
+NzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LD
+YwNDU4MTk2MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIz
+NjIwLC0xNTc2MTc2MTksMTQ1MjI5NTczNF19
 -->
