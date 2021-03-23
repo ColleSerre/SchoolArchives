@@ -148,12 +148,16 @@ c'est à cause des russes qui ont démarré la guerre sur le front Est que la gu
 Ils ont fait une alliance avec la France
 
 Leur mobilisation était trop importante envers l'allemagne 
+
+La russie, une puissance en pleine expansion, ils avaient besoin d'une guerre pour gagner des territoires et montrer qu'ils pouvaient devenir la première puissance européenne. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDg5NzA3MCwyMDgxOTEwNjEyLDU1Nz
-czODIxNiwxMDcwNjAxMjE5LC02NDI2MTQ2MCwzNDk2NDE5ODMs
-Mzc2NjI3NjkzLC0xNjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMj
-MzMTYyLDEyNDY4MzYwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcy
-MiwyMDM3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MD
-Q1ODE5NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYy
-MF19
+eyJoaXN0b3J5IjpbMzE0NTE5Mzk2LDIwODE5MTA2MTIsNTU3Nz
+M4MjE2LDEwNzA2MDEyMTksLTY0MjYxNDYwLDM0OTY0MTk4Mywz
+NzY2Mjc2OTMsLTE2MjQ5MjAzOTEsLTQ0MTc4MTU5Myw5NjAyMz
+MxNjIsMTI0NjgzNjA4NCwtNTQ5NDIzNDYwLC0xMDE4MDMyNzIy
+LDIwMzc5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LDYwND
+U4MTk2MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIzNjIw
+XX0=
 -->
