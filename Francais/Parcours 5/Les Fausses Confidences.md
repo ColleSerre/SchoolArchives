@@ -132,16 +132,16 @@ Plan d'Analyse Linéaire:
 	* L'impératif *Laissons cela* montre le retournement de situation, car c'est Dubois qui clos la conversation. Le respect subsiste néanmoins *monsieur*. Or, il ne se moque pas de son maître contrairement à Scapin par exemple, on le sait par la suite de la pièce et par l'absence d'un aparté et le mot *à votre service* qui montre l'amitié des deux hommes. Le mot hyperbolique *excellent homme*. Encore plus loin dans l'inversion des rôles, car le valet propose de donner de l'argent qu'il n'a pas à son maître.
 	* L'impuissance de Dorante qui n'a plus qu'à suivre les projets de Dubois, *Quand pourrai-je reconnaître tes sentiments pour moi ?*
 	* La sensibilité de Dorante contraste avec la comédie de la situation, il est absolument amoureux et le marque avec une description méliorative et fataliste qui le rend vulnérable. Il termine avec une rime et un parallélisme et une anaphore qui apporte une évocation poétique qui amène la sensibilité d'un homme réellement amoureux, ce qui va à l'encontre du principe du startagème. 
-	* Votre bonne mine est un Pérou: la phrase est hyperbolique et compare la beauté de Dorante aux richesses de l'Eldorado et des mines d'or du Pérou. Cette expression créé un léger décalage car cela ne résout pas le problême de sa richesse mais fait référence à une richesse réelle: les mines d'or du Pérou.
+	* Votre bonne mine est un Pérou: la phrase est hyperbolique et compare la beauté de Dorante aux richesses de l'Eldorado et des mines d'or du Pérou. Cette expression créé un léger décalage car cela ne résout pas le problême de sa richesse mais fait référence à une richesse réelle: les mines d'o r du Pérou.
 	* Tournez vous un peu, que je vous considère encore. La phrase est impérative et est choquante car le domestique donne un ordre à son maître. Le ton est cavalier, mais bienveillant. C'est révélateur du fait que Dubois contrôle la situation. 
 	* Infaillible, absolument infaillible: cette assurance montre que Dubois est le cerveau de l'opération. La virgule montre la détermination de Dubois qui marque une pause pour souligner l'importance du mot. 
 	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie (le messager qui relate la mort d'un personnage). Le présent a une valeur de futur proche.
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NjI3NjkzLC0xNjI0OTIwMzkxLC00ND
-E3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OTQyMzQ2
-MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAwOCwtMT
-U2MTE3MDI4OSw2MDQ1ODE5NjEsMjk4NDUyMzY4LC04MjkwNzAw
-MDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NTIyOTU3MzRdfQ
-==
+eyJoaXN0b3J5IjpbMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyND
+kyMDM5MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0
+LC01NDk0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMz
+cwNzEwMDgsLTE1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2
+OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxND
+UyMjk1NzM0XX0=
 -->
