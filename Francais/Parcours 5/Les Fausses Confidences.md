@@ -134,12 +134,12 @@ Plan d'Analyse Linéaire:
 	* La sensibilité de Dorante contraste avec la comédie de la situation, il est absolument amoureux et le marque avec une description méliorative et fataliste qui le rend vulnérable. Il termine avec une rime et un parallélisme et une anaphore qui apporte une évocation poétique qui amène la sensibilité d'un homme réellement amoureux, ce qui va à l'encontre du principe du startagème. 
 	* Votre bonne mine est un Pérou: la phrase est hyperbolique et compare la beauté de Dorante aux richesses de l'Eldorado et des mines d'or du Pérou. Cette expression créé un léger décalage car cela ne résout pas le problême de sa richesse mais fait référence à une richesse réelle: les mines d'or du Pérou.
 	* Tournez vous un peu, que je vous considère encore. La phrase est impérative et est choquante car le domestique donne un ordre à son maître. Le ton est cavalier, mais bienveillant. C'est révélateur du fait que Dubois contrôle la situation. 
-	* Infaillible, absolument infaillible: la virgule est 
+	* Infaillible, absolument infaillible: cette assurance montre que Dubois est le cerveau de l'opération 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDMyMzU3MCwtMTYyNDkyMDM5MSwtND
-QxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01NDk0MjM0
-NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLT
-E1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcw
-MDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX
-0=
+eyJoaXN0b3J5IjpbOTA2MjQ4NjUwLC0xNjI0OTIwMzkxLC00ND
+E3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OTQyMzQ2
+MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAwOCwtMT
+U2MTE3MDI4OSw2MDQ1ODE5NjEsMjk4NDUyMzY4LC04MjkwNzAw
+MDYsLTQ4NTgyMzYyMCwtMTU3NjE3NjE5LDE0NTIyOTU3MzRdfQ
+==
 -->
