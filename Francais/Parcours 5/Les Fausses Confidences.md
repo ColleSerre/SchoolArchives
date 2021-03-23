@@ -135,9 +135,9 @@ Plan d'Analyse Linéaire:
 	* Votre bonne mine est un Pérou: la phrase est hyperbolique et compare la beauté de Dorante aux richesses de l'Eldorado et des mines d'or du Pérou. Cette expression créé un léger décalage car cela ne résout pas le problême de sa richesse mais fait référence à une richesse réelle: les mines d'or du Pérou.
 	* Tournez vous un peu, que je vous considère encore. La phrase est impérative et est choquante car le domestique donne un ordre à son maître. Le ton est cavalier, mais bienveillant. C'est révélateur du fait que Dubois contrôle la situation. 
 	* Infaillible, absolument infaillible: cette assurance montre que Dubois est le cerveau de l'opération. La virgule montre la détermination de Dubois
-	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble 
+	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjEyOTYwMTAsLTE2MjQ5MjAzOTEsLT
+eyJoaXN0b3J5IjpbLTEwNTg3NDE4NjQsLTE2MjQ5MjAzOTEsLT
 Q0MTc4MTU5Myw5NjAyMzMxNjIsMTI0NjgzNjA4NCwtNTQ5NDIz
 NDYwLC0xMDE4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC
 0xNTYxMTcwMjg5LDYwNDU4MTk2MSwyOTg0NTIzNjgsLTgyOTA3
