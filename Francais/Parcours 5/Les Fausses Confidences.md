@@ -138,12 +138,12 @@ Plan d'Analyse Linéaire:
 	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie (le messager qui relate la mort d'un personnage). Le présent a une valeur de futur proche.
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
 
-Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. 
+Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. D'une part parcque 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODI4ODgwMCwzNDk2NDE5ODMsMzc2Nj
-I3NjkzLC0xNjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMjMzMTYy
-LDEyNDY4MzYwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMD
-M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
-NjEsMjk4NDUyMzY4LC04MjkwNzAwMDYsLTQ4NTgyMzYyMCwtMT
-U3NjE3NjE5LDE0NTIyOTU3MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5NTAxMDAzODcsMzQ5NjQxOTgzLDM3Nj
+YyNzY5MywtMTYyNDkyMDM5MSwtNDQxNzgxNTkzLDk2MDIzMzE2
+MiwxMjQ2ODM2MDg0LC01NDk0MjM0NjAsLTEwMTgwMzI3MjIsMj
+AzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAyODksNjA0NTgx
+OTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00ODU4MjM2MjAsLT
+E1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
