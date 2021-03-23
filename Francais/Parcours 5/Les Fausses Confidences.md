@@ -140,9 +140,9 @@ Plan d'Analyse Linéaire:
 
 Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. Nous étudierons donc, en quoi cette scène renouvelle-t-elle les rapports maître-valet. On distingue deux grands mouvements: d'une part "Dorante est un maître reconnaissant (1 à 10)" et d'autre part "Dubois, un valet en réalité maître de la situation (10 à fin)". 
 
-L'extrait s'ouvre sur "Vous n'avez rien dit de notre projet à Monsieur Remy, votre parent ?". Une phrase qui montre l'exclusivité du secret
+L'extrait s'ouvre sur "Vous n'avez rien dit de notre projet à Monsieur Remy, votre parent ?". Une phrase qui montre l'exclusivité du secret, seuls Dorante et Dubois ont 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNDc2ODA2LDU1NzczODIxNiwxMDcwNj
+eyJoaXN0b3J5IjpbLTkwMzM4NTEzLDU1NzczODIxNiwxMDcwNj
 AxMjE5LC02NDI2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0x
 NjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMjMzMTYyLDEyNDY4Mz
 YwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQzODky
