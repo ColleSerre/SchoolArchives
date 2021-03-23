@@ -134,11 +134,11 @@ Plan d'Analyse Linéaire:
 	* La sensibilité de Dorante contraste avec la comédie de la situation, il est absolument amoureux et le marque avec une description méliorative et fataliste qui le rend vulnérable. Il termine avec une rime et un parallélisme et une anaphore qui apporte une évocation poétique qui amène la sensibilité d'un homme réellement amoureux, ce qui va à l'encontre du principe du startagème. 
 	* Votre bonne mine est un Pérou: la phrase est hyperbolique et compare la beauté de Dorante aux richesses de l'Eldorado et des mines d'or du Pérou. Cette expression créé un léger décalage car cela ne résout pas le problême de sa richesse mais fait référence à une richesse réelle: les mines d'or du Pérou.
 	* Tournez vous un peu, que je vous considère encore. La phrase est impérative et est choquante car le domestique donne un ordre à son maître. Le ton est cavalier, mais bienveillant. C'est révélateur du fait que Dubois contrôle la situation. 
-	* Infaillible, absolument infaillible: cette assurance montre que Dubois est le cerveau de l'opération. La virgule montre la détermination de Dubois
+	* Infaillible, absolument infaillible: cette assurance montre que Dubois est le cerveau de l'opération. La virgule montre la détermination de Dubois qui marque une pause pour souligner l'importance du mot. 
 	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie (le messager qui relate la mort d'un personnage). Le présent a une valeur de futur proche.
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDM1ODczLC0xNjI0OTIwMzkxLC00ND
+eyJoaXN0b3J5IjpbMzc2NjI3NjkzLC0xNjI0OTIwMzkxLC00ND
 E3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OTQyMzQ2
 MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAwOCwtMT
 U2MTE3MDI4OSw2MDQ1ODE5NjEsMjk4NDUyMzY4LC04MjkwNzAw
