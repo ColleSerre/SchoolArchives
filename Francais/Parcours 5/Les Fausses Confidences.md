@@ -138,12 +138,12 @@ Plan d'Analyse Linéaire:
 	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie (le messager qui relate la mort d'un personnage). Le présent a une valeur de futur proche.
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
 
-Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. Nous étudierons donc, en quoi cette scène renouvelle-t-elle les rapports maître-valet. 
+Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. Nous étudierons donc, en quoi cette scène renouvelle-t-elle les rapports maître-valet. On distingue deux grands mouvements: d'une part "Dorante est un maître reconnaissant (1 à 10)" et d'autre part "Dubois, un vale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjYxNDYwLDM0OTY0MTk4MywzNzY2Mj
-c2OTMsLTE2MjQ5MjAzOTEsLTQ0MTc4MTU5Myw5NjAyMzMxNjIs
-MTI0NjgzNjA4NCwtNTQ5NDIzNDYwLC0xMDE4MDMyNzIyLDIwMz
-c5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcwMjg5LDYwNDU4MTk2
-MSwyOTg0NTIzNjgsLTgyOTA3MDAwNiwtNDg1ODIzNjIwLC0xNT
-c2MTc2MTksMTQ1MjI5NTczNF19
+eyJoaXN0b3J5IjpbMTMyNDM1NjAwNCwtNjQyNjE0NjAsMzQ5Nj
+QxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5MSwtNDQxNzgxNTkz
+LDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01NDk0MjM0NjAsLTEwMT
+gwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAy
+ODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00OD
+U4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
 -->
