@@ -139,11 +139,14 @@ Plan d'Analyse Linéaire:
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
 
 Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. Nous étudierons donc, en quoi cette scène renouvelle-t-elle les rapports maître-valet. On distingue deux grands mouvements: d'une part "Dorante est un maître reconnaissant (1 à 10)" et d'autre part "Dubois, un valet en réalité maître de la situation (10 à fin)". 
+
+L'extrait s'ouvre sur 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDYwMTIxOSwtNjQyNjE0NjAsMzQ5Nj
-QxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5MSwtNDQxNzgxNTkz
-LDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01NDk0MjM0NjAsLTEwMT
-gwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAy
-ODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2LC00OD
-U4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1NzM0XX0=
+eyJoaXN0b3J5IjpbLTE0MjMzNTAyMTAsMTA3MDYwMTIxOSwtNj
+QyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5
+MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01ND
+k0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEw
+MDgsLTE1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtOD
+I5MDcwMDA2LC00ODU4MjM2MjAsLTE1NzYxNzYxOSwxNDUyMjk1
+NzM0XX0=
 -->
