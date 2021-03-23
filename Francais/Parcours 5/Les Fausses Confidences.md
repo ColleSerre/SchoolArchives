@@ -138,10 +138,9 @@ Plan d'Analyse Linéaire:
 	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie (le messager qui relate la mort d'un personnage). Le présent a une valeur de futur proche.
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
 
-
-
+Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Le startagème est donc mis en place dans cette scène
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTY4MTU5MSwzNDk2NDE5ODMsMzc2Nj
+eyJoaXN0b3J5IjpbLTU1MTI0NzQyMSwzNDk2NDE5ODMsMzc2Nj
 I3NjkzLC0xNjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMjMzMTYy
 LDEyNDY4MzYwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMD
 M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
