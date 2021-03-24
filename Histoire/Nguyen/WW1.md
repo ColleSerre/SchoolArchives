@@ -20,10 +20,13 @@ Build up of European armies
 * Alliances: defence / attack ?
 * timing ?
 
+Long term: 1870-1900
+Short t
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzYxMDE2Niw5NjI5MDQ0OTldfQ==
+eyJoaXN0b3J5IjpbLTE1NjEyNTI2ODksOTYyOTA0NDk5XX0=
 -->
