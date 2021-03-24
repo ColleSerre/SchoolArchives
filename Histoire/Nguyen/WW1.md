@@ -17,7 +17,8 @@ Clash of European imperialist ambitions
 * Domestic troubles in AH & Russia, the war was a diversion and a way to restore the country's glory. 
  
 Build up of European armies 
-
+* e.g: naval arms race between Germany and the UK
+* General mobilizations
 * 
 
 
@@ -25,5 +26,5 @@ Build up of European armies
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzU0MTE4Nyw5NjI5MDQ0OTldfQ==
+eyJoaXN0b3J5IjpbNTE4MTE0Mzc4LDk2MjkwNDQ5OV19
 -->
