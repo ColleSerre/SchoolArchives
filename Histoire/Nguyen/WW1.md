@@ -3,7 +3,7 @@
 
 ## Rise of Slav nationalism:
 
-* Within Austria-Hungary (many different people in c
+* Within Austria-Hungary (there were many different people in the country, all wanted self-determination)
 * Serbia's ambitions
 * Russia's ambitions in the Balkans
 
@@ -13,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODE5ODEwMiw5NjI5MDQ0OTldfQ==
+eyJoaXN0b3J5IjpbODQ5MTU2OTAyLDk2MjkwNDQ5OV19
 -->
