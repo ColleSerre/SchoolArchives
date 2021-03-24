@@ -1,17 +1,11 @@
 
-# Causes of WW1
+# Causes of WW1: long term, short term, spark
 
- ## Germany v Russia
+## Rise of Slav nationalism:
 
-Le pacte slave, le panslavisme (congrès de St Petersburg en 1910) = menace sur l'Allemagne. 
- 
-c'est à cause des russes qui ont démarré la guerre sur le front Est que la guerre est devenue mondiale (l'allemagne encerclée)
+Within Austria-Hungary, 
 
-Ils ont fait une alliance avec la France
 
-Leur mobilisation était trop importante envers l'allemagne 
-
-La russie, une puissance en pleine expansion, ils avaient besoin d'une guerre pour gagner des territoires et montrer qu'ils pouvaient devenir la première puissance européenne. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyOTA0NDk5XX0=
+eyJoaXN0b3J5IjpbNDIwMjk5ODQwLDk2MjkwNDQ5OV19
 -->
