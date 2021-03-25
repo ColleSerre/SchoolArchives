@@ -144,6 +144,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * Tératologie, étude des "monstruosités" au XVIIème et XVIIIème
 * La psychanalise de Freud suppose que le monstre se cache à l'intèrieur de chacun d'entre nous.
 * Le film d'horreur Christine raconte une voiture qui tue tous ceux qui tentent de la séparer de l'adolescent qui l'a achetée, elle l'absorbe. Film d'horreur américaine de John Carpenter
+* « La coutume est une seconde nature qui détruit la première. Mais, qu’est-ce que nature ? Pourquoi la coutume n’est-elle pas naturelle ? J’ai grand peur que cette nature ne soit elle-même qu’une première coutume. » - Montaigne
 
 ## L'autorité de l'auteur
 
@@ -349,11 +350,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Nzg1OTM5LC0xNzQyMTExMzc2LC0yOT
-I5NTUwMDMsMTc3MTgwMzUwNywtMTEyMTA2OTQyNiwtMTQxNzM0
-MDM1MSwtMTM2NjA5MjgyLC0xMDA1MDExMDMwLC0xOTc3MTQ1ND
-M1LC0xODY4ODA3MzEsMTMwODc0MTczMSwtMTU4MDIwMzE0LC0x
-MTI3MDE1MDc0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0MjMyND
-A2LDk3OTg0MzA5OSwtMTE1MjU0OTM5MSwtMzk1OTI2NDMzLDEx
-MjI5NDA2NTJdfQ==
+eyJoaXN0b3J5IjpbMjAwNjYyMzUwNCwtNjk3ODU5MzksLTE3ND
+IxMTEzNzYsLTI5Mjk1NTAwMywxNzcxODAzNTA3LC0xMTIxMDY5
+NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyODIsLTEwMDUwMTEwMz
+AsLTE5NzcxNDU0MzUsLTE4Njg4MDczMSwxMzA4NzQxNzMxLC0x
+NTgwMjAzMTQsLTExMjcwMTUwNzQsMTc5NjMyMjQsNDkyMjYxOT
+AsLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0xMTUyNTQ5MzkxLC0z
+OTU5MjY0MzNdfQ==
 -->
