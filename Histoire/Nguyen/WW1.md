@@ -21,12 +21,12 @@ Build up of European armies
 * timing ?
 
 Long term: 1870-1900
-Short t
+Short term: 1900-1914
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEyNTI2ODksOTYyOTA0NDk5XX0=
+eyJoaXN0b3J5IjpbMTEzMTg1Nzk1Nyw5NjI5MDQ0OTldfQ==
 -->
