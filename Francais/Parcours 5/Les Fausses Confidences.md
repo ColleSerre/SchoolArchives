@@ -71,7 +71,7 @@ Notre système dramatique actuel repose encore sur son héritage antique (grec).
 	* Distanciation brechtienne
 		* théâtre épique: défini par sa fonction sociale et politique
 		* Verfremdungseffekt: distancier le spectateur pour lui rendre sa liberté de critique.
-		* "Sous le familier découvrez l'insolite"
+		* "Sous le familier découvrez l'insolite" - Brecht
 		* On se sépare de la mimesis et on souligne l'artificialité du décor
 	* Antonin Artaud
 		* re-théâtraliser, théâtre grotesque
@@ -144,11 +144,11 @@ L'extrait s'ouvre sur "Vous n'avez rien dit de notre projet à Monsieur Remy, vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjcyMzAwNCwzMTQ1MTkzOTYsMjA4MT
-kxMDYxMiw1NTc3MzgyMTYsMTA3MDYwMTIxOSwtNjQyNjE0NjAs
-MzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5MSwtNDQxNz
-gxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01NDk0MjM0NjAs
-LTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1Nj
-ExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2OCwtODI5MDcwMDA2
-XX0=
+eyJoaXN0b3J5IjpbLTE5NzUyNjY3MTUsMTY0NjcyMzAwNCwzMT
+Q1MTkzOTYsMjA4MTkxMDYxMiw1NTc3MzgyMTYsMTA3MDYwMTIx
+OSwtNjQyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyND
+kyMDM5MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0
+LC01NDk0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMz
+cwNzEwMDgsLTE1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2
+OF19
 -->
