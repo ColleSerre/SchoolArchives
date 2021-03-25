@@ -99,8 +99,6 @@ La différence de traitement entre Arlequin et Dubois. Dubois est supérieur dan
 
 ## [Séance 5: Explication Linéaire Acte I Scène 2](https://docs.google.com/document/d/158FD9wg_6SVYCi-EtQEA_SaO5k2QJr9zhIkY9n8hWn0/edit)
 
-Comment Dubois emploie-t-il l'amour, l'anxiété et la candeur de Dorante pour devenir maître du jeu ? 
-ou  
 En quoi cette scène renouvelle-t-elle les rapports maître-valet ?
 
 Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. 
@@ -144,11 +142,11 @@ L'extrait s'ouvre sur "Vous n'avez rien dit de notre projet à Monsieur Remy, vo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzUyNjY3MTUsMTY0NjcyMzAwNCwzMT
-Q1MTkzOTYsMjA4MTkxMDYxMiw1NTc3MzgyMTYsMTA3MDYwMTIx
-OSwtNjQyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyND
-kyMDM5MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0
-LC01NDk0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMz
-cwNzEwMDgsLTE1NjExNzAyODksNjA0NTgxOTYxLDI5ODQ1MjM2
-OF19
+eyJoaXN0b3J5IjpbMTg3MTA0NTA2NiwtMTk3NTI2NjcxNSwxNj
+Q2NzIzMDA0LDMxNDUxOTM5NiwyMDgxOTEwNjEyLDU1NzczODIx
+NiwxMDcwNjAxMjE5LC02NDI2MTQ2MCwzNDk2NDE5ODMsMzc2Nj
+I3NjkzLC0xNjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMjMzMTYy
+LDEyNDY4MzYwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMD
+M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
+NjFdfQ==
 -->
