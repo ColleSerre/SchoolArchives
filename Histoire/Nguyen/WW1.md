@@ -25,10 +25,10 @@ Short term: 1900-1914
 
 Military perspective:
 
-* Naval arms race (Germany: Second Naval Law in 19 )
+* Naval arms race (Germany: Second Naval Law in 1900 doubled the fleet, UK responded by developing the HMS Dreadnought )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjI3MDE5MywxMTMxODU3OTU3LDk2Mj
+eyJoaXN0b3J5IjpbMTkxMzkwNjUyMywxMTMxODU3OTU3LDk2Mj
 kwNDQ5OV19
 -->
