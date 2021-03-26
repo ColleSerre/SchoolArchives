@@ -23,10 +23,12 @@ Build up of European armies
 Long term: 1870-1900
 Short term: 1900-1914
 
+Military perspective:
 
-
+* Naval arms race (Germany: Second Naval Law in 19 )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTg1Nzk1Nyw5NjI5MDQ0OTldfQ==
+eyJoaXN0b3J5IjpbMTQyNjI3MDE5MywxMTMxODU3OTU3LDk2Mj
+kwNDQ5OV19
 -->
