@@ -30,8 +30,8 @@ Short term: 1900-1914
 	* Triple Entente
 	* Triplice
 
-Many factors came into play when it comes to the r
+Many factors came into play during the eruption of Wold War One. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzMwNzI1MCwxOTEzOTA2NTIzLDExMz
+eyJoaXN0b3J5IjpbLTQzMzQxMTE5OSwxOTEzOTA2NTIzLDExMz
 E4NTc5NTcsOTYyOTA0NDk5XX0=
 -->
