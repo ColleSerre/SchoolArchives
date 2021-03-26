@@ -23,12 +23,13 @@ Build up of European armies
 Long term: 1870-1900
 Short term: 1900-1914
 
-Military perspective:
-* Naval arms race (Germany: Second Naval Law in 1900 doubled the fleet, UK responded by developing the HMS Dreadnought)
-* German militarism (men & budget)
-
+* Military perspective:
+	* Naval arms race (Germany: Second Naval Law in 1900 doubled the fleet, UK responded by developing the HMS Dreadnought)
+	* German militarism (men & budget)
+* Alliances
+	* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjI3NjczNCwxOTEzOTA2NTIzLDExMz
+eyJoaXN0b3J5IjpbLTE4MDA1MjE1OCwxOTEzOTA2NTIzLDExMz
 E4NTc5NTcsOTYyOTA0NDk5XX0=
 -->
