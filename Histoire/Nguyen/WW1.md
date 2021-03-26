@@ -30,8 +30,9 @@ Short term: 1900-1914
 	* Triple Entente
 	* Triplice
 
-Many factors came into play during the eruption of Wold War One. Economic expansion led to territorial expansion which in turn led to 
+The British Empire with its alliances, and naval arms race with Germany was a decisive element in the start of WW1. Nonetheless, the rise of nationalism and the existing rivalries throughout Europe aren(t 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzkwOTc1OCwtNDMzNDExMTk5LDE5MT
-M5MDY1MjMsMTEzMTg1Nzk1Nyw5NjI5MDQ0OTldfQ==
+eyJoaXN0b3J5IjpbLTIxMTUyMjUxNjAsMTA1MzkwOTc1OCwtND
+MzNDExMTk5LDE5MTM5MDY1MjMsMTEzMTg1Nzk1Nyw5NjI5MDQ0
+OTldfQ==
 -->
