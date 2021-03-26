@@ -30,8 +30,8 @@ Short term: 1900-1914
 	* Triple Entente
 	* Triplice
 
-Many factors came into play during the eruption of Wold War One. Economic expansion led to territorial epan
+Many factors came into play during the eruption of Wold War One. Economic expansion led to territorial expansion which in turn led to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjk1MTc1MCwtNDMzNDExMTk5LDE5MT
+eyJoaXN0b3J5IjpbMTA1MzkwOTc1OCwtNDMzNDExMTk5LDE5MT
 M5MDY1MjMsMTEzMTg1Nzk1Nyw5NjI5MDQ0OTldfQ==
 -->
