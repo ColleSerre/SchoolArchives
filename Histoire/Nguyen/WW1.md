@@ -30,8 +30,8 @@ Short term: 1900-1914
 	* Triple Entente
 	* Triplice
 
-
+Many factors came into play when it comes to the r
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjU1NDE2NywxOTEzOTA2NTIzLDExMz
+eyJoaXN0b3J5IjpbMTg1NzMwNzI1MCwxOTEzOTA2NTIzLDExMz
 E4NTc5NTcsOTYyOTA0NDk5XX0=
 -->
