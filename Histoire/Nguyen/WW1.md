@@ -30,9 +30,9 @@ Short term: 1900-1914
 	* Triple Entente
 	* Triplice
 
-The British Empire with its alliances, and naval arms race with Germany was a decisive element in the start of WW1. Nonetheless, the rise of nationalism and the existing rivalries throughout Europe aren(t 
+The British Empire with its alliances, and naval arms race with Germany was a decisive element in the start of WW1. Nonetheless, the rise of nationalism and the existing rivalries throughout Europe aren't to be neglected.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUyMjUxNjAsMTA1MzkwOTc1OCwtND
-MzNDExMTk5LDE5MTM5MDY1MjMsMTEzMTg1Nzk1Nyw5NjI5MDQ0
-OTldfQ==
+eyJoaXN0b3J5IjpbMTMzOTM5MDAsMTA1MzkwOTc1OCwtNDMzND
+ExMTk5LDE5MTM5MDY1MjMsMTEzMTg1Nzk1Nyw5NjI5MDQ0OTld
+fQ==
 -->
