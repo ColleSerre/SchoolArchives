@@ -84,7 +84,7 @@ Cf: photo du tableau pour correction termes à relier
 Les autres atouts des métropoles:
 
 1. Politiques (Strasbourg: siège du Parlement européen et de la commission européenne)
-2. Culturels (Le Louvre 10 millions d’entrées, British Museum, MoMa)
+2. Culturels (Le Louvre 10 millions d’entrées, British Museum, MoMa)-
 3. Diplomatiques (Siège de l’ONU)
 4. Tourisme (Dubaï, Burj Khalifa 16 millions de touristes en 2019)
 
@@ -301,11 +301,11 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Caroline Clair, professeure de SES à Sciences Po Lille précise que "la gentrification est une transformation socio-spatiale d'un quartier populaire, marqué par l'arrivée de populations issues de couches moyennes"
 * Définition: processus de remplacement des classes populaires par des classes aisées. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDU3MDE4NSw0NzcyNTUxMDEsLTEzMT
-E4NDY2MDIsLTExNzI2NTA1NiwyMTQ2NzM5NzY1LDI2NTI5NzYx
-NCwtMTQ5ODkzNjYyOSwtMTkwMjM5MzEyMSwxOTMwNDYxMDc5LD
-k5NDgyMzM0NCwxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLTQ0NTg0
-NzA2OCwtMTUwNzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYyMjAxNy
-wtMTIzMjM1NDcyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOTksNTYy
-NzA3NjhdfQ==
+eyJoaXN0b3J5IjpbLTc3MzcwMTA5MiwtNTMwNTcwMTg1LDQ3Nz
+I1NTEwMSwtMTMxMTg0NjYwMiwtMTE3MjY1MDU2LDIxNDY3Mzk3
+NjUsMjY1Mjk3NjE0LC0xNDk4OTM2NjI5LC0xOTAyMzkzMTIxLD
+E5MzA0NjEwNzksOTk0ODIzMzQ0LDExNjE0MDg3OTksLTI4NjY3
+MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3ODY2MDA0LDU0NTc2OTM2MS
+wxOTQ5NjIyMDE3LC0xMjMyMzU0NzIxLDExNTQwODIwOTcsLTIz
+MjI1OTM5OV19
 -->
