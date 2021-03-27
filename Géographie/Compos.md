@@ -3,7 +3,7 @@
 ## Rural Spaces - changing spaces
 
 * Rural exodus in the global North is **finished** since the end of the 20th century ; in the global South, it's still going on
-* Rural population has stabilized after having dropped and has even, in some countries like Austria, *increased*.
+* Rural population has stabilizsed after having dropped and has even, in some countries like Austria, *increased*.
 * Not all rural spaces are created equal. The most attractive ones are close to cities, main roads and landmarks. This is because many city-workers **cannot afford** to live in the city but need to be at a reasonable **commuting** distance from their place of work.
 * In the North, a rural area is defined by its **low population density and high natural elements count and a predominance of agriculture in the local economy**. In the South however, rural spaces are much more populated (sometimes it can reach **1000 hab/km^2 in India or China**). In *Africa*, due to demographic transition (when a population transitions from a demographic regime characterised by a high death rate and a high birth rate to a new regime characterised by a lower death rate and a lower birth rate), which is was caused by the industrial development of the continent, some rural spaces have seen their population **multiplied by 10 in the last 50 years** (especially in *Great Lakes Africa*)
 * Since the end of the 20th century, **urban sprawl** and **modernisation** have caused agriculture in rural spaces to play a less important role in the local economy.
@@ -44,5 +44,5 @@
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjY3NzE3Ml19
+eyJoaXN0b3J5IjpbMzg4MjY1MjQ3LC0yNDI2NzcxNzJdfQ==
 -->
