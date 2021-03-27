@@ -49,7 +49,7 @@ Trois types de métropoles:
 2. Métropole mondiale: Des fonctions directionnelles au niveau mondial et qui a une importance technologique
 3. Mégalopole
 
-De très grandes villes ont émergé: les mégalopoles (= villes les plus peuplées de 10 millions d’habitants au moins). En 1975, 5 villes seulement avaient plus de 10 millions d’habitants, en 2014 elles étaient 28, et en 2019, 31. En 2030, elles seront 40. Tokyo est la mégalopole la plus peuplée du monde avec 37 millions d’habitants en 2018. La plupart sont situées dans les pays du Sud.
+De très grandes villes ont émergé: les mégapoles (= villes les plus peuplées de 10 millions d’habitants au moins). En 1975, 5 villes seulement avaient plus de 10 millions d’habitants, en 2014 elles étaient 28, et en 2019, 31. En 2030, elles seront 40. Tokyo est la mégapole la plus peuplée du monde avec 37 millions d’habitants en 2018. La plupart sont situées dans les pays du Sud.
 
 # 2 - La Métropolisation
 
@@ -301,11 +301,11 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Caroline Clair, professeure de SES à Sciences Po Lille précise que "la gentrification est une transformation socio-spatiale d'un quartier populaire, marqué par l'arrivée de populations issues de couches moyennes"
 * Définition: processus de remplacement des classes populaires par des classes aisées. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MjU1MTAxLC0xMzExODQ2NjAyLC0xMT
-cyNjUwNTYsMjE0NjczOTc2NSwyNjUyOTc2MTQsLTE0OTg5MzY2
-MjksLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4MjMzNDQsMT
-E2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNjgsLTE1MDc4
-NjYwMDQsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLTEyMzIzNTQ3Mj
-EsMTE1NDA4MjA5NywtMjMyMjU5Mzk5LDU2MjcwNzY4LC0xOTk3
-MzgzMjg3XX0=
+eyJoaXN0b3J5IjpbLTUzMDU3MDE4NSw0NzcyNTUxMDEsLTEzMT
+E4NDY2MDIsLTExNzI2NTA1NiwyMTQ2NzM5NzY1LDI2NTI5NzYx
+NCwtMTQ5ODkzNjYyOSwtMTkwMjM5MzEyMSwxOTMwNDYxMDc5LD
+k5NDgyMzM0NCwxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLTQ0NTg0
+NzA2OCwtMTUwNzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYyMjAxNy
+wtMTIzMjM1NDcyMSwxMTU0MDgyMDk3LC0yMzIyNTkzOTksNTYy
+NzA3NjhdfQ==
 -->
