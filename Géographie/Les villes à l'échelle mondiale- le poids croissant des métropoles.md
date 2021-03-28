@@ -78,7 +78,8 @@ Cf: photo du tableau pour correction termes à relier
 ## Les grandes métropoles, sièges des grandes places financières mondiales
 
 * C’est en effet dans les grandes métropoles que siègent les grandes places financières mondiales: Wall Street à New York par exemple
-* Capitalisation: boursière de New York en 2018: 33 700 milliards de dollars (def: ensemble des placements financiers en Bourse)
+* Capitalisation boursière de New York en 2018: 33 700 milliards de dollars 
+	* def: ensemble des placements financiers en Bourse
 * Voir carte page 56-57
 
 Les autres atouts des métropoles:
@@ -301,11 +302,11 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Caroline Clair, professeure de SES à Sciences Po Lille précise que "la gentrification est une transformation socio-spatiale d'un quartier populaire, marqué par l'arrivée de populations issues de couches moyennes"
 * Définition: processus de remplacement des classes populaires par des classes aisées. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzcwMTA5MiwtNTMwNTcwMTg1LDQ3Nz
-I1NTEwMSwtMTMxMTg0NjYwMiwtMTE3MjY1MDU2LDIxNDY3Mzk3
-NjUsMjY1Mjk3NjE0LC0xNDk4OTM2NjI5LC0xOTAyMzkzMTIxLD
-E5MzA0NjEwNzksOTk0ODIzMzQ0LDExNjE0MDg3OTksLTI4NjY3
-MzY3NiwtNDQ1ODQ3MDY4LC0xNTA3ODY2MDA0LDU0NTc2OTM2MS
-wxOTQ5NjIyMDE3LC0xMjMyMzU0NzIxLDExNTQwODIwOTcsLTIz
-MjI1OTM5OV19
+eyJoaXN0b3J5IjpbMTE0MTcyMzI4NSwtNzczNzAxMDkyLC01Mz
+A1NzAxODUsNDc3MjU1MTAxLC0xMzExODQ2NjAyLC0xMTcyNjUw
+NTYsMjE0NjczOTc2NSwyNjUyOTc2MTQsLTE0OTg5MzY2MjksLT
+E5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4MjMzNDQsMTE2MTQw
+ODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNjgsLTE1MDc4NjYwMD
+QsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLTEyMzIzNTQ3MjEsMTE1
+NDA4MjA5N119
 -->
