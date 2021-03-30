@@ -6,7 +6,8 @@
 L'image du monstre en Littérature nous permet-elle de prendre conscience des "monstres" que nous sommes? 
 
 ### Séance 1
-Convoquer des ressources littéraires pour nourrir une QR et pour s'immerger dans une QI. Le premier *monstre* est sans guillemets, il est littéral. Le second est entendu comme étant un monstre incomplet et non caricatural. Étymologiquement, le monstre est ce qui doit être montré du doigt (montrare) comme une bête de foire. **Une autre étymologie possible est monstrum qui signifie prodige, avertissement qui octroie au monstre une aura prémonitoire**
+#### Convoquer des ressources littéraires pour nourrir une QR et pour s'immerger dans une QI. 
+Le premier *monstre* est sans guillemets, il est littéral. Le second est entendu comme étant un monstre incomplet et non caricatural. Étymologiquement, le monstre est ce qui doit être montré du doigt (monstrare) comme une bête de foire. **Une autre étymologie possible est monstrum qui signifie prodige, avertissement qui octroie au monstre une aura prémonitoire**
 Monstres en littérature: 
  - Médée qui tua par amour et par vengeance, deux émotions humaines. Les crimes passionnels sont donc ceux que l'on peut considérer comme les plus humains
  - Macbeth qui devient un tueur au fur et à mesure de l'œuvre sous l'influence des sorcières qui sont la personnification du *fatum* 
@@ -75,9 +76,10 @@ Question d'interprétation:
 
 développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. exemple: Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme un réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres oeuvres. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MTA5MjQ5LDQxNTY2NTA2NCwxNDc5MD
-I4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAzMTEs
-LTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC0xOT
-Y4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0MzY0
-NTc1OCwtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
+eyJoaXN0b3J5IjpbMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1Nj
+Y1MDY0LDE0NzkwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEs
+MTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3Mj
+E0MDA1MzAsLTE5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMy
+MzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF
+19
 -->
