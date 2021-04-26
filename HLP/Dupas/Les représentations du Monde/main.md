@@ -78,9 +78,9 @@ développement en deux temps, deux éléments de réponse != axes de lecture. On
 
 Question de réflexion: 
 
-Personne ne refusera que tous les hommes 
+Personne ne refusera les affirmations suivantes: "tous les hommes doivent se nourrir et s'abreuver". Ces deux besoins primaires gouvernent la majeure partie des actions des hommes. Très tôt, on leur apprend que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mjk2NzE0MCw3NDQzODMzNzEsMTY4Mj
+eyJoaXN0b3J5IjpbMTk2Njg3ODYxOCw3NDQzODMzNzEsMTY4Mj
 E2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcs
 MTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMxMSwtMTY5Nz
 UwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4
