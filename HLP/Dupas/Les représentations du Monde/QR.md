@@ -1,6 +1,6 @@
 Question de réflexion: 
 
-Personne ne refusera les affirmations suivantes: "tous les hommes doivent se nourrir et s'abreuver". Ces deux besoins primaires gouvernent la majeure partie des actions des hommes. Très tôt, on leur apprend que la nourriture a un prix, que le chauffage aussi, que leur toit n'est pas gratuit. Étant subis aux mêmes lois, qu'elles soient physiques ou biologiques, que le reste des animaux l'humain a cherché d'autres manières de se distinguer. 
+Personne ne refusera les affirmations suivantes: "tous les hommes doivent se nourrir et s'abreuver". Ces deux besoins primaires gouvernent la majeure partie des actions des hommes. Très tôt, on leur apprend que la nourriture a un prix, que le chauffage aussi, que leur toit n'est pas gratuit. Étant subis aux mêmes lois, qu'elles soient physiques ou biologiques, que le reste des animaux l'humain a cherché d'autres manières de se distinguer. Certains ont prétendu que la supériorité de l'Homme sur les animaux était un droit divin, car " Dieu dit : Faisons l'homme à notre image, selon notre ressemblance... Et Dieu créa l'homme à son image". D'autres ont prétexté que la 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzE0MDIzNF19
+eyJoaXN0b3J5IjpbNzU5OTIxNjA3XX0=
 -->
