@@ -75,11 +75,15 @@ Correction:
 Question d'interprétation:
 
 développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. exemple: Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme un réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres oeuvres. 
+
+Question de réflexion: 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1Nj
-Y1MDY0LDE0NzkwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEs
-MTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3Mj
-E0MDA1MzAsLTE5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMy
-MzUwMiwxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF
-19
+eyJoaXN0b3J5IjpbNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MT
+A5MjQ5LDQxNTY2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzks
+Njk4NDI4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyOD
+UxODcxMCwxNzIxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEz
+NTIsLTE2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOTg4OTQ4NTg1LC
+05MjcyNzI2MzRdfQ==
 -->
