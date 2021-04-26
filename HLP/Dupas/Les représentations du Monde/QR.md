@@ -6,10 +6,10 @@ Personne ne refusera les affirmations suivantes: "tous les hommes doivent se nou
 
 Ce traitement des animaux et ces conclusions scientifiques appellent à une autre question: pourquoi s'être refusé la possibilité que les animaux puissent être égaux aux humains sur le plan émotionnel ? D'abord, il est important de rappeler que cette idée n'a pas fait consensus chez les différentes civilisations. Philippe Descola rapporte pour Télérama que dans la tribu des Achuar en Amazonie, on traite les animaux, les plantes, comme des personnes. On reconnait que l'Homme n'est peut-être pas le seul à ressentir, au contraire, ils partent du principe que tout ce qui est vivant ressent. Cela ne fait pas des Achuar des Hommes plus doux que les occidentaux, ils chassent tout de même et étaient pendant longtemps craints à cause de leur réputation de guerriers, mais sans doute sont ils moins orgueilleux. 
 Cet orgueil, selon Michel de Montaigne, est la raison pour laquelle l'Homme se croit capable de décrypter les animaux à la perfection. Dans son *Apologie de Raimond Sebond*, Montaigne fait preuve de scepticisme face à l'idée que la raison de l'homme le rende supérieur au reste de la nature.  "C'est par la vanité de cette même pensée que l'homme s'égale à Dieu, qu'il s'attribue les qualités divines, qu'il se distingue lui-même et se sépare de la foule des autres créatures". Pour Montaigne, il est probable que notre orgueil et notre vanité nous ai poussé à inventer des raisons pour une situation qui pourrait tout bonnement être due au hasard. Charles Darwin lui-même laisse une grande place au hasard dans l'évolution des espèces quand il expose sa théorie de l'évolution pour la première fois en 1859. 
-Cependant, malgré la taxonomie, les animaux sont souvent humanisés dans des fables ou dans des contes. E
+Cependant, malgré la taxonomie, les animaux sont souvent humanisés dans des fables ou dans des contes. En cela, ils ont été considérés comme étant suffisamment similaires aux Hommes pour leur servir d'analogie. Chez Jean de La Fontaine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjIwMzQxNCw2NTAxODY3NTcsNjgxNT
+eyJoaXN0b3J5IjpbMTI2MjY3NTQ3OSw2NTAxODY3NTcsNjgxNT
 I5MDQzLC0xMjk1MjM2NDMzLDYwNTE4Mjc4NSw0ODE3NjE2MjYs
 MTc1NTk0NDMwOF19
 -->
