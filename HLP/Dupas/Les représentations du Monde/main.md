@@ -75,12 +75,8 @@ Correction:
 Question d'interprétation:
 
 développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. exemple: Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme un réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres oeuvres. 
-
-Question de réflexion: 
-
-Personne ne refusera les affirmations suivantes: "tous les hommes doivent se nourrir et s'abreuver". Ces deux besoins primaires gouvernent la majeure partie des actions des hommes. Très tôt, on leur apprend que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Njg3ODYxOCw3NDQzODMzNzEsMTY4Mj
+eyJoaXN0b3J5IjpbMTY4MjE2MTA3Miw3NDQzODMzNzEsMTY4Mj
 E2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcs
 MTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMxMSwtMTY5Nz
 UwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4
