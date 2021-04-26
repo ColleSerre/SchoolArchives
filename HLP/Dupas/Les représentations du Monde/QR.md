@@ -9,8 +9,9 @@ Ce traitement des animaux et ces conclusions scientifiques appellent à une autr
 Cet orgueil, selon Michel de Montaigne, est la raison pour laquelle l'Homme se croit capable de décrypter les animaux à la perfection. Dans son *Apologie de Raimond Sebond*, Montaigne fait preuve de scepticisme face à l'idée que la raison de l'homme le rende supérieur au reste de la nature.  "C'est par la vanité de cette même pensée que l'homme s'égale à Dieu, qu'il s'attribue les qualités divines, qu'il se distingue lui-même et se sépare de la foule des autres créatures". Pour Montaigne, il est probable que notre orgueil et notre vanité nous ai poussé à inventer des raisons pour une situation qui pourrait tout bonnement être due au hasard. Charles Darwin lui-même laisse une grande place au hasard dans l'évolution des espèces quand il expose sa théorie de l'évolution pour la première fois en 1859. 
 Cependant, malgré la taxonomie, les animaux sont souvent humanisés dans des fables ou dans des contes. En cela, ils ont été considérés comme étant suffisamment similaires aux Hommes pour leur servir d'analogie. Jean de La Fontaine se sert du corbeau et du renard pour décrire la ruse du rhéteur, Ésope se sert de la cigale et de la fourmi pour faire l'éloge du prévoyant, et Voltaire se sert de la poularde et du chapon pour mettre en lumière l'absurdité et la cruauté de l'action des hommes. En somme, même si les animaux n'ont pas ce don de la raison que nous autres avons, il est nécessaire de les considérer comme égaux simplement, car sans un égal extérieur à notre race les écrivains de ce monde se priveraient d'une source inépuisable de ressources pour simplifier des notions complexes.
 Ces ressources furent particulièrement utiles pour George Orwell quand il écrivit *La Ferme des Animaux*, dans lequel l'allégorie de la ferme qui fonctionne grâce aux animaux et dont les bénéfices sont récoltés par le fermier rend accessible à tous *Der Kapital* de Karl Marx. 
+Finalement, on considère en droit qu'il y a plusieurs sources de ce dernier:  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzQ4MzIzLDIwMTMxMzc0NjEsNjUwMT
-g2NzU3LDY4MTUyOTA0MywtMTI5NTIzNjQzMyw2MDUxODI3ODUs
-NDgxNzYxNjI2LDE3NTU5NDQzMDhdfQ==
+eyJoaXN0b3J5IjpbMTczMjQ3NDk5MSwyMDEzMTM3NDYxLDY1MD
+E4Njc1Nyw2ODE1MjkwNDMsLTEyOTUyMzY0MzMsNjA1MTgyNzg1
+LDQ4MTc2MTYyNiwxNzU1OTQ0MzA4XX0=
 -->
