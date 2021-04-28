@@ -31,8 +31,15 @@ Short term: 1900-1914
 	* Triplice
 
 The British Empire with its alliances, and naval arms race with Germany was a decisive element in the start of WW1. Nonetheless, the rise of nationalism and the existing rivalries throughout Europe aren't to be neglected.
+
+## Racial impact of WW1
+
+The Great Migration: beginning of the 20th to end of 20s. Due to lack of jobs in the south, the African American population migrated massively to the north
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTM5MDAsMTA1MzkwOTc1OCwtNDMzND
-ExMTk5LDE5MTM5MDY1MjMsMTEzMTg1Nzk1Nyw5NjI5MDQ0OTld
-fQ==
+eyJoaXN0b3J5IjpbNzI4MTQ3OTM0LDEzMzkzOTAwLDEwNTM5MD
+k3NTgsLTQzMzQxMTE5OSwxOTEzOTA2NTIzLDExMzE4NTc5NTcs
+OTYyOTA0NDk5XX0=
 -->
