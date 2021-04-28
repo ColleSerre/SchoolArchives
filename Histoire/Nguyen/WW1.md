@@ -38,9 +38,9 @@ The Great Migration: beginning of the 20th to end of 20s. Due to lack of jobs in
 
 ![graph](https://i.ibb.co/5n5PYX0/Screenshot-2021-04-28-at-09-34-28.png)
 
-During the war, instead of fighting under the American flag, the Harlem Hellfighters fought for France because the US saw the integration 
+During the war, instead of fighting under the American flag, the Harlem Hellfighters fought for France because the US saw the integration of black people in the army as a potential threat to white soldiers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYzNTc5MjUsMTMzOTM5MDAsMTA1Mz
-kwOTc1OCwtNDMzNDExMTk5LDE5MTM5MDY1MjMsMTEzMTg1Nzk1
-Nyw5NjI5MDQ0OTldfQ==
+eyJoaXN0b3J5IjpbLTgzMjg3MjI1MywxMzM5MzkwMCwxMDUzOT
+A5NzU4LC00MzM0MTExOTksMTkxMzkwNjUyMywxMTMxODU3OTU3
+LDk2MjkwNDQ5OV19
 -->
