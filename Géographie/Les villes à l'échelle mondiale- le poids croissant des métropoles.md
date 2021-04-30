@@ -302,13 +302,13 @@ Aux États-Unis, le paysage des suburbs aux maisons toutes identiques s'appelle:
 * Caroline Clair, professeure de SES à Sciences Po Lille précise que "la gentrification est une transformation socio-spatiale d'un quartier populaire, marqué par l'arrivée de populations issues de couches moyennes"
 * Définition: processus de remplacement des classes populaires par des classes aisées. 
 * Exemples: la gentrification à Paris (doc Pronote) et le quartier de la Croix-Rousse à Lyon
-
+* Poids démographique des mégalopoles 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTY0NDAxNCwxMTQxNzIzMjg1LC03Nz
-M3MDEwOTIsLTUzMDU3MDE4NSw0NzcyNTUxMDEsLTEzMTE4NDY2
-MDIsLTExNzI2NTA1NiwyMTQ2NzM5NzY1LDI2NTI5NzYxNCwtMT
-Q5ODkzNjYyOSwtMTkwMjM5MzEyMSwxOTMwNDYxMDc5LDk5NDgy
-MzM0NCwxMTYxNDA4Nzk5LC0yODY2NzM2NzYsLTQ0NTg0NzA2OC
-wtMTUwNzg2NjAwNCw1NDU3NjkzNjEsMTk0OTYyMjAxNywtMTIz
-MjM1NDcyMV19
+eyJoaXN0b3J5IjpbLTE4MDA2MDM0MjAsMTE0MTcyMzI4NSwtNz
+czNzAxMDkyLC01MzA1NzAxODUsNDc3MjU1MTAxLC0xMzExODQ2
+NjAyLC0xMTcyNjUwNTYsMjE0NjczOTc2NSwyNjUyOTc2MTQsLT
+E0OTg5MzY2MjksLTE5MDIzOTMxMjEsMTkzMDQ2MTA3OSw5OTQ4
+MjMzNDQsMTE2MTQwODc5OSwtMjg2NjczNjc2LC00NDU4NDcwNj
+gsLTE1MDc4NjYwMDQsNTQ1NzY5MzYxLDE5NDk2MjIwMTcsLTEy
+MzIzNTQ3MjFdfQ==
 -->
