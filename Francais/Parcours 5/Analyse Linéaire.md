@@ -1,4 +1,4 @@
-
+# Analyse Linéaire Acte II Scène 15
 
 I- Araminte s’essaie à manipuler Dorante
 Procédés:
@@ -13,5 +13,5 @@ Procédés:
     
 -   2 ind. juxt. + CC de manière Didascalie Impératif → Présente la situation avec indifférence Ménage le suspense en deux temps Ordonne indirectement à D. d’examiner le portrait, pensant le piéger et le pousser à se dévoiler. Mais sa stratégie est faussée car elle ne sait pas que D. ment !
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzQzMDgzXX0=
+eyJoaXN0b3J5IjpbLTE5MzI3OTk2MjIsMTIzNzQzMDgzXX0=
 -->
