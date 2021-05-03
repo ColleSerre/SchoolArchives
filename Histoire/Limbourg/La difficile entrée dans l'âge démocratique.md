@@ -9,8 +9,8 @@ Pour lui, le despotisme prend forme quand les Hommes se dévouent totalement à 
 
 ## Alphonse de Lamartine
 
-Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 février 1848 un discours en faveur des réunions qui renforce son poids politique chez les républicains. Il fait partie des meneurs républicains qui appellent les Parisiens à manifester le 22 février. Après deux jours de manifestations et de heurts, Louis-Philippe abdique et la deuxième République est proclamée. 
+Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 février 1848 un discours en faveur des réunions qui renforce son poids politique chez les républicains. Il fait partie des meneurs républicains qui appellent les Parisiens à manifester le 22 février. Après deux jours de manifestations et de heurts, Louis-Philippe abdique et la deuxième République est proclamée. Il est nommé nommé ministre des affaires étrangères du gouvernement provisoire, une fonction importante dans le contexte du "printemps des peuples 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjk3ODY5NywxNzQxNTkzNDI5LC04Mz
-U2ODcxNTQsLTgzNTY4NzE1NF19
+eyJoaXN0b3J5IjpbLTEzMjI1NjM5ODIsMTc0MTU5MzQyOSwtOD
+M1Njg3MTU0LC04MzU2ODcxNTRdfQ==
 -->
