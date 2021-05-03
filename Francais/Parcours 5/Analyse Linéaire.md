@@ -12,6 +12,9 @@ Procédés:
 -   impératif “il faut” → Araminte veut à tout prix faire avouer Dorante
     
 -   2 ind. juxt. + CC de manière Didascalie Impératif → Présente la situation avec indifférence Ménage le suspense en deux temps Ordonne indirectement à D. d’examiner le portrait, pensant le piéger et le pousser à se dévoiler. Mais sa stratégie est faussée car elle ne sait pas que D. ment !
+
+L'extrait s'ouvre sur une 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI3OTk2MjIsMTIzNzQzMDgzXX0=
+eyJoaXN0b3J5IjpbLTg3MTMzNDA3OSwtMTkzMjc5OTYyMiwxMj
+M3NDMwODNdfQ==
 -->
