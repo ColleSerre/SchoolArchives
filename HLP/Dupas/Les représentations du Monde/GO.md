@@ -38,7 +38,7 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
 * ----
 * Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
-* Ressentir une émoition != vivre une émotion
+* Ressentir une émotion != vivre une émotion
 * La littérature est un outil pour voir et comprendre, pas pour vivre
 * La littérature a ses limites
 * ----
@@ -46,16 +46,6 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * La littérature éloigne de la superficialité, approche à la vérité. 
 * S'accomplir, c'est ce que font les personnages, les Hommes ne font que vivre.
 * Voyager par la beauté, s'éloigner du réel. Libérer de la réalité
-* ----
-* 
-L'humanité en question
-Histoire et Violence / Les limites de l'humain
-
-Comment la littérature prend-elle en charge la violence de l'Histoire ?
-La littérature peut-elle ironiser sur la fureur de l'Histoire ?
-Comment exprimer la déchéance du corps ?
-Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience ?
-
 ----
 * Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
 * Nécessaire pour ne retenir que l'essentiel
@@ -75,9 +65,10 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 ----
 * Trop de transparence viole la vie privée
 * Connaître les pensées intimes peut-être un poids pour le lecteur
-* La littérature ne permet pas le voyeurisme comme le cinéma ou la pho
+* La littérature ne permet pas le voyeurisme comme le cinéma ou la photographie. 
 ----
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDIwNzg0Niw1ODMyNjYwOTYsLTE0MD
-A5MTk1NDJdfQ==
+eyJoaXN0b3J5IjpbMjYyNzc0Njg3LDU4MzI2NjA5NiwtMTQwMD
+kxOTU0Ml19
 -->
