@@ -39,11 +39,11 @@ LE PERSONNAGE DE DUBOIS
 	- Acte III Scène III
 	- Acte III Scène IX
 	- Acte III Scène XIII
-	- Dubois apparaît donc dans peu de scènes au début de la pièce et prend de plus en plus de place alors que le stratagème se 
+	- Dubois apparaît donc dans peu de scènes au début de la pièce et prend de plus en plus de place alors que le stratagème se révèle.
 -   En quoi Dubois est-il un personnage ambigu?
-	- 
+	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. 
 2. Une victoire sur l’impossible
--   A quels obstacles est-il confronté?
+-   À quels obstacles est-il confronté?
 	- Suspicions dues à sa classe sociale, mais pas seulement. 
 -   Comment et pourquoi Dubois triomphe-t-il malgré cela?
 	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
@@ -54,7 +54,7 @@ LE PERSONNAGE DE DUBOIS
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjgwOTUyLDIwMTA1NTE3MjQsNTg0NT
+eyJoaXN0b3J5IjpbOTU3Mzc0MzU5LDIwMTA1NTE3MjQsNTg0NT
 k0NDgzLDE0MDEwMzYyODEsMTg5OTA4Njc2MywyMDE2MzE3MTUw
 LDg2ODc2Mjg5MiwxMDQ5NzU0MTEsODA5ODE3MzUxLDE0NzE3OT
 A3OTcsMTQ3MTc5MDc5NywtMTkzMjc5OTYyMiwxMjM3NDMwODNd
