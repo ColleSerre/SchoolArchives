@@ -41,7 +41,7 @@ LE PERSONNAGE DE DUBOIS
 	- Acte III Scène XIII
 	- Dubois apparaît donc dans peu de scènes au début de la pièce et prend de plus en plus de place alors que le stratagème se révèle.
 -   En quoi Dubois est-il un personnage ambigu?
-	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. 
+	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. De plus, il monte des stratagèmes pour Dorante pour des raisons incertaines. En somme, Dubois est un personnage puissant qui agit en faveur de Dorante pour des raisons inconnues.
 2. Une victoire sur l’impossible
 -   À quels obstacles est-il confronté?
 	- Suspicions dues à sa classe sociale, mais pas seulement. 
@@ -54,9 +54,9 @@ LE PERSONNAGE DE DUBOIS
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3Mzc0MzU5LDIwMTA1NTE3MjQsNTg0NT
-k0NDgzLDE0MDEwMzYyODEsMTg5OTA4Njc2MywyMDE2MzE3MTUw
-LDg2ODc2Mjg5MiwxMDQ5NzU0MTEsODA5ODE3MzUxLDE0NzE3OT
-A3OTcsMTQ3MTc5MDc5NywtMTkzMjc5OTYyMiwxMjM3NDMwODNd
-fQ==
+eyJoaXN0b3J5IjpbLTgxNTIzMDY4MSwyMDEwNTUxNzI0LDU4ND
+U5NDQ4MywxNDAxMDM2MjgxLDE4OTkwODY3NjMsMjAxNjMxNzE1
+MCw4Njg3NjI4OTIsMTA0OTc1NDExLDgwOTgxNzM1MSwxNDcxNz
+kwNzk3LDE0NzE3OTA3OTcsLTE5MzI3OTk2MjIsMTIzNzQzMDgz
+XX0=
 -->
