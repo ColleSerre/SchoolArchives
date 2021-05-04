@@ -80,19 +80,19 @@ L'humanité en question
 Histoire et Violence / Les limites de l'humain
 
 Comment la littérature prend-elle en charge la violence de l'Histoire ?
-
-* Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
-* Nécessaire pour ne retenir que l'essentiel
-* Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
-* L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
-
 La littérature peut-elle ironiser sur la fureur de l'Histoire ?
 Comment exprimer la déchéance du corps ?
 Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience ?
 
-
+* ----
+* Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
+* Nécessaire pour ne retenir que l'essentiel
+* Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
+* L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
+* ----
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTE4NjkzMywtMTc1ODUyMDgxOSwtMT
+eyJoaXN0b3J5IjpbLTIxMTA3NDc5OSwtMTc1ODUyMDgxOSwtMT
 ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
 NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
 kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
