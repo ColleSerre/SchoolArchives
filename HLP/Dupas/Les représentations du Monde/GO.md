@@ -56,23 +56,25 @@ La littérature peut-elle ironiser sur la fureur de l'Histoire ?
 Comment exprimer la déchéance du corps ?
 Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience ?
 
-* ----
+----
 * Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
 * Nécessaire pour ne retenir que l'essentiel
 * Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
 * L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
-* ----
+----
 * Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
 * Ressentir une émotion != vivre une émotion
 * La littérature est un outil pour voir et comprendre, pas pour vivre
 * La littérature a ses limites
-* ----
-* Aurait pu utiliser Nos actes ne sont éphémères qu'en apparence. La vie du présent tisse celle de l'avenir. de Gustave Le Bon
+----
+* Aurait pu utiliser Nos actes ne sont éphémères qu'en apparence. La vie du présent tisse celle de l'avenir de Gustave Le Bon
 * Lire ou écrire c'est mettre en mots ce qui nous tourmente
 * Partage entre l'auteur et le lecteur
 * Invitation à avancer
-* Par la plume s'évadent les d
-* ----
+* Par la plume s'évadent les drames
+----
+* 
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzk3Mzg2OCwtMTQwMDkxOTU0Ml19
+eyJoaXN0b3J5IjpbNTgzMjY2MDk2LC0xNDAwOTE5NTQyXX0=
 -->
