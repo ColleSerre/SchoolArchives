@@ -76,29 +76,8 @@ Question d'interprétation:
 
 Développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. Exemple: Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme une réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres œuvres. 
 
-L'humanité en question
-Histoire et Violence / Les limites de l'humain
-
-Comment la littérature prend-elle en charge la violence de l'Histoire ?
-La littérature peut-elle ironiser sur la fureur de l'Histoire ?
-Comment exprimer la déchéance du corps ?
-Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience ?
-
-* ----
-* Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
-* Nécessaire pour ne retenir que l'essentiel
-* Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
-* L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
-* ----
-* Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
-* Ressentir une émoition != vivre une émotion
-* La littérature est un outil pour voir et comprendre, pas pour vivre
-* La littérature a ses limites
-* ----
-* 
-* ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTQ0NzQ5MSwtMTc1ODUyMDgxOSwtMT
+eyJoaXN0b3J5IjpbLTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMT
 ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
 NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
 kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
