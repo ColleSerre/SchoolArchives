@@ -1,6 +1,6 @@
 
 # L'humanité en question
-Histoire et Violence / Les limites de l'humain
+## Histoire et Violence / Les limites de l'humain
 
 Comment la littérature prend-elle en charge la violence de l'Histoire ?
 La littérature peut-elle ironiser sur la fureur de l'Histoire ?
@@ -14,13 +14,14 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
 * ----
 * Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
-* Ressentir une émoition != vivre une émotion
+* Ressentir une émotion != vivre une émotion
 * La littérature est un outil pour voir et comprendre, pas pour vivre
 * La littérature a ses limites
 * ----
-* La souffrance, intrinsèque de l'existance
+* La souffrance, intrinsèque de l'existence
+* La littérature, à mi-chemin entre parole et silence
 * 
 * ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTIwMTI2OV19
+eyJoaXN0b3J5IjpbLTE0MDA5MTk1NDJdfQ==
 -->
