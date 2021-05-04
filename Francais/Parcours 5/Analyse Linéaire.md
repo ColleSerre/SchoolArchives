@@ -37,9 +37,9 @@ LE PERSONNAGE DE DUBOIS
 	- 
 4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
-	- Du
+	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjk2ODMxMCw1ODQ1OTQ0ODMsMTQwMT
+eyJoaXN0b3J5IjpbMjAxMDU1MTcyNCw1ODQ1OTQ0ODMsMTQwMT
 AzNjI4MSwxODk5MDg2NzYzLDIwMTYzMTcxNTAsODY4NzYyODky
 LDEwNDk3NTQxMSw4MDk4MTczNTEsMTQ3MTc5MDc5NywxNDcxNz
 kwNzk3LC0xOTMyNzk5NjIyLDEyMzc0MzA4M119
