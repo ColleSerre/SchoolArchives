@@ -36,8 +36,8 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * Connaître les pensées intimes peut-être un poids pour le lecteur
 * La littérature ne permet pas le voyeurisme comme le cinéma ou la photographie. 
 ----
-
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3ODEyMjAzLDU4MzI2NjA5NiwtMTQwMD
-kxOTU0Ml19
+eyJoaXN0b3J5IjpbLTEwNDg1ODYxODcsNTgzMjY2MDk2LC0xND
+AwOTE5NTQyXX0=
 -->
