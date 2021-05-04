@@ -77,23 +77,18 @@ Question d'interprétation:
 Développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. Exemple: Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme une réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres œuvres. 
 
 L'humanité en question
-
 Histoire et Violence / Les limites de l'humain
 
 Comment la littérature prend-elle en charge la violence de l'Histoire ? 
-
 La littérature peut-elle ironiser sur la fureur de l'Histoire ?
-
 Comment exprimer la déchéance du corps ?
-
 Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience ?
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0Mz
-gzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwx
-NDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1Nj
-AzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMw
-LC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMT
-A0MzY0NTc1OCwtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
+eyJoaXN0b3J5IjpbLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2OD
+IxNjEwNzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5
+LDQxNTY2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4ND
+I4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcx
+MCwxNzIxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLT
+E2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOTg4OTQ4NTg1LC05Mjcy
+NzI2MzRdfQ==
 -->
