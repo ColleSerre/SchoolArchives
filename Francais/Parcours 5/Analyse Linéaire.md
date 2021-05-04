@@ -29,14 +29,17 @@ LE PERSONNAGE DE DUBOIS
 	- 
 2. Une victoire sur l’impossible
 -   A quels obstacles est-il confronté?
-	- Suspicions dues à sa classe sociale
+	- Suspicions dues à sa classe sociale, mais pas seulement. 
 -   Comment et pourquoi Dubois triomphe-t-il malgré cela?
+	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
 3. Un valet stratège
 -   Répertoriez les différentes étapes de sa technique de “ fausse confidence”.
+	- 
 4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
+	- Du
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzI0NDY3OSw1ODQ1OTQ0ODMsMTQwMT
+eyJoaXN0b3J5IjpbMTYwMjk2ODMxMCw1ODQ1OTQ0ODMsMTQwMT
 AzNjI4MSwxODk5MDg2NzYzLDIwMTYzMTcxNTAsODY4NzYyODky
 LDEwNDk3NTQxMSw4MDk4MTczNTEsMTQ3MTc5MDc5NywxNDcxNz
 kwNzk3LC0xOTMyNzk5NjIyLDEyMzc0MzA4M119
