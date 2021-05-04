@@ -35,6 +35,10 @@ LE PERSONNAGE DE DUBOIS
 	- Acte II Scène XVI
 	- Acte II Scène XVII
 	- Acte III Scène I
+	- Acte III Scène II
+	- Acte III Scène III
+	- Acte III Scène IX
+	- 
 -   En quoi Dubois est-il un personnage ambigu?
 	- 
 2. Une victoire sur l’impossible
@@ -49,9 +53,9 @@ LE PERSONNAGE DE DUBOIS
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDU5MzAyLDIwMTA1NTE3MjQsNTg0NT
-k0NDgzLDE0MDEwMzYyODEsMTg5OTA4Njc2MywyMDE2MzE3MTUw
-LDg2ODc2Mjg5MiwxMDQ5NzU0MTEsODA5ODE3MzUxLDE0NzE3OT
-A3OTcsMTQ3MTc5MDc5NywtMTkzMjc5OTYyMiwxMjM3NDMwODNd
-fQ==
+eyJoaXN0b3J5IjpbLTMwNTc5NTM0OSwyMDEwNTUxNzI0LDU4ND
+U5NDQ4MywxNDAxMDM2MjgxLDE4OTkwODY3NjMsMjAxNjMxNzE1
+MCw4Njg3NjI4OTIsMTA0OTc1NDExLDgwOTgxNzM1MSwxNDcxNz
+kwNzk3LDE0NzE3OTA3OTcsLTE5MzI3OTk2MjIsMTIzNzQzMDgz
+XX0=
 -->
