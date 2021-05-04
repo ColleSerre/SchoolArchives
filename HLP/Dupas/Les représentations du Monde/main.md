@@ -93,14 +93,14 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
 * Ressentir une émoition != vivre une émotion
 * La littérature est un outil pour voir et comprendre, pas pour vivre
-* 
+* La littérature a ses limites, les 
 * ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NzM2MDkyLC0xNzU4NTIwODE5LC0xMT
-E2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3
-MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OT
-AyODA3NywxMTMzOTA3MTc5LDY5ODQyODIzMSwxOTAzNTYwMzEx
-LC0xNjk3NTAzNDkwLC00Mjg1MTg3MTAsMTcyMTQwMDUzMCwtMT
-k2ODQ2MDg1OSwxMDk1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2
-NDU3NThdfQ==
+eyJoaXN0b3J5IjpbMTEzODQ2MDExNSwtMTc1ODUyMDgxOSwtMT
+ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
+NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
+kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
+MSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLT
+E5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQz
+NjQ1NzU4XX0=
 -->
