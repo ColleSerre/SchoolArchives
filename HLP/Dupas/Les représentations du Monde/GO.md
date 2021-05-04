@@ -73,8 +73,10 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * Invitation à avancer
 * Par la plume s'évadent les drames
 ----
+* Trop de transparence viole la vie privée
 * 
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMjY2MDk2LC0xNDAwOTE5NTQyXX0=
+eyJoaXN0b3J5IjpbLTMzNjk1MTM3OSw1ODMyNjYwOTYsLTE0MD
+A5MTk1NDJdfQ==
 -->
