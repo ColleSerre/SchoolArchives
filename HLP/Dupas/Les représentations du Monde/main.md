@@ -83,7 +83,8 @@ Comment la littérature prend-elle en charge la violence de l'Histoire ?
 
 * Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
 * Nécessaire pour ne retenir que l'essentiel
-* Philippe Lançon montre sa douleur 
+* Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
+* 
 
 La littérature peut-elle ironiser sur la fureur de l'Histoire ?
 Comment exprimer la déchéance du corps ?
@@ -91,11 +92,11 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgwMjU0NzcsLTE3NTg1MjA4MTksLT
-ExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0Mzgz
-MzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwxND
-c5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAz
-MTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC
-0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0
-MzY0NTc1OF19
+eyJoaXN0b3J5IjpbNTU3ODg4NzY3LC0xNzU4NTIwODE5LC0xMT
+E2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3
+MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OT
+AyODA3NywxMTMzOTA3MTc5LDY5ODQyODIzMSwxOTAzNTYwMzEx
+LC0xNjk3NTAzNDkwLC00Mjg1MTg3MTAsMTcyMTQwMDUzMCwtMT
+k2ODQ2MDg1OSwxMDk1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2
+NDU3NThdfQ==
 -->
