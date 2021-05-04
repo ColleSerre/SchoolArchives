@@ -17,6 +17,10 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * La littérature est un outil pour voir et comprendre, pas pour vivre
 * La littérature a ses limites
 ----
+* La souffrance, intrinsèque de l'existence
+* La littérature, à mi-chemin entre parole et silence
+* Peut transmettre des souffrances si le lecteur est dans une démarche même
+---
 * Commencer avec un conte pour introduire
 * La littérature éloigne de la superficialité, approche à la vérité. 
 * S'accomplir, c'est ce que font les personnages, les Hommes ne font que vivre.
@@ -34,6 +38,6 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 ----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5NzQ1MjcyLDU4MzI2NjA5NiwtMTQwMD
+eyJoaXN0b3J5IjpbNTk3ODEyMjAzLDU4MzI2NjA5NiwtMTQwMD
 kxOTU0Ml19
 -->
