@@ -42,9 +42,10 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * La littérature est un outil pour voir et comprendre, pas pour vivre
 * La littérature a ses limites
 * ----
-* Commen
+* Commencer avec un conte pour introduire
+* La littérature éloigne de la superficialité, approche à la vérité. 
+* 
 * ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg0MDkxNTksLTE0MDA5MTk1NDJdfQ
-==
+eyJoaXN0b3J5IjpbMTAxMzk1NzA4NSwtMTQwMDkxOTU0Ml19
 -->
