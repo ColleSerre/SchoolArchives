@@ -91,10 +91,12 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
 * ----
 * Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
+* Ressentir une émoition != vivre une émotion
+* La littérature est un outil pour voir et comprendre, pas pour vivre
 * 
 * ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5Njg4NzE0LC0xNzU4NTIwODE5LC0xMT
+eyJoaXN0b3J5IjpbNzM3NzM2MDkyLC0xNzU4NTIwODE5LC0xMT
 E2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3
 MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OT
 AyODA3NywxMTMzOTA3MTc5LDY5ODQyODIzMSwxOTAzNTYwMzEx
