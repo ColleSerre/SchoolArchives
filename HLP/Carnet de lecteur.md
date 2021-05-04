@@ -212,6 +212,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Plonger au fond du gouffre. Enfer ou Ciel, qu'importe ? Au fond de l'inconnu, pour trouver du nouveau ! - Charles Baudelaire *Le Voyage*
 * C'est dans le mots que nous pensons - Hegel *Encyclopédie des sciences philosophiques en abrégé*
 * Cogito ergo sum ; Je pense donc je suis - Descartes *Discours sur la méthode*
+* Insensé toi qui penses que je ne suis pas toi - Victor Hugo
 
 ## Ambition
 
@@ -351,11 +352,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA2Nzk1NzMsMjAwNjYyMzUwNCwtNj
-k3ODU5MzksLTE3NDIxMTEzNzYsLTI5Mjk1NTAwMywxNzcxODAz
-NTA3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyOD
-IsLTEwMDUwMTEwMzAsLTE5NzcxNDU0MzUsLTE4Njg4MDczMSwx
-MzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcwMTUwNzQsMTc5Nj
-MyMjQsNDkyMjYxOTAsLTE5MjQyMzI0MDYsOTc5ODQzMDk5LC0x
-MTUyNTQ5MzkxXX0=
+eyJoaXN0b3J5IjpbNjgzMDQyMTM3LC0xMDkwNjc5NTczLDIwMD
+Y2MjM1MDQsLTY5Nzg1OTM5LC0xNzQyMTExMzc2LC0yOTI5NTUw
+MDMsMTc3MTgwMzUwNywtMTEyMTA2OTQyNiwtMTQxNzM0MDM1MS
+wtMTM2NjA5MjgyLC0xMDA1MDExMDMwLC0xOTc3MTQ1NDM1LC0x
+ODY4ODA3MzEsMTMwODc0MTczMSwtMTU4MDIwMzE0LC0xMTI3MD
+E1MDc0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0MjMyNDA2LDk3
+OTg0MzA5OV19
 -->
