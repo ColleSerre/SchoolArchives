@@ -78,12 +78,16 @@ Développement en deux temps, deux éléments de réponse != axes de lecture. On
 
 L'humanité en question
 
+Histoire et Violence / Les limites de l'humain
+
+Comment la littérature prend-elle en charge la violence de l'Histoire ? 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMjU0Njk5LDE2ODIxNjEwNzIsNzQ0Mz
-gzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwx
-NDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1Nj
-AzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMw
-LC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMT
-A0MzY0NTc1OCwtOTg4OTQ4NTg1LC05MjcyNzI2MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDQ5MjQyNTgsMTY4MjE2MTA3Miw3ND
+QzODMzNzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0
+LDE0NzkwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMz
+U2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1
+MzAsLTE5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMi
+wxMDQzNjQ1NzU4LC05ODg5NDg1ODUsLTkyNzI3MjYzNF19
 -->
