@@ -90,13 +90,14 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
 * L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
 * ----
-* 
+* Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
+* Candide ou l'optimisme, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA3NDc5OSwtMTc1ODUyMDgxOSwtMT
-ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
-NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
-kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
-MSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLT
-E5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQz
-NjQ1NzU4XX0=
+eyJoaXN0b3J5IjpbLTEyMzgyODMwODgsLTE3NTg1MjA4MTksLT
+ExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0Mzgz
+MzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwxND
+c5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAz
+MTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC
+0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0
+MzY0NTc1OF19
 -->
