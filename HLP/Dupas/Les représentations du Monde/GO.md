@@ -20,8 +20,8 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * ----
 * La souffrance, intrinsèque de l'existence
 * La littérature, à mi-chemin entre parole et silence
-* 
+* Peut transme
 * ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA5MTk1NDJdfQ==
+eyJoaXN0b3J5IjpbLTcyMjkwNjg5MCwtMTQwMDkxOTU0Ml19
 -->
