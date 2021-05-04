@@ -91,13 +91,14 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
 * ----
 * Nécessaire d'écrire la barbarie collective (Rabelais Gargantua). Le moine devient un monstre.
-* Candide ou l'optimisme, 
+* 
+* ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgyODMwODgsLTE3NTg1MjA4MTksLT
-ExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0Mzgz
-MzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwxND
-c5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAz
-MTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC
-0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0
-MzY0NTc1OF19
+eyJoaXN0b3J5IjpbODA5Njg4NzE0LC0xNzU4NTIwODE5LC0xMT
+E2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3
+MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OT
+AyODA3NywxMTMzOTA3MTc5LDY5ODQyODIzMSwxOTAzNTYwMzEx
+LC0xNjk3NTAzNDkwLC00Mjg1MTg3MTAsMTcyMTQwMDUzMCwtMT
+k2ODQ2MDg1OSwxMDk1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2
+NDU3NThdfQ==
 -->
