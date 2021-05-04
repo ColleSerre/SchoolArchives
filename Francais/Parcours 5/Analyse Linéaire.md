@@ -16,9 +16,28 @@ Procédés:
 L'extrait s'ouvre sur deux questions,  **Que prétendez-vous avec cet amour pour une personne qui ne saura jamais que vous l'aimez cela est bien bizarre. Que prétendez-vous ?**, à la suite de la part d'Araminte ce qui montre sa détermination à avoir des réponses. De plus, la répétition de "Que prétendez-vous" montre l'incompréhension d'Araminte et souligne les deux visions différentes de l'amour qu'ont les personnages: Dorante ne demande pas à être aimé alors qu'Araminte a besoin d'être aimée pour aimer en retour. Cela montre, dès le début de l'extrait, que la cohabitation des deux personnages ne sera pas simple dans cette scène. En somme, "Que prétendez-vous" sert de révélateur au contraste entre l'idéalisme de Dorante et le pragmatisme d'Araminte. 
 Dorante répond à ces questions qui l'assaillent par une explication simple, claire et sans fioritures de sa vision de son amour. Le ton sur lequel Araminte réagit à cette réponse révèle ses intentions. En effet, son exclamation dans "Avec elle !" et la question qui la suit montrent qu'Araminte cherche à tout prix à faire se dévoiler Dorante. Cette volonté est si forte qu'elle la pousse à des exclamations qui ne sont en rien justifiées par les réponses de Dorante. Ce dernier fait attention à ne pas entrer dans le jeu pernicieux d'Araminte en répondant encore une fois avec calme et maitrise pour ne laisser aucune information s'échapper. Avec "Je veux dire avec son portrait, quand je ne la vois point" Dorante montre que son amour ne passe pas par la chair, mais par le souvenir de sa bien-aimée et que le portrait n'est qu'une sorte d'incarnation de son amour plutôt qu'un véritable objet nécessaire à son fonctionnement. Cela est souligné par la construction du discours qui rapporte le tableau comme étant un palliatif à l'absence de l'être aimé. Le même schéma se répète pour Araminte qui répond par une exclamation avant de poser une question de plus. Cependant, Araminte tente d'approcher le sujet du vol du portrait en l'interrogeant sur l'origine de ce dernier qui lui est tout à fait connue puisque c'est elle qui l'a réceptionné. Cette transition bien amenée vers le vol du tableau montre qu'en dépit des apparences Araminte possède une certaine maitrise de la situation. Dorante ment pour s'extirper de la situation, ignorant qu'Araminte est au fait de l'origine du tableau. Ce mensonge, en apparences innocent, traduit un Dorante mal à l'aise, cherchant à se sortir d'une situation qu'il sait désavantageuse. De plus, Dorante rend le portrait encore plus intime qu'il ne l'est déjà en prétendant avoir passé de son propre temps à l'élaborer. 
 La réplique "Il faut le pousser à bout", prononcée à part, d'Araminte montre que ses efforts ne sont pas finis et que, malgré une première lecture en défaveur d'Araminte, cette réplique montre la persistance d'Araminte qui sent qu'elle arrive à la véritable brèche de Dorante plutôt qu'un aveu d'échec. Ensuite, "Montrez-moi ce portrait" l'autorité de cette phrase dénuée de courtoisie souligne l'offensive d'Araminte contre Dorante. Il repousse cette attaque en déclinant avec le respect et la courtoisie qui sont naturelles dans ce milieu. La conversation n'a donc rien d'inhabituel et Dorante fait redescendre la pression en prétextant la valeur sentimentale de l'objet. En cela, Dorante reprend le contrôle de la situation par ses sentiments ce qui l'oppose à Araminte qui cherche à dominer par des stratagèmes cyniques. Cependant, la scène prend un tournant brusque quand Dorante est forcé à la confrontation par Araminte. Cette dernière lui montre la boite du portrait perdu, lui signifiant qu'elle n'est pas dupe et que ses stratagèmes ne fonctionneront pas si facilement. En cela, la scène est unique, car elle présente une réelle confrontation de stratagèmes.
+
+LE PERSONNAGE DE DUBOIS
+
+  
+  
+
+Dubois, un valet manipulateur
+
+  
+
+-   Repérez ses apparitions sur scène; sont-elles nombreuses? Qu’en déduisez-vous?
+-   En quoi Dubois est-il un personnage ambigu?
+Une victoire sur l’impossible
+-   A quels obstacles est-il confronté?
+-   Comment et pourquoi Dubois triomphe-t-il malgré cela?
+Un valet stratège
+-   Répertoriez les différentes étapes de sa technique de “ fausse confidence”.
+Un personnage inquiétant?
+-   Quels sont les mobiles qui selon vous le poussent à agir?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NTk0NDgzLDE0MDEwMzYyODEsMTg5OT
-A4Njc2MywyMDE2MzE3MTUwLDg2ODc2Mjg5MiwxMDQ5NzU0MTEs
-ODA5ODE3MzUxLDE0NzE3OTA3OTcsMTQ3MTc5MDc5NywtMTkzMj
-c5OTYyMiwxMjM3NDMwODNdfQ==
+eyJoaXN0b3J5IjpbNzcwOTc2NCw1ODQ1OTQ0ODMsMTQwMTAzNj
+I4MSwxODk5MDg2NzYzLDIwMTYzMTcxNTAsODY4NzYyODkyLDEw
+NDk3NTQxMSw4MDk4MTczNTEsMTQ3MTc5MDc5NywxNDcxNzkwNz
+k3LC0xOTMyNzk5NjIyLDEyMzc0MzA4M119
 -->
