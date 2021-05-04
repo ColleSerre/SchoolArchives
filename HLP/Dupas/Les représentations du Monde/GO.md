@@ -7,6 +7,9 @@ La littérature peut-elle ironiser sur la fureur de l'Histoire ?
 Comment exprimer la déchéance du corps ?
 Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience ?
 
+|  |
+|--|
+| 
 * Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
 * Nécessaire pour ne retenir que l'essentiel
 * Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
@@ -36,8 +39,7 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * Connaître les pensées intimes peut-être un poids pour le lecteur
 * La littérature ne permet pas le voyeurisme comme le cinéma ou la photographie. 
 ----
-* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg1ODYxODcsNTgzMjY2MDk2LC0xND
-AwOTE5NTQyXX0=
+eyJoaXN0b3J5IjpbMTYxMzQ0MDEzMSwtMTA0ODU4NjE4Nyw1OD
+MyNjYwOTYsLTE0MDA5MTk1NDJdfQ==
 -->
