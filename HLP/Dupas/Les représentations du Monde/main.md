@@ -84,7 +84,7 @@ Comment la littérature prend-elle en charge la violence de l'Histoire ?
 * Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
 * Nécessaire pour ne retenir que l'essentiel
 * Le calvaire de la lecture permet de se rapprocher de la douleur de l'écrivain
-* 
+* L'auteur doit rendre le corps sien au lecteur pour que la douleur soit partagée
 
 La littérature peut-elle ironiser sur la fureur de l'Histoire ?
 Comment exprimer la déchéance du corps ?
@@ -92,11 +92,11 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3ODg4NzY3LC0xNzU4NTIwODE5LC0xMT
-E2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3
-MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OT
-AyODA3NywxMTMzOTA3MTc5LDY5ODQyODIzMSwxOTAzNTYwMzEx
-LC0xNjk3NTAzNDkwLC00Mjg1MTg3MTAsMTcyMTQwMDUzMCwtMT
-k2ODQ2MDg1OSwxMDk1MjkxMzUyLC0xNjY0MzIzNTAyLDEwNDM2
-NDU3NThdfQ==
+eyJoaXN0b3J5IjpbMTk4NTE4NjkzMywtMTc1ODUyMDgxOSwtMT
+ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
+NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
+kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
+MSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLT
+E5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQz
+NjQ1NzU4XX0=
 -->
