@@ -44,8 +44,9 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * ----
 * Commencer avec un conte pour introduire
 * La littérature éloigne de la superficialité, approche à la vérité. 
-* 
+* S'accomplir, c'est ce que font les personnages, les Hommes ne font que vivre.
 * ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzk1NzA4NSwtMTQwMDkxOTU0Ml19
+eyJoaXN0b3J5IjpbLTE3MDkxMjE5NzYsLTE0MDA5MTk1NDJdfQ
+==
 -->
