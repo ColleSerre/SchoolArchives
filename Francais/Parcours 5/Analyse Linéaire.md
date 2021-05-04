@@ -19,9 +19,6 @@ La réplique "Il faut le pousser à bout", prononcée à part, d'Araminte montre
 
 LE PERSONNAGE DE DUBOIS
 
-  
-  
-
 1. Dubois, un valet manipulateur
 -   Repérez ses apparitions sur scène; sont-elles nombreuses? Qu’en déduisez-vous?
 	- Acte I Scène II
@@ -49,14 +46,13 @@ LE PERSONNAGE DE DUBOIS
 	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
 3. Un valet stratège
 -   Répertoriez les différentes étapes de sa technique de “fausse confidence”.
-
 4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MzkwNDQ4LDIwMTA1NTE3MjQsNTg0NT
-k0NDgzLDE0MDEwMzYyODEsMTg5OTA4Njc2MywyMDE2MzE3MTUw
-LDg2ODc2Mjg5MiwxMDQ5NzU0MTEsODA5ODE3MzUxLDE0NzE3OT
-A3OTcsMTQ3MTc5MDc5NywtMTkzMjc5OTYyMiwxMjM3NDMwODNd
-fQ==
+eyJoaXN0b3J5IjpbODgwNTkzODQsMjAxMDU1MTcyNCw1ODQ1OT
+Q0ODMsMTQwMTAzNjI4MSwxODk5MDg2NzYzLDIwMTYzMTcxNTAs
+ODY4NzYyODkyLDEwNDk3NTQxMSw4MDk4MTczNTEsMTQ3MTc5MD
+c5NywxNDcxNzkwNzk3LC0xOTMyNzk5NjIyLDEyMzc0MzA4M119
+
 -->
