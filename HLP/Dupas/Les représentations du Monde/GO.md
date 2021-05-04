@@ -69,9 +69,8 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * ----
 * Aurait pu utiliser Nos actes ne sont éphémères qu'en apparence. La vie du présent tisse celle de l'avenir. de Gustave Le Bon
 * Lire ou écrire c'est mettre en mots ce qui nous tourmente
-* Insensé toi qui pense que je ne suis pas toi
+* 
 * ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQxNjg3MTQsLTE0MDA5MTk1NDJdfQ
-==
+eyJoaXN0b3J5IjpbMTY0NTYyMDM5NCwtMTQwMDkxOTU0Ml19
 -->
