@@ -22,22 +22,22 @@ LE PERSONNAGE DE DUBOIS
   
   
 
-Dubois, un valet manipulateur
-
-  
-
+1. Dubois, un valet manipulateur
 -   Repérez ses apparitions sur scène; sont-elles nombreuses? Qu’en déduisez-vous?
+	- 
 -   En quoi Dubois est-il un personnage ambigu?
-Une victoire sur l’impossible
+	- 
+2. Une victoire sur l’impossible
 -   A quels obstacles est-il confronté?
+	- Suspicions dues à sa classe sociale
 -   Comment et pourquoi Dubois triomphe-t-il malgré cela?
-Un valet stratège
+3. Un valet stratège
 -   Répertoriez les différentes étapes de sa technique de “ fausse confidence”.
-Un personnage inquiétant?
+4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwOTc2NCw1ODQ1OTQ0ODMsMTQwMTAzNj
-I4MSwxODk5MDg2NzYzLDIwMTYzMTcxNTAsODY4NzYyODkyLDEw
-NDk3NTQxMSw4MDk4MTczNTEsMTQ3MTc5MDc5NywxNDcxNzkwNz
-k3LC0xOTMyNzk5NjIyLDEyMzc0MzA4M119
+eyJoaXN0b3J5IjpbMTYwMzI0NDY3OSw1ODQ1OTQ0ODMsMTQwMT
+AzNjI4MSwxODk5MDg2NzYzLDIwMTYzMTcxNTAsODY4NzYyODky
+LDEwNDk3NTQxMSw4MDk4MTczNTEsMTQ3MTc5MDc5NywxNDcxNz
+kwNzk3LC0xOTMyNzk5NjIyLDEyMzc0MzA4M119
 -->
