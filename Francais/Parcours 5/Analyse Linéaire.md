@@ -49,14 +49,14 @@ LE PERSONNAGE DE DUBOIS
 	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
 3. Un valet stratège
 -   Répertoriez les différentes étapes de sa technique de “fausse confidence”.
-	- 
+
 4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTA3Mzk1NywyMDEwNTUxNzI0LDU4ND
-U5NDQ4MywxNDAxMDM2MjgxLDE4OTkwODY3NjMsMjAxNjMxNzE1
-MCw4Njg3NjI4OTIsMTA0OTc1NDExLDgwOTgxNzM1MSwxNDcxNz
-kwNzk3LDE0NzE3OTA3OTcsLTE5MzI3OTk2MjIsMTIzNzQzMDgz
-XX0=
+eyJoaXN0b3J5IjpbNjU4MzkwNDQ4LDIwMTA1NTE3MjQsNTg0NT
+k0NDgzLDE0MDEwMzYyODEsMTg5OTA4Njc2MywyMDE2MzE3MTUw
+LDg2ODc2Mjg5MiwxMDQ5NzU0MTEsODA5ODE3MzUxLDE0NzE3OT
+A3OTcsMTQ3MTc5MDc5NywtMTkzMjc5OTYyMiwxMjM3NDMwODNd
+fQ==
 -->
