@@ -74,9 +74,10 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 * Par la plume s'évadent les drames
 ----
 * Trop de transparence viole la vie privée
-* 
+* Connaître les pensées intimes peut-être un poids pour le lecteur
+* La littérature ne permet pas le voyeurisme comme le cinéma ou la pho
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjk1MTM3OSw1ODMyNjYwOTYsLTE0MD
+eyJoaXN0b3J5IjpbMTYxMDIwNzg0Niw1ODMyNjYwOTYsLTE0MD
 A5MTk1NDJdfQ==
 -->
