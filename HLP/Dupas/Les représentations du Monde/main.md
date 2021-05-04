@@ -81,7 +81,9 @@ Histoire et Violence / Les limites de l'humain
 
 Comment la littérature prend-elle en charge la violence de l'Histoire ?
 
-* 
+* Le corps est façonné pour que chaque ressenti soit différent ? (ah bon)
+* Nécessaire pour ne retenir que l'essentiel
+* Philippe Lançon montre sa douleur 
 
 La littérature peut-elle ironiser sur la fureur de l'Histoire ?
 Comment exprimer la déchéance du corps ?
@@ -89,11 +91,11 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Nzc5MTMxNywtMTc1ODUyMDgxOSwtMT
-ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
-NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
-kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
-MSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLT
-E5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQz
-NjQ1NzU4XX0=
+eyJoaXN0b3J5IjpbLTE2MDgwMjU0NzcsLTE3NTg1MjA4MTksLT
+ExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0Mzgz
+MzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwxND
+c5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAz
+MTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC
+0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0
+MzY0NTc1OF19
 -->
