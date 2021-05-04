@@ -35,9 +35,9 @@ Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience
 ----
 * Trop de transparence viole la vie privée
 * Connaître les pensées intimes peut-être un poids pour le lecteur
-* La littérature ne permet pas le voyeurisme comme le cinéma ou la photographie. 
-----
+* La littérature ne permet pas le voyeurisme comme le cinéma ou la photographie.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mzk2MDA4NSwtMTA0ODU4NjE4Nyw1OD
-MyNjYwOTYsLTE0MDA5MTk1NDJdfQ==
+eyJoaXN0b3J5IjpbMjkxMjMxNDEsLTI5Mzk2MDA4NSwtMTA0OD
+U4NjE4Nyw1ODMyNjYwOTYsLTE0MDA5MTk1NDJdfQ==
 -->
