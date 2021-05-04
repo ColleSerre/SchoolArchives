@@ -44,17 +44,17 @@ LE PERSONNAGE DE DUBOIS
 	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. De plus, il monte des stratagèmes pour Dorante pour des raisons incertaines. En somme, Dubois est un personnage puissant qui agit en faveur de Dorante pour des raisons inconnues.
 2. Une victoire sur l’impossible
 -   À quels obstacles est-il confronté?
-	- Suspicions dues à sa classe sociale, mais pas seulement. 
+	- Aux suspicions dues à sa classe sociale, mais pas seulement. 
 -   Comment et pourquoi Dubois triomphe-t-il malgré cela?
 	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
 3. Un valet stratège
--   Répertoriez les différentes étapes de sa technique de “ fausse confidence”.
+-   Répertoriez les différentes étapes de sa technique de “fausse confidence”.
 	- 
 4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTIzMDY4MSwyMDEwNTUxNzI0LDU4ND
+eyJoaXN0b3J5IjpbMTMwOTA3Mzk1NywyMDEwNTUxNzI0LDU4ND
 U5NDQ4MywxNDAxMDM2MjgxLDE4OTkwODY3NjMsMjAxNjMxNzE1
 MCw4Njg3NjI4OTIsMTA0OTc1NDExLDgwOTgxNzM1MSwxNDcxNz
 kwNzk3LDE0NzE3OTA3OTcsLTE5MzI3OTk2MjIsMTIzNzQzMDgz
