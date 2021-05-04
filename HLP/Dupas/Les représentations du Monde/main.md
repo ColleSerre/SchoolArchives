@@ -79,16 +79,16 @@ Développement en deux temps, deux éléments de réponse != axes de lecture. On
 L'humanité en question
 Histoire et Violence / Les limites de l'humain
 
-Comment la littérature prend-elle en charge la violence de l'Histoire ? 
+Comment la littérature prend-elle en charge la violence de l'Histoire ?
 La littérature peut-elle ironiser sur la fureur de l'Histoire ?
 Comment exprimer la déchéance du corps ?
 Le corps humain est-il une merveilleuse machine dont nous n'avons pas conscience ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2OD
-IxNjEwNzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5
-LDQxNTY2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4ND
-I4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcx
-MCwxNzIxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLT
-E2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOTg4OTQ4NTg1LC05Mjcy
-NzI2MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTg1MjA4MTksLTExMTY1MDE3MzUsOD
+c3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0MzgzMzcxLDE2ODIxNjEw
+NzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwxNDc5MDI4MDc3LDExMz
+M5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0
+OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC0xOTY4NDYwODU5LD
+EwOTUyOTEzNTIsLTE2NjQzMjM1MDIsMTA0MzY0NTc1OCwtOTg4
+OTQ4NTg1XX0=
 -->
