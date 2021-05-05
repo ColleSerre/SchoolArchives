@@ -42,9 +42,9 @@ During the war, instead of fighting under the American flag, the Harlem Hellfigh
 
 ## Women
 
-Women earning their own paychecks, more interested about the right to vote. 
+Women earning their own pay cheques, more interested in the right to vote. 1 million women joined the workforce during WW1. A lot of unpaid work: red cross, using less meat and wheat, usin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ0MjY1OSwtODMyODcyMjUzLDEzMz
-kzOTAwLDEwNTM5MDk3NTgsLTQzMzQxMTE5OSwxOTEzOTA2NTIz
-LDExMzE4NTc5NTcsOTYyOTA0NDk5XX0=
+eyJoaXN0b3J5IjpbLTE4NDg1NzEzNTAsLTgzMjg3MjI1MywxMz
+M5MzkwMCwxMDUzOTA5NzU4LC00MzM0MTExOTksMTkxMzkwNjUy
+MywxMTMxODU3OTU3LDk2MjkwNDQ5OV19
 -->
