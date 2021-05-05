@@ -1,10 +1,5 @@
 # Orale - Daren Palmer
 
-Bonjour, je m'appelle Daren Palmer. Je suis en onzième année au lycée Jeannine Manuel. Toujours vis à Marcq en Baroeul depuis neuf ans. J'aime ma maison, car elle me permet d'avoir une pièce assez grande pour moi. Le bénéfice de cette chambre pour faire de la programmation et création d'applications ou les sites Web. En ce moment je travaille sur un réseau-social avec un ami et nous sommes à la recherche d'investisseurs donc si vous avez des amis qui travaillent dans ce secteur vous pouvez nous appeler. Plus tard j'aimerais suivre un cursus double en informatique et en philosophie, car je pense qu'il est important de maîtriser les deux pour être un bon ingénieur et ne pas tomber le piège de l'argent.
-
-
-
-
 Hallo, mein Name ist Daren Palmer. Ich bin in der elften Klasse der Jeannine Manuel High School. Ich lebe seit neun Jahren in Marcq en Baroeul. Mein Haus ist schön, weil es mir erlaubt, ein Zimmer zu haben, das groß genug für mich ist. Ich nutze diesen Raum, um zu programmieren und Anwendungen oder Webseiten zu erstellen. Im Moment arbeite ich an einem sozialen Netzwerk und wir suchen nach Investoren. Wenn Sie also Freunde haben, die in diesem Bereich arbeiten, können Sie uns anrufen. Später möchte ich ein Doppelstudium in Informatik und Philosophie machen, denn ich denke, es ist wichtig, beides zu beherrschen, um ein guter Ingenieur zu sein und nicht in die Geldfalle zu tappen. Also, vor kurzem wurde Couscous von der UNO in das "kulturelle Erbe der Menschheit" eingestuft und ich mag dieses Gericht sehr, denn meine Mutter macht es sehr gut, also habe ich beschlossen, Ihnen die Geschichte des Couscous zu präsentieren
 
 
@@ -23,9 +18,9 @@ Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam Cous
 
 Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNjY4NTEsLTM4NjY2NTA2NywtNDY5ND
-kxMTkxLC01NTcwNTMzMjYsMzU4MTEzODk4LDY5MDU4MTQsOTEw
-ODExMzY0LDYyOTgxMDE4MCwxNzkyMjIxNzEwLC0xNDg3NTgzOT
-g3LDE1NzcwMzIyNTMsLTE2NTMzNDU3ODMsLTg2ODY2NzU0Mywt
-MjExNjQyMTU3Nl19
+eyJoaXN0b3J5IjpbMTE3NjE1OTU2MywyNzM2Njg1MSwtMzg2Nj
+Y1MDY3LC00Njk0OTExOTEsLTU1NzA1MzMyNiwzNTgxMTM4OTgs
+NjkwNTgxNCw5MTA4MTEzNjQsNjI5ODEwMTgwLDE3OTIyMjE3MT
+AsLTE0ODc1ODM5ODcsMTU3NzAzMjI1MywtMTY1MzM0NTc4Mywt
+ODY4NjY3NTQzLC0yMTE2NDIxNTc2XX0=
 -->
