@@ -15,7 +15,7 @@ Wir wissen nicht genau, woher Couscous stammt und wann er erfunden wurde, aber e
 
 Traditionell wird Couscous mit saisonalem Gemüse gegessen und man sollte kein Fleisch untermischen. Der  Couscous royal, der in Frankreich am häufigsten gegessen wird, ist also falsch.
 
-Die Araber übernahmen das Gericht während der Kriege und stellten das Werkzeug zur Herstellung von Couscous her: den Couscoussier. Spuren dieses Werkzeugs finden sich um das 9. Jahrhundert nach Chirstus.
+Die Araber übernahmen das Gericht während der Kriege und stellten das Werkzeug zur Herstellung von Couscous her: den Couscoussier. Spuren dieses Werkzeugs finden sich um das 9. Jahrhundert nach Chirstus. 
 
 Mit der arabischen Eroberung Spaniens und Portugals kam der Couscous auf die Reise.
 
@@ -23,8 +23,9 @@ Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam der 
 
 Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTQ5MTE5MSwtNTU3MDUzMzI2LDM1OD
-ExMzg5OCw2OTA1ODE0LDkxMDgxMTM2NCw2Mjk4MTAxODAsMTc5
-MjIyMTcxMCwtMTQ4NzU4Mzk4NywxNTc3MDMyMjUzLC0xNjUzMz
-Q1NzgzLC04Njg2Njc1NDMsLTIxMTY0MjE1NzZdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzY5OTM3LC00Njk0OTExOTEsLTU1Nz
+A1MzMyNiwzNTgxMTM4OTgsNjkwNTgxNCw5MTA4MTEzNjQsNjI5
+ODEwMTgwLDE3OTIyMjE3MTAsLTE0ODc1ODM5ODcsMTU3NzAzMj
+I1MywtMTY1MzM0NTc4MywtODY4NjY3NTQzLC0yMTE2NDIxNTc2
+XX0=
 -->
