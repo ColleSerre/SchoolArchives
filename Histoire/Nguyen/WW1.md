@@ -54,12 +54,12 @@ Replaced the men, worked in ammunition and weapons factories, agriculture, commu
 | | Both expected to be acknowledged and rewarded for their contribution |
 | | Both contributed overseas |
 | The AA weren't allowed to fight under US leadership |  |
-| A
+| Many CTA for women whereas AA were never asked to help (as a community). This has not | |
 
 **All this demonstrates the lack of recognisance of people over AA but only over women.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU4NDU4NTIsMTk0MzIyOTk5NywtOD
-MyODcyMjUzLDEzMzkzOTAwLDEwNTM5MDk3NTgsLTQzMzQxMTE5
-OSwxOTEzOTA2NTIzLDExMzE4NTc5NTcsOTYyOTA0NDk5XX0=
+eyJoaXN0b3J5IjpbNzUxMDU0MTE1LDE5NDMyMjk5OTcsLTgzMj
+g3MjI1MywxMzM5MzkwMCwxMDUzOTA5NzU4LC00MzM0MTExOTks
+MTkxMzkwNjUyMywxMTMxODU3OTU3LDk2MjkwNDQ5OV19
 -->
