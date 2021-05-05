@@ -15,17 +15,17 @@ Wir wissen nicht genau, woher Couscous stammt und wann er erfunden wurde, aber e
 
 Traditionell wird Couscous mit saisonalem Gemüse gegessen und man sollte kein Fleisch untermischen. Der  Couscous royal, der in Frankreich am häufigsten gegessen wird, ist also falsch.
 
-Die Araber übernahmen das Gericht während der Kriege und stellten das Werkzeug zur Herstellung von Couscous her: den Couscoussier. Spuren dieses Werkzeugs finden sich um das 9. Jahrhundert nach Chirstus. 
+Die Araber übernahmen das Gericht während der Kriege und stellten das Werkzeug zur Herstellung von Couscous her: den Couscoussier. Spuren dieses Werkzeugs finden sich um das 9. Jahrhundert nach Chirstus. Das Couscoussier besteht aus einem Topf, der unter eine durchbrochene Tonschale gestellt wird. In der unteren Schale befindet sich kochendes Wasser und in der Tonschale werden die Speisen gedämpft. 
 
 Mit der arabischen Eroberung Spaniens und Portugals kam der Couscous auf die Reise.
 
-Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam der Couscous erst nach der Unabhängigkeit Algeriens mit den Pieds Noirs und dem Exodus von 1962 nach Frankreich
+Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam der Couscous erst nach der Unabhängigkeit Algeriens mit den Pieds Noirs und dem Exodus von 1962 nach Frankreich. 
 
 Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzY5OTM3LC00Njk0OTExOTEsLTU1Nz
-A1MzMyNiwzNTgxMTM4OTgsNjkwNTgxNCw5MTA4MTEzNjQsNjI5
-ODEwMTgwLDE3OTIyMjE3MTAsLTE0ODc1ODM5ODcsMTU3NzAzMj
-I1MywtMTY1MzM0NTc4MywtODY4NjY3NTQzLC0yMTE2NDIxNTc2
-XX0=
+eyJoaXN0b3J5IjpbLTM4NjY2NTA2NywtNDY5NDkxMTkxLC01NT
+cwNTMzMjYsMzU4MTEzODk4LDY5MDU4MTQsOTEwODExMzY0LDYy
+OTgxMDE4MCwxNzkyMjIxNzEwLC0xNDg3NTgzOTg3LDE1NzcwMz
+IyNTMsLTE2NTMzNDU3ODMsLTg2ODY2NzU0MywtMjExNjQyMTU3
+Nl19
 -->
