@@ -13,7 +13,7 @@ Hallo, mein Name ist Daren Palmer. Ich bin in der elften Klasse der Jeannine Man
 
 Wir wissen nicht genau, woher Couscous stammt und wann er erfunden wurde, aber es ist sehr wahrscheinlich, dass er berberischen Ursprungs ist, denn mit Couscous gefüllte Töpfe wurden im Grab des Königs Massinissa, also eines Berberkönigs, gefunden, was bedeutet, dass es Couscous mindestens seit zweihundertneununddreißig vor Christus gibt.
 
-Traditionell wird Couscous mit saisonalem Gemüse gegessen und man sollte kein Fleisch untermischen. Der königliche Couscous, der in Frankreich am häufigsten gegessen wird, ist also falsch.
+Traditionell wird Couscous mit saisonalem Gemüse gegessen und man sollte kein Fleisch untermischen. Der  Couscous royal, der in Frankreich am häufigsten gegessen wird, ist also falsch.
 
 Die Araber übernahmen das Gericht während der Kriege und stellten das Werkzeug zur Herstellung von Couscous her: den Couscoussier. Spuren dieses Werkzeugs finden sich um das 9. Jahrhundert nach Chirstus.
 
@@ -23,8 +23,8 @@ Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam der 
 
 Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzA1MzMyNiwzNTgxMTM4OTgsNjkwNT
-gxNCw5MTA4MTEzNjQsNjI5ODEwMTgwLDE3OTIyMjE3MTAsLTE0
-ODc1ODM5ODcsMTU3NzAzMjI1MywtMTY1MzM0NTc4MywtODY4Nj
-Y3NTQzLC0yMTE2NDIxNTc2XX0=
+eyJoaXN0b3J5IjpbLTQ2OTQ5MTE5MSwtNTU3MDUzMzI2LDM1OD
+ExMzg5OCw2OTA1ODE0LDkxMDgxMTM2NCw2Mjk4MTAxODAsMTc5
+MjIyMTcxMCwtMTQ4NzU4Mzk4NywxNTc3MDMyMjUzLC0xNjUzMz
+Q1NzgzLC04Njg2Njc1NDMsLTIxMTY0MjE1NzZdfQ==
 -->
