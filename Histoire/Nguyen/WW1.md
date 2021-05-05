@@ -43,8 +43,15 @@ During the war, instead of fighting under the American flag, the Harlem Hellfigh
 ## Women
 
 Replaced the men, worked in ammunition and weapons factories, agriculture, communications, volunteers overseas nurses. Women earning their own pay cheques, more interested in the right to vote. 1 million women joined the workforce during WW1. A lot of unpaid work: red cross, using less meat and wheat, the military (nursing showed that women were trained professionals). Virtually no opportunities for AA abroad. Served in the navy back home. Women always helped in wars but this time they were part of the military. **They were now in positions of power.** Changed the perspectives women could have. They were also used as propaganda, they were depicted as what men were protecting (along with children). **The war accelerated the loosening of the tie between women and the household.** This had long-lasting effects because it made women seem more capable, more in power and helped the women's suffrage movements.
+
+| Similarities | Differences |
+|--|--|
+| AA did not get any legal improvements | Both groups were given economics opportunities |
+| Women got the right to vote in 1920, 19th amendment.
+|both used war to promote and defend their rights and demonstrate their dignity
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDU2MTA4OCwtODMyODcyMjUzLDEzMz
-kzOTAwLDEwNTM5MDk3NTgsLTQzMzQxMTE5OSwxOTEzOTA2NTIz
-LDExMzE4NTc5NTcsOTYyOTA0NDk5XX0=
+eyJoaXN0b3J5IjpbMjY5OTkwNDMsLTgzMjg3MjI1MywxMzM5Mz
+kwMCwxMDUzOTA5NzU4LC00MzM0MTExOTksMTkxMzkwNjUyMywx
+MTMxODU3OTU3LDk2MjkwNDQ5OV19
 -->
