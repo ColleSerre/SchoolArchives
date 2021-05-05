@@ -47,11 +47,12 @@ Replaced the men, worked in ammunition and weapons factories, agriculture, commu
 | Similarities | Differences |
 |--|--|
 | AA did not get any legal improvements | Both groups were given economics opportunities |
-| Women got the right to vote in 1920, 19th amendment.
-|both used war to promote and defend their rights and demonstrate their dignity
+| Women got the right to vote in 1920, 19th amendment.| both used war to promote and defend their rights and demonstrate their dignity |
+|Women had a social gratitude, received medals and distinctions etc.| both requisitioned in war |
+|War Proved women were trustworthy.|both faced limitations gender/stereotypes|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5OTkwNDMsLTgzMjg3MjI1MywxMzM5Mz
-kwMCwxMDUzOTA5NzU4LC00MzM0MTExOTksMTkxMzkwNjUyMywx
-MTMxODU3OTU3LDk2MjkwNDQ5OV19
+eyJoaXN0b3J5IjpbNTE0NTAzMDg3LC04MzI4NzIyNTMsMTMzOT
+M5MDAsMTA1MzkwOTc1OCwtNDMzNDExMTk5LDE5MTM5MDY1MjMs
+MTEzMTg1Nzk1Nyw5NjI5MDQ0OTldfQ==
 -->
