@@ -19,13 +19,13 @@ Die Araber übernahmen das Gericht während der Kriege und stellten das Werkzeug
 
 Mit der arabischen Eroberung Spaniens und Portugals kam der Couscous auf die Reise.
 
-Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam der Couscous erst nach der Unabhängigkeit Algeriens mit den Pieds Noirs und dem Exodus von 1962 nach Frankreich. 
+Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam Couscous erst nach der Unabhängigkeit Algeriens mit dem Exodus 1962 nach Frankreich. Dieser Einwanderung ist es zu verdanken, dass Couscous erstmals massenhaft in Frankreich Einzug hielt. Viertel, die von der algerischen oder marokkanischen Diaspora geprägt sind, sind heute als gute Orte bekannt, um Couscous zu finden. Ein sehr bekanntes Viertel für Couscous ist das dreizehnte Arrondissement von Paris, wo sich das "Chez Mamane" befindet, ein Restaurant, das lange von dem Humoristen Coluche besucht wurde.
 
 Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjY2NTA2NywtNDY5NDkxMTkxLC01NT
-cwNTMzMjYsMzU4MTEzODk4LDY5MDU4MTQsOTEwODExMzY0LDYy
-OTgxMDE4MCwxNzkyMjIxNzEwLC0xNDg3NTgzOTg3LDE1NzcwMz
-IyNTMsLTE2NTMzNDU3ODMsLTg2ODY2NzU0MywtMjExNjQyMTU3
-Nl19
+eyJoaXN0b3J5IjpbMjczNjY4NTEsLTM4NjY2NTA2NywtNDY5ND
+kxMTkxLC01NTcwNTMzMjYsMzU4MTEzODk4LDY5MDU4MTQsOTEw
+ODExMzY0LDYyOTgxMDE4MCwxNzkyMjIxNzEwLC0xNDg3NTgzOT
+g3LDE1NzcwMzIyNTMsLTE2NTMzNDU3ODMsLTg2ODY2NzU0Mywt
+MjExNjQyMTU3Nl19
 -->
