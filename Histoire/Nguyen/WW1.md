@@ -49,16 +49,16 @@ Replaced the men, worked in ammunition and weapons factories, agriculture, commu
 | AA did not get any legal improvements | Both groups were given economics opportunities |
 | Women got the right to vote in 1920, 19th amendment.| both used war to promote and defend their rights and demonstrate their dignity |
 |Women had a social gratitude, received medals and distinctions etc.| both requisitioned in war |
-|War Proved women were trustworthy.|both faced limitations gender/stereotypes|
+|War Proved women were trustworthy.|both faced limitations due to gender/stereotypes ; especially AA women|
 |War changed nothing about the look of American society about AA, with the red summer and the development of segregation during the following years.| Women and AA were involved for the first time in a national act |
 | | Both expected to be acknowledged and rewarded for their contribution |
 | | Both contributed overseas |
-| The AA weren't allowed 
+| The AA weren't allowed to fight under US leadership |  |
 
 **All this demonstrates the lack of recognisance of people over AA but only over women.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODMwOTQxNCwtODMyODcyMjUzLDEzMz
+eyJoaXN0b3J5IjpbMTk0MzIyOTk5NywtODMyODcyMjUzLDEzMz
 kzOTAwLDEwNTM5MDk3NTgsLTQzMzQxMTE5OSwxOTEzOTA2NTIz
 LDExMzE4NTc5NTcsOTYyOTA0NDk5XX0=
 -->
