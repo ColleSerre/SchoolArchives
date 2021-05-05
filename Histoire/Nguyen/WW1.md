@@ -42,7 +42,7 @@ During the war, instead of fighting under the American flag, the Harlem Hellfigh
 
 ## Women
 
-Replaced the men, worked in ammunition and weapons factories, agriculture, communications, volunteers overseas nurses. Women earning their own pay cheques, more interested in the right to vote. 1 million women joined the workforce during WW1. A lot of unpaid work: red cross, using less meat and wheat, the military (nursing showed that women were trained professionals). Virtually no opportunities for AA abroad. Served in the navy back home. Women always helped in wars but this time they were part of the military. **They were now in positions of power.** Changed the perspectives women could have. They were also used as propaganda, they were depicted as what men were protecting (along with children). **The war accelerated the loosening of the tie between women and the household.** This had long-lasting effects because it made women seem more capable, more in power and helped the women's suffrage movements.
+Replaced the men, worked in ammunition and weapons factories, agriculture, communications, volunteers overseas nurses. Women earning their own pay cheques, more interested in the right to vote. 1 million women joined the workforce during WW1. A lot of unpaid work: red cross, using less meat and wheat, the military (nursing showed that women were trained professionals). Virtually no opportunities for AA abroad. Served in the navy back home. Women always helped in wars but this time they were part of the military. **They were now in positions of power.** Changed the perspectives women could have. They were also used as propaganda, they were depicted as what men were protecting (along with children). They were a symbol for the CPI Comity for public information (in charge of propaganda). **The war accelerated the loosening of the tie between women and the household.** This had long-lasting effects because it made women seem more capable, more in power and helped the women's suffrage movements.
 
 | Differences | Similarities |
 |--|--|
@@ -59,7 +59,8 @@ Replaced the men, worked in ammunition and weapons factories, agriculture, commu
 **All this demonstrates the lack of recognisance of people over AA but only over women.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE2MTc5MTcsMTk0MzIyOTk5NywtOD
-MyODcyMjUzLDEzMzkzOTAwLDEwNTM5MDk3NTgsLTQzMzQxMTE5
-OSwxOTEzOTA2NTIzLDExMzE4NTc5NTcsOTYyOTA0NDk5XX0=
+eyJoaXN0b3J5IjpbMTAwMzEzNDQxNCwtMTM3MTYxNzkxNywxOT
+QzMjI5OTk3LC04MzI4NzIyNTMsMTMzOTM5MDAsMTA1MzkwOTc1
+OCwtNDMzNDExMTk5LDE5MTM5MDY1MjMsMTEzMTg1Nzk1Nyw5Nj
+I5MDQ0OTldfQ==
 -->
