@@ -51,15 +51,15 @@ Replaced the men, worked in ammunition and weapons factories, agriculture, commu
 |Women had a social gratitude, received medals and distinctions etc.| both requisitioned in war |
 |War Proved women were trustworthy.|both faced limitations due to gender/stereotypes ; especially AA women|
 |War changed nothing about the look of American society about AA, with the red summer and the development of segregation during the following years.| Women and AA were involved for the first time in a national act |
-| | Both expected to be acknowledged and rewarded for their contribution |
+| Women were expected to  | Both expected to be acknowledged and rewarded for their contribution |
 | | Both contributed overseas |
 | The AA weren't allowed to fight under US leadership |  |
-| Many CTA for women whereas AA were never asked to help (as a community). This has not | |
+| Many CTA for women whereas AA were never asked to help (as a community). Therefore, they were not regarded as being important | |
 
 **All this demonstrates the lack of recognisance of people over AA but only over women.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMDU0MTE1LDE5NDMyMjk5OTcsLTgzMj
-g3MjI1MywxMzM5MzkwMCwxMDUzOTA5NzU4LC00MzM0MTExOTks
-MTkxMzkwNjUyMywxMTMxODU3OTU3LDk2MjkwNDQ5OV19
+eyJoaXN0b3J5IjpbLTE5MjkwNTkzNDksMTk0MzIyOTk5NywtOD
+MyODcyMjUzLDEzMzkzOTAwLDEwNTM5MDk3NTgsLTQzMzQxMTE5
+OSwxOTEzOTA2NTIzLDExMzE4NTc5NTcsOTYyOTA0NDk5XX0=
 -->
