@@ -53,12 +53,12 @@ Replaced the men, worked in ammunition and weapons factories, agriculture, commu
 |War changed nothing about the look of American society about AA, with the red summer and the development of segregation during the following years.| Women and AA were involved for the first time in a national act |
 | | Both expected to be acknowledged and rewarded for their contribution |
 | | Both contributed overseas |
-
+| The AA werent allow 
 
 **All this demonstrates the lack of recognisance of people over AA but only over women.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTAwMDQ1OSwtODMyODcyMjUzLDEzMz
+eyJoaXN0b3J5IjpbMTE1OTU1ODYwNiwtODMyODcyMjUzLDEzMz
 kzOTAwLDEwNTM5MDk3NTgsLTQzMzQxMTE5OSwxOTEzOTA2NTIz
 LDExMzE4NTc5NTcsOTYyOTA0NDk5XX0=
 -->
