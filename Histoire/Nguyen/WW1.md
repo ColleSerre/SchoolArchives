@@ -44,15 +44,19 @@ During the war, instead of fighting under the American flag, the Harlem Hellfigh
 
 Replaced the men, worked in ammunition and weapons factories, agriculture, communications, volunteers overseas nurses. Women earning their own pay cheques, more interested in the right to vote. 1 million women joined the workforce during WW1. A lot of unpaid work: red cross, using less meat and wheat, the military (nursing showed that women were trained professionals). Virtually no opportunities for AA abroad. Served in the navy back home. Women always helped in wars but this time they were part of the military. **They were now in positions of power.** Changed the perspectives women could have. They were also used as propaganda, they were depicted as what men were protecting (along with children). **The war accelerated the loosening of the tie between women and the household.** This had long-lasting effects because it made women seem more capable, more in power and helped the women's suffrage movements.
 
-| Similarities | Differences |
+| Differences | Similarities |
 |--|--|
 | AA did not get any legal improvements | Both groups were given economics opportunities |
 | Women got the right to vote in 1920, 19th amendment.| both used war to promote and defend their rights and demonstrate their dignity |
 |Women had a social gratitude, received medals and distinctions etc.| both requisitioned in war |
 |War Proved women were trustworthy.|both faced limitations gender/stereotypes|
+|War changed nothing about the look of American society about AA, with the red summer and the development of segregation during the following years.| Women and AA were involved for the first time in a national act |
+|| Both expected to be acknoledged |
+
+**All this demonstrates the lack of recognisance of people over AA but only over women.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0NTAzMDg3LC04MzI4NzIyNTMsMTMzOT
-M5MDAsMTA1MzkwOTc1OCwtNDMzNDExMTk5LDE5MTM5MDY1MjMs
-MTEzMTg1Nzk1Nyw5NjI5MDQ0OTldfQ==
+eyJoaXN0b3J5IjpbLTE3MDk5ODE4NzYsLTgzMjg3MjI1MywxMz
+M5MzkwMCwxMDUzOTA5NzU4LC00MzM0MTExOTksMTkxMzkwNjUy
+MywxMTMxODU3OTU3LDk2MjkwNDQ5OV19
 -->
