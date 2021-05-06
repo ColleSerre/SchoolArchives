@@ -141,12 +141,44 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 L'extrait s'ouvre sur "Vous n'avez rien dit de notre projet à Monsieur Remy, votre parent ?". Une phrase qui montre l'exclusivité du secret, seuls Dorante et Dubois sont au courant de ce dernier. Cela évoque la relation amicale des deux personnages qui pourtant ne devrait être que professionelle. Cela contraste aussi avec les
 
 
+LE PERSONNAGE DE DUBOIS
+
+1. Dubois, un valet manipulateur
+-   Repérez ses apparitions sur scène; sont-elles nombreuses? Qu’en déduisez-vous?
+	- Acte I Scène II
+	- Acte I Scène XIII
+	- Acte I Scène XIV
+	- Acte I Scène XVI
+	- Acte I Scène XVII
+	- Acte II Scène X
+	- Acte II Scène XII
+	- Acte II Scène XIII
+	- Acte II Scène XVI
+	- Acte II Scène XVII
+	- Acte III Scène I
+	- Acte III Scène II
+	- Acte III Scène III
+	- Acte III Scène IX
+	- Acte III Scène XIII
+	- Dubois apparaît donc dans peu de scènes au début de la pièce et prend de plus en plus de place alors que le stratagème se révèle.
+-   En quoi Dubois est-il un personnage ambigu?
+	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. De plus, il monte des stratagèmes pour Dorante pour des raisons incertaines. En somme, Dubois est un personnage puissant qui agit en faveur de Dorante pour des raisons inconnues.
+2. Une victoire sur l’impossible
+-   À quels obstacles est-il confronté?
+	- Aux suspicions dues à sa classe sociale, mais pas seulement. 
+-   Comment et pourquoi Dubois triomphe-t-il malgré cela?
+	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
+3. Un valet stratège
+-   Répertoriez les différentes étapes de sa technique de “fausse confidence”.
+4. Un personnage inquiétant?
+-   Quels sont les mobiles qui selon vous le poussent à agir?
+	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTA0NTA2NiwtMTk3NTI2NjcxNSwxNj
-Q2NzIzMDA0LDMxNDUxOTM5NiwyMDgxOTEwNjEyLDU1NzczODIx
-NiwxMDcwNjAxMjE5LC02NDI2MTQ2MCwzNDk2NDE5ODMsMzc2Nj
-I3NjkzLC0xNjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMjMzMTYy
-LDEyNDY4MzYwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMD
-M3OTQzODkyLDMzNzA3MTAwOCwtMTU2MTE3MDI4OSw2MDQ1ODE5
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTgxNTIxMjc1MywxODcxMDQ1MDY2LC0xOT
+c1MjY2NzE1LDE2NDY3MjMwMDQsMzE0NTE5Mzk2LDIwODE5MTA2
+MTIsNTU3NzM4MjE2LDEwNzA2MDEyMTksLTY0MjYxNDYwLDM0OT
+Y0MTk4MywzNzY2Mjc2OTMsLTE2MjQ5MjAzOTEsLTQ0MTc4MTU5
+Myw5NjAyMzMxNjIsMTI0NjgzNjA4NCwtNTQ5NDIzNDYwLC0xMD
+E4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcw
+Mjg5XX0=
 -->
