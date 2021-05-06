@@ -136,12 +136,11 @@ Plan d'Analyse Linéaire:
 	* Je vous vois déjà: hypotypose qui force Dorante à se projeter dans l'avenir, le stratagème est donc infaïble. Ce procédé est caractéristique de la tragédie, il est ici appliqué à la comédie (le messager qui relate la mort d'un personnage). Le présent a une valeur de futur proche.
 	* Quelle chimère !: l'exclamative montre que Dorante est découragé même avant d'avoir commencé (il est faible), alors que Dubois est plein d'entrain et fort. Inversion des rôles. 
 
+### Intro
+
 Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. Nous étudierons donc, en quoi cette scène renouvelle-t-elle les rapports maître-valet. On distingue deux grands mouvements: d'une part "Dorante est un maître reconnaissant (1 à 10)" et d'autre part "Dubois, un valet en réalité maître de la situation (10 à fin)". 
 
-L'extrait s'ouvre sur "Vous n'avez rien dit de notre projet à Monsieur Remy, votre parent ?". Une phrase qui montre l'exclusivité du secret, seuls Dorante et Dubois sont au courant de ce dernier. Cela évoque la relation amicale des deux personnages qui pourtant ne devrait être que professionelle. Cela contraste aussi avec les
-
-
-LE PERSONNAGE DE DUBOIS
+### Le personnage de Dubois
 
 1. Dubois, un valet manipulateur
 -   Repérez ses apparitions sur scène; sont-elles nombreuses? Qu’en déduisez-vous?
@@ -174,11 +173,11 @@ LE PERSONNAGE DE DUBOIS
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTIxMjc1MywxODcxMDQ1MDY2LC0xOT
-c1MjY2NzE1LDE2NDY3MjMwMDQsMzE0NTE5Mzk2LDIwODE5MTA2
-MTIsNTU3NzM4MjE2LDEwNzA2MDEyMTksLTY0MjYxNDYwLDM0OT
-Y0MTk4MywzNzY2Mjc2OTMsLTE2MjQ5MjAzOTEsLTQ0MTc4MTU5
-Myw5NjAyMzMxNjIsMTI0NjgzNjA4NCwtNTQ5NDIzNDYwLC0xMD
-E4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcw
-Mjg5XX0=
+eyJoaXN0b3J5IjpbLTI0MzUyNTA0LDE4NzEwNDUwNjYsLTE5Nz
+UyNjY3MTUsMTY0NjcyMzAwNCwzMTQ1MTkzOTYsMjA4MTkxMDYx
+Miw1NTc3MzgyMTYsMTA3MDYwMTIxOSwtNjQyNjE0NjAsMzQ5Nj
+QxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5MSwtNDQxNzgxNTkz
+LDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01NDk0MjM0NjAsLTEwMT
+gwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEwMDgsLTE1NjExNzAy
+ODldfQ==
 -->
