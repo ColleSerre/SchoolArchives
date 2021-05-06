@@ -5,6 +5,10 @@
 	* Dubois supérieur:
 		- Éloquence
 		- Contrôle la situation tire les ficelles
+
+| Les rapports maîtres/valets ont longtemps été en faveur des maîtres | Cependant, à partir du XVIIIᵉ siècle les rôles se sont inversés|
+|--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MTEyMjQyLC02NzM4NDQwMzBdfQ==
+eyJoaXN0b3J5IjpbLTIxNzY1ODUzOSw1MzgxMTIyNDIsLTY3Mz
+g0NDAzMF19
 -->
