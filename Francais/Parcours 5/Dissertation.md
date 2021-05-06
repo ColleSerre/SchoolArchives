@@ -7,8 +7,9 @@
 		- Contrôle la situation tire les ficelles
 
 | Les rapports maîtres/valets ont longtemps été en faveur des maîtres | Cependant, à partir du XVIIIᵉ siècle les rôles se sont inversés|
-|--
+|----|----|
+| | Dans les *fausses confidences* de Marivaux | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzY1ODUzOSw1MzgxMTIyNDIsLTY3Mz
+eyJoaXN0b3J5IjpbLTM0MjU4MzUwOCw1MzgxMTIyNDIsLTY3Mz
 g0NDAzMF19
 -->
