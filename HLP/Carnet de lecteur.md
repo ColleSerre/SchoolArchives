@@ -260,6 +260,8 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * "nous nous sommes **débarrassés** de la vie sauvage, nous nous sommes réunis pour **construire** des villes; nous avons **fixé** des lois; nous avons **découvert** des arts; et, **presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin.**" - Isocrate *Éloge de la parole*
 * L’écrivain engagé sait que la parole est action: il sait que dévoiler c'est changer et qu'on ne peut dévoiler qu'en projetant de changer. Il a abandonné le rêve impossible de faire une peinture impartiale de la Société et de la condition humaine. - Sartre
 
+
+
 ## Moralité
 
 * La vraie morale se moque de la morale - Blaise Pascal
@@ -353,11 +355,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMj
-AwNjYyMzUwNCwtNjk3ODU5MzksLTE3NDIxMTEzNzYsLTI5Mjk1
-NTAwMywxNzcxODAzNTA3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMz
-UxLC0xMzY2MDkyODIsLTEwMDUwMTEwMzAsLTE5NzcxNDU0MzUs
-LTE4Njg4MDczMSwxMzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMj
-cwMTUwNzQsMTc5NjMyMjQsNDkyMjYxOTAsLTE5MjQyMzI0MDYs
-OTc5ODQzMDk5XX0=
+eyJoaXN0b3J5IjpbMTMwMDcwNTgxOSwtMTY1NjQzNTQ2NSwtMT
+A5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NTkzOSwtMTc0MjEx
+MTM3NiwtMjkyOTU1MDAzLDE3NzE4MDM1MDcsLTExMjEwNjk0Mj
+YsLTE0MTczNDAzNTEsLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwt
+MTk3NzE0NTQzNSwtMTg2ODgwNzMxLDEzMDg3NDE3MzEsLTE1OD
+AyMDMxNCwtMTEyNzAxNTA3NCwxNzk2MzIyNCw0OTIyNjE5MCwt
+MTkyNDIzMjQwNl19
 -->
