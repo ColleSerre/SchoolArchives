@@ -8,8 +8,8 @@
 
 | Les rapports maîtres/valets ont longtemps été en faveur des maîtres | Cependant, à partir du XVIIIᵉ siècle les rôles se sont inversés|
 |----|----|
-| | Dans les *fausses confidences* de Marivaux | 
+| | Dans le *Mariage de Figaro* de Beaumarchais, | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjU4MzUwOCw1MzgxMTIyNDIsLTY3Mz
-g0NDAzMF19
+eyJoaXN0b3J5IjpbOTg2MjExMzY1LDUzODExMjI0MiwtNjczOD
+Q0MDMwXX0=
 -->
