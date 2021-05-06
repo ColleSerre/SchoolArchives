@@ -182,13 +182,15 @@ La technique de la "fausse confidence": ce n'est pas tout à fait un mensonge, c
 
 Habile, rusé, intelligent et sympathique, il mène un jeu du début à la fin. On ne peut nier son talent mais on peut s'interroger sur ses mobiles. 
 
-Serviable et sympathique: bon génie de la pièce, il est désint
+Serviable et sympathique: bon génie de la pièce, il est désintéressé, à l'inverse de Marton et d'Arlequin (intéressés par l'argent). Il n'est guidé par aucun intérêt perso. Il agit pour le bien de ses maitres si bien qu'A l'excuse de la machination. Tout est bien qui finit bien, on ne met pas en doute sa sincérité. Il peut se flatter d'avoir rendu deux êtres heureux. 
+
+Animé d'une voont" de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjA1MTk1NiwtODM1ODA0NTA0LDE4Nz
-EwNDUwNjYsLTE5NzUyNjY3MTUsMTY0NjcyMzAwNCwzMTQ1MTkz
-OTYsMjA4MTkxMDYxMiw1NTc3MzgyMTYsMTA3MDYwMTIxOSwtNj
-QyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5
-MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01ND
-k0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEw
-MDhdfQ==
+eyJoaXN0b3J5IjpbMTkwNTI2NzY1LC04MzU4MDQ1MDQsMTg3MT
+A0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIzMDA0LDMxNDUxOTM5
+NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMDcwNjAxMjE5LC02ND
+I2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0xNjI0OTIwMzkx
+LC00NDE3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OT
+QyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAw
+OF19
 -->
