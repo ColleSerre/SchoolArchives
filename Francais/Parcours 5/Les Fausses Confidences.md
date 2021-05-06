@@ -185,9 +185,9 @@ Habile, rusé, intelligent et sympathique, il mène un jeu du début à la fin. 
 Serviable et sympathique: bon génie de la pièce, il est désintéressé, à l'inverse de Marton et d'Arlequin (intéressés par l'argent). Il n'est guidé par aucun intérêt perso. Il agit pour le bien de ses maitres si bien qu'A l'excuse de la machination. Tout est bien qui finit bien, on ne met pas en doute sa sincérité. Il peut se flatter d'avoir rendu deux êtres heureux. 
 
 Animé d'une volonté de puissance ? 
-Pour mener à bien sa manipulation Dubois doit parfois être cynique. Les êtres ne sont pour lui que des marionnettes dont il tire les ficelles à sa guise. Le mensonge ne l'effraie pas. On se demande alors s'il ne manipule pas D comme il l'a fait pour A. Les raisons: Se prouver l'étendue de son pouvoir, prendre une revanche sur ses maitres. Se proyu
+Pour mener à bien sa manipulation Dubois doit parfois être cynique. Les êtres ne sont pour lui que des marionnettes dont il tire les ficelles à sa guise. Le mensonge ne l'effraie pas. On se demande alors s'il ne manipule pas D comme il l'a fait pour A. Les raisons: Se prouver l'étendue de son pouvoir, prendre une revanche sur ses maitres. Se prouver que ses qualités valent plus que la richesse matérielle. Amoureux secret d'A ? Il réalise ses voeux par personne interposée. On ne peut répondre à toutes ces éventualités mais celle-ci se projettent sur D une ombre inquiétante. Il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjQxMzM0LC04MzU4MDQ1MDQsMTg3MT
+eyJoaXN0b3J5IjpbNDE0MjU2NzA3LC04MzU4MDQ1MDQsMTg3MT
 A0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIzMDA0LDMxNDUxOTM5
 NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMDcwNjAxMjE5LC02ND
 I2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0xNjI0OTIwMzkx
