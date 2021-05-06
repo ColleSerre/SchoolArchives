@@ -159,7 +159,7 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 	- Acte III Scène III
 	- Acte III Scène IX
 	- Acte III Scène XIII
-	- Dubois apparaît donc dans peu de scènes au début de la pièce et prend de plus en plus de place alors que le stratagème se révèle.
+	- Acte I (5 fois) ; Acte II (7 fois) ; Acte III (5 fois)
 -   En quoi Dubois est-il un personnage ambigu?
 	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. De plus, il monte des stratagèmes pour Dorante pour des raisons incertaines. En somme, Dubois est un personnage puissant qui agit en faveur de Dorante pour des raisons inconnues. Il voit tout, sait tout et obtient une victoire, en apparences, impossible. On ne sait pas si, comme la plupart des valets de comédie, il agit pour le bien de son maître (en totale dévotion) ou s'il agit pour son propre bien. 
 2. Une victoire sur l’impossible
@@ -187,7 +187,7 @@ Serviable et sympathique: bon génie de la pièce, il est désintéressé, à l'
 Animé d'une volonté de puissance ? 
 Pour mener à bien sa manipulation Dubois doit parfois être cynique. Les êtres ne sont pour lui que des marionnettes dont il tire les ficelles à sa guise. Le mensonge ne l'effraie pas. On se demande alors s'il ne manipule pas D comme il l'a fait pour A. Les raisons: Se prouver l'étendue de son pouvoir, prendre une revanche sur ses maitres. Se prouver que ses qualités valent plus que la richesse matérielle. Amoureux secret d'A ? Il réalise ses voeux par personne interposée. On ne peut répondre à toutes ces éventualités mais celle-ci se projettent sur D une ombre inquiétante. Il a peut-être aussi un intérêt matériel. Le personnage de Dubois est une énigme, ce qui le rend intéressant. C'est le valet et non le maître qui suscite la réflexion. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwMDMwMzIyLC04MzU4MDQ1MDQsMTg3MT
+eyJoaXN0b3J5IjpbMTYxMzQ1NzMyLC04MzU4MDQ1MDQsMTg3MT
 A0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIzMDA0LDMxNDUxOTM5
 NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMDcwNjAxMjE5LC02ND
 I2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0xNjI0OTIwMzkx
