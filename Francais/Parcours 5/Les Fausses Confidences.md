@@ -177,8 +177,14 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 ### Un valet stratège
 
 La technique de la "fausse confidence": ce n'est pas tout à fait un mensonge, c'est une vérité dissimulée. Il procède par étapes: Eveiller l'intéret d'A pour D. Rendre public l'amour de D. Obliger A à se déclarer. Jouer sur la sensualité d'A. Jouer sur son goût de l'indépendance. Jouer sur le caractère raisonnable d'A. 
+
+### Un personnage inquiétant ? 
+
+Habile, rusé, intelligent et sympathique, il mène un jeu du début à la fin. On ne peut nier son talent mais on peut s'interroger sur ses mobiles. 
+
+Serviable et sympathique: bon génie de la pièce, il est désint
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTAwNjEwMCwtODM1ODA0NTA0LDE4Nz
+eyJoaXN0b3J5IjpbMjE0MjA1MTk1NiwtODM1ODA0NTA0LDE4Nz
 EwNDUwNjYsLTE5NzUyNjY3MTUsMTY0NjcyMzAwNCwzMTQ1MTkz
 OTYsMjA4MTkxMDYxMiw1NTc3MzgyMTYsMTA3MDYwMTIxOSwtNj
 QyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5
