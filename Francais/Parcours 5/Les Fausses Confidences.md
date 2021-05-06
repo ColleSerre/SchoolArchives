@@ -165,7 +165,7 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 2. Une victoire sur l’impossible
 -   À quels obstacles est-il confronté?
 	- Les obstacles: manipulatio, mésalliance, A est une veuve qui veut garder son indépendance. Dubois doit faire naitre la passion chez A alors qu'elle n'a jamais vu D. Les différences sociales sont importantes. Il faut éviter les préjugés sociaux. Enfin en étant veuve elle possède une totale indépendance juridique car elle n'est plus sous l'autorité de son père car elle a été mariée ni sous celle de son mari car il est décédé. Elle n'a de comptes à rendre à personne, elle est libre de choisir. 
-	- Le triomphe de Dubois: il est certain de réussir, la difficulté ne le décourage pas. Il est un manipulateur né. Il est à l'origine de l'intrigue, les intérêts de D deviennent siens, il prend la direction des opérations. Il maitrise parfaitement le langage. Il n'agit pas par vantardis
+	- Le triomphe de Dubois: il est certain de réussir, la difficulté ne le décourage pas. Il est un manipulateur né. Il est à l'origine de l'intrigue, les intérêts de D deviennent siens, il prend la direction des opérations. Il maitrise parfaitement le langage. Il n'agit pas par vantardise, il est inventif et rusé. 
 -   Comment et pourquoi Dubois triomphe-t-il malgré cela?
 	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
 3. Un valet stratège
@@ -174,11 +174,11 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY0MjAzMSwtODM1ODA0NTA0LDE4Nz
-EwNDUwNjYsLTE5NzUyNjY3MTUsMTY0NjcyMzAwNCwzMTQ1MTkz
-OTYsMjA4MTkxMDYxMiw1NTc3MzgyMTYsMTA3MDYwMTIxOSwtNj
-QyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5
-MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01ND
-k0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEw
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTgxMTcyMzUyLC04MzU4MDQ1MDQsMTg3MT
+A0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIzMDA0LDMxNDUxOTM5
+NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMDcwNjAxMjE5LC02ND
+I2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0xNjI0OTIwMzkx
+LC00NDE3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OT
+QyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAw
+OF19
 -->
