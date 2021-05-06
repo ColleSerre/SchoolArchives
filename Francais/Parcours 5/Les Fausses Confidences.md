@@ -164,7 +164,7 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. De plus, il monte des stratagèmes pour Dorante pour des raisons incertaines. En somme, Dubois est un personnage puissant qui agit en faveur de Dorante pour des raisons inconnues. Il voit tout, sait tout et obtient une victoire, en apparences, impossible. On ne sait pas si, comme la plupart des valets de comédie, il agit pour le bien de son maître (en totale dévotion) ou s'il agit pour son propre bien. 
 2. Une victoire sur l’impossible
 -   À quels obstacles est-il confronté?
-	- Aux suspicions dues à sa classe sociale, mais pas seulement. 
+	- Les obstacles: manipulatio, mésalliance, A est une veuve qui veut garder son indépendance. Dubois doit faire naitre la passion chez A alors qu'elle n'a jamais vu D. Les différences sociales sont importantes. Il faut éviter les préjugés sociaux. Enfin en étant veuve elle possède une totale indépendance juridique car elle n'est plus qu
 -   Comment et pourquoi Dubois triomphe-t-il malgré cela?
 	- Dubois triomphe de ses adversaires par la ruse et par sa maîtrise de la langue française et de l'éloquence.
 3. Un valet stratège
@@ -173,11 +173,11 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTgwNDUwNCwxODcxMDQ1MDY2LC0xOT
-c1MjY2NzE1LDE2NDY3MjMwMDQsMzE0NTE5Mzk2LDIwODE5MTA2
-MTIsNTU3NzM4MjE2LDEwNzA2MDEyMTksLTY0MjYxNDYwLDM0OT
-Y0MTk4MywzNzY2Mjc2OTMsLTE2MjQ5MjAzOTEsLTQ0MTc4MTU5
-Myw5NjAyMzMxNjIsMTI0NjgzNjA4NCwtNTQ5NDIzNDYwLC0xMD
-E4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcxMDA4LC0xNTYxMTcw
-Mjg5XX0=
+eyJoaXN0b3J5IjpbNjU4MTc1MTk0LC04MzU4MDQ1MDQsMTg3MT
+A0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIzMDA0LDMxNDUxOTM5
+NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMDcwNjAxMjE5LC02ND
+I2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0xNjI0OTIwMzkx
+LC00NDE3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OT
+QyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAw
+OF19
 -->
