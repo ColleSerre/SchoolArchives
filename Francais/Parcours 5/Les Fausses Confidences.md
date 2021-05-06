@@ -161,7 +161,7 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 	- Acte III Scène XIII
 	- Dubois apparaît donc dans peu de scènes au début de la pièce et prend de plus en plus de place alors que le stratagème se révèle.
 -   En quoi Dubois est-il un personnage ambigu?
-	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. De plus, il monte des stratagèmes pour Dorante pour des raisons incertaines. En somme, Dubois est un personnage puissant qui agit en faveur de Dorante pour des raisons inconnues. Il voit tout, sait tout et obtient une victoire, en apparences, impossible. On ne sait pas si, comme la plupart des valets de comédie, il agit pour le bien de son maître (en totale dévotion) ou 
+	-  Dubois est un personnage ambigu, car ses compétences ne sont pas habituelles pour un domestique. Il parle bien français et sait manipuler ceux qui devraient être supérieurs à lui. De plus, il monte des stratagèmes pour Dorante pour des raisons incertaines. En somme, Dubois est un personnage puissant qui agit en faveur de Dorante pour des raisons inconnues. Il voit tout, sait tout et obtient une victoire, en apparences, impossible. On ne sait pas si, comme la plupart des valets de comédie, il agit pour le bien de son maître (en totale dévotion) ou s'il agit pour son propre bien. 
 2. Une victoire sur l’impossible
 -   À quels obstacles est-il confronté?
 	- Aux suspicions dues à sa classe sociale, mais pas seulement. 
@@ -173,7 +173,7 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzc0MjYwMCwxODcxMDQ1MDY2LC0xOT
+eyJoaXN0b3J5IjpbLTgzNTgwNDUwNCwxODcxMDQ1MDY2LC0xOT
 c1MjY2NzE1LDE2NDY3MjMwMDQsMzE0NTE5Mzk2LDIwODE5MTA2
 MTIsNTU3NzM4MjE2LDEwNzA2MDEyMTksLTY0MjYxNDYwLDM0OT
 Y0MTk4MywzNzY2Mjc2OTMsLTE2MjQ5MjAzOTEsLTQ0MTc4MTU5
