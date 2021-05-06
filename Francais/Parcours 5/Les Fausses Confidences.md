@@ -173,12 +173,16 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
 	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
+
+### Un valet stratège
+
+La technique de la "fausse confidence": ce n'est pas tout à fait un mensonge, c'est une vérité dissimulée. Il proc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTcyMzUyLC04MzU4MDQ1MDQsMTg3MT
-A0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIzMDA0LDMxNDUxOTM5
-NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMDcwNjAxMjE5LC02ND
-I2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0xNjI0OTIwMzkx
-LC00NDE3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OT
-QyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAw
-OF19
+eyJoaXN0b3J5IjpbLTE2NDYyODc5ODIsLTgzNTgwNDUwNCwxOD
+cxMDQ1MDY2LC0xOTc1MjY2NzE1LDE2NDY3MjMwMDQsMzE0NTE5
+Mzk2LDIwODE5MTA2MTIsNTU3NzM4MjE2LDEwNzA2MDEyMTksLT
+Y0MjYxNDYwLDM0OTY0MTk4MywzNzY2Mjc2OTMsLTE2MjQ5MjAz
+OTEsLTQ0MTc4MTU5Myw5NjAyMzMxNjIsMTI0NjgzNjA4NCwtNT
+Q5NDIzNDYwLC0xMDE4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcx
+MDA4XX0=
 -->
