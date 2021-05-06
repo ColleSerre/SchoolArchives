@@ -178,6 +178,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - *Jean Jaurès* cité par *Robert Badinter* dans son réquisitoire contre la peine de mort
 * Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
 * Une des propriétés des sondages consiste à poser aux gens des problèmes qu'ils ne se posent pas, à faire glisser des réponses aux problèmes qu'ils n'ont pas posés, donc à imposer des réponses. - *Pierre Bourdieu* au Collège de France 1990
+* Pour Goëte, l'ère moderne commence avec la déclaration des droits de l'homme car elle est la première fois que les citoyens ont proclamé un droit pour tous les Hommes du monde et par que pour les fran
 
 ## Capitalisme
 
@@ -352,11 +353,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMDQyMTM3LC0xMDkwNjc5NTczLDIwMD
-Y2MjM1MDQsLTY5Nzg1OTM5LC0xNzQyMTExMzc2LC0yOTI5NTUw
-MDMsMTc3MTgwMzUwNywtMTEyMTA2OTQyNiwtMTQxNzM0MDM1MS
-wtMTM2NjA5MjgyLC0xMDA1MDExMDMwLC0xOTc3MTQ1NDM1LC0x
-ODY4ODA3MzEsMTMwODc0MTczMSwtMTU4MDIwMzE0LC0xMTI3MD
-E1MDc0LDE3OTYzMjI0LDQ5MjI2MTkwLC0xOTI0MjMyNDA2LDk3
-OTg0MzA5OV19
+eyJoaXN0b3J5IjpbMTQ2MTUxNTk2OSwtMTA5MDY3OTU3MywyMD
+A2NjIzNTA0LC02OTc4NTkzOSwtMTc0MjExMTM3NiwtMjkyOTU1
+MDAzLDE3NzE4MDM1MDcsLTExMjEwNjk0MjYsLTE0MTczNDAzNT
+EsLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwtMTk3NzE0NTQzNSwt
+MTg2ODgwNzMxLDEzMDg3NDE3MzEsLTE1ODAyMDMxNCwtMTEyNz
+AxNTA3NCwxNzk2MzIyNCw0OTIyNjE5MCwtMTkyNDIzMjQwNiw5
+Nzk4NDMwOTldfQ==
 -->
