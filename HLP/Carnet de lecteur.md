@@ -260,7 +260,9 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * "nous nous sommes **débarrassés** de la vie sauvage, nous nous sommes réunis pour **construire** des villes; nous avons **fixé** des lois; nous avons **découvert** des arts; et, **presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin.**" - Isocrate *Éloge de la parole*
 * L’écrivain engagé sait que la parole est action: il sait que dévoiler c'est changer et qu'on ne peut dévoiler qu'en projetant de changer. Il a abandonné le rêve impossible de faire une peinture impartiale de la Société et de la condition humaine. - Sartre
 
+## Liberté
 
+* L’homme est né libre, et partout il est dans les fers - *Rousseau*
 
 ## Moralité
 
@@ -355,7 +357,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDcwNTgxOSwtMTY1NjQzNTQ2NSwtMT
+eyJoaXN0b3J5IjpbLTgwNDMxMzIyMSwtMTY1NjQzNTQ2NSwtMT
 A5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NTkzOSwtMTc0MjEx
 MTM3NiwtMjkyOTU1MDAzLDE3NzE4MDM1MDcsLTExMjEwNjk0Mj
 YsLTE0MTczNDAzNTEsLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwt
