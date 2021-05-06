@@ -176,13 +176,13 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 
 ### Un valet stratège
 
-La technique de la "fausse confidence": ce n'est pas tout à fait un mensonge, c'est une vérité dissimulée. Il proc
+La technique de la "fausse confidence": ce n'est pas tout à fait un mensonge, c'est une vérité dissimulée. Il procède par étapes: Eveiller l'intéret d'A pour D. Rendre public l'amour de D. Obliger A à se déclarer. Jouer sur la sensualité d'A. Jouer sur son goût de l'indépendance. Jouer sur le caractère raisonnable d'A. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYyODc5ODIsLTgzNTgwNDUwNCwxOD
-cxMDQ1MDY2LC0xOTc1MjY2NzE1LDE2NDY3MjMwMDQsMzE0NTE5
-Mzk2LDIwODE5MTA2MTIsNTU3NzM4MjE2LDEwNzA2MDEyMTksLT
-Y0MjYxNDYwLDM0OTY0MTk4MywzNzY2Mjc2OTMsLTE2MjQ5MjAz
-OTEsLTQ0MTc4MTU5Myw5NjAyMzMxNjIsMTI0NjgzNjA4NCwtNT
-Q5NDIzNDYwLC0xMDE4MDMyNzIyLDIwMzc5NDM4OTIsMzM3MDcx
-MDA4XX0=
+eyJoaXN0b3J5IjpbMTkyMTAwNjEwMCwtODM1ODA0NTA0LDE4Nz
+EwNDUwNjYsLTE5NzUyNjY3MTUsMTY0NjcyMzAwNCwzMTQ1MTkz
+OTYsMjA4MTkxMDYxMiw1NTc3MzgyMTYsMTA3MDYwMTIxOSwtNj
+QyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5MywtMTYyNDkyMDM5
+MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2ODM2MDg0LC01ND
+k0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5MiwzMzcwNzEw
+MDhdfQ==
 -->
