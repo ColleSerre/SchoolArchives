@@ -10,8 +10,8 @@
 |----|----|
 | Le malade imaginaire, Comme il vous plaira, On ne badine pas avec l'amour | Dans *Les Fausses Confidences*, Marivaux propose un valet, Dubois, qui se sert de ses aptitudes orales hors-normes pour aider son maitre à conquérir le  |
 
-![tableau des deux paradigmes du valet](adjuvant%20selon%20la%20terminologie%20du%20sch%C3%A9ma%20actantiel%20de%20Greimas) 
+![tableau ](adjuvant%20selon%20la%20terminologie%20du%20sch%C3%A9ma%20actantiel%20de%20Greimas) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjY3NzI5NSwtMjIyMTgyNTI1LDk4Nj
-IxMTM2NSw1MzgxMTIyNDIsLTY3Mzg0NDAzMF19
+eyJoaXN0b3J5IjpbLTE3MDMzMDY3MDksLTIyMjE4MjUyNSw5OD
+YyMTEzNjUsNTM4MTEyMjQyLC02NzM4NDQwMzBdfQ==
 -->
