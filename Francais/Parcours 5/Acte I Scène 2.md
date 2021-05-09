@@ -7,7 +7,7 @@
 * Toute la nuance de Marivaux se trouve dans ce début de réplique dans lequel Dorante livre toutes les infos à Dubois. Chez Marivaux le valet est plus intelligent que son maître (contrairement à Molière où Scapin se fait frapper et où la supercherie lui retombe dessus, la morale est sauve). 
 *  "La meilleure foi du monde", fait appel au champ lexical de la religion donc à la profondeur de l'engagement. **Ironique alors qu'il commet un péché.** Honnêteté de monsieur Remy contraste avec le complot des deux personnages. Ça présente une vision cynique du monde dans laquelle les gens bons se font rouler dans la farine. 
 * "Il la prévint hier", introduit que le stratagème se poursuivra durant toute la pièce et qu'il sera le fil conducteur de la pièce (constance du stratagème)
-* La répétition de "qu'il" montre que Monsieur Remy est rigoureux et loyal dans son engagement. Cela montre aussi que le stratagème est en marche et que Dorante et Dubois ont la main sur tout. 
+* La répétition de "qu'il" montre que Monsieur Remy est rigoureux et loyal dans son engagement. Cela montre aussi que le stratagème est en marche et que Dorante et Dubois ont la main sur tout. L'action est directe, dès la scène d'exposition contrairement au théâtre classique dans lequel on doit souvent atteindre la fin de l'acte I pour atteindre le climax. L'habitude des spect
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2ODcwMDQwLDE1NjI2MTcwNDRdfQ==
+eyJoaXN0b3J5IjpbLTExODg0NTQwMDgsMTU2MjYxNzA0NF19
 -->
