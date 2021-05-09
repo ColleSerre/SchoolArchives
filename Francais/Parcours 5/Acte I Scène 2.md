@@ -20,7 +20,8 @@
 * Les deux personnages sont interdépendants et se prêtent leurs fortunes. Les personnages sont donc très proches (valeur symbolique de l'argent chez la bourgeoisie). Dorante est imprudent de prêter autant de confiance à son valet → montre la puissance de persuasion de Dubois. 
 * Dorante se voit rassuré par Dubois qui est donc supérieur et protecteur de son maître. "Et bien vous vous en retournerez", phrase liminaire qui montre toute la confiance de Dubois. 
 * Dorante s'exprime en pleine énamouration sur la femme qu'il aime. Il ne voit les rapports sociaux rien que par le spectre de l'argent. 
+* Dorante finit sa réplique avec une 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzMzOTUzMywtMjE0MjIwOTUyMywtOT
+eyJoaXN0b3J5IjpbMTA5NDM1MzQ5NCwtMjE0MjIwOTUyMywtOT
 AwODU1NTg4LDE1NjI2MTcwNDRdfQ==
 -->
