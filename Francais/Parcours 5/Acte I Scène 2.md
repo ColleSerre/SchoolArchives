@@ -11,9 +11,9 @@
 * "Je demandasse", montre que Dorante ne devra agir qu'en tout dernier ressort. Longueur du verbe = paresse de Dorante à faire l'action. 
 * "Voilà tout, et je n’aurais garde de lui confier notre projet, non plus qu’à personne, il me paraît extravagant, à moi qui m’y prête.". Confirme que Remy n'est pas dans la confidence, qu'ils ne sont que deux à être au courant. Avoue que Dorante trouve cela extravagant, qu'il n'aurait pas fait ce choix donc qu'il n'est pas à l'origine du stratagème. 
 * "Je n’en suis pourtant pas moins sensible à ta bonne volonté, Dubois". Il s'est laissé séduire, Dubois à de redoutables pouvoirs de persuasion.
-* 
+* Dorante s'autoflagelle 
 * Dorante lui fait confiance car il est en sa dette. "En vérité, il n’est point de reconnaissance que je ne te doive."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NDk0MzYzLC05MDA4NTU1ODgsMTU2Mj
-YxNzA0NF19
+eyJoaXN0b3J5IjpbMTA0MjY2MDgyMSwtOTAwODU1NTg4LDE1Nj
+I2MTcwNDRdfQ==
 -->
