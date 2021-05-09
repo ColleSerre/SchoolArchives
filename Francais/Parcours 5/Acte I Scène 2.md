@@ -12,8 +12,8 @@
 * "Voilà tout, et je n’aurais garde de lui confier notre projet, non plus qu’à personne, il me paraît extravagant, à moi qui m’y prête.". Confirme que Remy n'est pas dans la confidence, qu'ils ne sont que deux à être au courant. Avoue que Dorante trouve cela extravagant, qu'il n'aurait pas fait ce choix donc qu'il n'est pas à l'origine du stratagème. 
 * "Je n’en suis pourtant pas moins sensible à ta bonne volonté, Dubois". Il s'est laissé séduire, Dubois à de redoutables pouvoirs de persuasion.
 * Dorante s'autoflagelle avant de pécher par angélisme "il t’est venu dans l’esprit de faire ma fortune", oubliant la duplicité du personnage de Dubois qui pourrait avoir une 
-* Dorante lui fait confiance car il est en sa dette. "En vérité, il n’est point de reconnaissance que je ne te doive."
+* Dorante lui fait confiance, car il est en sa dette. "En vérité, il n’est point de reconnaissance que je ne te doive."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzQwMTgzNCwtOTAwODU1NTg4LDE1Nj
-I2MTcwNDRdfQ==
+eyJoaXN0b3J5IjpbLTEzOTQzNDU2MDIsLTkwMDg1NTU4OCwxNT
+YyNjE3MDQ0XX0=
 -->
