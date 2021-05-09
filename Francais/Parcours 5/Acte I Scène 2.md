@@ -24,9 +24,10 @@
 * Il finit sa réplique par un décasyllabe qui rime avec une anaphore et une césure qui forment une complainte lyrique. 
 * Dubois répond à ces hésitations par une réplique très visuelle : "tournez-vous un peu que je vous considère encore". Dubois devient le metteur en scène qui donne des instructions à son pantin : Dorante. 
 * Répétition infaïble + "je vous vois ... dans l'appartement de madame". Dubois, le pilote des opérations est dans l'anticipation de sa réussite. Confiance, voit déjà une scène intime. Il déclare cette scène intime, ce qui est déplacé pour un valet. 
-* "Quelle chimère" : 
+* "Quelle chimère" : c'est impossible ! Exclamation, sans rapport avec la réalité, illusion, pas convaincu. 
+* "vous êtes actuellement", montre la ca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NDcxMDEzLDcyMTE5MzcxLDEwOTQzNT
-M0OTQsLTIxNDIyMDk1MjMsLTkwMDg1NTU4OCwxNTYyNjE3MDQ0
-XX0=
+eyJoaXN0b3J5IjpbLTQyMTg1MjM4OCw3MjExOTM3MSwxMDk0Mz
+UzNDk0LC0yMTQyMjA5NTIzLC05MDA4NTU1ODgsMTU2MjYxNzA0
+NF19
 -->
