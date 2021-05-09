@@ -13,8 +13,10 @@
 * "Je n’en suis pourtant pas moins sensible à ta bonne volonté, Dubois". Il s'est laissé séduire, Dubois à de redoutables pouvoirs de persuasion.
 * Dorante s'autoflagelle avant de pécher par angélisme "il t’est venu dans l’esprit de faire ma fortune", oubliant la duplicité du personnage de Dubois qui pourrait avoir une raison cachée. 
 * Dorante lui fait confiance, car il est en sa dette. "En vérité, il n’est point de reconnaissance que je ne te doive."
-* 
+
+
+* La flatterie de Dubois permet de renforcer l'égo de Dorante et de ne pas revenir sur les faits précédents
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjEyODU2NSwtOTAwODU1NTg4LDE1Nj
-I2MTcwNDRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODU0MjYxOTcsLTkwMDg1NTU4OCwxNT
+YyNjE3MDQ0XX0=
 -->
