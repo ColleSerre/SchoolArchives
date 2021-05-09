@@ -15,8 +15,9 @@
 * Dorante lui fait confiance, car il est en sa dette. "En vérité, il n’est point de reconnaissance que je ne te doive."
 
 
-* "Laissons cela", c'est Dubois 
+* "Laissons cela", c'est Dubois qui mène la conversation et qui décide de la fin du temps de parole de Dorante. 
+* Puis il le félicite comme on féliciterait un chien ("je suis 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTMxNTgwNiwtOTAwODU1NTg4LDE1Nj
-I2MTcwNDRdfQ==
+eyJoaXN0b3J5IjpbNTc4NzUwNTI4LC05MDA4NTU1ODgsMTU2Mj
+YxNzA0NF19
 -->
