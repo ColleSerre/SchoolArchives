@@ -17,8 +17,8 @@
 
 * "Laissons cela", c'est Dubois qui mène la conversation et qui décide de la fin du temps de parole de Dorante. 
 * En raison de la posture supérieure de Dubois, la flagornerie est si excessive qu'elle en deviendrait vexante. 
-* Les deux personnages sont interdépendants et se prêtent leurs fortunes. 
+* Les deux personnages sont interdépendants et se prêtent leurs fortunes. Les personnages sont donc très proches (valeur symbolique de l'argent chez la bourgeoisie). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIyMDk1MjMsLTkwMDg1NTU4OCwxNT
-YyNjE3MDQ0XX0=
+eyJoaXN0b3J5IjpbNTU0MTM3NzIsLTIxNDIyMDk1MjMsLTkwMD
+g1NTU4OCwxNTYyNjE3MDQ0XX0=
 -->
