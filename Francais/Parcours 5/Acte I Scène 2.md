@@ -20,8 +20,8 @@
 * Les deux personnages sont interdépendants et se prêtent leurs fortunes. Les personnages sont donc très proches (valeur symbolique de l'argent chez la bourgeoisie). Dorante est imprudent de prêter autant de confiance à son valet → montre la puissance de persuasion de Dubois. 
 * Dorante se voit rassuré par Dubois qui est donc supérieur et protecteur de son maître. "Et bien vous vous en retournerez", phrase liminaire qui montre toute la confiance de Dubois. 
 * Dorante s'exprime en pleine énamouration sur la femme qu'il aime. Il ne voit les rapports sociaux rien que par le spectre de l'argent. 
-* Dorante montre toute sa différence avec 
+* Dorante montre toute sa différence avec Dubois. Dorante ne comprend pas que, étant veuve, Araminte est libre de son père, de son mari et n'a besoin de rien matériellement. Dubois l'a tout à fait compris et son stratagème vise à créer de l'intérêt pour Dorante chez Araminte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTcwODYzNTYsMTA5NDM1MzQ5NCwtMj
-E0MjIwOTUyMywtOTAwODU1NTg4LDE1NjI2MTcwNDRdfQ==
+eyJoaXN0b3J5IjpbMTg3Nzk0NjI4OSwxMDk0MzUzNDk0LC0yMT
+QyMjA5NTIzLC05MDA4NTU1ODgsMTU2MjYxNzA0NF19
 -->
