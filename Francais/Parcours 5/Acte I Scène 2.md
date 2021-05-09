@@ -17,7 +17,8 @@
 
 * "Laissons cela", c'est Dubois qui mène la conversation et qui décide de la fin du temps de parole de Dorante. 
 * En raison de la posture supérieure de Dubois, la flagornerie est si excessive qu'elle en deviendrait vexante. 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjY0OTIwNywtOTAwODU1NTg4LDE1Nj
-I2MTcwNDRdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ2NzcyMDEsLTkwMDg1NTU4OCwxNT
+YyNjE3MDQ0XX0=
 -->
