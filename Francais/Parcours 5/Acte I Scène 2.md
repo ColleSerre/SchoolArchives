@@ -9,8 +9,8 @@
 * "Il la prévint hier", introduit que le stratagème se poursuivra durant toute la pièce et qu'il sera le fil conducteur de la pièce (constance du stratagème)
 * La répétition de "qu'il" montre que Monsieur Remy est rigoureux et loyal dans son engagement. Cela montre aussi que le stratagème est en marche et que Dorante et Dubois ont la main sur tout. L'action est directe, dès la scène d'exposition contrairement au théâtre classique dans lequel on doit souvent atteindre la fin de l'acte I pour atteindre le climax. L'habitude des spectateurs permet à Marivaux d'aller plus vite dans le développement de l'action et des personnages. 
 * "Je demandasse", montre que Dorante ne devra agir qu'en tout dernier ressort. Longueur du verbe = paresse de Dorante à faire l'action. 
-* "Voilà tout, et je n’aurais garde de lui confier notre projet, non plus qu’à personne, il me paraît extravagant, à moi qui m’y prête.". Confirme que 
+* "Voilà tout, et je n’aurais garde de lui confier notre projet, non plus qu’à personne, il me paraît extravagant, à moi qui m’y prête.". Confirme que Remy n'est pas dans la confidence, qu'ils ne sont que deux à être au courant. Avoue que Dorante trouve cela extravagant, qu'il n'aurait pas fait ce choix donc qu'il n'est pas à l'origine du stratagème. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODY2NTQ0OCwtOTAwODU1NTg4LDE1Nj
+eyJoaXN0b3J5IjpbLTUzODc1NzkwNiwtOTAwODU1NTg4LDE1Nj
 I2MTcwNDRdfQ==
 -->
