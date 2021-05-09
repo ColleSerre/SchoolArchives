@@ -23,9 +23,10 @@
 * Dorante montre toute sa différence avec Dubois. Dorante ne comprend pas que, étant veuve, Araminte est libre de son père, de son mari et n'a besoin de rien matériellement. Dubois l'a tout à fait compris et son stratagème vise à créer de l'intérêt pour Dorante chez Araminte et non à devenir un prétendant raisonnable. 
 * Il finit sa réplique par un décasyllabe qui rime avec une anaphore et une césure qui forment une complainte lyrique. 
 * Dubois répond à ces hésitations par une réplique très visuelle : "tournez-vous un peu que je vous considère encore". Dubois devient le metteur en scène qui donne des instructions à son pantin : Dorante. 
-* Répétition infaïble + "je vous voit ... dans l'appartement de madame" 
+* Répétition infaïble + "je vous vois ... dans l'appartement de madame". Dubois, le pilote des opérations est dans l'anticipation de sa réussite. Confiance, voit déjà une scène intime. Il déclare cette scène intime, ce qui est déplacé pour un valet. 
+* "Quelle chimère" : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzM2MjI5OCw3MjExOTM3MSwxMDk0Mz
-UzNDk0LC0yMTQyMjA5NTIzLC05MDA4NTU1ODgsMTU2MjYxNzA0
-NF19
+eyJoaXN0b3J5IjpbMjU0NDcxMDEzLDcyMTE5MzcxLDEwOTQzNT
+M0OTQsLTIxNDIyMDk1MjMsLTkwMDg1NTU4OCwxNTYyNjE3MDQ0
+XX0=
 -->
