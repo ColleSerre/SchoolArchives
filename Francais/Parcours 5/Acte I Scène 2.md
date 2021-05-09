@@ -16,8 +16,8 @@
 
 
 * "Laissons cela", c'est Dubois qui mène la conversation et qui décide de la fin du temps de parole de Dorante. 
-* Puis il le félicite comme on féliciterait un chien ("je suis 
+* En raison de la posture supérieure de Dubois, la flagornerie est si excessive qu'elle en deviendrait vexante. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NzUwNTI4LC05MDA4NTU1ODgsMTU2Mj
-YxNzA0NF19
+eyJoaXN0b3J5IjpbMTEyNjY0OTIwNywtOTAwODU1NTg4LDE1Nj
+I2MTcwNDRdfQ==
 -->
