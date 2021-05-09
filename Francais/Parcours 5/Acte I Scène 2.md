@@ -14,6 +14,7 @@
 * Dorante s'autoflagelle avant de pécher par angélisme "il t’est venu dans l’esprit de faire ma fortune", oubliant la duplicité du personnage de Dubois qui pourrait avoir une raison cachée. 
 * Dorante lui fait confiance, car il est en sa dette. "En vérité, il n’est point de reconnaissance que je ne te doive."
 
+## 
 
 * "Laissons cela", c'est Dubois qui mène la conversation et qui décide de la fin du temps de parole de Dorante. 
 * En raison de la posture supérieure de Dubois, la flagornerie est si excessive qu'elle en deviendrait vexante. 
@@ -25,9 +26,10 @@
 * Dubois répond à ces hésitations par une réplique très visuelle : "tournez-vous un peu que je vous considère encore". Dubois devient le metteur en scène qui donne des instructions à son pantin : Dorante. 
 * Répétition infaïble + "je vous vois ... dans l'appartement de madame". Dubois, le pilote des opérations est dans l'anticipation de sa réussite. Confiance, voit déjà une scène intime. Il déclare cette scène intime, ce qui est déplacé pour un valet. 
 * "Quelle chimère" : c'est impossible ! Exclamation, sans rapport avec la réalité, illusion, pas convaincu. 
-* "vous êtes actuellement", montre la ca
+* "vous êtes actuellement", montre la capacité de Dubois à se projeter dans le futur contrairement à Dorante qui est figé dans le présent. 
+* "vous êtes dans votre salle et vos équipages est sous la remise", Dorante le capitaine, épique. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTg1MjM4OCw3MjExOTM3MSwxMDk0Mz
+eyJoaXN0b3J5IjpbMTUxMzczODYyOSw3MjExOTM3MSwxMDk0Mz
 UzNDk0LC0yMTQyMjA5NTIzLC05MDA4NTU1ODgsMTU2MjYxNzA0
 NF19
 -->
