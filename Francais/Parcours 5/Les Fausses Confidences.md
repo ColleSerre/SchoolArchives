@@ -172,7 +172,7 @@ Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la premièr
 -   Répertoriez les différentes étapes de sa technique de “fausse confidence”.
 4. Un personnage inquiétant?
 -   Quels sont les mobiles qui selon vous le poussent à agir?
-	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. 
+	- Dubois agît d'une part pour le bien de son maître, donc par loyauté, et d'autre part, pour élever son rang social par la conséquence de la réussite de son maitre. Marivaux, par le personnage de Dubois, montre qu'un valet peut facilement se jouer des puissants. Un message fort au 18ème 
 
 ### Un valet stratège
 
@@ -187,11 +187,11 @@ Serviable et sympathique: bon génie de la pièce, il est désintéressé, à l'
 Animé d'une volonté de puissance ? 
 Pour mener à bien sa manipulation Dubois doit parfois être cynique. Les êtres ne sont pour lui que des marionnettes dont il tire les ficelles à sa guise. Le mensonge ne l'effraie pas. On se demande alors s'il ne manipule pas D comme il l'a fait pour A. Les raisons: Se prouver l'étendue de son pouvoir, prendre une revanche sur ses maitres. Se prouver que ses qualités valent plus que la richesse matérielle. Amoureux secret d'A ? Il réalise ses voeux par personne interposée. On ne peut répondre à toutes ces éventualités mais celle-ci se projettent sur D une ombre inquiétante. Il a peut-être aussi un intérêt matériel. Le personnage de Dubois est une énigme, ce qui le rend intéressant. C'est le valet et non le maître qui suscite la réflexion. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzQ1NzMyLC04MzU4MDQ1MDQsMTg3MT
-A0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIzMDA0LDMxNDUxOTM5
-NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMDcwNjAxMjE5LC02ND
-I2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3NjkzLC0xNjI0OTIwMzkx
-LC00NDE3ODE1OTMsOTYwMjMzMTYyLDEyNDY4MzYwODQsLTU0OT
-QyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQzODkyLDMzNzA3MTAw
-OF19
+eyJoaXN0b3J5IjpbMTA0MDcxMjMzOCwxNjEzNDU3MzIsLTgzNT
+gwNDUwNCwxODcxMDQ1MDY2LC0xOTc1MjY2NzE1LDE2NDY3MjMw
+MDQsMzE0NTE5Mzk2LDIwODE5MTA2MTIsNTU3NzM4MjE2LDEwNz
+A2MDEyMTksLTY0MjYxNDYwLDM0OTY0MTk4MywzNzY2Mjc2OTMs
+LTE2MjQ5MjAzOTEsLTQ0MTc4MTU5Myw5NjAyMzMxNjIsMTI0Nj
+gzNjA4NCwtNTQ5NDIzNDYwLC0xMDE4MDMyNzIyLDIwMzc5NDM4
+OTJdfQ==
 -->
