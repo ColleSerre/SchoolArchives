@@ -18,8 +18,9 @@
 * "Laissons cela", c'est Dubois qui mène la conversation et qui décide de la fin du temps de parole de Dorante. 
 * En raison de la posture supérieure de Dubois, la flagornerie est si excessive qu'elle en deviendrait vexante. 
 * Les deux personnages sont interdépendants et se prêtent leurs fortunes. Les personnages sont donc très proches (valeur symbolique de l'argent chez la bourgeoisie). Dorante est imprudent de prêter autant de confiance à son valet → montre la puissance de persuasion de Dubois. 
-* Dorante se voit rassuré par Dubois qui est donc supérieur et protecteur de son maître. "Et bien vous vous en retournerez", phrase liminaire qui montre toute la conf
+* Dorante se voit rassuré par Dubois qui est donc supérieur et protecteur de son maître. "Et bien vous vous en retournerez", phrase liminaire qui montre toute la confiance de Dubois. 
+* Dorante s'exprime en pleine énamouration sur la femme qu'il aime. Il ne voit les rapports sociaux rien que par le spectre de l'argent. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MDc5NjMzLC0yMTQyMjA5NTIzLC05MD
-A4NTU1ODgsMTU2MjYxNzA0NF19
+eyJoaXN0b3J5IjpbMTQwMzMzOTUzMywtMjE0MjIwOTUyMywtOT
+AwODU1NTg4LDE1NjI2MTcwNDRdfQ==
 -->
