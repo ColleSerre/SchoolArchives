@@ -15,8 +15,8 @@
 * Dorante lui fait confiance, car il est en sa dette. "En vérité, il n’est point de reconnaissance que je ne te doive."
 
 
-* La flatterie de Dubois permet de renforcer l'égo de Dorante et de ne pas revenir sur les faits précédents
+* "Laissons cela", c'est Dubois 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU0MjYxOTcsLTkwMDg1NTU4OCwxNT
-YyNjE3MDQ0XX0=
+eyJoaXN0b3J5IjpbLTY0MTMxNTgwNiwtOTAwODU1NTg4LDE1Nj
+I2MTcwNDRdfQ==
 -->
