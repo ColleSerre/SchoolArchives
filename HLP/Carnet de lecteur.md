@@ -190,6 +190,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 ## Apparences vs Réalité
 
 * Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action immorale qu'il commetra.
+* Selon que vous serez puissant ou misérable les jugements de cour vous rendront blanc ou noir - Jean de la Fontaine
 
 ## Amour
 
@@ -357,11 +358,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC04MD
-QzMTMyMjEsLTE2NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMjAwNjYy
-MzUwNCwtNjk3ODU5MzksLTE3NDIxMTEzNzYsLTI5Mjk1NTAwMy
-wxNzcxODAzNTA3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUxLC0x
-MzY2MDkyODIsLTEwMDUwMTEwMzAsLTE5NzcxNDU0MzUsLTE4Nj
-g4MDczMSwxMzA4NzQxNzMxLC0xNTgwMjAzMTQsLTExMjcwMTUw
-NzQsMTc5NjMyMjRdfQ==
+eyJoaXN0b3J5IjpbMTcxMDYzNDYxNywxODc0MzQxOTU0LC02Nz
+A5OTk0ODYsLTgwNDMxMzIyMSwtMTY1NjQzNTQ2NSwtMTA5MDY3
+OTU3MywyMDA2NjIzNTA0LC02OTc4NTkzOSwtMTc0MjExMTM3Ni
+wtMjkyOTU1MDAzLDE3NzE4MDM1MDcsLTExMjEwNjk0MjYsLTE0
+MTczNDAzNTEsLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwtMTk3Nz
+E0NTQzNSwtMTg2ODgwNzMxLDEzMDg3NDE3MzEsLTE1ODAyMDMx
+NCwtMTEyNzAxNTA3NF19
 -->
