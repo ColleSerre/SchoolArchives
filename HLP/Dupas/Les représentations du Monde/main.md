@@ -78,13 +78,13 @@ Développement en deux temps, deux éléments de réponse != axes de lecture. On
 
 ### Zola
 
-Question d'interprétation : Comment Zola 
+Question d'interprétation : En quoi le personnage du cheval révèle-t-il les rapports humains/animaux ? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjkxODI1NSwtOTc3MDk2Mzc0LC0xNz
-U4NTIwODE5LC0xMTE2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYx
-MDcyLDc0NDM4MzM3MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MT
-U2NjUwNjQsMTQ3OTAyODA3NywxMTMzOTA3MTc5LDY5ODQyODIz
-MSwxOTAzNTYwMzExLC0xNjk3NTAzNDkwLC00Mjg1MTg3MTAsMT
-cyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1MjkxMzUyLC0xNjY0
-MzIzNTAyXX0=
+eyJoaXN0b3J5IjpbMzY3Mjc1MjgyLC05NzcwOTYzNzQsLTE3NT
+g1MjA4MTksLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEw
+NzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNT
+Y2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMx
+LDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNz
+IxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQz
+MjM1MDJdfQ==
 -->
