@@ -76,12 +76,15 @@ Question d'interprétation:
 
 Développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. Exemple: Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme une réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres œuvres. 
 
+### Zola
+
+Question d'interprétation : Comment Zola 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMT
-ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
-NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
-kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
-MSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLT
-E5Njg0NjA4NTksMTA5NTI5MTM1MiwtMTY2NDMyMzUwMiwxMDQz
-NjQ1NzU4XX0=
+eyJoaXN0b3J5IjpbMjAxMjkxODI1NSwtOTc3MDk2Mzc0LC0xNz
+U4NTIwODE5LC0xMTE2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYx
+MDcyLDc0NDM4MzM3MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MT
+U2NjUwNjQsMTQ3OTAyODA3NywxMTMzOTA3MTc5LDY5ODQyODIz
+MSwxOTAzNTYwMzExLC0xNjk3NTAzNDkwLC00Mjg1MTg3MTAsMT
+cyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1MjkxMzUyLC0xNjY0
+MzIzNTAyXX0=
 -->
