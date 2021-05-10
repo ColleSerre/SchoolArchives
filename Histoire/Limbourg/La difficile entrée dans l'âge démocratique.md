@@ -10,8 +10,10 @@ Pour lui, le despotisme prend forme quand les Hommes se dévouent totalement à 
 ## Alphonse de Lamartine
 
 Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 février 1848 un discours en faveur des réunions qui renforce son poids politique chez les républicains. Il fait partie des meneurs républicains qui appellent les Parisiens à manifester le 22 février. Après deux jours de manifestations et de heurts, Louis-Philippe abdique et la deuxième République est proclamée. Il est nommé ministre des Affaires étrangères du gouvernement provisoire, une fonction importante dans le contexte du "printemps des peuples". Il est à l'origine de nombreuses mesures qu'il annonce dans les célèbres discours les 25 et 26 février comme l'adoption du drapeau tricolore (document 2), le suffrage universel, la création des ateliers nationaux et l'abolition de la peine de mort en matière politique. À partir de mai 1848, Lamartine s'oppose aux républicains radicaux qui lui reprochent de ne pas assez soutenir les mouvements populaires européens et les ateliers nationaux. Lamartine s'est toujours opposé aux radicaux, car il redoute un nouvel épisode de Terreur. Il décide de soutenir Cavaignac et la répression du peuple parisien au mois de juin 1848 qui fait des milliers de victimes. L'opinion se retourne contre lui. Il est l'objet de nombreuses attaques qui l'accuse d'avoir trahi l'esprit de mai 1848. Il ne recueille que 0,45% des voix à l'élection présidentielle de décembre 1848. Quand il écrit, "la physionomie de la république depuis quelques jours m'afflige", Lamartine regrette la violence des attaques contre la politique extérieure qu'il mène et des menaces qui pèsent sur la République, car les plus radicaux menacent de renverser le gouvernement provisoire et l'assemblée constituante.
+
+"Citoyens pour ma part, le drapeau rouge, je ne l'adopterai jamais, je m'y oppose de toute la force de mon patriotisme: c'est que le drapeau tricolore a fait le to
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzA3OTUzMyw0NzkzNDY1NjEsMTA0Nz
-MwNDY3OCwxNzMyMDUxNTI5LDE3NDE1OTM0MjksLTgzNTY4NzE1
-NCwtODM1Njg3MTU0XX0=
+eyJoaXN0b3J5IjpbMTY3MjM5Mzg2NCwtNjE3MDc5NTMzLDQ3OT
+M0NjU2MSwxMDQ3MzA0Njc4LDE3MzIwNTE1MjksMTc0MTU5MzQy
+OSwtODM1Njg3MTU0LC04MzU2ODcxNTRdfQ==
 -->
