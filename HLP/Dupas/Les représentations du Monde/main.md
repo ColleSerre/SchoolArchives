@@ -84,7 +84,7 @@ Question de la prof: Que permet la parole déléguée au cheval ?
 Zola imagine un dialogue fictir et effraie par un ton prophétique. 
 
 En vert : culpabilisation, supplication. Zola donne la parole au cheval car l'impact est plus fort que si c'était lui qui parlait. Fait appel au registre élégiaque. "Je mourrai demain", se présente comme un martyr et pose un repère temporel qui introduit l'urgence. Le cheval se met en position de martyr pour faire un champ du sygne et met en évidence les conséquences de l'action de l'homme sur le cheval.
-En orange en italiques : Revendications. La colère de tous les animaux. Dissonance avec le pathos en vert. 
+En orange en italiques : Revendications. La colère de tous les animaux. Dissonance avec le pathos en vert. Créél'empathie  
 En bleu : Sagesse du cheval
 En rouge : fraternité inter-espèces
 En noir : rupture notant l'irrégularité de la situation
@@ -93,11 +93,11 @@ En bleu foncé : Appel à la loi des hommes
 En noir en italiques : revendications
 En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM4MTM4MjcsNTEzODA3MjI1LDMxNT
-U1MjQzNCw3OTgxNTk1NTgsMzY3Mjc1MjgyLC05NzcwOTYzNzQs
-LTE3NTg1MjA4MTksLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2OD
-IxNjEwNzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5
-LDQxNTY2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4ND
-I4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcx
+eyJoaXN0b3J5IjpbLTg0OTk2OTkwNCwtMTUyMzgxMzgyNyw1MT
+M4MDcyMjUsMzE1NTUyNDM0LDc5ODE1OTU1OCwzNjcyNzUyODIs
+LTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMTExNjUwMTczNSw4Nz
+czMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMzNzEsMTY4MjE2MTA3
+MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcsMTEzMz
+kwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMxMSwtMTY5NzUwMzQ5
 MF19
 -->
