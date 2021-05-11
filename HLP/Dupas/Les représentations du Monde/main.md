@@ -79,8 +79,9 @@ Développement en deux temps, deux éléments de réponse != axes de lecture. On
 ### Zola
 
 Question d'interprétation : En quoi le personnage du cheval révèle-t-il les rapports humains/animaux ? 
+Question de la prof: Que permet la parole déléguée au cheval ?
 
-En vert : culpabilisation
+En vert : culpabilisation, supplication. Zola donne la parole au cheval car l'impact est plus fort que si c'était lui qui parlait. 
 En orange en italiques : revendications
 En bleu : Sagesse du cheval
 En rouge : fraternité inter-espèces
@@ -89,11 +90,11 @@ En orange : excès de violence des hommes
 En bleu foncé : Appel à la loi des hommes
 En noir en italiques : revendications
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NTUyNDM0LDc5ODE1OTU1OCwzNjcyNz
-UyODIsLTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMTExNjUwMTcz
-NSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMzNzEsMTY4Mj
-E2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcs
-MTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMxMSwtMTY5Nz
-UwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4
-NTldfQ==
+eyJoaXN0b3J5IjpbMzI5NTA2Mjc5LDMxNTU1MjQzNCw3OTgxNT
+k1NTgsMzY3Mjc1MjgyLC05NzcwOTYzNzQsLTE3NTg1MjA4MTks
+LTExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0Mz
+gzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwx
+NDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1Nj
+AzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMw
+XX0=
 -->
