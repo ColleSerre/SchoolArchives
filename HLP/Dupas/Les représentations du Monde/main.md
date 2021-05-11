@@ -81,7 +81,7 @@ Développement en deux temps, deux éléments de réponse != axes de lecture. On
 Question d'interprétation : En quoi le personnage du cheval révèle-t-il les rapports humains/animaux ? 
 Question de la prof: Que permet la parole déléguée au cheval ?
 
-En vert : culpabilisation, supplication. Zola donne la parole au cheval car l'impact est plus fort que si c'était lui qui parlait. Fait appel au registre élégiaque. "Je mourrai demain", se présente comme un martyr et pose un repère temporel qui introduit l'urgence. Le cheval se met en position de martyr pour faire un champ du sygne et montre
+En vert : culpabilisation, supplication. Zola donne la parole au cheval car l'impact est plus fort que si c'était lui qui parlait. Fait appel au registre élégiaque. "Je mourrai demain", se présente comme un martyr et pose un repère temporel qui introduit l'urgence. Le cheval se met en position de martyr pour faire un champ du sygne et met en évidence les conséquences de l'action de l'homme sur le cheval. "Regarde moi", regarde moi
 En orange en italiques : revendications
 En bleu : Sagesse du cheval
 En rouge : fraternité inter-espèces
@@ -90,7 +90,7 @@ En orange : excès de violence des hommes
 En bleu foncé : Appel à la loi des hommes
 En noir en italiques : revendications
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDY2NzczNSwzMTU1NTI0MzQsNzk4MT
+eyJoaXN0b3J5IjpbLTY2MzY2NTUyMiwzMTU1NTI0MzQsNzk4MT
 U5NTU4LDM2NzI3NTI4MiwtOTc3MDk2Mzc0LC0xNzU4NTIwODE5
 LC0xMTE2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0ND
 M4MzM3MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQs
