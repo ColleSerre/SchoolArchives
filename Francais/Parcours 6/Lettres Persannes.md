@@ -3,11 +3,7 @@
 ## Objet d’étude : la littérature d’idées du XVI ème siècle au XVIIIème siècle
 ## Parcours associé : Le regard éloigné
 
-Les Lettres Persanes, édition au choix
-
-  
-
-ETAPE 1- Contexte historique et culturel : ( semaine du 11 Mai)
+### ETAPE 1- Contexte historique et culturel : ( semaine du 11 Mai)
 
 -  Questionnaire sur les Lumières à partir de l’exposition de la BNF : Lumières, un héritage pour demain.-
 
@@ -16,9 +12,7 @@ ETAPE 1- Contexte historique et culturel : ( semaine du 11 Mai)
 ETAPE 2- Extraits étudiés en lecture linéaire : ( semaine du 17 Mai)
 
 -  Lettre 24
-
 -  Lettre 30
-
 -  Lettre 99
 
   
@@ -606,5 +600,5 @@ On en a donc rigolé comme des cornichons. Ça fait drôle forcément, une ville
 
 Céline, Voyage au bout de la nuit,1932
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAyMjI4NDJdfQ==
+eyJoaXN0b3J5IjpbLTE2NzkxNTExNDBdfQ==
 -->
