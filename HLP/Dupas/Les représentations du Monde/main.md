@@ -91,12 +91,13 @@ En noir : rupture notant l'irrégularité de la situation
 En orange : excès de violence des hommes
 En bleu foncé : Appel à la loi des hommes
 En noir en italiques : revendications
+En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos. Le cheval ess
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzODA3MjI1LDMxNTU1MjQzNCw3OTgxNT
-k1NTgsMzY3Mjc1MjgyLC05NzcwOTYzNzQsLTE3NTg1MjA4MTks
-LTExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0Mz
-gzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwx
-NDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1Nj
-AzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMw
+eyJoaXN0b3J5IjpbLTgzOTM0NDUxOCw1MTM4MDcyMjUsMzE1NT
+UyNDM0LDc5ODE1OTU1OCwzNjcyNzUyODIsLTk3NzA5NjM3NCwt
+MTc1ODUyMDgxOSwtMTExNjUwMTczNSw4NzczMTM3ODEsMTY4Mj
+E2MTA3Miw3NDQzODMzNzEsMTY4MjE2MTA3MiwzMDgxMDkyNDks
+NDE1NjY1MDY0LDE0NzkwMjgwNzcsMTEzMzkwNzE3OSw2OTg0Mj
+gyMzEsMTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEw
 XX0=
 -->
