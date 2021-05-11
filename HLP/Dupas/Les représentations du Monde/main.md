@@ -81,15 +81,15 @@ Développement en deux temps, deux éléments de réponse != axes de lecture. On
 Question d'interprétation : En quoi le personnage du cheval révèle-t-il les rapports humains/animaux ? 
 
 En vert : culpabilisation
-En orange en italique : revendications
+En orange en italiques : revendications
 En bleu : Sagesse du cheval
 En rouge : fraternité inter-espèces
-En noir : rupture 
+En noir : rupture notant l'irrégularité de la situation
 En orange : excès de violence des hommes
 En bleu foncé : Appel à la loi des hommes
-
+En noir en italiques : revendications
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTUwNTIwLDc5ODE1OTU1OCwzNjcyNz
+eyJoaXN0b3J5IjpbMzE1NTUyNDM0LDc5ODE1OTU1OCwzNjcyNz
 UyODIsLTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMTExNjUwMTcz
 NSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMzNzEsMTY4Mj
 E2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcs
