@@ -3,17 +3,17 @@
 # Les représentations du monde
 
 ## Questionnement 1
-L'image du monstre en Littérature nous permet-elle de prendre conscience des "monstres" que nous sommes? 
+L'image du monstre en Littérature nous permet-elle de prendre conscience des "monstres" que nous sommes ? 
 
 ### Séance 1
 #### Convoquer des ressources littéraires pour nourrir une QR et pour s'immerger dans une QI. 
 Le premier *monstre* est sans guillemets, il est littéral. Le second est entendu comme étant un monstre incomplet et non caricatural. Étymologiquement, le monstre est ce qui doit être montré du doigt (monstrare) comme une bête de foire. **Une autre étymologie possible est monstrum qui signifie prodige, avertissement qui octroie au monstre une aura prémonitoire**
-Monstres en littérature: 
+Monstres en littérature : 
  - Médée qui tua par amour et par vengeance, deux émotions humaines. Les crimes passionnels sont donc ceux que l'on peut considérer comme les plus humains
  - Macbeth qui devient un tueur au fur et à mesure de l'œuvre sous l'influence des sorcières qui sont la personnification du *fatum* 
- - Dorian Grey (à lire), la laideur n'est pas physique mais dans son âme. 
- - Ulysse face au cyclope, tente de le convaincre en réduisant la chair de ses camarades à de l'"abominable nourriture". Il essaye d'employer un argument dit *reductio ad unum* pour à la fois rendre le cyclope empathique et le dissuader de rejoindre le camp de ceux qui ont fait souffrir les hommes. Cela ne fonctionne pas face au cyclope qui adopte une position semblable au *carpe diem* d'Horace en affirmant qu'aucun Dieu ne peut l'atteindre dans sa grotte et qu'il vit sa vie sans demander de plus. Les hommes ont tout simplement eu le malheur de croiser son chemin alors qu'il avait faim. La richesse exprimée dans **"La richesse est le dieu des sages: tout le reste n'est que vanité et beaux discours.** Est une richesse spirituelle ainsi que matérielle. - Euripide *Le Cyclope*
- - Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'un enfant monstrueux*
+ - Dorian Grey (à lire), la laideur n'est pas physique, mais dans son âme. 
+ - Ulysse face au cyclope, tente de le convaincre en réduisant la chair de ses camarades à de l'"abominable nourriture". Il essaye d'employer un argument dit *reductio ad unum* pour à la fois rendre le cyclope empathique et le dissuader de rejoindre le camp de ceux qui ont fait souffrir les hommes. Cela ne fonctionne pas face au cyclope qui adopte une position semblable au *carpe diem* d'Horace en affirmant qu'aucun Dieu ne peut l'atteindre dans sa grotte et qu'il vit sa vie sans demander de plus. Les hommes ont tout simplement eu le malheur de croiser son chemin alors qu'il avait faim. La richesse exprimée dans **"La richesse est le dieu des sages : tout le reste n'est que vanité et beaux discours.** Est une richesse spirituelle ainsi que matérielle. - Euripide *Le Cyclope*
+ - Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude : il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'un enfant monstrueux*
  - La Chambre des officiers - Marc Dugain (les gueules cassées ne sont des monstres qu'en apparence)
  - Le silence de la mer - Vercors (une famille héberge un soldat allemand qui se révèle n'être un monstre qu'en apparences, l'homme avant l'ennemi)
  - La classe de neige - Emmanuel Carrère (la manière d'obtenir de l'argent pour une cause vertueuse, l'éducation de son fils, est horrible) (à approfondir)
@@ -22,7 +22,7 @@ Monstres en littérature:
  - Le bossu de Notre-Dame, le monstre physique qui est vertueux 
  - La Belle et la Bête, parallèle au bossu de Notre-Dame
  - L'Étranger dans son indifférence, l'action est parfois monstrueuse, mais l'inaction peut aussi l'être. Il aime sans le dire, il vit sans le dire et n'en ressent pas le besoin. Il n'est pas insensible juste inexplicable. 
- - Le monstre peut-être malgré lui:
+ - Le monstre peut-être malgré lui :
 	 - Frankenstein
 	 - Dorian Grey
 	 - Les gueules cassées (La chambre des officiers, Au revoir là-haut)
@@ -31,7 +31,7 @@ Monstres en littérature:
 	 - Pour montrer l'horreur de l'industrialisation, Hugo et Zola décrivent l'usine et la mine comme étant des monstres, *Melancholia* et *Germinal*. On utilise le registre épique.
 
 ### Qu'est-ce qu'un monstre ?
-1. Physique: Minotaure
+1. Physique : Minotaure
 	- Thésée a besoin du Minotaure pour devenir brave. Après avoir tué le Minotaure, Thésée devient un monstre en abandonnant Ariane puis est sanctionné par la mort de son père. 
 2. Moral: Néron
 
@@ -82,13 +82,15 @@ Question d'interprétation : En quoi le personnage du cheval révèle-t-il les r
 
 En vert : culpabilisation
 En orange en italique : revendications
-En bleu : Sagesse du cheva
+En bleu : Sagesse du cheval
+En rouge : fraternité inter-espèces
+En orange : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDMzMTAzMSw3OTgxNTk1NTgsMzY3Mj
-c1MjgyLC05NzcwOTYzNzQsLTE3NTg1MjA4MTksLTExMTY1MDE3
-MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0MzgzMzcxLDE2OD
-IxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwxNDc5MDI4MDc3
-LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAzMTEsLTE2OT
-c1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC0xOTY4NDYw
-ODU5XX0=
+eyJoaXN0b3J5IjpbLTEwNjgyODkxOTQsNzk4MTU5NTU4LDM2Nz
+I3NTI4MiwtOTc3MDk2Mzc0LC0xNzU4NTIwODE5LC0xMTE2NTAx
+NzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3MSwxNj
+gyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OTAyODA3
+NywxMTMzOTA3MTc5LDY5ODQyODIzMSwxOTAzNTYwMzExLC0xNj
+k3NTAzNDkwLC00Mjg1MTg3MTAsMTcyMTQwMDUzMCwtMTk2ODQ2
+MDg1OV19
 -->
