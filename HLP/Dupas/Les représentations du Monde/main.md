@@ -72,7 +72,7 @@ Correction:
 
 Étymologiquement, le mot "monstre" est signe de mauvaise augure, provenant du latin *monstrare* signifiant "montrer" et de *monstrum* rattaché à "avertir". Cette étymologie nous vient d'un temps durant lequel la naissance d'un enfant "monstrueux" était interprété comme un mauvais présage, un message funeste des dieux. Montaigne traitera de cette croyance dans l'un de ses *Essais*, plus précisément dans *Au sujet d'un enfant monstrueux*. Il choisira de relativiser la monstruosité de l'enfant en affirmant que " Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte." et que par extension la nature monstrueuse de l'enfant n'est que par apparences et préjugés. Cette idée d'un monstre qui possèderait une réelle humanité sous un physique désavantageux fût reprise plus tard par la romancière Mary Shelley dans son œuvre la plus célèbre : *Frankenstein ou le Prométhée moderne*. Shelley écrit l'histoire d'un monstre créé par le Docteur Frankenstein, avide de percer le secret de la création. Ce monstre qui n'a jamais demandé à l'être se révéla étonnamment humain quand il demanda au Docteur de lui créer une compagne à son image afin de vivre paisiblement. Le Docteur, encore trop effrayé de sa création, refusa en plein milieu de l'expérience, tuant la future femme du monstre. C'en est trop pour le monstre qui, enragé, s'enfuit dans la campagne. Après avoir été rejeté par des villageois en raison de son physique original et d'autres péripéties, le monstre entre en contact avec un vieillard aveugle, ce dernier l'accepte et converse régulièrement avec lui. En cela, le monstre Frankenstein n'est monstrueux qu'en accord avec la définition de Montaigne. En effet, sa fuite a été causée par l'émotion la plus humaine : l'amour. De plus, son rapprochement avec le vieillard démontre qu'en faisant abstraction de son apparence, le monstre est en tous points semblable à un Homme. 
 
-Question d'interprétation:
+Question d'interprétation :
 
 Développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. Exemple: Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme une réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres œuvres. 
 
@@ -80,11 +80,11 @@ Développement en deux temps, deux éléments de réponse != axes de lecture. On
 
 Question d'interprétation : En quoi le personnage du cheval révèle-t-il les rapports humains/animaux ? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3Mjc1MjgyLC05NzcwOTYzNzQsLTE3NT
-g1MjA4MTksLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEw
-NzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNT
-Y2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMx
-LDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcxMCwxNz
-IxNDAwNTMwLC0xOTY4NDYwODU5LDEwOTUyOTEzNTIsLTE2NjQz
-MjM1MDJdfQ==
+eyJoaXN0b3J5IjpbMTg2NTA3NDY5OCwzNjcyNzUyODIsLTk3Nz
+A5NjM3NCwtMTc1ODUyMDgxOSwtMTExNjUwMTczNSw4NzczMTM3
+ODEsMTY4MjE2MTA3Miw3NDQzODMzNzEsMTY4MjE2MTA3MiwzMD
+gxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcsMTEzMzkwNzE3
+OSw2OTg0MjgyMzEsMTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtND
+I4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4NTksMTA5NTI5
+MTM1Ml19
 -->
