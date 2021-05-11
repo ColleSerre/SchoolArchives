@@ -10,8 +10,9 @@ Le terme "les Lumières" désigne un mouvement culturel de la seconde moitié du
 4. Quels sont les nouveaux grands principes qui émergent pour repenser la société et l’homme ?
 
 Persanes : Provenant de l'empire Perse
-Expliquer la spécificité et l'intérêt de l'étude de l'œuvre/objet d'étude :  Les Lettres Persanes de Montesquieu
+Expliquer la spécificité et l'intérêt de l'étude de l'œuvre/objet d'étude :  Dans les Lettres Persanes, Montesquieu porte un regard sur l'empire Perse et l'orient depuis l'occident. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MzM1OTY1LC0yMDI1MTY5NTI5LC0xMT
-AwNDQyMTYzLC0xOTQzMDI3MjM5LDc0MDM0MjA3MV19
+eyJoaXN0b3J5IjpbOTU5NTI3MTI3LDc4NTMzNTk2NSwtMjAyNT
+E2OTUyOSwtMTEwMDQ0MjE2MywtMTk0MzAyNzIzOSw3NDAzNDIw
+NzFdfQ==
 -->
