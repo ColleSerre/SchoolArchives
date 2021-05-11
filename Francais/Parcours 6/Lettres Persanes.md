@@ -10,8 +10,8 @@ Le terme "les Lumières" désigne un mouvement culturel de la seconde moitié du
 4. Quels sont les nouveaux grands principes qui émergent pour repenser la société et l’homme ?
 
 Persanes : Provenant de l'empire Perse
-Expliquer la spécificité et l'intérêt de l'étude de l'œuvre/objet d'étude : 
+Expliquer la spécificité et l'intérêt de l'étude de l'œuvre/objet d'étude :  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA0NDIxNjMsLTE5NDMwMjcyMzksNz
-QwMzQyMDcxXX0=
+eyJoaXN0b3J5IjpbLTIwMjUxNjk1MjksLTExMDA0NDIxNjMsLT
+E5NDMwMjcyMzksNzQwMzQyMDcxXX0=
 -->
