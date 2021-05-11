@@ -11,10 +11,10 @@ Le terme "les Lumières" désigne un mouvement culturel de la seconde moitié du
 
 Persanes : Provenant de l'empire Perse
 Expliquer la spécificité et l'intérêt de l'étude de l'œuvre/objet d'étude :  Dans les Lettres Persanes, Montesquieu porte un regard sur l'empire Perse et l'orient depuis l'occident. Cela permet d'étudier le regard que l'Europe du 17ᵉ et 18ᵉ siècle portait sur l'orient. 
-Expliquer le thème "le regard éloigné" : Le regard de Montesquieu dans Lettres Persanes
+Expliquer le thème "le regard éloigné" : Le regard de Montesquieu dans Lettres Persanes, roman épistolaire, est éloigné 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDA5NzMzMyw5OTY0NjIwNjEsLTE3OD
-gzMDE3NTAsOTU5NTI3MTI3LDc4NTMzNTk2NSwtMjAyNTE2OTUy
-OSwtMTEwMDQ0MjE2MywtMTk0MzAyNzIzOSw3NDAzNDIwNzFdfQ
-==
+eyJoaXN0b3J5IjpbLTEwNzg5OTAzMDgsLTIyNDA5NzMzMyw5OT
+Y0NjIwNjEsLTE3ODgzMDE3NTAsOTU5NTI3MTI3LDc4NTMzNTk2
+NSwtMjAyNTE2OTUyOSwtMTEwMDQ0MjE2MywtMTk0MzAyNzIzOS
+w3NDAzNDIwNzFdfQ==
 -->
