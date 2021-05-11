@@ -109,12 +109,6 @@ Un constat pessimiste du mal français.
 
 Terreur au sérail.
 
-  
-  
-  
-  
-  
-
 ETAPE 1
 
 ### Les Lumières introduction au siècle de Diderot et Voltaire
@@ -509,5 +503,5 @@ On en a donc rigolé comme des cornichons. Ça fait drôle forcément, une ville
 
 Céline, Voyage au bout de la nuit,1932
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQxNTgyOTVdfQ==
+eyJoaXN0b3J5IjpbMTEyMjU1NTAwNSwtMTY1NDE1ODI5NV19
 -->
