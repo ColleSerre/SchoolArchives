@@ -31,9 +31,9 @@ Monstres en littérature :
 	 - Pour montrer l'horreur de l'industrialisation, Hugo et Zola décrivent l'usine et la mine comme étant des monstres, *Melancholia* et *Germinal*. On utilise le registre épique.
 
 ### Qu'est-ce qu'un monstre ?
-1. Physique : Minotaure
+1. Physique : Minotaure
 	- Thésée a besoin du Minotaure pour devenir brave. Après avoir tué le Minotaure, Thésée devient un monstre en abandonnant Ariane puis est sanctionné par la mort de son père. 
-2. Moral: Néron
+2. Moral : Néron
 
 ### Dans quelles circonstances interroge-t-on le monstre en soi ?
 Dans des circonstances extrêmes (orgueil, colère, frustration, jalousie, envie)
@@ -84,13 +84,16 @@ En vert : culpabilisation
 En orange en italique : revendications
 En bleu : Sagesse du cheval
 En rouge : fraternité inter-espèces
-En orange : 
+En noir : rupture 
+En orange : excès de violence des hommes
+En bleu foncé : Appel à la loi des hommes
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgyODkxOTQsNzk4MTU5NTU4LDM2Nz
-I3NTI4MiwtOTc3MDk2Mzc0LC0xNzU4NTIwODE5LC0xMTE2NTAx
-NzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3MSwxNj
-gyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OTAyODA3
-NywxMTMzOTA3MTc5LDY5ODQyODIzMSwxOTAzNTYwMzExLC0xNj
-k3NTAzNDkwLC00Mjg1MTg3MTAsMTcyMTQwMDUzMCwtMTk2ODQ2
-MDg1OV19
+eyJoaXN0b3J5IjpbLTU5MTUwNTIwLDc5ODE1OTU1OCwzNjcyNz
+UyODIsLTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMTExNjUwMTcz
+NSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMzNzEsMTY4Mj
+E2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcs
+MTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMxMSwtMTY5Nz
+UwMzQ5MCwtNDI4NTE4NzEwLDE3MjE0MDA1MzAsLTE5Njg0NjA4
+NTldfQ==
 -->
