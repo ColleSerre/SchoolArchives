@@ -74,17 +74,21 @@ Correction:
 
 Question d'interprétation :
 
-Développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. Exemple : Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme une réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres œuvres. 
+Développement en deux temps, deux éléments de réponse != axes de lecture. On mesure. Exemple : Oui, mais - Oui, cependant - Oui, non. Il faut aborder comme une réflexion et **répondre à la question**. On part du texte pour tisser des liens avec d'autres œuvres. 
 
 ### Zola
 
 Question d'interprétation : En quoi le personnage du cheval révèle-t-il les rapports humains/animaux ? 
+
+En vert : culpabilisation
+En orange en italique : revendications
+En bleu : Sagesse du cheva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MTU5NTU4LDM2NzI3NTI4MiwtOTc3MD
-k2Mzc0LC0xNzU4NTIwODE5LC0xMTE2NTAxNzM1LDg3NzMxMzc4
-MSwxNjgyMTYxMDcyLDc0NDM4MzM3MSwxNjgyMTYxMDcyLDMwOD
-EwOTI0OSw0MTU2NjUwNjQsMTQ3OTAyODA3NywxMTMzOTA3MTc5
-LDY5ODQyODIzMSwxOTAzNTYwMzExLC0xNjk3NTAzNDkwLC00Mj
-g1MTg3MTAsMTcyMTQwMDUzMCwtMTk2ODQ2MDg1OSwxMDk1Mjkx
-MzUyXX0=
+eyJoaXN0b3J5IjpbMTA2NDMzMTAzMSw3OTgxNTk1NTgsMzY3Mj
+c1MjgyLC05NzcwOTYzNzQsLTE3NTg1MjA4MTksLTExMTY1MDE3
+MzUsODc3MzEzNzgxLDE2ODIxNjEwNzIsNzQ0MzgzMzcxLDE2OD
+IxNjEwNzIsMzA4MTA5MjQ5LDQxNTY2NTA2NCwxNDc5MDI4MDc3
+LDExMzM5MDcxNzksNjk4NDI4MjMxLDE5MDM1NjAzMTEsLTE2OT
+c1MDM0OTAsLTQyODUxODcxMCwxNzIxNDAwNTMwLC0xOTY4NDYw
+ODU5XX0=
 -->
