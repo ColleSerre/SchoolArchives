@@ -88,16 +88,16 @@ En orange en italiques : Revendications. La colère de tous les animaux. Dissona
 En bleu : Sagesse du cheval
 En rouge : fraternité inter-espèces
 En noir : rupture notant l'irrégularité de la situation
-En orange : excès de violence des hommes
+En orange : excès de violence des hommes. Le cheval essaye de faire comprendre, empathie. 
 En bleu foncé : Appel à la loi des hommes
 En noir en italiques : revendications
-En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos. Le cheval ess
+En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTM0NDUxOCw1MTM4MDcyMjUsMzE1NT
-UyNDM0LDc5ODE1OTU1OCwzNjcyNzUyODIsLTk3NzA5NjM3NCwt
-MTc1ODUyMDgxOSwtMTExNjUwMTczNSw4NzczMTM3ODEsMTY4Mj
-E2MTA3Miw3NDQzODMzNzEsMTY4MjE2MTA3MiwzMDgxMDkyNDks
-NDE1NjY1MDY0LDE0NzkwMjgwNzcsMTEzMzkwNzE3OSw2OTg0Mj
-gyMzEsMTkwMzU2MDMxMSwtMTY5NzUwMzQ5MCwtNDI4NTE4NzEw
-XX0=
+eyJoaXN0b3J5IjpbLTE1MjM4MTM4MjcsNTEzODA3MjI1LDMxNT
+U1MjQzNCw3OTgxNTk1NTgsMzY3Mjc1MjgyLC05NzcwOTYzNzQs
+LTE3NTg1MjA4MTksLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2OD
+IxNjEwNzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5
+LDQxNTY2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4ND
+I4MjMxLDE5MDM1NjAzMTEsLTE2OTc1MDM0OTAsLTQyODUxODcx
+MF19
 -->
