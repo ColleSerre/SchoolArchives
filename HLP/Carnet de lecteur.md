@@ -180,12 +180,13 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Une des propriétés des sondages consiste à poser aux gens des problèmes qu'ils ne se posent pas, à faire glisser des réponses aux problèmes qu'ils n'ont pas posés, donc à imposer des réponses. - *Pierre Bourdieu* au Collège de France 1990
 * Pour Goëte, l'ère moderne commence avec la déclaration des droits de l'homme car elle est la première fois que les citoyens ont proclamé un droit pour tous les Hommes du monde et par que pour les français. 
 
-## Capitalisme
+## Capitalisme/néo-libéralisme
 
 * Wall Street: marché aux esclaves au départ
 * HSBC: banque des marchants d'opium en chine
 * Henry Ford a reçu la plus haute décoration du IIIème Reich (La Grande Croix de l'Ordre de l'Aigle allemand)
 * Le capitalisme a tendance à détruire les deux choses qui font sa richesse: les êtres humains et la nature - Karl Marx
+* And, you know, there's no such thing as society. There are individual men and women and there are families. And no government can do anything except through people, and people must look after themselves first. - Margaret Thatcher
 
 ## Apparences vs Réalité
 
@@ -358,7 +359,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDYzNDYxNywtMjA4ODc0NjYxMiwxOD
+eyJoaXN0b3J5IjpbMTgyMDM4MTExMiwtMjA4ODc0NjYxMiwxOD
 c0MzQxOTU0LC02NzA5OTk0ODYsLTgwNDMxMzIyMSwtMTY1NjQz
 NTQ2NSwtMTA5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NTkzOS
 wtMTc0MjExMTM3NiwtMjkyOTU1MDAzLDE3NzE4MDM1MDcsLTEx
