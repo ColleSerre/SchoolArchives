@@ -11,9 +11,9 @@ The treaty was signed in Versailles because France surrendered in 1870 to Prussi
 4 objectives:
 
 1. To make Germany pay
-2. To cripple Germany so it could not start another war
+2. To cripple Germany so it could not start another war 
 3. to reward winning countries
-4. establish a just and lasting peace 
+4. establish a just and lasting peace (Wilson's main objective)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA2NjI4MTldfQ==
+eyJoaXN0b3J5IjpbLTg2OTQwNDI2Nl19
 -->
