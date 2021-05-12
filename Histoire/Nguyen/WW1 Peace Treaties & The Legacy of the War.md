@@ -6,12 +6,7 @@ The treaty was anticipated to create a lot of resentment in Germany, but they di
 
 ## The Treaty of Versailles
 
-The treaty was signed in Versailles because France surrendered in 1870 to Prussia. Versailles represents one of the peaks of French power and influence → humiliating. It was signed on January 18 because it was the day the German Empire was founded.
-
-The big three:
-
-* Woordrow Wilson (U.S)
-* 
+The treaty was signed in Versailles because France surrendered in 1870 to Prussia. Versailles represents one of the peaks of French power and influence → humiliating. It was signed on January 18 because it was the day the German Empire was founded. The big four winners met at Versailles. Germany and Russia had no say in the negotiations. The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NjYzNjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzEwNDU2NDBdfQ==
 -->
