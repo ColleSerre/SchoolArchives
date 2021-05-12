@@ -14,6 +14,16 @@ The treaty was signed in Versailles because France surrendered in 1870 to Prussi
 2. To cripple Germany, so it could not start another war (Clemenceau's main objective, supported by GB)
 3. to reward winning countries (Italy's main objective, GB wanted the German colonies)
 4. establish a just and lasting peace (Wilson's main objective, GB wanted this because war is bad for trade)
+
+Wilson's 14 points:
+
+1. End all secret treaties
+2. Freedom of the Seas
+3. Free trade
+4. Reduce national armies
+5. Colonial fairness
+6. rearranging borders (self-determination)
+7. Create a general association of nations that would negociat 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4ODc4NzgxXX0=
+eyJoaXN0b3J5IjpbNjA5ODU0MzQwXX0=
 -->
