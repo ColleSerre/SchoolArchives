@@ -10,10 +10,10 @@ The treaty was signed in Versailles because France surrendered in 1870 to Prussi
 
 4 objectives:
 
-1. To make Germany pay
-2. To cripple Germany so it could not start another war 
+1. To make Germany pay (Clemenceau's other objective, he hated Germany because he was already there in 1870)
+2. To cripple Germany, so it could not start another war (Clemenceau's main objective)
 3. to reward winning countries
 4. establish a just and lasting peace (Wilson's main objective)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTQwNDI2Nl19
+eyJoaXN0b3J5IjpbLTIwODk3Nzc3NjZdfQ==
 -->
