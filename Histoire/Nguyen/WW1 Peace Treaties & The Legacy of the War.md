@@ -23,7 +23,7 @@ Wilson's 14 points:
 4. Reduce national armies
 5. Colonial fairness
 6. rearranging borders (self-determination)
-7. Create a general association of nations that would negociat 
+7. Create a general association of nations that would negotiate solutions to world conflicts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5ODU0MzQwXX0=
+eyJoaXN0b3J5IjpbLTE0MTY1OTg4Nl19
 -->
