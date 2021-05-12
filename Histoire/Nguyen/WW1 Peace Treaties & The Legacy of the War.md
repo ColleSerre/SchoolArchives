@@ -6,7 +6,14 @@ The treaty was anticipated to create a lot of resentment in Germany, but they di
 
 ## The Treaty of Versailles
 
-The treaty was signed in Versailles because France surrendered in 1870 to Prussia. Versailles represents one of the peaks of French power and influence → humiliating. It was signed on January 18 because it was the day the German Empire was founded. The big four winners met at Versailles. Germany and Russia had no say in the negotiations. The 
+The treaty was signed in Versailles because France surrendered in 1870 to Prussia. Versailles represents one of the peaks of French power and influence → humiliating. It was signed on January 18 because it was the day the German Empire was founded. The big four winners met at Versailles. Germany and Russia had no say in the negotiations. The prior because they lost, the latter because they were commies. 
+
+4 objectives:
+
+1. To make Germany pay
+2. To cripple Germany so it could not start another war
+3. to reward winning countries
+4. establish a just and lasting peace 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEwNDU2NDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDA2NjI4MTldfQ==
 -->
