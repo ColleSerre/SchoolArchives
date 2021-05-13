@@ -138,7 +138,7 @@ Plan d'Analyse Linéaire:
 
 ### Intro
 
-Les Fausses Confidences, pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer et ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. Nous étudierons donc, en quoi cette scène renouvelle-t-elle les rapports maître-valet. On distingue deux grands mouvements: d'une part "Dorante est un maître reconnaissant (1 à 10)" et d'autre part "Dubois, un valet en réalité maître de la situation (10 à fin)". 
+Les Fausses Confidences est une pièce de théâtre de Marivaux jouée pour la première fois en 1737. Nous sommes en plein siècle des lumières, les penseurs revendiquent la liberté de penser et de créer. Ni le drame, ni la comédie ne contentent le public. L'un, car il est jugé immoral, l'autre, car trop vulgaire. Après avoir renvoyé le domestique Arlequin qui l'a amené jusque-là, Dorante discute avec Dubois de leur stratagème qui consiste dans un premier temps à faire embaucher Dorante comme intendant d'Araminte dans le but de se rapprocher de cette dernière dont il est amoureux. Cependant, malgré les rôles socialement et hierarchiquement établis, Dubois se présente comme supérieur à Dorante durant cette scène d'exposition du stratagème. Nous étudierons donc, en quoi cette scène renouvelle-t-elle les rapports maître-valet. On distingue deux grands mouvements: d'une part "Dorante est un maître reconnaissant (1 à 10)" et d'autre part "Dubois, un valet en réalité maître de la situation (10 à fin)". 
 
 ### Le personnage de Dubois
 
@@ -187,11 +187,11 @@ Serviable et sympathique: bon génie de la pièce, il est désintéressé, à l'
 Animé d'une volonté de puissance ? 
 Pour mener à bien sa manipulation Dubois doit parfois être cynique. Les êtres ne sont pour lui que des marionnettes dont il tire les ficelles à sa guise. Le mensonge ne l'effraie pas. On se demande alors s'il ne manipule pas D comme il l'a fait pour A. Les raisons: Se prouver l'étendue de son pouvoir, prendre une revanche sur ses maitres. Se prouver que ses qualités valent plus que la richesse matérielle. Amoureux secret d'A ? Il réalise ses voeux par personne interposée. On ne peut répondre à toutes ces éventualités mais celle-ci se projettent sur D une ombre inquiétante. Il a peut-être aussi un intérêt matériel. Le personnage de Dubois est une énigme, ce qui le rend intéressant. C'est le valet et non le maître qui suscite la réflexion. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2Nzc1MjYwLDE2MTM0NTczMiwtODM1OD
-A0NTA0LDE4NzEwNDUwNjYsLTE5NzUyNjY3MTUsMTY0NjcyMzAw
-NCwzMTQ1MTkzOTYsMjA4MTkxMDYxMiw1NTc3MzgyMTYsMTA3MD
-YwMTIxOSwtNjQyNjE0NjAsMzQ5NjQxOTgzLDM3NjYyNzY5Mywt
-MTYyNDkyMDM5MSwtNDQxNzgxNTkzLDk2MDIzMzE2MiwxMjQ2OD
-M2MDg0LC01NDk0MjM0NjAsLTEwMTgwMzI3MjIsMjAzNzk0Mzg5
-Ml19
+eyJoaXN0b3J5IjpbLTE5MDEyMjYxNjEsMTYxMzQ1NzMyLC04Mz
+U4MDQ1MDQsMTg3MTA0NTA2NiwtMTk3NTI2NjcxNSwxNjQ2NzIz
+MDA0LDMxNDUxOTM5NiwyMDgxOTEwNjEyLDU1NzczODIxNiwxMD
+cwNjAxMjE5LC02NDI2MTQ2MCwzNDk2NDE5ODMsMzc2NjI3Njkz
+LC0xNjI0OTIwMzkxLC00NDE3ODE1OTMsOTYwMjMzMTYyLDEyND
+Y4MzYwODQsLTU0OTQyMzQ2MCwtMTAxODAzMjcyMiwyMDM3OTQz
+ODkyXX0=
 -->
