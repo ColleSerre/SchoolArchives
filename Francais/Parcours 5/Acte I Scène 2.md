@@ -1,7 +1,7 @@
 
 # Acte I Scène 2
 
-## Dorant, un maître dépendant
+## Dorante, un maître dépendant
 
 * DUBOIS. − Vous n’avez rien dit de notre projet à Monsieur Remy, votre parent ?
 	* Dubois est plus que proche, car il possède des infos que même son oncle n'a pas. Il est supérieur un quelqu'un qui devrait être son maître socialement. 
@@ -31,7 +31,7 @@
 * "vous êtes actuellement", montre la capacité de Dubois à se projeter dans le futur contrairement à Dorante qui est figé dans le présent. 
 * "vous êtes dans votre salle et vos équipages est sous la remise", Dorante le capitaine, épique. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTcwNDk1OCw3MjExOTM3MSwxMDk0Mz
-UzNDk0LC0yMTQyMjA5NTIzLC05MDA4NTU1ODgsMTU2MjYxNzA0
-NF19
+eyJoaXN0b3J5IjpbLTg5OTIzMjE4OSwtNzY5NzA0OTU4LDcyMT
+E5MzcxLDEwOTQzNTM0OTQsLTIxNDIyMDk1MjMsLTkwMDg1NTU4
+OCwxNTYyNjE3MDQ0XX0=
 -->
