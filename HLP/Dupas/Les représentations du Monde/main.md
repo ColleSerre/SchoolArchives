@@ -92,12 +92,14 @@ En orange : excès de violence des hommes. Le cheval essaye de faire comprendre,
 En bleu foncé : Appel à la loi des hommes
 En noir en italiques : revendications
 En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTk2OTkwNCwtMTUyMzgxMzgyNyw1MT
-M4MDcyMjUsMzE1NTUyNDM0LDc5ODE1OTU1OCwzNjcyNzUyODIs
-LTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMTExNjUwMTczNSw4Nz
-czMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMzNzEsMTY4MjE2MTA3
-MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0NzkwMjgwNzcsMTEzMz
-kwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMxMSwtMTY5NzUwMzQ5
-MF19
+eyJoaXN0b3J5IjpbLTE4NDg0NTk3OTYsLTg0OTk2OTkwNCwtMT
+UyMzgxMzgyNyw1MTM4MDcyMjUsMzE1NTUyNDM0LDc5ODE1OTU1
+OCwzNjcyNzUyODIsLTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMT
+ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
+NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
+kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
+MV19
 -->
