@@ -16,8 +16,10 @@ Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 févr
 ## La II République & le 2nd Empire
 
 Louis-Napoléon Bonaparte est élu et entame un bras de fer avec l'assemblée nationale qui est en majorité monarchiste. L'assemblée rétracte le suffrage universel et mène une politique réactionnaire. Le bras de fer porte sur la durée du mandat présidentiel, il veut le rendre renouvelable et donc changer la constitution. Le coup d'État est la seule option pour accéder à cette réforme. Louis Napoléon Bonaparte fait le coup d'État du 2 décembre 1851 qui est la date du couronnement impérial de Napoléon 1er et de la victoire d'Austerlitz. Il fait un plébiscite pour le nommer président pour les 10 ans suivants. Le oui l'emporte haut la main. La nouvelle constitution comporte 3 chambres législatives (Sénat, Conseil d'État et Corps législatif). L'empereur détient une partie du pouvoir législatif, car il est à l'initiative des lois, il peut consulter les Français par plébiscite, il nomme le sénat et nomme et révoque le conseil d'État et les ministres.  Les pouvoirs sont donc très étendus (pouvoir personnel et autoritaire). Les préfets et sous-préfets font pression sur les citoyens en organisant la fraude des plébiscite et en distribuant des tracts pour le candidat du régime. 
+
+**Césarisme démocratique: ** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI2NDQwMiwyMDEwNjQ5MTkwLC04MT
+eyJoaXN0b3J5IjpbMTE3NjAzNjgxNywyMDEwNjQ5MTkwLC04MT
 U5NDUzNDIsLTE0NTk0Njk1NDIsMTY4NjYwNzEyNiwtNjE3MDc5
 NTMzLDQ3OTM0NjU2MSwxMDQ3MzA0Njc4LDE3MzIwNTE1MjksMT
 c0MTU5MzQyOSwtODM1Njg3MTU0LC04MzU2ODcxNTRdfQ==
