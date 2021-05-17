@@ -18,9 +18,12 @@ Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 févr
 Louis-Napoléon Bonaparte est élu et entame un bras de fer avec l'assemblée nationale qui est en majorité monarchiste. L'assemblée rétracte le suffrage universel et mène une politique réactionnaire. Le bras de fer porte sur la durée du mandat présidentiel, il veut le rendre renouvelable et donc changer la constitution. Le coup d'État est la seule option pour accéder à cette réforme. Louis Napoléon Bonaparte fait le coup d'État du 2 décembre 1851 qui est la date du couronnement impérial de Napoléon 1er et de la victoire d'Austerlitz. Il fait un plébiscite pour le nommer président pour les 10 ans suivants. Le oui l'emporte haut la main. La nouvelle constitution comporte 3 chambres législatives (Sénat, Conseil d'État et Corps législatif). L'empereur détient une partie du pouvoir législatif, car il est à l'initiative des lois, il peut consulter les Français par plébiscite, il nomme le sénat et nomme et révoque le conseil d'État et les ministres.  Les pouvoirs sont donc très étendus (pouvoir personnel et autoritaire). Les préfets et sous-préfets font pression sur les citoyens en organisant la fraude des plébiscite et en distribuant des tracts pour le candidat du régime. 
 
 **Césarisme démocratique :** régime politique qui associe un pouvoir autoritaire et personnel d'une part et des élections au suffrage universel d'autre part. Ce type de régime prétend établir un lien direct entre le peuple et l'empereur. Ce type de régime prétend établir un lien direct entre l'empereur et le peuple en référence au modèle romain de Jules César. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MzgwNzY2LDIwMTA2NDkxOTAsLTgxNT
-k0NTM0MiwtMTQ1OTQ2OTU0MiwxNjg2NjA3MTI2LC02MTcwNzk1
-MzMsNDc5MzQ2NTYxLDEwNDczMDQ2NzgsMTczMjA1MTUyOSwxNz
-QxNTkzNDI5LC04MzU2ODcxNTQsLTgzNTY4NzE1NF19
+eyJoaXN0b3J5IjpbNjcxMTgwMTAsOTg2MzgwNzY2LDIwMTA2ND
+kxOTAsLTgxNTk0NTM0MiwtMTQ1OTQ2OTU0MiwxNjg2NjA3MTI2
+LC02MTcwNzk1MzMsNDc5MzQ2NTYxLDEwNDczMDQ2NzgsMTczMj
+A1MTUyOSwxNzQxNTkzNDI5LC04MzU2ODcxNTQsLTgzNTY4NzE1
+NF19
 -->
