@@ -93,13 +93,13 @@ En bleu foncé : Appel à la loi des hommes
 En noir en italiques : revendications
 En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
 
-
+### Réci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg0NTk3OTYsLTg0OTk2OTkwNCwtMT
-UyMzgxMzgyNyw1MTM4MDcyMjUsMzE1NTUyNDM0LDc5ODE1OTU1
-OCwzNjcyNzUyODIsLTk3NzA5NjM3NCwtMTc1ODUyMDgxOSwtMT
-ExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2MTA3Miw3NDQzODMz
-NzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksNDE1NjY1MDY0LDE0Nz
-kwMjgwNzcsMTEzMzkwNzE3OSw2OTg0MjgyMzEsMTkwMzU2MDMx
-MV19
+eyJoaXN0b3J5IjpbLTE3NTA2NjgxNzQsLTE4NDg0NTk3OTYsLT
+g0OTk2OTkwNCwtMTUyMzgxMzgyNyw1MTM4MDcyMjUsMzE1NTUy
+NDM0LDc5ODE1OTU1OCwzNjcyNzUyODIsLTk3NzA5NjM3NCwtMT
+c1ODUyMDgxOSwtMTExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2
+MTA3Miw3NDQzODMzNzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksND
+E1NjY1MDY0LDE0NzkwMjgwNzcsMTEzMzkwNzE3OSw2OTg0Mjgy
+MzFdfQ==
 -->
