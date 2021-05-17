@@ -13,12 +13,12 @@ Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 févr
 
 "Citoyens pour ma part, le drapeau rouge, je ne l'adopterai jamais, je m'y oppose de toute la force de mon patriotisme : c'est que le drapeau tricolore a fait le tour du monde avec la république et l'Empire, avec vos libertés et vos gloires, et que le drapeau rouge n'a fait que le tour du Champ de Mars, trainé dans le sang du peuple. 
 
-## La II République & le 2nd Empire 
+## La II République & le 2nd Empire
 
-
+Louis-Napoléon Bonaparte est élu et entame un bras de fer avec l'assemblée nationale qui est en majorité monarchiste. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk0Njk1NDIsMTY4NjYwNzEyNiwtNj
-E3MDc5NTMzLDQ3OTM0NjU2MSwxMDQ3MzA0Njc4LDE3MzIwNTE1
-MjksMTc0MTU5MzQyOSwtODM1Njg3MTU0LC04MzU2ODcxNTRdfQ
-==
+eyJoaXN0b3J5IjpbLTMwNTM2MTg4MywtMTQ1OTQ2OTU0MiwxNj
+g2NjA3MTI2LC02MTcwNzk1MzMsNDc5MzQ2NTYxLDEwNDczMDQ2
+NzgsMTczMjA1MTUyOSwxNzQxNTkzNDI5LC04MzU2ODcxNTQsLT
+gzNTY4NzE1NF19
 -->
