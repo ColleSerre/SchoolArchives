@@ -15,10 +15,10 @@ Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 févr
 
 ## La II République & le 2nd Empire
 
-Louis-Napoléon Bonaparte est élu et entame un bras de fer avec l'assemblée nationale qui est en majorité monarchiste. 
+Louis-Napoléon Bonaparte est élu et entame un bras de fer avec l'assemblée nationale qui est en majorité monarchiste. L'assemblée rétracte le suffrage universel et ent
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTM2MTg4MywtMTQ1OTQ2OTU0MiwxNj
-g2NjA3MTI2LC02MTcwNzk1MzMsNDc5MzQ2NTYxLDEwNDczMDQ2
-NzgsMTczMjA1MTUyOSwxNzQxNTkzNDI5LC04MzU2ODcxNTQsLT
-gzNTY4NzE1NF19
+eyJoaXN0b3J5IjpbLTE0NDYyODQ1MzgsLTE0NTk0Njk1NDIsMT
+Y4NjYwNzEyNiwtNjE3MDc5NTMzLDQ3OTM0NjU2MSwxMDQ3MzA0
+Njc4LDE3MzIwNTE1MjksMTc0MTU5MzQyOSwtODM1Njg3MTU0LC
+04MzU2ODcxNTRdfQ==
 -->
