@@ -97,13 +97,13 @@ En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
 
 * De Léry veut montrer la difficulté de son voyage et les épreuves qu'il a enduré. Il mélange réalisme et romantisme pour démontrer son exploit. 
 * Bougainville tente ici de rapporter, de manière explicative, son voyage à Tahiti et le comportement des habitants. Le texte est purement explicatif. 
-* 
+* Sylvain Tesson por
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MjE5MzY3LC0xODQ4NDU5Nzk2LC04ND
-k5Njk5MDQsLTE1MjM4MTM4MjcsNTEzODA3MjI1LDMxNTU1MjQz
-NCw3OTgxNTk1NTgsMzY3Mjc1MjgyLC05NzcwOTYzNzQsLTE3NT
-g1MjA4MTksLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEw
-NzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNT
-Y2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMx
-XX0=
+eyJoaXN0b3J5IjpbMjEyODg3NzY1OCwtMTg0ODQ1OTc5NiwtOD
+Q5OTY5OTA0LC0xNTIzODEzODI3LDUxMzgwNzIyNSwzMTU1NTI0
+MzQsNzk4MTU5NTU4LDM2NzI3NTI4MiwtOTc3MDk2Mzc0LC0xNz
+U4NTIwODE5LC0xMTE2NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYx
+MDcyLDc0NDM4MzM3MSwxNjgyMTYxMDcyLDMwODEwOTI0OSw0MT
+U2NjUwNjQsMTQ3OTAyODA3NywxMTMzOTA3MTc5LDY5ODQyODIz
+MV19
 -->
