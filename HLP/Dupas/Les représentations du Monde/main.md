@@ -97,14 +97,14 @@ En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
 
 * De Léry veut montrer la difficulté de son voyage et les épreuves qu'il a enduré. Il mélange réalisme et romantisme pour démontrer son exploit. 
 * Bougainville tente ici de rapporter, de manière explicative, son voyage à Tahiti et le comportement des habitants. Le texte est purement explicatif. 
-* Sylvain Tesson porte un regard critique sur l'insistance des foules à voyager sans aucun but que la bronzette ou le plaisir béat. Il y oppose d'une part, les véritables nomades 
+* Sylvain Tesson porte un regard critique sur l'insistance des foules à voyager sans aucun but que la bronzette ou le plaisir béat. Il y oppose d'une part, les véritables nomades qui eux ne s'installent nul part contrairement aux touristes qui s'installent partout et d'autre part, les aventuriers qui ne voyagent pas pour se 	
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MDE5MzgyLC0xODQ4NDU5Nzk2LC04ND
-k5Njk5MDQsLTE1MjM4MTM4MjcsNTEzODA3MjI1LDMxNTU1MjQz
-NCw3OTgxNTk1NTgsMzY3Mjc1MjgyLC05NzcwOTYzNzQsLTE3NT
-g1MjA4MTksLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEw
-NzIsNzQ0MzgzMzcxLDE2ODIxNjEwNzIsMzA4MTA5MjQ5LDQxNT
-Y2NTA2NCwxNDc5MDI4MDc3LDExMzM5MDcxNzksNjk4NDI4MjMx
-XX0=
+eyJoaXN0b3J5IjpbLTE1ODExNzE2ODYsLTE4NDg0NTk3OTYsLT
+g0OTk2OTkwNCwtMTUyMzgxMzgyNyw1MTM4MDcyMjUsMzE1NTUy
+NDM0LDc5ODE1OTU1OCwzNjcyNzUyODIsLTk3NzA5NjM3NCwtMT
+c1ODUyMDgxOSwtMTExNjUwMTczNSw4NzczMTM3ODEsMTY4MjE2
+MTA3Miw3NDQzODMzNzEsMTY4MjE2MTA3MiwzMDgxMDkyNDksND
+E1NjY1MDY0LDE0NzkwMjgwNzcsMTEzMzkwNzE3OSw2OTg0Mjgy
+MzFdfQ==
 -->
