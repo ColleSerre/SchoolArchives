@@ -96,9 +96,10 @@ En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
 ### Récits ou romans de voyage ?
 
 * De Léry veut montrer la difficulté de son voyage et les épreuves qu'il a enduré. Il mélange réalisme et romantisme pour démontrer son exploit. 
-* Bou
+* Bougainville tente ici de rapporter, de manière explicative, son voyage à Tahiti et le comportement des habitants. Le texte est purement explicatif. 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NjEwNzA1LC0xODQ4NDU5Nzk2LC04ND
+eyJoaXN0b3J5IjpbODU5MjE5MzY3LC0xODQ4NDU5Nzk2LC04ND
 k5Njk5MDQsLTE1MjM4MTM4MjcsNTEzODA3MjI1LDMxNTU1MjQz
 NCw3OTgxNTk1NTgsMzY3Mjc1MjgyLC05NzcwOTYzNzQsLTE3NT
 g1MjA4MTksLTExMTY1MDE3MzUsODc3MzEzNzgxLDE2ODIxNjEw
