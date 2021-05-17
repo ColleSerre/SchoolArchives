@@ -15,10 +15,10 @@ Alphonse de Lamartine soutient la campagne des banquets. Il prononce le 11 févr
 
 ## La II République & le 2nd Empire
 
-Louis-Napoléon Bonaparte est élu et entame un bras de fer avec l'assemblée nationale qui est en majorité monarchiste. L'assemblée rétracte le suffrage universel et mène une politique réactionnaire. Le bras de fer porte sur la durée du mandat présidentiel, il veut le rendre renouvelable et donc changer la constitution. 
+Louis-Napoléon Bonaparte est élu et entame un bras de fer avec l'assemblée nationale qui est en majorité monarchiste. L'assemblée rétracte le suffrage universel et mène une politique réactionnaire. Le bras de fer porte sur la durée du mandat présidentiel, il veut le rendre renouvelable et donc changer la constitution. Le coup d'État est la seule option pour accéder à cette réforme. Louis Napoléon Bonaparte fait le coup d'État du 2 décembre 1851 qui est la date du couronnement impérial de Napoléon 1er et de la victoire d'Austerlitz. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNzIxNjgzLC0xNDU5NDY5NTQyLDE2OD
-Y2MDcxMjYsLTYxNzA3OTUzMyw0NzkzNDY1NjEsMTA0NzMwNDY3
-OCwxNzMyMDUxNTI5LDE3NDE1OTM0MjksLTgzNTY4NzE1NCwtOD
-M1Njg3MTU0XX0=
+eyJoaXN0b3J5IjpbLTgxNTk0NTM0MiwtMTQ1OTQ2OTU0MiwxNj
+g2NjA3MTI2LC02MTcwNzk1MzMsNDc5MzQ2NTYxLDEwNDczMDQ2
+NzgsMTczMjA1MTUyOSwxNzQxNTkzNDI5LC04MzU2ODcxNTQsLT
+gzNTY4NzE1NF19
 -->
