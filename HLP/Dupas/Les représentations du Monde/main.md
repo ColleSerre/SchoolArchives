@@ -1,5 +1,4 @@
 
-
 # Les représentations du monde
 
 ## Questionnement 1
@@ -100,11 +99,11 @@ En orange souligné : conséquence de la violence des hommes. Lyrisme, pathos.
 * Sylvain Tesson porte un regard critique sur l'insistance des foules à voyager sans aucun but que la bronzette ou le plaisir béat. Il y oppose d'une part, les véritables nomades qui eux ne s'installent nul part contrairement aux touristes qui s'installent partout et d'autre part, les aventuriers qui ne voyagent pas dans des endroits habituels ou hospitaliers (au sens de touristique) mais dans des circonstances dures qui leur révèlent la véritable nature, froide, impitoyable et véritablement indomptée. 
 * L'extrait de Pantagruel peut faire penser à l'allégorie de la caverne de Platon 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ4NjQ2NjQsMTExOTU1NzIzMiwtMT
-g0ODQ1OTc5NiwtODQ5OTY5OTA0LC0xNTIzODEzODI3LDUxMzgw
-NzIyNSwzMTU1NTI0MzQsNzk4MTU5NTU4LDM2NzI3NTI4MiwtOT
-c3MDk2Mzc0LC0xNzU4NTIwODE5LC0xMTE2NTAxNzM1LDg3NzMx
-Mzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3MSwxNjgyMTYxMDcyLD
-MwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OTAyODA3NywxMTMzOTA3
-MTc5XX0=
+eyJoaXN0b3J5IjpbLTEwNjU0OTEwMTQsLTIwNDQ4NjQ2NjQsMT
+ExOTU1NzIzMiwtMTg0ODQ1OTc5NiwtODQ5OTY5OTA0LC0xNTIz
+ODEzODI3LDUxMzgwNzIyNSwzMTU1NTI0MzQsNzk4MTU5NTU4LD
+M2NzI3NTI4MiwtOTc3MDk2Mzc0LC0xNzU4NTIwODE5LC0xMTE2
+NTAxNzM1LDg3NzMxMzc4MSwxNjgyMTYxMDcyLDc0NDM4MzM3MS
+wxNjgyMTYxMDcyLDMwODEwOTI0OSw0MTU2NjUwNjQsMTQ3OTAy
+ODA3N119
 -->
