@@ -8,7 +8,7 @@ Il ne faut pas confondre l'empirisme et le sensualisme (même si Locke et Hume y
 
 ### Francis Bacon
 
-Père de l'empirisme moderne (il était présent chez Aristote avec la 
+Père de l'empirisme moderne (il était présent chez Aristote avec la *tabula rasa* et l'absorption passive des connaissances
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTQ5ODI5MF19
+eyJoaXN0b3J5IjpbLTExNTgxMjAyMDZdfQ==
 -->
