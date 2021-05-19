@@ -31,6 +31,7 @@ Wilson's 14 points:
 * Demographical: less labour force and soldiers
 * Economical: loss of raw material and industrial production power. 
 * Political: the Weimar Republic
+* Buffer zone created between Belgium and Germany (Rhineland)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Mjk2NzU3NCwtMTQxNjU5ODg2XX0=
+eyJoaXN0b3J5IjpbLTc3Mjg4Mzk4NywtMTQxNjU5ODg2XX0=
 -->
