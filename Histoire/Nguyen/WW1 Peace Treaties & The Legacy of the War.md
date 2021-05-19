@@ -25,7 +25,12 @@ Wilson's 14 points:
 6. rearranging borders (self-determination)
 7. Create a general association of nations that would negotiate solutions to world conflicts
 
-### Impact of the treaty on G
+### Impact of the treaty on Germany
+
+* Geographical: territorial losses (in the east and colonies)
+* Demographical: less labour force and soldiers
+* Economical: loss of raw material and industrial production power. 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTc3MTE2MiwtMTQxNjU5ODg2XX0=
+eyJoaXN0b3J5IjpbLTcyMzY4NTgzOSwtMTQxNjU5ODg2XX0=
 -->
