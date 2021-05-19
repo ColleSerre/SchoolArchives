@@ -29,9 +29,11 @@ Wilson's 14 points:
 
 * Geographical: territorial losses (in the east and colonies)
 * Demographical: less labour force and soldiers (end of German militarism)
-* Economical: loss of raw material and industrial production power. 
+* Economical: loss of raw material and industrial production power. Had to pay the equivalent of $33 Billion to the allies
 * Political: the Weimar Republic
 * Buffer zone created between Belgium and Germany (Rhineland)
+* Moral: The Germans had to take full responsibility for the war (article 231)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkzMDY1MTUsLTE0MTY1OTg4Nl19
+eyJoaXN0b3J5IjpbOTAyMjgwNDgyLC0xNDE2NTk4ODZdfQ==
 -->
