@@ -30,7 +30,7 @@ Wilson's 14 points:
 * Geographical: territorial losses (in the east and colonies)
 * Demographical: less labour force and soldiers
 * Economical: loss of raw material and industrial production power. 
-* 
+* Political: the Weimar Republic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzY4NTgzOSwtMTQxNjU5ODg2XX0=
+eyJoaXN0b3J5IjpbLTc2Mjk2NzU3NCwtMTQxNjU5ODg2XX0=
 -->
