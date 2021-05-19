@@ -28,10 +28,10 @@ Wilson's 14 points:
 ### Impact of the treaty on Germany
 
 * Geographical: territorial losses (in the east and colonies)
-* Demographical: less labour force and soldiers
+* Demographical: less labour force and soldiers (end of German militarism)
 * Economical: loss of raw material and industrial production power. 
 * Political: the Weimar Republic
 * Buffer zone created between Belgium and Germany (Rhineland)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mjg4Mzk4NywtMTQxNjU5ODg2XX0=
+eyJoaXN0b3J5IjpbLTE3MjkzMDY1MTUsLTE0MTY1OTg4Nl19
 -->
