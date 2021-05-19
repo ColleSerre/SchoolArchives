@@ -33,7 +33,8 @@ Wilson's 14 points:
 * Political: the Weimar Republic
 * Buffer zone created between Belgium and Germany (Rhineland)
 * Moral: The Germans had to take full responsibility for the war (article 231)
-* 
+* Diplomatically: excluded from negotiations and League of Nations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMjgwNDgyLC0xNDE2NTk4ODZdfQ==
+eyJoaXN0b3J5IjpbNzY5NDk1MTMxLDkwMjI4MDQ4MiwtMTQxNj
+U5ODg2XX0=
 -->
