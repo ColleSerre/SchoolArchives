@@ -24,6 +24,8 @@ Wilson's 14 points:
 5. Colonial fairness
 6. rearranging borders (self-determination)
 7. Create a general association of nations that would negotiate solutions to world conflicts
+
+### Impact of the treaty on G
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY1OTg4Nl19
+eyJoaXN0b3J5IjpbMTEzMTc3MTE2MiwtMTQxNjU5ODg2XX0=
 -->
