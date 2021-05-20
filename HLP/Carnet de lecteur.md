@@ -41,7 +41,7 @@ Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a for
 * Ni dieu ni maitre -  Mikhaïl Bakounine
 * Autrefois, la naissance d'un 'monstre', un enfant avec des défauts de naissance, était vue comme le présage d'un mauvais évènement.
 * Si Dieu n'existe pas, tout est permis - Dostoïevski
-* Aucune 
+* Aucune idée, parmi celles qui se réfèrent à l'ordre des faits naturels, ne tient de plus près à la des idées religieuses que l'idée de progrès, et n'est plus propre à devenir le principe d'une sorte foi religieuse pour ceux qui n'en ont plus d'autre.
 
 ## La Foule
 
@@ -361,11 +361,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg3MDA5MTUsMTgyMDM4MTExMiwtMj
-A4ODc0NjYxMiwxODc0MzQxOTU0LC02NzA5OTk0ODYsLTgwNDMx
-MzIyMSwtMTY1NjQzNTQ2NSwtMTA5MDY3OTU3MywyMDA2NjIzNT
-A0LC02OTc4NTkzOSwtMTc0MjExMTM3NiwtMjkyOTU1MDAzLDE3
-NzE4MDM1MDcsLTExMjEwNjk0MjYsLTE0MTczNDAzNTEsLTEzNj
-YwOTI4MiwtMTAwNTAxMTAzMCwtMTk3NzE0NTQzNSwtMTg2ODgw
-NzMxLDEzMDg3NDE3MzFdfQ==
+eyJoaXN0b3J5IjpbMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMD
+g4NzQ2NjEyLDE4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEz
+MjIxLC0xNjU2NDM1NDY1LC0xMDkwNjc5NTczLDIwMDY2MjM1MD
+QsLTY5Nzg1OTM5LC0xNzQyMTExMzc2LC0yOTI5NTUwMDMsMTc3
+MTgwMzUwNywtMTEyMTA2OTQyNiwtMTQxNzM0MDM1MSwtMTM2Nj
+A5MjgyLC0xMDA1MDExMDMwLC0xOTc3MTQ1NDM1LC0xODY4ODA3
+MzEsMTMwODc0MTczMV19
 -->
