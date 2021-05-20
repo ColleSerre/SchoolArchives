@@ -1,7 +1,8 @@
 # Carnet de Lecteur - [Carnet de lecteur Victor](https://docs.google.com/document/d/1Hb05TOM-bxX6xufFjwyJV_j5fpjroV9E_mtFUfdTq5o/edit?usp=sharing_eip&ts=5fc60d23)
 ---
 
-code Mr Bernard: Chesterton
+Code site Monsieur Bernard: Chesterton
+
 # Répertoire des notions
 
 Loquor = parler (en latin)
@@ -40,6 +41,7 @@ Religion: Du latin religio, dont la racine est ligare, lier, attacher, qui a for
 * Ni dieu ni maitre -  Mikhaïl Bakounine
 * Autrefois, la naissance d'un 'monstre', un enfant avec des défauts de naissance, était vue comme le présage d'un mauvais évènement.
 * Si Dieu n'existe pas, tout est permis - Dostoïevski
+* Aucune 
 
 ## La Foule
 
@@ -359,11 +361,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDM4MTExMiwtMjA4ODc0NjYxMiwxOD
-c0MzQxOTU0LC02NzA5OTk0ODYsLTgwNDMxMzIyMSwtMTY1NjQz
-NTQ2NSwtMTA5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NTkzOS
-wtMTc0MjExMTM3NiwtMjkyOTU1MDAzLDE3NzE4MDM1MDcsLTEx
-MjEwNjk0MjYsLTE0MTczNDAzNTEsLTEzNjYwOTI4MiwtMTAwNT
-AxMTAzMCwtMTk3NzE0NTQzNSwtMTg2ODgwNzMxLDEzMDg3NDE3
-MzEsLTE1ODAyMDMxNF19
+eyJoaXN0b3J5IjpbLTE2Mjg3MDA5MTUsMTgyMDM4MTExMiwtMj
+A4ODc0NjYxMiwxODc0MzQxOTU0LC02NzA5OTk0ODYsLTgwNDMx
+MzIyMSwtMTY1NjQzNTQ2NSwtMTA5MDY3OTU3MywyMDA2NjIzNT
+A0LC02OTc4NTkzOSwtMTc0MjExMTM3NiwtMjkyOTU1MDAzLDE3
+NzE4MDM1MDcsLTExMjEwNjk0MjYsLTE0MTczNDAzNTEsLTEzNj
+YwOTI4MiwtMTAwNTAxMTAzMCwtMTk3NzE0NTQzNSwtMTg2ODgw
+NzMxLDEzMDg3NDE3MzFdfQ==
 -->
