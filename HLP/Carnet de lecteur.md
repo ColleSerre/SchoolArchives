@@ -335,7 +335,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 ## Les faits
 
-* Assurons nous bien du fait avant de nous inquiéter de la cause. (Histoire des oracles - Bernard le Bovier de Fontenelle)
+* Assurons nous bien du fait avant de nous inquiéter de la cause. (Histoire des oracles - Bernard le Buovier de Fontenelle)
 * N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling
 * Il ne faut lancer contre son adversaire des bruits infondés car il est, comme quiconque, un hôte de l'esprit - Albert Schweitzer
 * Nous ne voyons pas les choses mêmes ; nous nous bornons à lire des étiquettes collées sur elles - Henri Bergson *Le rire*
@@ -361,11 +361,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMD
-g4NzQ2NjEyLDE4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEz
-MjIxLC0xNjU2NDM1NDY1LC0xMDkwNjc5NTczLDIwMDY2MjM1MD
-QsLTY5Nzg1OTM5LC0xNzQyMTExMzc2LC0yOTI5NTUwMDMsMTc3
-MTgwMzUwNywtMTEyMTA2OTQyNiwtMTQxNzM0MDM1MSwtMTM2Nj
-A5MjgyLC0xMDA1MDExMDMwLC0xOTc3MTQ1NDM1LC0xODY4ODA3
-MzEsMTMwODc0MTczMV19
+eyJoaXN0b3J5IjpbNTg5NzA2NTc2LDE2ODYxMTU3NTEsMTgyMD
+M4MTExMiwtMjA4ODc0NjYxMiwxODc0MzQxOTU0LC02NzA5OTk0
+ODYsLTgwNDMxMzIyMSwtMTY1NjQzNTQ2NSwtMTA5MDY3OTU3My
+wyMDA2NjIzNTA0LC02OTc4NTkzOSwtMTc0MjExMTM3NiwtMjky
+OTU1MDAzLDE3NzE4MDM1MDcsLTExMjEwNjk0MjYsLTE0MTczND
+AzNTEsLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwtMTk3NzE0NTQz
+NSwtMTg2ODgwNzMxXX0=
 -->
