@@ -267,7 +267,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 ## Liberté
 
 * L’homme est né libre, et partout il est dans les fers - *Rousseau*
-* Les gens libres, 
+* Les gens libres, bien nés et bien éduqués, vivant en bonne compagnie, ont par nature un instinct, un aiguillon qui les pousse toujours à la vertu et les éloigne du vice, qu'ils appelaient honneur. - *Rabelais* Gargantua (des moines de l'abbaye de Thé
 
 ## Moralité
 
@@ -383,11 +383,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA2NTk3MzEsLTE5MjQ0NDQzOTcsLT
-M3ODAyNjI2MCwtMTUzMjg2NjA1MCwtOTYyNDg2OTEyLC00NTE2
-MDU0OCwxNjg2MTE1NzUxLDE4MjAzODExMTIsLTIwODg3NDY2MT
-IsMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC04MDQzMTMyMjEsLTE2
-NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMjAwNjYyMzUwNCwtNjk3OD
-U5MzksLTE3NDIxMTEzNzYsLTI5Mjk1NTAwMywxNzcxODAzNTA3
-LC0xMTIxMDY5NDI2XX0=
+eyJoaXN0b3J5IjpbMTUwOTEyMjA3LC0xOTI0NDQ0Mzk3LC0zNz
+gwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1
+NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLD
+E4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2
+NDM1NDY1LC0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OT
+M5LC0xNzQyMTExMzc2LC0yOTI5NTUwMDMsMTc3MTgwMzUwNywt
+MTEyMTA2OTQyNl19
 -->
