@@ -290,6 +290,10 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Exemples d'utopies dans la littérature: 
 	* Thélème de Rabelais
 	* Eldorade de Voltaire
+* Exemples de dystopies dans la littérature:
+	* Le meilleur des 
+* Elles peuvent servir à critiquer, concevoir ou avoir une valeur symbolique 
+* 
 
 ## Actes
 
@@ -373,11 +377,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMTY4Nj
-ExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5
-NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC
-0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OTM5LC0xNzQy
-MTExMzc2LC0yOTI5NTUwMDMsMTc3MTgwMzUwNywtMTEyMTA2OT
-QyNiwtMTQxNzM0MDM1MSwtMTM2NjA5MjgyLC0xMDA1MDExMDMw
-LC0xOTc3MTQ1NDM1XX0=
+eyJoaXN0b3J5IjpbMTU3Nzc4ODU1MywtOTYyNDg2OTEyLC00NT
+E2MDU0OCwxNjg2MTE1NzUxLDE4MjAzODExMTIsLTIwODg3NDY2
+MTIsMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC04MDQzMTMyMjEsLT
+E2NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMjAwNjYyMzUwNCwtNjk3
+ODU5MzksLTE3NDIxMTEzNzYsLTI5Mjk1NTAwMywxNzcxODAzNT
+A3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyODIs
+LTEwMDUwMTEwMzBdfQ==
 -->
