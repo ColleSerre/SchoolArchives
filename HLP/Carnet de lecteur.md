@@ -291,7 +291,10 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	* Thélème de Rabelais
 	* Eldorade de Voltaire
 * Exemples de dystopies dans la littérature:
-	* Le meilleur des 
+	* Le meilleur des mondes d'Aldous Huxley (le fan de LSD)
+	* Fahrenheit 451 de Ray Bradbury
+	* The Hunger Games de Susan Collins
+	* 
 * Elles peuvent servir à critiquer, concevoir ou avoir une valeur symbolique 
 * 
 
@@ -377,7 +380,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Nzc4ODU1MywtOTYyNDg2OTEyLC00NT
+eyJoaXN0b3J5IjpbLTc0NjY4MzQyNiwtOTYyNDg2OTEyLC00NT
 E2MDU0OCwxNjg2MTE1NzUxLDE4MjAzODExMTIsLTIwODg3NDY2
 MTIsMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC04MDQzMTMyMjEsLT
 E2NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMjAwNjYyMzUwNCwtNjk3
