@@ -298,7 +298,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	* Divergent de Veronica Roth
 * Elles peuvent servir à critiquer, concevoir ou avoir une valeur symbolique 
 * L'abondance, notamment de nourriture, fait partie des idées phares des utopies antiques (le palais du roi Alkinoos dans l'Odyssée d'Homère)
-* 
+* La liberté inconditionnelle est un des objectifs 
 
 ## Actes
 
@@ -382,11 +382,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODAyNjI2MCwtMTUzMjg2NjA1MCwtOT
-YyNDg2OTEyLC00NTE2MDU0OCwxNjg2MTE1NzUxLDE4MjAzODEx
-MTIsLTIwODg3NDY2MTIsMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC
-04MDQzMTMyMjEsLTE2NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMjAw
-NjYyMzUwNCwtNjk3ODU5MzksLTE3NDIxMTEzNzYsLTI5Mjk1NT
-AwMywxNzcxODAzNTA3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUx
-LC0xMzY2MDkyODJdfQ==
+eyJoaXN0b3J5IjpbNDU3Mzg0MjU2LC0zNzgwMjYyNjAsLTE1Mz
+I4NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMTY4NjExNTc1
+MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5NTQsLT
+Y3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC0xMDkw
+Njc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OTM5LC0xNzQyMTExMz
+c2LC0yOTI5NTUwMDMsMTc3MTgwMzUwNywtMTEyMTA2OTQyNiwt
+MTQxNzM0MDM1MV19
 -->
