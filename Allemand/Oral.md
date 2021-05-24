@@ -6,7 +6,7 @@ Hallo, mein Name ist Daren Palmer. Ich bin in der elften Klasse der Jeannine Man
 **Ein Gericht, das mehr als zweitausendzweihundert Jahre alt ist !**
 
 
-Wir wissen nicht genau, woher Couscous stammt und wann er erfunden wurde, aber es ist sehr wahrscheinlich, dass er berberischen Ursprungs ist, denn mit Couscous gefüllte Töpfe wurden im Grab des Königs Massinissa, also eines Berberkönigs, gefunden, was bedeutet, dass es Couscous mindestens seit zweihundertneununddreißig vor Christus gibt.
+Wir wissen nicht genau, woher Couscous stammt und wann er erfunden wurde, aber es ist sehr wahrscheinlich, dass e berberischen Ursprungs ist, denn mit Couscous gefüllte Töpfe wurden im Grab des Königs Massinissa, also eines Berberkönigs, gefunden, was bedeutet, dass es Couscous mindestens seit zweihundertneununddreißigschon seit 239 vor Christus gibt.Das bedeutet, dass es Couscous  vor Christus gibt.
 
 Traditionell wird Couscous mit saisonalem Gemüse gegessen und man sollte kein Fleisch untermischen. Der  Couscous royal, der in Frankreich am häufigsten gegessen wird, ist also falsch.
 
@@ -18,9 +18,9 @@ Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam Cous
 
 Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjE1OTU2MywyNzM2Njg1MSwtMzg2Nj
-Y1MDY3LC00Njk0OTExOTEsLTU1NzA1MzMyNiwzNTgxMTM4OTgs
-NjkwNTgxNCw5MTA4MTEzNjQsNjI5ODEwMTgwLDE3OTIyMjE3MT
-AsLTE0ODc1ODM5ODcsMTU3NzAzMjI1MywtMTY1MzM0NTc4Mywt
-ODY4NjY3NTQzLC0yMTE2NDIxNTc2XX0=
+eyJoaXN0b3J5IjpbLTEwMTE0ODExOTQsMTE3NjE1OTU2MywyNz
+M2Njg1MSwtMzg2NjY1MDY3LC00Njk0OTExOTEsLTU1NzA1MzMy
+NiwzNTgxMTM4OTgsNjkwNTgxNCw5MTA4MTEzNjQsNjI5ODEwMT
+gwLDE3OTIyMjE3MTAsLTE0ODc1ODM5ODcsMTU3NzAzMjI1Mywt
+MTY1MzM0NTc4MywtODY4NjY3NTQzLC0yMTE2NDIxNTc2XX0=
 -->
