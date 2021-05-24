@@ -279,6 +279,11 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Nul ne doit entrer sous mon toit, s'il n'est géomètre - Gravé sur l'école de Platon
 * Connais ton ennemi et connais toi toit même - Sun Tzu *L’art de la guerre*
 
+## L'utopie
+
+* Utopia, mot latin construit à partir du grec (« ou » : négation ; « topos » : « lieu, contrée, région »)
+* 
+
 ## Actes
 
 * Nos actes ne sont éphémères qu'en apparence. La vie du présent tisse celle de l'avenir. - Gustave Le Bon
@@ -361,11 +366,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTYwNTQ4LDE2ODYxMTU3NTEsMTgyMD
-M4MTExMiwtMjA4ODc0NjYxMiwxODc0MzQxOTU0LC02NzA5OTk0
-ODYsLTgwNDMxMzIyMSwtMTY1NjQzNTQ2NSwtMTA5MDY3OTU3My
-wyMDA2NjIzNTA0LC02OTc4NTkzOSwtMTc0MjExMTM3NiwtMjky
-OTU1MDAzLDE3NzE4MDM1MDcsLTExMjEwNjk0MjYsLTE0MTczND
-AzNTEsLTEzNjYwOTI4MiwtMTAwNTAxMTAzMCwtMTk3NzE0NTQz
-NSwtMTg2ODgwNzMxXX0=
+eyJoaXN0b3J5IjpbLTMzNTE2NTMwOSwtNDUxNjA1NDgsMTY4Nj
+ExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5
+NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC
+0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OTM5LC0xNzQy
+MTExMzc2LC0yOTI5NTUwMDMsMTc3MTgwMzUwNywtMTEyMTA2OT
+QyNiwtMTQxNzM0MDM1MSwtMTM2NjA5MjgyLC0xMDA1MDExMDMw
+LC0xOTc3MTQ1NDM1XX0=
 -->
