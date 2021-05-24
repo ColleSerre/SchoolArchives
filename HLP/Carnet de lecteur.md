@@ -298,7 +298,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	* Acide sulfurique d'Amélie Nothomb
 	* Divergent de Veronica Roth
 * Elles peuvent servir à critiquer, concevoir ou avoir une valeur symbolique 
-* L'abondance, notamment de nourriture, fait partie des idées phares des utopies antiques (le palais du roi Alkinoos dans l'Odyssée d'Homère est un endroit plein de fruits et de terres fertiles, de fontaines abondantes. L'Eldorado dans Candide de Vola)
+* L'abondance, notamment de nourriture, fait partie des idées phares des utopies antiques (le palais du roi Alkinoos dans l'Odyssée d'Homère est un endroit plein de fruits et de terres fertiles, de fontaines abondantes. L'Eldorado dans Candide de Voltaire est abondant en femmes et en )
 * La liberté inconditionnelle est un des objectifs des utopies (Les moines de l'abbaye de Thélème sont absolument libres et ne sont régis d'aucune loi car ils sont honnêtes)
 
 ## Actes
@@ -383,11 +383,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODU0Mjg0MiwtMTkyNDQ0NDM5NywtMz
-c4MDI2MjYwLC0xNTMyODY2MDUwLC05NjI0ODY5MTIsLTQ1MTYw
-NTQ4LDE2ODYxMTU3NTEsMTgyMDM4MTExMiwtMjA4ODc0NjYxMi
-wxODc0MzQxOTU0LC02NzA5OTk0ODYsLTgwNDMxMzIyMSwtMTY1
-NjQzNTQ2NSwtMTA5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NT
-kzOSwtMTc0MjExMTM3NiwtMjkyOTU1MDAzLDE3NzE4MDM1MDcs
-LTExMjEwNjk0MjZdfQ==
+eyJoaXN0b3J5IjpbOTMyNzY2NzQ1LC0xOTI0NDQ0Mzk3LC0zNz
+gwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1
+NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLD
+E4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2
+NDM1NDY1LC0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OT
+M5LC0xNzQyMTExMzc2LC0yOTI5NTUwMDMsMTc3MTgwMzUwNywt
+MTEyMTA2OTQyNl19
 -->
