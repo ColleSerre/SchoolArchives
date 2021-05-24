@@ -283,6 +283,8 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 * Utopia, mot latin construit à partir du grec (« ou » : négation ; « topos » : « lieu, contrée, région »)
 * Peut s'appuyer sur un ou plusieurs de ces thèmes:
+	* Un cadre spacio-temporel nouveau/différent
+	* Un urbanisme repensé et une nouvelle architecture
 	* 
 
 ## Actes
@@ -367,7 +369,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI3ODgzMjEsLTQ1MTYwNTQ4LDE2OD
+eyJoaXN0b3J5IjpbLTEzMzU5NTk5MTcsLTQ1MTYwNTQ4LDE2OD
 YxMTU3NTEsMTgyMDM4MTExMiwtMjA4ODc0NjYxMiwxODc0MzQx
 OTU0LC02NzA5OTk0ODYsLTgwNDMxMzIyMSwtMTY1NjQzNTQ2NS
 wtMTA5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NTkzOSwtMTc0
