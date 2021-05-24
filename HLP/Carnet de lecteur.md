@@ -294,7 +294,8 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	* Le meilleur des mondes d'Aldous Huxley (le fan de LSD)
 	* Fahrenheit 451 de Ray Bradbury
 	* The Hunger Games de Susan Collins
-	* 
+	* Acide sulfurique d'Amélie Nothomb
+	* Divergent de Veronica Roth
 * Elles peuvent servir à critiquer, concevoir ou avoir une valeur symbolique 
 * 
 
@@ -380,11 +381,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjY4MzQyNiwtOTYyNDg2OTEyLC00NT
-E2MDU0OCwxNjg2MTE1NzUxLDE4MjAzODExMTIsLTIwODg3NDY2
-MTIsMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC04MDQzMTMyMjEsLT
-E2NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMjAwNjYyMzUwNCwtNjk3
-ODU5MzksLTE3NDIxMTEzNzYsLTI5Mjk1NTAwMywxNzcxODAzNT
-A3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUxLC0xMzY2MDkyODIs
-LTEwMDUwMTEwMzBdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtND
+UxNjA1NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2
+NjEyLDE4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC
+0xNjU2NDM1NDY1LC0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5
+Nzg1OTM5LC0xNzQyMTExMzc2LC0yOTI5NTUwMDMsMTc3MTgwMz
+UwNywtMTEyMTA2OTQyNiwtMTQxNzM0MDM1MSwtMTM2NjA5Mjgy
+LC0xMDA1MDExMDMwXX0=
 -->
