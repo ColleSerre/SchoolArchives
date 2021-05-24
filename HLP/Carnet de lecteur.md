@@ -288,7 +288,8 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	* Une réorganisation de la politique, de la société, de la religion pour instaurer une égalité entre tous les hommes
 	* L'éducation et la famille
 * Exemples d'utopies dans la littérature: 
-	* 
+	* Thélème de Rabelais
+	* Eldorade de Voltaire
 
 ## Actes
 
@@ -372,7 +373,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjUzNjA3MiwtNDUxNjA1NDgsMTY4Nj
+eyJoaXN0b3J5IjpbLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMTY4Nj
 ExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5
 NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC
 0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OTM5LC0xNzQy
