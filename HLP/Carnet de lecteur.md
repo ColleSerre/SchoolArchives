@@ -279,7 +279,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Nul ne doit entrer sous mon toit, s'il n'est géomètre - Gravé sur l'école de Platon
 * Connais ton ennemi et connais toi toit même - Sun Tzu *L’art de la guerre*
 
-## L'utopie
+## Utopies et Dystopies
 
 * Utopia, mot latin construit à partir du grec (« ou » : négation ; « topos » : « lieu, contrée, région »)
 * Peut s'appuyer sur un ou plusieurs de ces thèmes:
@@ -287,7 +287,8 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	* Un urbanisme repensé et une nouvelle architecture
 	* Une réorganisation de la politique, de la société, de la religion pour instaurer une égalité entre tous les hommes
 	* L'éducation et la famille
-* 
+* Exemples d'utopies dans la littérature: 
+	* 
 
 ## Actes
 
@@ -371,11 +372,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE1NjY2NDgsLTQ1MTYwNTQ4LDE2OD
-YxMTU3NTEsMTgyMDM4MTExMiwtMjA4ODc0NjYxMiwxODc0MzQx
-OTU0LC02NzA5OTk0ODYsLTgwNDMxMzIyMSwtMTY1NjQzNTQ2NS
-wtMTA5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NTkzOSwtMTc0
-MjExMTM3NiwtMjkyOTU1MDAzLDE3NzE4MDM1MDcsLTExMjEwNj
-k0MjYsLTE0MTczNDAzNTEsLTEzNjYwOTI4MiwtMTAwNTAxMTAz
-MCwtMTk3NzE0NTQzNV19
+eyJoaXN0b3J5IjpbMTU3MjUzNjA3MiwtNDUxNjA1NDgsMTY4Nj
+ExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5
+NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC
+0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OTM5LC0xNzQy
+MTExMzc2LC0yOTI5NTUwMDMsMTc3MTgwMzUwNywtMTEyMTA2OT
+QyNiwtMTQxNzM0MDM1MSwtMTM2NjA5MjgyLC0xMDA1MDExMDMw
+LC0xOTc3MTQ1NDM1XX0=
 -->
