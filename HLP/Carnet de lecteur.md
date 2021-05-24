@@ -297,7 +297,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	* Acide sulfurique d'Amélie Nothomb
 	* Divergent de Veronica Roth
 * Elles peuvent servir à critiquer, concevoir ou avoir une valeur symbolique 
-* 
+* L'abondance, notamment de nourriture, 
 
 ## Actes
 
@@ -381,11 +381,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtND
-UxNjA1NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2
-NjEyLDE4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC
-0xNjU2NDM1NDY1LC0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5
-Nzg1OTM5LC0xNzQyMTExMzc2LC0yOTI5NTUwMDMsMTc3MTgwMz
-UwNywtMTEyMTA2OTQyNiwtMTQxNzM0MDM1MSwtMTM2NjA5Mjgy
-LC0xMDA1MDExMDMwXX0=
+eyJoaXN0b3J5IjpbMTMzMDczNjM5NSwtMTUzMjg2NjA1MCwtOT
+YyNDg2OTEyLC00NTE2MDU0OCwxNjg2MTE1NzUxLDE4MjAzODEx
+MTIsLTIwODg3NDY2MTIsMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC
+04MDQzMTMyMjEsLTE2NTY0MzU0NjUsLTEwOTA2Nzk1NzMsMjAw
+NjYyMzUwNCwtNjk3ODU5MzksLTE3NDIxMTEzNzYsLTI5Mjk1NT
+AwMywxNzcxODAzNTA3LC0xMTIxMDY5NDI2LC0xNDE3MzQwMzUx
+LC0xMzY2MDkyODJdfQ==
 -->
