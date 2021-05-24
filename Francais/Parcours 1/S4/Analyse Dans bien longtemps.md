@@ -2,7 +2,9 @@
 
 - - - -
 
-Desnos (Surréaliste)
+Desnos:
+
+* (Surréaliste)
 
 ## Premières impressions:
 
@@ -90,5 +92,5 @@ Conclusion:
 
 Durant tous le poème, la progression du temps est bouleversée et confuse. Cette progression contribue à transcrire les émotions du poète dans un monde onirique créé par Desnos qui transcende les lois du réel grâce à sa condition de poète. Il affirme par la même occasion une rupture avec le romantisme en usant de l’ironie et en décrivant l’amour comme étant une illusion vaine malgré des apparences de poème d’amour. Cette rupture n’est qu’hypothétique car une autre interprétation serait que le poète exprime son amour en affirmant que lui seul résiste au temps mais cela serait oublier que l’illusion est aussi décrite comme intemporelle. L’auteur nous dit donc: l’amour est illusion et que cette illusion est intemporelle. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODc4NjcwM119
+eyJoaXN0b3J5IjpbLTE3MTA1NzIwOTMsMTU2ODc4NjcwM119
 -->
