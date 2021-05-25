@@ -307,7 +307,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Il est souvent préférable d'être très actif plutôt que de penser trop intensément - Louis Bromfield *Mrs Parkington*
 * Agis de façon à ne point rougir de toi-même - Milarepa (moine poète tibétain)
 * Il faut une volonté surhumaine pour écrire et je ne suis qu'un homme - Flaubert
-* « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée Nationale
+* « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée nationale
 * Cueille le jour - Horace
 * "Le succès c'est être capable d'aller d'échec en échec sans perdre son enthousiasme." - Winston Churchill
 * Je ne m’étonne jamais de voir des hommes mauvais, mais je m’étonne souvent de ne point les voir honteux - Jonathan Swift
@@ -383,11 +383,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDEyMTEyNiwtMTkyNDQ0NDM5NywtMz
-c4MDI2MjYwLC0xNTMyODY2MDUwLC05NjI0ODY5MTIsLTQ1MTYw
-NTQ4LDE2ODYxMTU3NTEsMTgyMDM4MTExMiwtMjA4ODc0NjYxMi
-wxODc0MzQxOTU0LC02NzA5OTk0ODYsLTgwNDMxMzIyMSwtMTY1
-NjQzNTQ2NSwtMTA5MDY3OTU3MywyMDA2NjIzNTA0LC02OTc4NT
-kzOSwtMTc0MjExMTM3NiwtMjkyOTU1MDAzLDE3NzE4MDM1MDcs
-LTExMjEwNjk0MjZdfQ==
+eyJoaXN0b3J5IjpbLTEwNzMxMTk1NDYsMTQxNDEyMTEyNiwtMT
+kyNDQ0NDM5NywtMzc4MDI2MjYwLC0xNTMyODY2MDUwLC05NjI0
+ODY5MTIsLTQ1MTYwNTQ4LDE2ODYxMTU3NTEsMTgyMDM4MTExMi
+wtMjA4ODc0NjYxMiwxODc0MzQxOTU0LC02NzA5OTk0ODYsLTgw
+NDMxMzIyMSwtMTY1NjQzNTQ2NSwtMTA5MDY3OTU3MywyMDA2Nj
+IzNTA0LC02OTc4NTkzOSwtMTc0MjExMTM3NiwtMjkyOTU1MDAz
+LDE3NzE4MDM1MDddfQ==
 -->
