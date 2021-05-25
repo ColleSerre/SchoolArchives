@@ -25,7 +25,10 @@ Dans le mythe de Babel, l'homme dans son orgueil n'a plus peur de dieu et est pu
 Les villes médiévales étaient considérées comme une dégénérescence de la société (tortueuses, pleines de crimes, sales) ce qui va à l'encontre de l'idéal humaniste. Cependant, les lieux pensés sont loin des cités spontanées qui répondent aux besoins du moment. 
 
 ## Quel idéal de lieu de vie les hommes ont-ils rêvé pour leur prochain ?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjk5NjY0OCwtMTAwMzE2MzQ0MCw0ND
-I1NDc5MjgsMTU4NTg3MjY5Nyw4MjU2NDQxNTldfQ==
+eyJoaXN0b3J5IjpbNTYyMTA2MDM2LC04MzY5OTY2NDgsLTEwMD
+MxNjM0NDAsNDQyNTQ3OTI4LDE1ODU4NzI2OTcsODI1NjQ0MTU5
+XX0=
 -->
