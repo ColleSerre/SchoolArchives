@@ -21,8 +21,8 @@ Quelles utopies:
 
 ## Quel mythe incarne un idéal de vie harmonieuse ?
 
-Dans le mythe de Babel, l'homme dans son orgueil n'a plus peur de dieu et est puni par ce dernier. Dans leur création de la cité idéale, ils se sont confrontés à leur orgueil. Les valeurs 
+Dans le mythe de Babel, l'homme dans son orgueil n'a plus peur de dieu et est puni par ce dernier. Dans leur création de la cité idéale, ils se sont confrontés à leur orgueil. Les valeurs recherchées dans l'Antiquité sont la Justice, la Paix qui sont les deux composantes du bonheur. Pour Hésiode dans *Les Travaux et les Jours* évoque un âge d'or de la Terre qu'il dé
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MjAyMDk0LDQ0MjU0NzkyOCwxNTg1OD
-cyNjk3LDgyNTY0NDE1OV19
+eyJoaXN0b3J5IjpbLTE0ODA1MTE2NDUsNDQyNTQ3OTI4LDE1OD
+U4NzI2OTcsODI1NjQ0MTU5XX0=
 -->
