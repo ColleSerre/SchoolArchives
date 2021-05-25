@@ -34,10 +34,10 @@ Ses objectifs:
 * Partage collectif des biens
 * Socle d'un nouvel état
 
-Au 19ᵉ siècle le projet de Godin avec le familistère de Guise. Les avantages: estime de soi, élévation morale et intellectuelle 
+Au 19ᵉ siècle le projet de Godin avec le familistère de Guise. Les avantages: estime de soi, élévation morale et intellectuelle, autodiscipline, responsabilisation de chacun = se libérer du patronat. Les désavantages: paternaliste ?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTc1NzI3Niw1NjIxMDYwMzYsLTgzNj
+eyJoaXN0b3J5IjpbMTYxNTQ5ODk4OCw1NjIxMDYwMzYsLTgzNj
 k5NjY0OCwtMTAwMzE2MzQ0MCw0NDI1NDc5MjgsMTU4NTg3MjY5
 Nyw4MjU2NDQxNTldfQ==
 -->
