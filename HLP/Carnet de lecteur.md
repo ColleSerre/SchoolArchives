@@ -273,6 +273,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 * La vraie morale se moque de la morale - Blaise Pascal
 * Dans le dénouement de Médée, Corneille fait dire à Médée, après qu'elle ai tué ses propres enfants, "Mes désirs sont contents. Mon père et mon pays, Je ne me repens plus de vous avoir trahis ; Avec cette douceur j'en accepte le blame". On peut comprendre que même si les actes de Médée ne sont pas moraux, elle se sort de la situation désaventageuse du début de la pièce en étant au dessus de Jason (littéralement car elle s'envole dans un char tiré par deux dragons).
+* Pour Machiavel, qui est ammoral 
 
 ## Connaissance
 
@@ -282,7 +283,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 ## Utopies et Dystopies
 
-* Utopia, mot latin construit à partir du grec (« ou » : négation ; « topos » : « lieu, contrée, région »)
+* Utopia, mot latin construit à partir du grec (« ou » : négation ; « topos » : « lieu, contrée, région »). C'est donc le lieu du rien. 
 * Peut s'appuyer sur un ou plusieurs de ces thèmes:
 	* Un cadre spacio-temporel nouveau/différent
 	* Un urbanisme repensé et une nouvelle architecture
@@ -384,11 +385,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTY0NzMzOSwtMTA3MzExOTU0NiwxND
-E0MTIxMTI2LC0xOTI0NDQ0Mzk3LC0zNzgwMjYyNjAsLTE1MzI4
-NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMTY4NjExNTc1MS
-wxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5NTQsLTY3
-MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC0xMDkwNj
-c5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OTM5LC0xNzQyMTExMzc2
-LC0yOTI5NTUwMDNdfQ==
+eyJoaXN0b3J5IjpbNzQxNDAyMzMwLC0xMDczMTE5NTQ2LDE0MT
+QxMjExMjYsLTE5MjQ0NDQzOTcsLTM3ODAyNjI2MCwtMTUzMjg2
+NjA1MCwtOTYyNDg2OTEyLC00NTE2MDU0OCwxNjg2MTE1NzUxLD
+E4MjAzODExMTIsLTIwODg3NDY2MTIsMTg3NDM0MTk1NCwtNjcw
+OTk5NDg2LC04MDQzMTMyMjEsLTE2NTY0MzU0NjUsLTEwOTA2Nz
+k1NzMsMjAwNjYyMzUwNCwtNjk3ODU5MzksLTE3NDIxMTEzNzYs
+LTI5Mjk1NTAwM119
 -->
