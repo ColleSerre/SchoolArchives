@@ -20,7 +20,9 @@ Quelles utopies:
 * 3 arguments
 
 ## Quel mythe incarne un idéal de vie harmonieuse ?
+
+Dans le mythe de Babel, l'homme dans son orgueil n'a plus peur de dieu et est puni par ce dernier. Dans leur création de la cité idéale, ils se sont confrontés à leur orgueil. Les valeurs 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYwNDg4NzgsNDQyNTQ3OTI4LDE1OD
-U4NzI2OTcsODI1NjQ0MTU5XX0=
+eyJoaXN0b3J5IjpbNjQ0MjAyMDk0LDQ0MjU0NzkyOCwxNTg1OD
+cyNjk3LDgyNTY0NDE1OV19
 -->
