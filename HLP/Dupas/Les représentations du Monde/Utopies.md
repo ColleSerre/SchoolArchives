@@ -29,10 +29,15 @@ Les villes médiévales étaient considérées comme une dégénérescence de la
 **Fourier** est considéré comme le précurseur d'un socialisme coopératif. 
 
 Ses objectifs: 
-* Attraction naturelle entre les hommes pour s'entraider et 
+* Attraction naturelle entre les hommes pour s'entraider et partager leurs savoirs
+* Harmonie universelle
+* Partage collectif des biens
+* Socle d'un nouvel état
+
+Au 19ᵉ siècle le projet de Godin avec le familistère de Guise 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIwNjk3NjYsNTYyMTA2MDM2LC04Mz
-Y5OTY2NDgsLTEwMDMxNjM0NDAsNDQyNTQ3OTI4LDE1ODU4NzI2
-OTcsODI1NjQ0MTU5XX0=
+eyJoaXN0b3J5IjpbNTgxNTQ1ODU0LDU2MjEwNjAzNiwtODM2OT
+k2NjQ4LC0xMDAzMTYzNDQwLDQ0MjU0NzkyOCwxNTg1ODcyNjk3
+LDgyNTY0NDE1OV19
 -->
