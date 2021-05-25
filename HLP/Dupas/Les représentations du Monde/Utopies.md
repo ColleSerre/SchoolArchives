@@ -21,8 +21,8 @@ Quelles utopies:
 
 ## Quel mythe incarne un idéal de vie harmonieuse ?
 
-Dans le mythe de Babel, l'homme dans son orgueil n'a plus peur de dieu et est puni par ce dernier. Dans leur création de la cité idéale, ils se sont confrontés à leur orgueil. Les valeurs recherchées dans l'Antiquité sont la Justice, la Paix qui sont les deux composantes du bonheur. Hésiode dans *Les Travaux et les Jours* évoque un âge d'or de la Terre qu'il décrit comme un paradis perdu. Platon dans *Timée* et dans *Critias* évoque l'Atlantide, une société avancée où la justice et la hiérarchisation sont à l'honneur. La cité idéale d'Aristote est basée sur la chose en soi. Le panneau d'urbino (tableau de la cité idéale) pourrait apparaitre comme un véritable idéal, une esthétique parfaite et une hygiénique qui s'oppose à la société de son 15ème siècle. La pensée d'un 
+Dans le mythe de Babel, l'homme dans son orgueil n'a plus peur de dieu et est puni par ce dernier. Dans leur création de la cité idéale, ils se sont confrontés à leur orgueil. Les valeurs recherchées dans l'Antiquité sont la Justice, la Paix qui sont les deux composantes du bonheur. Hésiode dans *Les Travaux et les Jours* évoque un âge d'or de la Terre qu'il décrit comme un paradis perdu. Platon dans *Timée* et dans *Critias* évoque l'Atlantide, une société avancée où la justice et la hiérarchisation sont à l'honneur. La cité idéale d'Aristote est basée sur la chose en soi. Le panneau d'urbino (tableau de la cité idéale) pourrait apparaitre comme un véritable idéal, une esthétique parfaite et une hygiénique qui s'oppose à la société de son 15ᵉ siècle. Cependant, l'homme, peut-il être heureux dans un environnement tout fait ? N'est-il pas heureux quand il comble ses besoins. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0NjQ1OTQ1LC0xMDAzMTYzNDQwLDQ0Mj
-U0NzkyOCwxNTg1ODcyNjk3LDgyNTY0NDE1OV19
+eyJoaXN0b3J5IjpbLTQyMjQ1NzEyNiwtMTAwMzE2MzQ0MCw0ND
+I1NDc5MjgsMTU4NTg3MjY5Nyw4MjU2NDQxNTldfQ==
 -->
