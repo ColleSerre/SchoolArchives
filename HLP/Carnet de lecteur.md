@@ -349,8 +349,12 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
 * Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
 * Le temps avale ses enfants - Tiré du mythe de Kronos qui avala ses enfants
+
+## Révolution
+
 * Les révolutions sont la locomotive de l'histoire - Karl Marx 
 * Il se peut que les révolutions soient l'acte par lequel l'humanité qui voyage dans le train tire les freins d'urgence - Walter Benjamin *Thèses sur le concept d'histoire* en reprenant Marx
+* Étymologie de réformer: donner une meilleure forme (corriger, modifier)
 
 ## Éloge
 
@@ -385,11 +389,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MDg4NTUyLC0xMDczMTE5NTQ2LDE0MT
-QxMjExMjYsLTE5MjQ0NDQzOTcsLTM3ODAyNjI2MCwtMTUzMjg2
-NjA1MCwtOTYyNDg2OTEyLC00NTE2MDU0OCwxNjg2MTE1NzUxLD
-E4MjAzODExMTIsLTIwODg3NDY2MTIsMTg3NDM0MTk1NCwtNjcw
-OTk5NDg2LC04MDQzMTMyMjEsLTE2NTY0MzU0NjUsLTEwOTA2Nz
-k1NzMsMjAwNjYyMzUwNCwtNjk3ODU5MzksLTE3NDIxMTEzNzYs
-LTI5Mjk1NTAwM119
+eyJoaXN0b3J5IjpbNDczNjE4MTc4LDc3ODA4ODU1MiwtMTA3Mz
+ExOTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC0zNzgwMjYy
+NjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMT
+Y4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQz
+NDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1ND
+Y1LC0xMDkwNjc5NTczLDIwMDY2MjM1MDQsLTY5Nzg1OTM5LC0x
+NzQyMTExMzc2XX0=
 -->
