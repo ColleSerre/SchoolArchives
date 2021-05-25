@@ -7,16 +7,18 @@ Les utopies communistes, par les crimes staliniens sont inscrites dans l'histoir
 Quelles utopies:
 * Celles proposées en littérature, en art
 * Celles proposées concrètement par des visionnaires
-Acception de réformer:
+**Acception de réformer:**
 * Donner une meilleure forme; corriger; modifier
 * Elles peuvent donc participer au processus de réflexion, de création
-Peuvent-elles participer
+**Peuvent-elles participer**
 * Elles peuvent participer, mais n'en sont pas le moteur principal, la clé de voute (voir les limites)
 * Il y a des moyens plus pragmatiques et réalistes
 
 **Les utopies peuvent participer au processus de réforme de nos sociétés en ce qu'elles nous inspirent**
-**Les utopies ont toutefois, par leur déf**
+* 3 arguments
+**Les utopies ont toutefois, par leur définition même, la difficulté d'y participer concrètement**
+* 3 arguments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTU0NjIwLDE1ODU4NzI2OTcsODI1Nj
+eyJoaXN0b3J5IjpbNDQyNTQ3OTI4LDE1ODU4NzI2OTcsODI1Nj
 Q0MTU5XX0=
 -->
