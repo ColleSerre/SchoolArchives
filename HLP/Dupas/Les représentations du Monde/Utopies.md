@@ -11,9 +11,12 @@ Acception de réformer:
 * Donner une meilleure forme; corriger; modifier
 * Elles peuvent donc participer au processus de réflexion, de création
 Peuvent-elles participer
-* Elles peuvent participer, mais n'en sont pas le moteur principal
+* Elles peuvent participer, mais n'en sont pas le moteur principal, la clé de voute (voir les limites)
+* Il y a des moyens plus pragmatiques et réalistes
 
+**Les utopies peuvent participer au processus de réforme de nos sociétés en ce qu'elles nous inspirent**
+**Les utopies ont toutefois, par leur déf**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM3MzgxMzAsMTU4NTg3MjY5Nyw4Mj
-U2NDQxNTldfQ==
+eyJoaXN0b3J5IjpbLTg4OTU0NjIwLDE1ODU4NzI2OTcsODI1Nj
+Q0MTU5XX0=
 -->
