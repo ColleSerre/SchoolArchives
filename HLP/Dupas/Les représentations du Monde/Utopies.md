@@ -34,10 +34,10 @@ Ses objectifs:
 * Partage collectif des biens
 * Socle d'un nouvel état
 
-Au 19ᵉ siècle le projet de Godin avec le familistère de Guise 
+Au 19ᵉ siècle le projet de Godin avec le familistère de Guise. Les avantages: estime de soi, élévation morale et intellectuelle 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNTQ1ODU0LDU2MjEwNjAzNiwtODM2OT
-k2NjQ4LC0xMDAzMTYzNDQwLDQ0MjU0NzkyOCwxNTg1ODcyNjk3
-LDgyNTY0NDE1OV19
+eyJoaXN0b3J5IjpbMTkwMTc1NzI3Niw1NjIxMDYwMzYsLTgzNj
+k5NjY0OCwtMTAwMzE2MzQ0MCw0NDI1NDc5MjgsMTU4NTg3MjY5
+Nyw4MjU2NDQxNTldfQ==
 -->
