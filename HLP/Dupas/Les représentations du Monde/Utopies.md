@@ -24,11 +24,15 @@ Quelles utopies:
 Dans le mythe de Babel, l'homme dans son orgueil n'a plus peur de dieu et est puni par ce dernier. Dans leur création de la cité idéale, ils se sont confrontés à leur orgueil. Les valeurs recherchées dans l'Antiquité sont la Justice, la Paix qui sont les deux composantes du bonheur. Hésiode dans *Les Travaux et les Jours* évoque un âge d'or de la Terre qu'il décrit comme un paradis perdu. Platon dans *Timée* et dans *Critias* évoque l'Atlantide, une société avancée où la justice et la hiérarchisation sont à l'honneur. La cité idéale d'Aristote est basée sur la chose en soi. Le panneau d'urbino (tableau de la cité idéale) pourrait apparaitre comme un véritable idéal, une esthétique parfaite et une hygiénique qui s'oppose à la société de son 15ᵉ siècle. Cependant, l'homme, peut-il être heureux dans un environnement tout fait ? N'est-il pas heureux quand il comble ses besoins et forme la société en fonction de ces derniers.
 Les villes médiévales étaient considérées comme une dégénérescence de la société (tortueuses, pleines de crimes, sales) ce qui va à l'encontre de l'idéal humaniste. Cependant, les lieux pensés sont loin des cités spontanées qui répondent aux besoins du moment. 
 
-## Quel idéal de lieu de vie les hommes ont-ils rêvé pour leur prochain ?
+## Les phalanstères et familistères du XIXᵉ siècle: la naissance du socialisme coopératif 
 
+**Fourier** est considéré comme le précurseur d'un socialisme coopératif. 
+
+Ses objectifs: 
+* Attraction naturelle entre les hommes pour s'entraider et 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMTA2MDM2LC04MzY5OTY2NDgsLTEwMD
-MxNjM0NDAsNDQyNTQ3OTI4LDE1ODU4NzI2OTcsODI1NjQ0MTU5
-XX0=
+eyJoaXN0b3J5IjpbLTExODIwNjk3NjYsNTYyMTA2MDM2LC04Mz
+Y5OTY2NDgsLTEwMDMxNjM0NDAsNDQyNTQ3OTI4LDE1ODU4NzI2
+OTcsODI1NjQ0MTU5XX0=
 -->
