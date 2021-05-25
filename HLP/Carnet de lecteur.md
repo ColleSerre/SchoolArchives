@@ -273,7 +273,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 * La vraie morale se moque de la morale - Blaise Pascal
 * Dans le dénouement de Médée, Corneille fait dire à Médée, après qu'elle ai tué ses propres enfants, "Mes désirs sont contents. Mon père et mon pays, Je ne me repens plus de vous avoir trahis ; Avec cette douceur j'en accepte le blame". On peut comprendre que même si les actes de Médée ne sont pas moraux, elle se sort de la situation désaventageuse du début de la pièce en étant au dessus de Jason (littéralement car elle s'envole dans un char tiré par deux dragons).
-* Pour Machiavel, qui est ammoral 
+* Pour Machiavel, qui est ammoral, dans *Le Prince* il faut préférer être craint qu'être aimé. 
 
 ## Connaissance
 
@@ -385,7 +385,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNDAyMzMwLC0xMDczMTE5NTQ2LDE0MT
+eyJoaXN0b3J5IjpbNzc4MDg4NTUyLC0xMDczMTE5NTQ2LDE0MT
 QxMjExMjYsLTE5MjQ0NDQzOTcsLTM3ODAyNjI2MCwtMTUzMjg2
 NjA1MCwtOTYyNDg2OTEyLC00NTE2MDU0OCwxNjg2MTE1NzUxLD
 E4MjAzODExMTIsLTIwODg3NDY2MTIsMTg3NDM0MTk1NCwtNjcw
