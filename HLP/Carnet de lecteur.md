@@ -303,6 +303,8 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * L'abondance, notamment de nourriture, fait partie des idées phares des utopies. Le palais du roi Alkinoos dans l'Odyssée d'Homère est un endroit plein de fruits et de terres fertiles, de fontaines abondantes. L'Eldorado dans Candide de Voltaire est aussi luxueux. Une caractéristique commune de ces exemples est l'hospitalité des hotes.
 * La liberté inconditionnelle est un des objectifs des utopies (Les moines de l'abbaye de Thélème sont absolument libres et ne sont régis d'aucune loi car ils sont honnêtes)
 * Hésiode dans *Les Travaux et les Jours* évoque un âge d'or de la Terre qu'il décrit comme un paradis perdu.
+* Platon dans *Timée* et dans *Critias* évoque l'Atlantide, une société avancée où la justice et la hiérarchisation sont à l'honneur.
+* La cité idéale d'Aristote est basée sur la chose en soi.
 
 ## Actes
 
@@ -390,11 +392,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkyODE0NTEsNDczNjE4MTc4LDc3OD
-A4ODU1MiwtMTA3MzExOTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0
-Mzk3LC0zNzgwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMi
-wtNDUxNjA1NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4
-NzQ2NjEyLDE4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMj
-IxLC0xNjU2NDM1NDY1LC0xMDkwNjc5NTczLDIwMDY2MjM1MDQs
-LTY5Nzg1OTM5XX0=
+eyJoaXN0b3J5IjpbNDg1NDY1OTE2LDQ3MzYxODE3OCw3NzgwOD
+g1NTIsLTEwNzMxMTk1NDYsMTQxNDEyMTEyNiwtMTkyNDQ0NDM5
+NywtMzc4MDI2MjYwLC0xNTMyODY2MDUwLC05NjI0ODY5MTIsLT
+Q1MTYwNTQ4LDE2ODYxMTU3NTEsMTgyMDM4MTExMiwtMjA4ODc0
+NjYxMiwxODc0MzQxOTU0LC02NzA5OTk0ODYsLTgwNDMxMzIyMS
+wtMTY1NjQzNTQ2NSwtMTA5MDY3OTU3MywyMDA2NjIzNTA0LC02
+OTc4NTkzOV19
 -->
