@@ -34,10 +34,11 @@ Ses objectifs:
 * Partage collectif des biens
 * Socle d'un nouvel état
 
-Au 19ᵉ siècle le projet de Godin avec le familistère de Guise. Les avantages: estime de soi, élévation morale et intellectuelle, autodiscipline, responsabilisation de chacun = se libérer du patronat. Les désavantages: paternaliste ? Cela rajoute un surmoi.  La cité radieuse de Le Corbusier au XXᵉ siècle est certes moins esthétique, mais répond aux besoins de l'époque (hygiène, praticité). Même si 
+Au 19ᵉ siècle le projet de Godin avec le familistère de Guise. Les avantages: estime de soi, élévation morale et intellectuelle, autodiscipline, responsabilisation de chacun = se libérer du patronat. Les désavantages: paternaliste ? Cela rajoute un surmoi.  
 
+La cité radieuse de Le Corbusier au XXᵉ siècle est certes moins esthétique, mais répond aux besoins de l'époque (hygiène, praticité). Les avantages: lieu collectif de vie, communautarisme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4ODQzNjIwLC0yMDA2MzQ0OTA4LDU2Mj
-EwNjAzNiwtODM2OTk2NjQ4LC0xMDAzMTYzNDQwLDQ0MjU0Nzky
-OCwxNTg1ODcyNjk3LDgyNTY0NDE1OV19
+eyJoaXN0b3J5IjpbLTEzMjg2NDg5MjYsLTIwMDYzNDQ5MDgsNT
+YyMTA2MDM2LC04MzY5OTY2NDgsLTEwMDMxNjM0NDAsNDQyNTQ3
+OTI4LDE1ODU4NzI2OTcsODI1NjQ0MTU5XX0=
 -->
