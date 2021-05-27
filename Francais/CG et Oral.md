@@ -74,5 +74,8 @@ Points d'entrée possibles:
 * le titre de l'oeuvre
 
 ## Grammaire
-
+ 
 Expansions du nom: PSR (proposition subordonnée relative), adjectifs qualificatifs, groupe nominal prépositionnel (fonction complément du nom, introduit par une préposition)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjIzMzM5OTZdfQ==
+-->
