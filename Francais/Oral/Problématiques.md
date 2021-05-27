@@ -8,7 +8,7 @@ Victor Hugo a été l'un des chefs de file des romantisme au 19ème siècle. Il 
 
 ### Charles Baudelaire
 
-Le poème une Charogne est extrait du recueil *Les Fleurs du Mal* de Charles Baudelaire et est paru en **1857**. Le poème fait partie de la première section du recueil, "Spleen et l'idéal",  d'une part la rate, spleen, d'où provient, selon les médecins anciens, la mélancolie et d'autre part l'idéal qu'il tente d'atteindre à travers ses fameuses synesthésies. Dans *Une Charogne*, Baudelaire évoque une balade dans la nature avec une femme qui lui est proche dans laquelle il tombe sur une charogne putréfiée. Nous verrons en quoi la poésie de Baudelaire transcende la mort.
+Le poème une Charogne est extrait du recueil *Les Fleurs du Mal* de Charles Baudelaire et est paru en **1857**. Le poème fait partie de la première section du recueil, "Spleen et l'idéal". On a d'une part la rate, spleen, d'où provient, selon les médecins anciens, la mélancolie et d'autre part l'idéal qu'il tente d'atteindre à travers ses fameuses synesthésies. Dans *Une Charogne*, Baudelaire évoque une balade dans la nature avec une femme qui lui est proche dans laquelle il tombe sur une charogne putréfiée. Nous verrons en quoi la poésie de Baudelaire transcende la mort.
 
 ### Lamartine
 
@@ -78,3 +78,6 @@ Deux mouvements:
 Conclusion:
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NTYwMjQ4ODldfQ==
+-->
