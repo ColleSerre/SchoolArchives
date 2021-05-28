@@ -11,8 +11,9 @@ This includes killing members of the group, causing serious bodily or mental har
 * Some Armenians survived
 * Some Armenians participated in the war and helped the enemy (i.e. the Russians)
 * Armenians deaths though tragic and regrettable the result of the civil war that occurred in Eastern Turkey
+* No proof proving the Ottoman government ordered the destruction the Armenian community
 
-**None of these terms exclude the possibility of genocide**
+**None of these terms exclude the possibility of genocide and tuskish archives have not been fully opened to res**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM4MDE1MTZdfQ==
+eyJoaXN0b3J5IjpbLTU4MTQwNjM1XX0=
 -->
