@@ -4,7 +4,7 @@
 
 Projet de lecture : Démontrer quel est le vrai objet d'amour du poème
 
-Selon Sartre c'est un révolté et non un révolutionnaire contrairement à 
+Selon Sartre c'est un révolté et non un révolutionnaire contrairement à Prévert qui porte un projet politique plus proche du socialisme. 
 
 Remarque:
 Idéal => Eidov (forme)
@@ -105,5 +105,5 @@ Cette référence à l’art font prévaloir la prédominance de l’art sur la 
 
  Grâce à l’alchimie poétique, et en toute immodestie, le poète transcende la mort. Ne joue-t-il d’ailleurs pas implicitement sur l’homophonie entre les vers dévoreurs du cadavre et ses propres vers ? Entre memento mori et déclaration d’amour, entre cynisme et lyrisme, Baudelaire ne cesse de procéder par ruptures de ton et par retours, mouvements de va-et-vient entre la description et le discours, la réalité et sa sublimation, tenant le lecteur en haleine. Baudelaire transforme la femme aimée avec une cruauté particulière.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk2MTI1NjZdfQ==
+eyJoaXN0b3J5IjpbODcwNjI1MjcxXX0=
 -->
