@@ -13,7 +13,8 @@ This includes killing members of the group, causing serious bodily or mental har
 * Armenians deaths though tragic and regrettable the result of the civil war that occurred in Eastern Turkey
 * No proof proving the Ottoman government ordered the destruction the Armenian community
 
-**None of these terms exclude the possibility of genocide and tuskish archives have not been fully opened to res**
+**Turkish archives have not been fully opened to researchers
+None of these terms exclude the possibility of genocide**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTQwNjM1XX0=
+eyJoaXN0b3J5IjpbLTU3MzMyODc5Nl19
 -->
