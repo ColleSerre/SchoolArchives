@@ -10,7 +10,9 @@ This includes killing members of the group, causing serious bodily or mental har
 * **There was no INTENT to destroy the Armenian population of the Ottoman Empire.**
 * Some Armenians survived
 * Some Armenians participated in the war and helped the enemy (i.e. the Russians)
-* Armenians deaths through tragic and regrettable events
+* Armenians deaths though tragic and regrettable the result of the civil war that occurred in Eastern Turkey
+
+**None of these terms exclude the possibility of genocide**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYwMzI5NjVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDM4MDE1MTZdfQ==
 -->
