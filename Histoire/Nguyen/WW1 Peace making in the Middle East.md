@@ -18,7 +18,7 @@ None of these terms exclude the possibility of genocide**
 
 ## The US Senate & House of Representatives have both recognized the Armenian Genocide. However, the US government refused to recognize the Armenian Genocide for a long time, why ?
 
-
+There is a NATO base in Turkey that the US depended on, until when they started to withdraw their troops. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTUyNzkxNCwtNTczMzI4Nzk2XX0=
+eyJoaXN0b3J5IjpbODMwMTE1MDIwLC01NzMzMjg3OTZdfQ==
 -->
