@@ -9,7 +9,8 @@ La défaite de la France contre la Prusse met fin au second Empire et donne nais
 
 ## Après la défaite de Sedan
 
-Léon Gambetta proclame la IIIe République le 4 septembre 1870 à l'Hôtel de Ville. La constitution de cette République offre des pouvoirs très étendus sur l
+Léon Gambetta proclame la IIIe République le 4 septembre 1870 à l'Hôtel de Ville. La constitution de cette République offre des pouvoirs très étendus au président. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTM4NzAxNCwtNjYzMTQ4NTg1XX0=
+eyJoaXN0b3J5IjpbLTIwMjg5NzY0NzIsMTA0NTM4NzAxNCwtNj
+YzMTQ4NTg1XX0=
 -->
