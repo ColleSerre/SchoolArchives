@@ -7,7 +7,9 @@ La défaite de la France contre la Prusse met fin au second Empire et donne nais
 
 **Les deux premiers présidents de la IIIe République sont monarchistes: Adolphe Thiers et Mac-Mahon. C'est à partir de 1879. **
 
+## Après la défaite de Sedan
 
+Léon Gambetta proclame la IIIe République le 4 septembre 1870 à l'Hôtel de Ville. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzE0ODU4NV19
+eyJoaXN0b3J5IjpbNDU3MjE0OTE0LC02NjMxNDg1ODVdfQ==
 -->
