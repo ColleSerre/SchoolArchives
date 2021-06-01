@@ -181,7 +181,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
 * Une des propriétés des sondages consiste à poser aux gens des problèmes qu'ils ne se posent pas, à faire glisser des réponses aux problèmes qu'ils n'ont pas posés, donc à imposer des réponses. - *Pierre Bourdieu* au Collège de France 1990
 * Pour Goëte, l'ère moderne commence avec la déclaration des droits de l'homme car elle est la première fois que les citoyens ont proclamé un droit pour tous les Hommes du monde et par que pour les français. 
-* Mieux vaut perdre une élection que perdre son âme - Michel Noir, député de droite sur la stratégie de la droite vis à vis de l'extrème droite 
+* Mieux vaut perdre une élection que perdre son âme - Michel Noir, député/maire de droite sur sa stratégie vis à vis de l'extrème droite. 
 
 ## Capitalisme/néo-libéralisme
 
@@ -395,11 +395,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY5MDMwNTYsLTEzMDEyODY0OTYsMT
-k5MTY4NzAzNSw0NzM2MTgxNzgsNzc4MDg4NTUyLC0xMDczMTE5
-NTQ2LDE0MTQxMjExMjYsLTE5MjQ0NDQzOTcsLTM3ODAyNjI2MC
-wtMTUzMjg2NjA1MCwtOTYyNDg2OTEyLC00NTE2MDU0OCwxNjg2
-MTE1NzUxLDE4MjAzODExMTIsLTIwODg3NDY2MTIsMTg3NDM0MT
-k1NCwtNjcwOTk5NDg2LC04MDQzMTMyMjEsLTE2NTY0MzU0NjUs
-LTEwOTA2Nzk1NzNdfQ==
+eyJoaXN0b3J5IjpbMTEwNzk3MjMzLC0xMzAxMjg2NDk2LDE5OT
+E2ODcwMzUsNDczNjE4MTc4LDc3ODA4ODU1MiwtMTA3MzExOTU0
+NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC0zNzgwMjYyNjAsLT
+E1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMTY4NjEx
+NTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5NT
+QsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC0x
+MDkwNjc5NTczXX0=
 -->
