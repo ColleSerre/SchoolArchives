@@ -1,12 +1,9 @@
+# Observer pastiche, parodie, variation et subversion
 
-# Séance de lecture
+Dans quelle optique les auteurs proposent-ils des écrits d'imitation ?
 
-## Lecture du document A "Lauren déplia ses jambes..."
-
-Qu'est-ce qui peut plaire aux lecteurs ?
- De quoi est fait le style de l'auteur ?
-
-Beaucoup de verbes d'action, cadence → énumérations. Routine matinale qui permet au lecteur de s'identifier au personnage.
+*Et si c'était *
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTM2MDAwOCwtNDUzNzYxODE0XX0=
+eyJoaXN0b3J5IjpbLTc1ODk3MjQ4NSwtMzA1MzYwMDA4LC00NT
+M3NjE4MTRdfQ==
 -->
