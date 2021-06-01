@@ -69,12 +69,12 @@ Selon Cicéron: il faut la **technique** (trouver, ranger, embellir, apprendre, 
 Selon Isocrate: il faut s'entraîner, se dépasser, ne pas être surpassé
 "nous nous sommes débarrassés de la vie sauvage, nous nous sommes réunis pour construire des villes; nous avons fixé des lois; nous avons découvert des arts; et, presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin." - Isocrate 
 
-## Mythes (Présentation Eva et Violette)
+### Mythes (Présentation Eva et Violette)
 
 * Cosmogonie = mythe sur la création du monde
 * La Théogonie d'Hésiode: L'histoire des dieux grecs. 
 
-## Les séductions de la parole [Cours en PDF](Cours 1ère Humanités Littérature et Philosophie - La parole peut-elle induire en erreur (Les séductions de la parole).pdf)
+### Les séductions de la parole [Cours en PDF](Cours 1ère Humanités Littérature et Philosophie - La parole peut-elle induire en erreur (Les séductions de la parole).pdf)
 
 Il est tellement important de plaire en matière de parole, de discours et de rhétorique, que tout discours devient discours amoureux. Au début de chaque prise de parole, en exorde de chaque discours, un orateur cherche ainsi à capter, non pas seulement l’attention, mais aussi la bienveillance de l’auditoire (captatio benevolentiae).
 
@@ -101,7 +101,7 @@ Il y a donc trois sortes de lits, mais aussi trois sortes d'art."
 
 Le fin’amor (amour courtois, ne jamais blesser et toujours être raffiné) n’est-il qu’utile à flatter l’égo de la femme soumise pour la conforter dans son infériorité ?
 
-## L'autorité de la parole
+### L'autorité de la parole
 
 Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait pousser 
 
@@ -137,7 +137,7 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 	
 6. Barbara Cassin - Il y a trois raisons pour lesquelles on veut parler: "parler de", "parler à" et "parler pour parler" (fonction phatique du langage). Dans la troisième, il se produit un "effet-monde" qui change le monde (ça peut être peu). Un discours qui transforme le monde ne ressemble pas à un discours et "se présente comme réel, comme ce qui va de soi", **"Mais attention, un "discours qui gagne" n'est pas forcément un "beau discours"**. Un discours ne peut pas se limiter à avoir un effet sur les consciences pour être gagnant. **"Le discours de la philosophie, qui n'apparait pas comme un discours formate notre perception du monde.** Quand Marx parle de classes sociales, on se met à penser en ces termes. L'éloge est aussi un discours gagnant car il forme la perception d'une notion ou d'une chose et car il peut changer les valeurs. En conclusion, **un discours n'est pas gagnant car il touche mais car il a un impact et fait un changement à grande échelle**
 
-## Les représentations du monde 
+### Les représentations du monde 
 
 * « Il n’y a rien de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage. » - Montaigne, *Des Cannibales*
 * Je ne suis pas marri que nous remarquons l'horreur barbaresque qu'il y a en une telle action, mais oui bien de quoi, jugeant bien de leurs fautes, nous soyons si aveugles aux nôtres. - Montaigne *Des Cannibales*
@@ -148,33 +148,33 @@ Autorité: étymologie commune avec "auteur": Celui qui crée, celui qui fait po
 * Le film d'horreur Christine raconte une voiture qui tue tous ceux qui tentent de la séparer de l'adolescent qui l'a achetée, elle l'absorbe. Film d'horreur américaine de John Carpenter
 * « La coutume est une seconde nature qui détruit la première. Mais, qu’est-ce que nature ? Pourquoi la coutume n’est-elle pas naturelle ? J’ai grand peur que cette nature ne soit elle-même qu’une première coutume. » - Montaigne
 
-## L'autorité de l'auteur
+### L'autorité de l'auteur
 
-### Lamartine
+#### Lamartine
 
 Lamartine se place comme l'anti-pétrarque car pour lui le poète doit savoir exprimer ses émotions de manière personnelle et sincère. Pour Lamartine, trouver sa voix en littérature ne saurait être "à la manière de"; c'est de la fausse littérature, de la vacuité. "Je n'étais pas devenu plus poète, j'étais devenu plus sensible, plus sérieux, plus vrai", "On entendit une âme, on vit un homme au lieu d'un livre"
 
-### Simone de Beauvoir
+#### Simone de Beauvoir
 
 Simone de Beauvoir raconte ses rapports conflictuels avec ses parents et surtout avec son père conservateur qui se désole qu'elle ne soit pas une "bonne fille rangée" alors que ses accomplissements académiques sont remarquables. Ce rapport à l'étude est exceptionnel pour l'époque car **l'apprentissages n'est pas un à-coté mais sa vie entière.** "Elles travaillaient en amateur tandis que j'étais passée professionnelle", "Il (mon père) aurait pu s'accommoder d'une fille exceptionnelle à condition qu'elle évitât d'être insolite.
 
-### Annie Leclerc
+#### Annie Leclerc
 
 Annie Leclerc expose sa volonté de trouver une plus grande place à la parole des femmes dans le débat public et dans les situations à hautes responsabilités en dénonçant le monopole que les hommes ont sur la parole et sur le monde. "Les paroles d'hommes ont l'air de se faire la guerre. C'est pour faire oublier que [les paroles d'hommes] disent toutes la même chose: notre parole d'homme décide."
 
-# Répertoire de citations & de faits
+## Répertoire de citations & de faits
 
-## Non classées
+### Non classées
 
 3. L'appétit vient en mangeant - Rabelais *Gargantua*
 8. Le surréalisme est la surprise magique de trouver un lion dans un placard, là où on était sur de trouver des chemises - Frida Kahlo
 
-## Savoir
+### Savoir
 
 * La seule chose que je sais c'est que je ne sais pas - Aristote
 * On n'est pas bête quand on croit n'avoir point d'esprit: un sot n'a jamais su cela -  Jeanne Marie Leprince de Beaumont *La Belle et la Bête* 
 
-## Politique
+### Politique
 
 * La peine de mort est contraire à ce que l'humanité depuis deux mille ans a pensé de plus haut et rêve de plus noble. - *Jean Jaurès* cité par *Robert Badinter* dans son réquisitoire contre la peine de mort
 * Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
@@ -182,7 +182,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Pour Goëte, l'ère moderne commence avec la déclaration des droits de l'homme car elle est la première fois que les citoyens ont proclamé un droit pour tous les Hommes du monde et par que pour les français. 
 * Mieux vaut perdre une élection que perdre son âme - Michel Noir, député/maire de droite sur sa stratégie vis à vis de l'extrème droite. 
 
-## Capitalisme/néo-libéralisme
+### Capitalisme/néo-libéralisme
 
 * Wall Street: marché aux esclaves au départ
 * HSBC: banque des marchants d'opium en chine
@@ -190,13 +190,13 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Le capitalisme a tendance à détruire les deux choses qui font sa richesse: les êtres humains et la nature - Karl Marx
 * And, you know, there's no such thing as society. There are individual men and women and there are families. And no government can do anything except through people, and people must look after themselves first. - Margaret Thatcher
 
-## Apparences vs Réalité
+### Apparences vs Réalité
 
 * Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action immorale qu'il commetra.
 * Selon que vous serez puissant ou misérable les jugements de cour vous rendront blanc ou noir - Jean de la Fontaine
 * La fleur de l’illusion produit le fruit de la réalité - Paul Claudel
 
-## Amour
+### Amour
 
 Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et non une princesse raffinée)
 
@@ -394,7 +394,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc1MzY0MTcsMTEwNzk3MjMzLC0xMz
+eyJoaXN0b3J5IjpbLTEzMzA3Nzk1MDAsMTEwNzk3MjMzLC0xMz
 AxMjg2NDk2LDE5OTE2ODcwMzUsNDczNjE4MTc4LDc3ODA4ODU1
 MiwtMTA3MzExOTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC
 0zNzgwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUx
