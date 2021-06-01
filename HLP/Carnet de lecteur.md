@@ -213,37 +213,37 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Dans l'adversité de nos meilleurs amis, nous trouvons quelque chose qui ne nous déplaît pas - La Rochefoucauld *Maximes*
 * Dans la Belle et la Bête, de Jeanne-Marie Leprince de Beaumont, les deux personnages partagent leur premier dîner romantique. En dépit des apparences, la Bête traite la Belle avec respect et lui réitère que tout son château est à elle et qu'elle ne doit absolument pas se sentir menaçée. Il va même jusqu'à lui propser qu'il se retire comme s'il était invité. Belle se sent donc à l'aise et dit **"Il y a des hommes qui sont plus monstres que vous et je vous aime mieux avec votre figure, que ceux qui, avec la figure des hommes, cachent un coeur faux, corrompu, ingrat"**. Malgré ces compliments, la Belle refuse quand la Bête lui demanda "La Belle, voulez vous être ma femme ?". Après qu'il se soit retiré dignement, la Belle dit **"Hélas, c'est bien dommage qu'elle soit si laide, elle est si bonne !"**, ne renonçant pas totalement aux apparences. 
 
-## Pensées
+### Pensées
 
 * Plonger au fond du gouffre. Enfer ou Ciel, qu'importe ? Au fond de l'inconnu, pour trouver du nouveau ! - Charles Baudelaire *Le Voyage*
 * C'est dans le mots que nous pensons - Hegel *Encyclopédie des sciences philosophiques en abrégé*
 * Cogito ergo sum ; Je pense donc je suis - Descartes *Discours sur la méthode*
 * Insensé toi qui penses que je ne suis pas toi - Victor Hugo
 
-## Ambition
+### Ambition
 
 * Deux démons partagent notre vie et ont chassé la raison; j'appelle l'un l'amour et l'autre l'ambition - J. De La Fontaine *Le Berger et le Roi*
 * L'ambition, c'est la richesse des pauvres - Marcel Pagnol 
 * On ne peut mieux vivre qu'en cherchant à devenir meilleur - Socrate
 * Memento Mori - Horace
 
-## La paix
+### La paix
 
 * La paix, le commerce, une honnête amitié avec toutes les nations, d'étroites alliances avec aucune - T. Jefferson *Discours inaugural*
 * La mort n'est rien pour nous puisque quand nous sommes là, elle n'y est pas et lorsqu'elle arrive, nous n'y sommes plus - Épicure *Lettre à Mécénée*
 * L'enfer c'est les autres - Jean Paul Sartre *Le Huis Clos*
 * Tout est pour le mieux dans le meilleur des mondes. - Voltaire (ironiquement) *Candide*
 
-## Nature
+### Nature
 
 * Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitud: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'une enfant monstrueux*
 
-## Peur
+### Peur
 
 * L'angoisse est la disposition qui nous place face au néant - Martin Heidegger
 * A vaincre sans péril, on triomphe sans gloire - Pierre Corneille
 
-## L'argent
+### L'argent
 
 * Les affaires, c'est simple: c'est l'argent des autres - Alexandre Dumas (fils) *La question d'argent*
 * L'âge d'or c'était l'âge où l'or ne régnait pas - Lezay-Marnesia *Epître à mon curé*
@@ -252,7 +252,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Et quand le soir, dans vos belles maisons, vous allez embrasser vos petits, avec votre bonne conscience, vous avez probablement plus de sang sur vos mains d’inconscients, au regard de Dieu, que n’en aura jamais le désespéré qui a pris les armes pour essayer de sortir de son désespoir. - l'Abbé Pierre *La voix des sans-voix*
 * Ulysse face au cyclope, tente de le convaincre en réduisant la chair de ses camarades à de l'"abominable nourriture". Il essaye d'employer un argument dit *reductio ad unum* pour à la fois rendre le cyclope empathique et le dissuader de rejoindre le camp de ceux qui ont fait souffrir les hommes. Cela ne fonctionne pas face au cyclopse qui adopte une position semblable au *carpe diem* d'Horace en affirmant qu'aucun Dieu ne peut l'atteindre dans sa grotte et qu'il vit sa vie sans demander de plus. Les hommes ont tout simplement eu le malheur de croiser son chemin alors qu'il avait faim. La richesse exprimée dans **"La richesse est le dieu des sages: tout le reste n'est que vanité et beaux discours.** est une richesse spirituelle ainsi que matérielle. - Euripide *Le Cyclope*
 
-## L'orateur
+### L'orateur
 
 * Tout orateur a deux génies, le sien et celui du siècle qui l'écoute - Henri Lacordaire 
 * La parole a été donnée à l'homme pour déguiser sa pensée - Charles-Maurice de Talleyrand-Périgord
@@ -265,25 +265,25 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * "nous nous sommes **débarrassés** de la vie sauvage, nous nous sommes réunis pour **construire** des villes; nous avons **fixé** des lois; nous avons **découvert** des arts; et, **presque toutes nos inventions, c'est la parole qui nous a permis de les conduire à bonne fin.**" - Isocrate *Éloge de la parole*
 * L’écrivain engagé sait que la parole est action: il sait que dévoiler c'est changer et qu'on ne peut dévoiler qu'en projetant de changer. Il a abandonné le rêve impossible de faire une peinture impartiale de la Société et de la condition humaine. - Sartre
 
-## Liberté
+### Liberté
 
 * L’homme est né libre, et partout il est dans les fers - *Rousseau*
 * Les gens libres, bien nés et bien éduqués, vivant en bonne compagnie, ont par nature un instinct, un aiguillon qui les pousse toujours à la vertu et les éloigne du vice, qu'ils appelaient honneur. - *Rabelais* Gargantua (des moines de l'abbaye de Thélème)
 
-## Moralité
+### Moralité
 
 * La vraie morale se moque de la morale - Blaise Pascal
 * Dans le dénouement de Médée, Corneille fait dire à Médée, après qu'elle ai tué ses propres enfants, "Mes désirs sont contents. Mon père et mon pays, Je ne me repens plus de vous avoir trahis ; Avec cette douceur j'en accepte le blame". On peut comprendre que même si les actes de Médée ne sont pas moraux, elle se sort de la situation désaventageuse du début de la pièce en étant au dessus de Jason (littéralement car elle s'envole dans un char tiré par deux dragons).
 * Pour Machiavel, qui est ammoral, dans *Le Prince* il faut préférer être craint qu'être aimé. 
 * Prend garde à n'emprunter point le chemin du vice par la voie même qui te semblait vertueuse"
 
-## Connaissance
+### Connaissance
 
 * Connais toi toi même - Sur le fronton du temple d’Apollon
 * Nul ne doit entrer sous mon toit, s'il n'est géomètre - Gravé sur l'école de Platon
 * Connais ton ennemi et connais toi toit même - Sun Tzu *L’art de la guerre*
 
-## Utopies et Dystopies
+### Utopies et Dystopies
 
 * Utopia, mot latin construit à partir du grec (« ou » : négation ; « topos » : « lieu, contrée, région »). C'est donc le lieu du rien. 
 * Peut s'appuyer sur un ou plusieurs de ces thèmes:
@@ -308,7 +308,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Platon dans *Timée* et dans *Critias* évoque l'Atlantide, une société avancée où la justice et la hiérarchisation sont à l'honneur.
 * La cité idéale d'Aristote est basée sur la chose en soi.
 
-## Actes
+### Actes
 
 * Nos actes ne sont éphémères qu'en apparence. La vie du présent tisse celle de l'avenir. - Gustave Le Bon
 * Il est souvent préférable d'être très actif plutôt que de penser trop intensément - Louis Bromfield *Mrs Parkington*
@@ -319,7 +319,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * "Le succès c'est être capable d'aller d'échec en échec sans perdre son enthousiasme." - Winston Churchill
 * Je ne m’étonne jamais de voir des hommes mauvais, mais je m’étonne souvent de ne point les voir honteux - Jonathan Swift
 
-## L'autorité
+### L'autorité
 
 * Le plus fort nʼest jamais assez fort pour être toujours le maître, sʼil ne transforme sa force en droit & lʼobéissance en devoir. - Jean Jacques Rousseau *Du contrat social*
 * Céder à la force est un acte de nécessité, non de volonté; cʼest tout au plus un acte de prudence. - Jean Jacques Rousseau *Du contrat social*
@@ -328,7 +328,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Personne n'aime des missionnaires armés - Robespierre
 * Science sans conscience n'est que ruine de l'âme. - Rabelais *Pantagruel*
 
-## L'autorité de la parole - citations de cours
+### L'autorité de la parole - citations de cours
 
 * L'homme est à la mesure de toute chose - Protagoras
 * **"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
@@ -339,13 +339,13 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * les grandes âmes se cachent; ordinairement, il ne parait qu'un peu d'originalité. Il y a plus de grandes âmes qu'on ne le croirait. (Lié aux grands discours) - Stendhal
 * Les Nuées célestes, grandes divinités des hommes oisifs, qui nous suggèrent pensée, parole, intelligence, charlatanisme, loquacité, ruse, compréhension. - Aristophane *Les Nuées*
 
-## Vérité
+### Vérité
 
 * Vérité et amitié nous sont chères l'une et l'autre, mais c'est notre devoir sacré d'accorder la préférence à la vérité - Aristote *Éthique à Nicomaque*
 * Mal nommer les choses, c'est ajouter au malheur du monde. - Albert Camus
 * In vino veritas - Pline l'Ancien
 
-## L'âge
+### L'âge
 
 * Ne pourrons nous jamais sur l'océan des âges, Jeter l'ancre un seul jour ? - Alphonse de Lamartine *Méditations poétiques - Le Lac* 
 * Le temps passe et nous coulons - Alphonse de Lamartine *Méditations poétiques - Le Lac*
@@ -355,18 +355,18 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
 * Le temps avale ses enfants - Tiré du mythe de Kronos qui avala ses enfants
 
-## Révolution
+### Révolution
 
 * Les révolutions sont la locomotive de l'histoire - Karl Marx 
 * Il se peut que les révolutions soient l'acte par lequel l'humanité qui voyage dans le train tire les freins d'urgence - Walter Benjamin *Thèses sur le concept d'histoire* en reprenant Marx
 * Étymologie de réformer: donner une meilleure forme (corriger, modifier)
 
-## Éloge
+### Éloge
 
 * Comme un soufflé qu'on laisse attendre [l'adulation du public] ne tarde à se dégonfler - Charlie Chaplin
 * "Les grands hommes font leur propre piédestal; l'avenir se charge de la statue" - Victor Hugo *Discours aux funérailles d'Honoré de Balzac*
 
-## Les faits
+### Les faits
 
 * Assurons nous bien du fait avant de nous inquiéter de la cause. (Histoire des oracles - Bernard le Bouvier de Fontenelle)
 * N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling
@@ -380,13 +380,13 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	2. Elle est attaquée jusqu'à la mort s'il le faut
 	3. Elle est admise comme ayant été toujours une évidence - Schopenhauer 
 
-## Crimes contre l'humanité
+### Crimes contre l'humanité
 
 * Ce qu’il [l'homme blanc, bourgeois et occidental] ne pardonne pas à Hitler, ce n’est pas le crime en soi, le crime contre l’homme, ce n’est pas l’humiliation de l’homme en soi, c’est le crime contre l’homme blanc, c’est l’humiliation de l’homme blanc, et d’avoir appliqué à l’Europe des procédés colonialistes dont ne relevaient jusqu’ici que les Arabes d’Algérie, les coolies de l’Inde et les nègres d’Afrique. - Aimé Césaire *Discours sur le colonialisme*
 * Périssent les colonies plutôt qu’un principe - Robespierre en abolissant l’esclavage
 * Génération Identitaire s'est inspirée du National Socialist Movement (le plus grand groupe néo-nazi aux États-Unis) pour leur opération de communication *Defend Europe*.
 
-## Fonctions et registres du langage
+### Fonctions et registres du langage
 
 Fonction phatique selon Barthes: la parole qui ne sert qu'à l'interaction sociale.
 
@@ -394,11 +394,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3Nzk1MDAsMTEwNzk3MjMzLC0xMz
-AxMjg2NDk2LDE5OTE2ODcwMzUsNDczNjE4MTc4LDc3ODA4ODU1
-MiwtMTA3MzExOTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC
-0zNzgwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUx
-NjA1NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2Nj
-EyLDE4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0x
-NjU2NDM1NDY1XX0=
+eyJoaXN0b3J5IjpbLTg4OTI5MTU1MSwxMTA3OTcyMzMsLTEzMD
+EyODY0OTYsMTk5MTY4NzAzNSw0NzM2MTgxNzgsNzc4MDg4NTUy
+LC0xMDczMTE5NTQ2LDE0MTQxMjExMjYsLTE5MjQ0NDQzOTcsLT
+M3ODAyNjI2MCwtMTUzMjg2NjA1MCwtOTYyNDg2OTEyLC00NTE2
+MDU0OCwxNjg2MTE1NzUxLDE4MjAzODExMTIsLTIwODg3NDY2MT
+IsMTg3NDM0MTk1NCwtNjcwOTk5NDg2LC04MDQzMTMyMjEsLTE2
+NTY0MzU0NjVdfQ==
 -->
