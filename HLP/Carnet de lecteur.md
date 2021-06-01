@@ -1,9 +1,8 @@
 # Carnet de Lecteur - [Carnet de lecteur Victor](https://docs.google.com/document/d/1Hb05TOM-bxX6xufFjwyJV_j5fpjroV9E_mtFUfdTq5o/edit?usp=sharing_eip&ts=5fc60d23)
----
 
 Code site Monsieur Bernard: Chesterton
 
-# Répertoire des notions
+## Répertoire des notions
 
 Loquor = parler (en latin)
 
@@ -395,11 +394,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzk3MjMzLC0xMzAxMjg2NDk2LDE5OT
-E2ODcwMzUsNDczNjE4MTc4LDc3ODA4ODU1MiwtMTA3MzExOTU0
-NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC0zNzgwMjYyNjAsLT
-E1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMTY4NjEx
-NTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2NjEyLDE4NzQzNDE5NT
-QsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0xNjU2NDM1NDY1LC0x
-MDkwNjc5NTczXX0=
+eyJoaXN0b3J5IjpbLTE1Mzc1MzY0MTcsMTEwNzk3MjMzLC0xMz
+AxMjg2NDk2LDE5OTE2ODcwMzUsNDczNjE4MTc4LDc3ODA4ODU1
+MiwtMTA3MzExOTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC
+0zNzgwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUx
+NjA1NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0yMDg4NzQ2Nj
+EyLDE4NzQzNDE5NTQsLTY3MDk5OTQ4NiwtODA0MzEzMjIxLC0x
+NjU2NDM1NDY1XX0=
 -->
