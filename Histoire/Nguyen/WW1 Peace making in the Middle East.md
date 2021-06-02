@@ -28,9 +28,11 @@ After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, 
 * Financial
 	* Ottoman budget controlled by Allies
 	* National debt owned by France, UK and Italy
-	* Freedom of 
+	* Freedom of transit imposed + no custom duties !
+* Minorities: projects of Armenian and Kurdish independent States
+* Military restrictions: only 50 000 men ; straits of Bosphorus and Dardanelles are demilitarized 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY5NTQwNDAsLTE4MjM4OTE3MzMsLT
+eyJoaXN0b3J5IjpbLTEyNjM3MjgwNDcsLTE4MjM4OTE3MzMsLT
 kxMzI0ODMxMyw5NTY4OTM5ODMsODMwMTE1MDIwLC01NzMzMjg3
 OTZdfQ==
 -->
