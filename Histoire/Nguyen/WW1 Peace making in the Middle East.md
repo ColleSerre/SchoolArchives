@@ -35,9 +35,9 @@ After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, 
 
 ### Synthesis
 
-
+The Treaty of Versailles was more about revenge (debt, acknowledging, demilitrizing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTQ2NDU2MSw3ODE0MTYzMzQsLTE4Mj
-M4OTE3MzMsLTkxMzI0ODMxMyw5NTY4OTM5ODMsODMwMTE1MDIw
-LC01NzMzMjg3OTZdfQ==
+eyJoaXN0b3J5IjpbMTgyMTAwMjI3OSwtMzcxNDY0NTYxLDc4MT
+QxNjMzNCwtMTgyMzg5MTczMywtOTEzMjQ4MzEzLDk1Njg5Mzk4
+Myw4MzAxMTUwMjAsLTU3MzMyODc5Nl19
 -->
