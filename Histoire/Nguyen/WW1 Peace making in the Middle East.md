@@ -16,9 +16,10 @@ This includes killing members of the group, causing serious bodily or mental har
 **Turkish archives have not been fully opened to researchers
 None of these terms exclude the possibility of genocide**
 
-## The US Senate & House of Representatives have both recognized the Armenian Genocide. However, the US government refused to recognize the Armenian Genocide for a long time, why ?
+**The US Senate & House of Representatives have both recognized the Armenian Genocide. However, the US government refused to recognize the Armenian Genocide for a long time, why ?**
 
 There is a NATO base in Turkey that the US depended on, until when they started to withdraw their troops. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMTE1MDIwLC01NzMzMjg3OTZdfQ==
+eyJoaXN0b3J5IjpbODc2NzQyNzUyLDgzMDExNTAyMCwtNTczMz
+I4Nzk2XX0=
 -->
