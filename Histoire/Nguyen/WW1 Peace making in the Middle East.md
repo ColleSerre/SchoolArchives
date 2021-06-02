@@ -33,11 +33,11 @@ After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, 
 * Military restrictions: only 50 000 men ; straits of Bosphorus and Dardanelles are demilitarized and under international law (in war and peace times) (Wilson)
 * Territories: creation of Allied spheres of influence (Ottoman administration and economy under Allied control)
 
-### Synthesis (cf voice meme
+### Synthesis (cf voice memo)
 
 The Treaty of Versailles was more about revenge (debt, acknowledging, demilitarizing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA2MDI4OSwtMzcxNDY0NTYxLDc4MT
-QxNjMzNCwtMTgyMzg5MTczMywtOTEzMjQ4MzEzLDk1Njg5Mzk4
-Myw4MzAxMTUwMjAsLTU3MzMyODc5Nl19
+eyJoaXN0b3J5IjpbNjU0NjUxMzY2LC0zNzE0NjQ1NjEsNzgxND
+E2MzM0LC0xODIzODkxNzMzLC05MTMyNDgzMTMsOTU2ODkzOTgz
+LDgzMDExNTAyMCwtNTczMzI4Nzk2XX0=
 -->
