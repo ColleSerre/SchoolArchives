@@ -11,15 +11,14 @@ This includes killing members of the group, causing serious bodily or mental har
 * Some Armenians survived
 * Some Armenians participated in the war and helped the enemy (i.e. the Russians)
 * Armenians deaths though tragic and regrettable the result of the civil war that occurred in Eastern Turkey
-* No proof proving the Ottoman government ordered the destruction the Armenian community
+* No proof proving the Ottoman government ordered the destruction of the Armenian community
 
-**Turkish archives have not been fully opened to researchers
-None of these terms exclude the possibility of genocide**
+Turkish archives have not been fully opened to researchers, none of these terms exclude the possibility of genocide. 
 
 **The US Senate & House of Representatives have both recognized the Armenian Genocide. However, the US government refused to recognize the Armenian Genocide for a long time, why ?**
 
 There is a NATO base in Turkey that the US depended on, until when they started to withdraw their troops. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NzQyNzUyLDgzMDExNTAyMCwtNTczMz
+eyJoaXN0b3J5IjpbOTU2ODkzOTgzLDgzMDExNTAyMCwtNTczMz
 I4Nzk2XX0=
 -->
