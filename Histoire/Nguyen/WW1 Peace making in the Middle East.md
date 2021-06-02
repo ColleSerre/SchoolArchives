@@ -21,8 +21,8 @@ There is a NATO base in Turkey that the US depended on, until when they started 
 
 ## The Treaty of Sèvres (August 10, 1920)
 
-After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, Antalia and Adana. They lost Medina, Jerusalem and Mecca which was very disturbing for a muslim state. 
+After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, Syria, Antalia and Adana. They lost Medina, Jerusalem and Mecca which was very disturbing for a Muslim state. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0ODY3ODA0LC05MTMyNDgzMTMsOTU2OD
-kzOTgzLDgzMDExNTAyMCwtNTczMzI4Nzk2XX0=
+eyJoaXN0b3J5IjpbMTYxNDU4Nzg1OCwtOTEzMjQ4MzEzLDk1Nj
+g5Mzk4Myw4MzAxMTUwMjAsLTU3MzMyODc5Nl19
 -->
