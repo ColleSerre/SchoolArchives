@@ -18,7 +18,9 @@ Turkish archives have not been fully opened to researchers, none of these terms 
 **The US Senate & House of Representatives have both recognized the Armenian Genocide. However, the US government refused to recognize the Armenian Genocide for a long time, why ?**
 
 There is a NATO base in Turkey that the US depended on, until when they started to withdraw their troops. 
+
+## The Treaty of Sèvres (August 10, 1920)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2ODkzOTgzLDgzMDExNTAyMCwtNTczMz
-I4Nzk2XX0=
+eyJoaXN0b3J5IjpbMTU0NjM1MDUwNCw5NTY4OTM5ODMsODMwMT
+E1MDIwLC01NzMzMjg3OTZdfQ==
 -->
