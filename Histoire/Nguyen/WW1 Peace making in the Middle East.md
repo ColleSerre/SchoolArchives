@@ -35,9 +35,9 @@ After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, 
 
 ### Synthesis (cf voice memo)
 
-The Treaty of Versailles was more about revenge (debt, acknowledging, demilitarizing). Sèvres installed a form of control of European powers in the Middle East. They both marked the end of empires. They led to the development of nationalism which 
+The Treaty of Versailles was more about revenge (debt, acknowledging, demilitarizing). Sèvres installed a form of control of European powers in the Middle East. They both marked the end of empires. They led to the development of nationalism along with the Great Depression. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Njk1NjY4Miw2NTQ2NTEzNjYsLTM3MT
+eyJoaXN0b3J5IjpbLTUzMDcwNjE1NCw2NTQ2NTEzNjYsLTM3MT
 Q2NDU2MSw3ODE0MTYzMzQsLTE4MjM4OTE3MzMsLTkxMzI0ODMx
 Myw5NTY4OTM5ODMsODMwMTE1MDIwLC01NzMzMjg3OTZdfQ==
 -->
