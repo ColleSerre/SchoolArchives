@@ -20,7 +20,9 @@ Turkish archives have not been fully opened to researchers, none of these terms 
 There is a NATO base in Turkey that the US depended on, until when they started to withdraw their troops. 
 
 ## The Treaty of Sèvres (August 10, 1920)
+
+After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, Antalia and Adana. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjM1MDUwNCw5NTY4OTM5ODMsODMwMT
+eyJoaXN0b3J5IjpbLTkxMzI0ODMxMyw5NTY4OTM5ODMsODMwMT
 E1MDIwLC01NzMzMjg3OTZdfQ==
 -->
