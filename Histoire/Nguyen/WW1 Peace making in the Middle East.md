@@ -29,10 +29,11 @@ After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, 
 	* Ottoman budget controlled by Allies
 	* National debt owned by France, UK and Italy
 	* Freedom of transit imposed + no custom duties !
-* Minorities: projects of Armenian and Kurdish independent States
-* Military restrictions: only 50 000 men ; straits of Bosphorus and Dardanelles are demilitarized 
+* Minorities (Wilson): projects of Armenian and Kurdish independent States
+* Military restrictions: only 50 000 men ; straits of Bosphorus and Dardanelles are demilitarized and under international law (in war and peace times)
+* Territories: creation of Allied spheres of influence (Ottoman administration and economy under Allied control)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM3MjgwNDcsLTE4MjM4OTE3MzMsLT
-kxMzI0ODMxMyw5NTY4OTM5ODMsODMwMTE1MDIwLC01NzMzMjg3
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTQxMzYxNjI4OSwtMTgyMzg5MTczMywtOT
+EzMjQ4MzEzLDk1Njg5Mzk4Myw4MzAxMTUwMjAsLTU3MzMyODc5
+Nl19
 -->
