@@ -22,7 +22,15 @@ There is a NATO base in Turkey that the US depended on, until when they started 
 ## The Treaty of Sèvres (August 10, 1920)
 
 After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, Syria, Antalia and Adana. They lost Medina, Jerusalem and Mecca which was very disturbing for a Muslim state. Istanbul and its surroundings were controlled by the League of Nations as an international zone. This meant that anyone could pass the zone, regardless of the geopolitical situation. This control was the Ottoman's most important leverage. This was also a security hazard because any 
+
+### Terms of the Treaty
+
+* Financial
+	* Ottoman budget controlled by Allies
+	* National debt owned by France, UK and Italy
+	* Freedom of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM4OTE3MzMsLTkxMzI0ODMxMyw5NT
-Y4OTM5ODMsODMwMTE1MDIwLC01NzMzMjg3OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NjY5NTQwNDAsLTE4MjM4OTE3MzMsLT
+kxMzI0ODMxMyw5NTY4OTM5ODMsODMwMTE1MDIwLC01NzMzMjg3
+OTZdfQ==
 -->
