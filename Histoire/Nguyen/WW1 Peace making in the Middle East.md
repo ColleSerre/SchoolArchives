@@ -32,8 +32,12 @@ After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, 
 * Minorities (Wilson): projects of Armenian and Kurdish independent States
 * Military restrictions: only 50 000 men ; straits of Bosphorus and Dardanelles are demilitarized and under international law (in war and peace times) (Wilson)
 * Territories: creation of Allied spheres of influence (Ottoman administration and economy under Allied control)
+
+### Synthesis
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNDE2MzM0LC0xODIzODkxNzMzLC05MT
-MyNDgzMTMsOTU2ODkzOTgzLDgzMDExNTAyMCwtNTczMzI4Nzk2
-XX0=
+eyJoaXN0b3J5IjpbLTM3MTQ2NDU2MSw3ODE0MTYzMzQsLTE4Mj
+M4OTE3MzMsLTkxMzI0ODMxMyw5NTY4OTM5ODMsODMwMTE1MDIw
+LC01NzMzMjg3OTZdfQ==
 -->
