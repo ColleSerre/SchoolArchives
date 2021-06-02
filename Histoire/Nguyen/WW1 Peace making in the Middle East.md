@@ -35,9 +35,9 @@ After the treaty, the Ottoman lands were drastically reduces. They lost Arabia, 
 
 ### Synthesis (cf voice memo)
 
-The Treaty of Versailles was more about revenge (debt, acknowledging, demilitarizing)
+The Treaty of Versailles was more about revenge (debt, acknowledging, demilitarizing). Sèvres installed a form of control of European powers on the Middle East. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NjUxMzY2LC0zNzE0NjQ1NjEsNzgxND
-E2MzM0LC0xODIzODkxNzMzLC05MTMyNDgzMTMsOTU2ODkzOTgz
-LDgzMDExNTAyMCwtNTczMzI4Nzk2XX0=
+eyJoaXN0b3J5IjpbLTE0Mjk4MjE4NjYsNjU0NjUxMzY2LC0zNz
+E0NjQ1NjEsNzgxNDE2MzM0LC0xODIzODkxNzMzLC05MTMyNDgz
+MTMsOTU2ODkzOTgzLDgzMDExNTAyMCwtNTczMzI4Nzk2XX0=
 -->
