@@ -15,10 +15,11 @@ Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mé
 | ------| -----|
 | Tronc cérébral | Selon le Dr Kevin Nelson le tronc cérébral serait responsable des expériences de mort imminente. Or, la consommation de LSD entraine des expériences de mort imminente. (à quote: 1.  _The God Impulse: Is Religion Hardwired into the Brain?_  Kevin Nelson Simon & Schuster, mars 2011.  ([ISBN](https://fr.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1847378316](https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-1847378316 "Spécial:Ouvrages de référence/978-1847378316"))) |
 | Lobe occipital | Étant considéré comme le centre visuel du cerveau et en considérant que, le sujet étant dans le noir complet, les informations perçues devraient être minimes nous pouvons supposer que cette zone perçoit des hallucinations ou des stimuli visuels n'ayant aucune provenance extérieure au sujet. |
-| Le mésencéphale | Cette zone est responsable de l'attention. Son activation justifie le fait que certains employés de la Silicon Valley prennent des microdoses de LSD le matin pour améliorer leur attention. 
+| Le mésencéphale | Cette zone est responsable de l'attention. Son activation justifie le fait que certains employés de la Silicon Valley prennent des microdoses de LSD le matin pour améliorer leur attention. (à citer: https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/dans-la-silicon-valley-dopes-au-lsd-pour-mieux-travailler_2990597.html)|
+| 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODIyNjA2MSwtNzIyNzg5NzczLC0xNj
-YzMjkzOTc2LDE0MTgwNjU2NDEsMTUxODU5NDE3M119
+eyJoaXN0b3J5IjpbLTE5Nzg0ODE4NjAsLTcyMjc4OTc3MywtMT
+Y2MzI5Mzk3NiwxNDE4MDY1NjQxLDE1MTg1OTQxNzNdfQ==
 -->
