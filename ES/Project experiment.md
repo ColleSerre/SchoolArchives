@@ -9,8 +9,8 @@ Notre expérience a pris la forme d'une IRM virtuelle sur un site internet. Grâ
 | Nominale et dépendante | Zones du cerveau en surbrillance sur l'IRM virtuelle |
 | Contrôle | Le sujet et dans un environnement noir et silencieux |
 
-Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mésencéphale, les Corps géniculés latéraux, l'hippocampe et le thalamus 
+Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mésencéphale, les Corps géniculés latéraux, l'hippocampe et le thalamus sont 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTE5ODkzOCwxNDE4MDY1NjQxLDE1MT
-g1OTQxNzNdfQ==
+eyJoaXN0b3J5IjpbNjc0NDA4OTQ0LDE0MTgwNjU2NDEsMTUxOD
+U5NDE3M119
 -->
