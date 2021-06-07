@@ -19,7 +19,7 @@ l'esclave de mes espoirs. C'est donc après cette introduction, cette
 mise en bouche et en contexte que je vous présente mon pire défaut : mes
 espoirs.
 
-
+Développement 
 ----
 
 Je suis beau n'est-ce pas ? Comment ça non ? C'est pourtant comme ça que
@@ -49,5 +49,5 @@ sauveur, désir de puissance, mort d'un animal de compagnie durant
 l'enfance ? Tout est possible ! Et pourtant rien n'est sûr, à l'image de
 nos vies.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzExMTg5Nl19
+eyJoaXN0b3J5IjpbNjc3ODQ3MzE2XX0=
 -->
