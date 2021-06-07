@@ -44,9 +44,9 @@ L'utilisation du verbe cuire est important, le poète aurait pu employer le verb
 Strophe 4 :
 Cette scène est réaliste car la description que nous fait Baudelaire fait appel à la vue mais aussi à l'odorat. Le ton du vers 16 est ironique et produit un effet original pour l’époque : la mort n'est pas prise au sérieux par l’auteur.
 
-Strophe 4 :
+Strophe 4  :
 
-Strophes 5 6 & 7 : 
+Strophes 5 6 & 7  : 
 Ces strophes décrivent toute l’activité et le mouvement autour du corps putride de la charogne. Les procédés exprimant le mouvement: "les mouches bourdonnaient" (le b et le r reproduisent le bourdonnement), "d'où sortaient de noirs bataillons" (champ lexical de la guerre => épique), "coulaient comme un épais liquide" (comparaison avec un fluide un mouvement constant et lent), "vivants haillons"
 
 Le chien veut reprendre la charogne, Baudelaire dit ensuite que sa bien aimée ressemblera un jour à cette charogne et que comme le chien la nature viendra la reprendre. Le chien représente la nature. Il lui propose donc de dire au charognard qui la mangera que sa mémoire est toujours vivante ??
@@ -105,5 +105,5 @@ Cette référence à l’art font prévaloir la prédominance de l’art sur la 
 
  Grâce à l’alchimie poétique, et en toute immodestie, le poète transcende la mort. Ne joue-t-il d’ailleurs pas implicitement sur l’homophonie entre les vers dévoreurs du cadavre et ses propres vers ? Entre memento mori et déclaration d’amour, entre cynisme et lyrisme, Baudelaire ne cesse de procéder par ruptures de ton et par retours, mouvements de va-et-vient entre la description et le discours, la réalité et sa sublimation, tenant le lecteur en haleine. Baudelaire transforme la femme aimée avec une cruauté particulière.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNjI1MjcxXX0=
+eyJoaXN0b3J5IjpbMTE1MjY0NDI1OSw4NzA2MjUyNzFdfQ==
 -->
