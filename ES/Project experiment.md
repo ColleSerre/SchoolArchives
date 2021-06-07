@@ -9,8 +9,8 @@ Notre expérience a pris la forme d'une IRM virtuelle sur un site internet. Grâ
 | Nominale et dépendante | Zones du cerveau en surbrillance sur l'IRM virtuelle |
 | Contrôle | Le sujet et dans un environnement noir et silencieux |
 
-Nos résultats sont les suivants
+Nos résultats sont les suivants: le tronc cérébral, le **Lobe occipita**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg2NzAwMTEsMTQxODA2NTY0MSwxNT
-E4NTk0MTczXX0=
+eyJoaXN0b3J5IjpbMTQzNDY0ODUzLDE0MTgwNjU2NDEsMTUxOD
+U5NDE3M119
 -->
