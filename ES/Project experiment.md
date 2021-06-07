@@ -5,8 +5,8 @@ Notre expérience a pris la forme d'une IRM virtuelle sur un site internet. Grâ
 
 | Type de variable | Définition |
 | ------ | -------- |
-| 
+| Indépendante | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2MzM1MDk2LDE0MTgwNjU2NDEsMTUxOD
-U5NDE3M119
+eyJoaXN0b3J5IjpbLTE1NzcxNjA5ODEsMTQxODA2NTY0MSwxNT
+E4NTk0MTczXX0=
 -->
