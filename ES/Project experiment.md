@@ -5,8 +5,9 @@ Notre expérience a pris la forme d'une IRM virtuelle sur un site internet. Grâ
 
 | Type de variable | Définition |
 | ------ | -------- |
-| Indépendante | 
+| Binaire et indépendante | Consommation de LSD |
+|  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcxNjA5ODEsMTQxODA2NTY0MSwxNT
-E4NTk0MTczXX0=
+eyJoaXN0b3J5IjpbMTY4MjgxMzYxOSwxNDE4MDY1NjQxLDE1MT
+g1OTQxNzNdfQ==
 -->
