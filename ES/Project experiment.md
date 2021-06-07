@@ -6,8 +6,9 @@ Notre expérience a pris la forme d'une IRM virtuelle sur un site internet. Grâ
 | Type de variable | Définition |
 | ------ | -------- |
 | Binaire et indépendante | Consommation de LSD |
-|  
+| Nominale et dépendante | Zones du cerveau en surbrillance sur l'IRM virtuelle |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjgxMzYxOSwxNDE4MDY1NjQxLDE1MT
+eyJoaXN0b3J5IjpbMTU2MzY3NjEwMCwxNDE4MDY1NjQxLDE1MT
 g1OTQxNzNdfQ==
 -->
