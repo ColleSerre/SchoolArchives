@@ -7,8 +7,10 @@ Notre expérience a pris la forme d'une IRM virtuelle sur un site internet. Grâ
 | ------ | -------- |
 | Binaire et indépendante | Consommation de LSD |
 | Nominale et dépendante | Zones du cerveau en surbrillance sur l'IRM virtuelle |
-| Contrôle | 
+| Contrôle | Le sujet et dans un environnement noir et silencieux |
+
+Nos résultats sont les suivants
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQwNjgyMjcsMTQxODA2NTY0MSwxNT
+eyJoaXN0b3J5IjpbLTEwNjg2NzAwMTEsMTQxODA2NTY0MSwxNT
 E4NTk0MTczXX0=
 -->
