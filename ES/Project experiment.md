@@ -13,9 +13,9 @@ Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mé
 
 | Zone | Rôle |
 | ------| -----|
-| Tronc cérébral | Selon le Dr Kevin Nelson, 
+| Tronc cérébral | Selon le Dr Kevin Nelson le tronc cérébral serait responsable des expériences de mort imminente. Or, la consommation de LSD entraine des expériences de mort imm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NDc5MzM3LDE0MTgwNjU2NDEsMTUxOD
+eyJoaXN0b3J5IjpbMzUyNjM1NjkyLDE0MTgwNjU2NDEsMTUxOD
 U5NDE3M119
 -->
