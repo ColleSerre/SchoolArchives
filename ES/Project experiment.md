@@ -13,9 +13,9 @@ Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mé
 
 | Zone | Rôle |
 | ------| -----|
-| Tronc cérébral | 
+| Tronc cérébral | Selon le Dr Kevin Nelson, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzY4MTQ5LDE0MTgwNjU2NDEsMTUxOD
+eyJoaXN0b3J5IjpbNzE0NDc5MzM3LDE0MTgwNjU2NDEsMTUxOD
 U5NDE3M119
 -->
