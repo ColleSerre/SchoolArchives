@@ -9,8 +9,10 @@ Notre expérience a pris la forme d'une IRM virtuelle sur un site internet. Grâ
 | Nominale et dépendante | Zones du cerveau en surbrillance sur l'IRM virtuelle |
 | Contrôle | Le sujet et dans un environnement noir et silencieux |
 
-Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mésencéphale, les Corps géniculés latéraux, l'hippocampe et le thalamus sont 
+Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mésencéphale, les Corps géniculés latéraux, l'hippocampe et le thalamus sont plus actifs qu'à la moyenne durant la consommation de LSD. Nous avons, par la suite, tenté de comprendre en quoi ces zones étaient liées à la consommation de LSD et en avons obtenu le tableau suivant: 
+
+| Zone | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NDA4OTQ0LDE0MTgwNjU2NDEsMTUxOD
-U5NDE3M119
+eyJoaXN0b3J5IjpbLTE4MTAzNjcwNDUsMTQxODA2NTY0MSwxNT
+E4NTk0MTczXX0=
 -->
