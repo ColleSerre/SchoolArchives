@@ -17,9 +17,9 @@ Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mé
 | Lobe occipital et les corps géniculés latéraux| Ces deux zones jouent un rôle considérable dans le traitement des informations visuelles. Or, en considérant que, le sujet étant dans le noir complet, les informations perçues devraient être minimes nous pouvons supposer que ces zones perçoivent des hallucinations ou des stimuli visuels n'ayant aucune provenance extérieure au sujet. |
 | Le mésencéphale | Cette zone est responsable de l'attention. Son activation justifie le fait que certains employés de la Silicon Valley prennent des microdoses de LSD le matin pour améliorer leur attention. (à citer: https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/dans-la-silicon-valley-dopes-au-lsd-pour-mieux-travailler_2990597.html)|
 
-
+Cependant, aucune de ces zones ne semblent jouer dans 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQwNTEwNzcsLTE5Nzg0ODE4NjAsLT
-cyMjc4OTc3MywtMTY2MzI5Mzk3NiwxNDE4MDY1NjQxLDE1MTg1
-OTQxNzNdfQ==
+eyJoaXN0b3J5IjpbNTg5NDI4MjU5LC0xMjM0MDUxMDc3LC0xOT
+c4NDgxODYwLC03MjI3ODk3NzMsLTE2NjMyOTM5NzYsMTQxODA2
+NTY0MSwxNTE4NTk0MTczXX0=
 -->
