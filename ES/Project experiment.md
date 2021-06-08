@@ -17,9 +17,9 @@ Nos résultats sont les suivants: le tronc cérébral, le lobe occipital, le Mé
 | Lobe occipital et les corps géniculés latéraux| Ces deux zones jouent un rôle considérable dans le traitement des informations visuelles. Or, en considérant que, le sujet étant dans le noir complet, les informations perçues devraient être minimes nous pouvons supposer que ces zones perçoivent des hallucinations ou des stimuli visuels n'ayant aucune provenance extérieure au sujet. |
 | Le mésencéphale | Cette zone est responsable de l'attention. Son activation justifie le fait que certains employés de la Silicon Valley prennent des microdoses de LSD le matin pour améliorer leur attention. (à citer: https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/dans-la-silicon-valley-dopes-au-lsd-pour-mieux-travailler_2990597.html)|
 
-Cependant, aucune de ces zones ne semblent jouer un rôle dans une potentielle dépendance, qui découle d'un dérèglement du circuit de la récompense. Après de nouvelles recherches nous avons constaté que malgré ces effets psychotropes, le LSD n'influe
+Cependant, aucune de ces zones ne semblent jouer un rôle dans une potentielle dépendance, qui découle d'un dérèglement du circuit de la récompense. Après de nouvelles recherches nous avons constaté que malgré ces effets psychotropes, le LSD n'influe pas sur la production de sérotonine mais sur les synapses 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDgzNjQ5NCwtMTIzNDA1MTA3NywtMT
-k3ODQ4MTg2MCwtNzIyNzg5NzczLC0xNjYzMjkzOTc2LDE0MTgw
-NjU2NDEsMTUxODU5NDE3M119
+eyJoaXN0b3J5IjpbLTIwODAyNDQ4MDMsLTEyMzQwNTEwNzcsLT
+E5Nzg0ODE4NjAsLTcyMjc4OTc3MywtMTY2MzI5Mzk3NiwxNDE4
+MDY1NjQxLDE1MTg1OTQxNzNdfQ==
 -->
