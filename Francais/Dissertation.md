@@ -6,10 +6,11 @@ Sujet: Le sens d'une pièce de théâtre et le plaisir qu'elle nous donne repose
 Plan:
 
 1. Les mots d'une pièce de théâtre en sont les fondements 
-2. Cependant, l'interprétation du metteur en scène et des acteurs changent
+	1.  
+2. Cependant, l'interprétation du metteur en scène et des acteurs changent les perceptions du public
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwODI2Mjc2LDIwMDY4NDc5NzIsLTExMD
-A4MjU1NjIsMTM2NjUxNTQ2Nl19
+eyJoaXN0b3J5IjpbMTI2MDI4MzA2OSwyMDA2ODQ3OTcyLC0xMT
+AwODI1NTYyLDEzNjY1MTU0NjZdfQ==
 -->
