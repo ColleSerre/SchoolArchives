@@ -190,7 +190,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Le capitalisme a tendance à détruire les deux choses qui font sa richesse: les êtres humains et la nature - Karl Marx
 * And, you know, there's no such thing as society. There are individual men and women and there are families. And no government can do anything except through people, and people must look after themselves first. - Margaret Thatcher
 * Reinhard Höhn, brillant juriste, apologiste du droit nazi, général SS à la fin de la guerre et qui, en 1956, à la demande du patronat allemand, crée la plus prestigieuse école de management de la jeune République Fédérale d’Allemagne. Installée à Bad Harzburg, une ville thermale de la Basse-Saxe, l’Académie des Cadres  formera plus de 500 000 étudiants et Höhn, enseignant vedette et auteur de best-sellers, deviendra le gourou du management à l’allemande.
-* La SS alimentait le secteur privé allemand d'une main d'oeuvre quasi-gratuite. Après la guerre, ces services rendus ne seront pas oubliés et les dignitaires et responsables SS, notamment dans la SD (le service des reseignements) qui était présent dans la police, à l'université, dans la diplomatie, dans le privé 
+* La SS alimentait le secteur privé allemand d'une main d'oeuvre quasi-gratuite. Après la guerre, ces services rendus ne seront pas oubliés et les dignitaires et responsables SS. La SD (le service des reseignements) qui était présente dans la police, à l'université, dans la diplomatie, dans le privé (pour leurs activités de renseignements) a bénéficié de son réseau (une forme de pantouflage) lorsque les *Altekamaraden* (les nazis en difficulté à la fin de la guerre) ont eu beo
 
 ### Apparences vs Réalité
 
@@ -396,11 +396,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMDI2NDU1LC0xODczMTY5MjM2LDE2OD
-U5NDAxMTUsLTE0MjI3ODc1MDIsLTg4OTI5MTU1MSwxMTA3OTcy
-MzMsLTEzMDEyODY0OTYsMTk5MTY4NzAzNSw0NzM2MTgxNzgsNz
-c4MDg4NTUyLC0xMDczMTE5NTQ2LDE0MTQxMjExMjYsLTE5MjQ0
-NDQzOTcsLTM3ODAyNjI2MCwtMTUzMjg2NjA1MCwtOTYyNDg2OT
-EyLC00NTE2MDU0OCwxNjg2MTE1NzUxLDE4MjAzODExMTIsLTIw
-ODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTc4MjIyMjY4NywtMTg3MzE2OTIzNiwxNj
+g1OTQwMTE1LC0xNDIyNzg3NTAyLC04ODkyOTE1NTEsMTEwNzk3
+MjMzLC0xMzAxMjg2NDk2LDE5OTE2ODcwMzUsNDczNjE4MTc4LD
+c3ODA4ODU1MiwtMTA3MzExOTU0NiwxNDE0MTIxMTI2LC0xOTI0
+NDQ0Mzk3LC0zNzgwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4Nj
+kxMiwtNDUxNjA1NDgsMTY4NjExNTc1MSwxODIwMzgxMTEyLC0y
+MDg4NzQ2NjEyXX0=
 -->
