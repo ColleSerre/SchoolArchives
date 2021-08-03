@@ -182,7 +182,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Pour Goëte, l'ère moderne commence avec la déclaration des droits de l'homme car elle est la première fois que les citoyens ont proclamé un droit pour tous les Hommes du monde et par que pour les français. 
 * Mieux vaut perdre une élection que perdre son âme - Michel Noir, député/maire de droite sur sa stratégie vis à vis de l'extrème droite. 
 
-### Capitalisme/néo-libéralisme
+### Capitalisme/libéralisme
 
 * Wall Street: marché aux esclaves au départ
 * HSBC: banque des marchants d'opium en chine
@@ -394,11 +394,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTk0MDExNSwtMTQyMjc4NzUwMiwtOD
-g5MjkxNTUxLDExMDc5NzIzMywtMTMwMTI4NjQ5NiwxOTkxNjg3
-MDM1LDQ3MzYxODE3OCw3NzgwODg1NTIsLTEwNzMxMTk1NDYsMT
-QxNDEyMTEyNiwtMTkyNDQ0NDM5NywtMzc4MDI2MjYwLC0xNTMy
-ODY2MDUwLC05NjI0ODY5MTIsLTQ1MTYwNTQ4LDE2ODYxMTU3NT
-EsMTgyMDM4MTExMiwtMjA4ODc0NjYxMiwxODc0MzQxOTU0LC02
-NzA5OTk0ODZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzAwMTQ4NTQsMTY4NTk0MDExNSwtMT
+QyMjc4NzUwMiwtODg5MjkxNTUxLDExMDc5NzIzMywtMTMwMTI4
+NjQ5NiwxOTkxNjg3MDM1LDQ3MzYxODE3OCw3NzgwODg1NTIsLT
+EwNzMxMTk1NDYsMTQxNDEyMTEyNiwtMTkyNDQ0NDM5NywtMzc4
+MDI2MjYwLC0xNTMyODY2MDUwLC05NjI0ODY5MTIsLTQ1MTYwNT
+Q4LDE2ODYxMTU3NTEsMTgyMDM4MTExMiwtMjA4ODc0NjYxMiwx
+ODc0MzQxOTU0XX0=
 -->
