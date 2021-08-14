@@ -191,6 +191,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * And, you know, there's no such thing as society. There are individual men and women and there are families. And no government can do anything except through people, and people must look after themselves first. - Margaret Thatcher
 * Reinhard Höhn, brillant juriste, apologiste du droit nazi, général SS à la fin de la guerre et qui, en 1956, à la demande du patronat allemand, crée la plus prestigieuse école de management de la jeune République Fédérale d’Allemagne. Installée à Bad Harzburg, une ville thermale de la Basse-Saxe, l’Académie des Cadres  formera plus de 500 000 étudiants et Höhn, enseignant vedette et auteur de best-sellers, deviendra le gourou du management à l’allemande.
 * La SS alimentait le secteur privé allemand d'une main d'oeuvre quasi-gratuite. Après la guerre, ces services rendus ne seront pas oubliés et les dignitaires et responsables SS. La SD (le service des reseignements) qui était présente dans la police, à l'université, dans la diplomatie, dans le privé (pour leurs activités de renseignements) a bénéficié de son réseau (une forme de pantouflage) lorsque les *Altekamaraden* (les nazis en difficulté à la fin de la guerre) ont eu besoin de se reconvertir. 
+* Nous nous rapprochons maintenant à pas rapides d'un stade de développement de la production dans lequel l'existence de ces classes a non seulement cessé d'être une nécessité, mais 
 
 ### Apparences vs Réalité
 
@@ -396,11 +397,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3OTM3NTI1LC0xODczMTY5MjM2LDE2OD
-U5NDAxMTUsLTE0MjI3ODc1MDIsLTg4OTI5MTU1MSwxMTA3OTcy
-MzMsLTEzMDEyODY0OTYsMTk5MTY4NzAzNSw0NzM2MTgxNzgsNz
-c4MDg4NTUyLC0xMDczMTE5NTQ2LDE0MTQxMjExMjYsLTE5MjQ0
-NDQzOTcsLTM3ODAyNjI2MCwtMTUzMjg2NjA1MCwtOTYyNDg2OT
-EyLC00NTE2MDU0OCwxNjg2MTE1NzUxLDE4MjAzODExMTIsLTIw
-ODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMzQ2NjQ3Myw3OTc5Mzc1MjUsLTE4Nz
+MxNjkyMzYsMTY4NTk0MDExNSwtMTQyMjc4NzUwMiwtODg5Mjkx
+NTUxLDExMDc5NzIzMywtMTMwMTI4NjQ5NiwxOTkxNjg3MDM1LD
+Q3MzYxODE3OCw3NzgwODg1NTIsLTEwNzMxMTk1NDYsMTQxNDEy
+MTEyNiwtMTkyNDQ0NDM5NywtMzc4MDI2MjYwLC0xNTMyODY2MD
+UwLC05NjI0ODY5MTIsLTQ1MTYwNTQ4LDE2ODYxMTU3NTEsMTgy
+MDM4MTExMl19
 -->
