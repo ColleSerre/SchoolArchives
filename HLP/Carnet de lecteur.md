@@ -193,6 +193,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * La SS alimentait le secteur privé allemand d'une main d'oeuvre quasi-gratuite. Après la guerre, ces services rendus ne seront pas oubliés et les dignitaires et responsables SS. La SD (le service des reseignements) qui était présente dans la police, à l'université, dans la diplomatie, dans le privé (pour leurs activités de renseignements) a bénéficié de son réseau (une forme de pantouflage) lorsque les *Altekamaraden* (les nazis en difficulté à la fin de la guerre) ont eu besoin de se reconvertir. 
 * Nous nous rapprochons maintenant à pas rapides d'un stade de développement de la production dans lequel l'existence de ces classes a non seulement cessé d'être une nécessité, mais devient un obstacle direct à la production. Ces classes disparaîtront aussi inévitablement qu'elles
 sont apparues autrefois. L'État disparaîtra inévitablement avec la disparition des classes. La societé,qui organisera d'une manière nouvelle la production sur la base d'une association libre et égalitaire des producteurs, reléguera toute la machine de l'État là où sera dorénavant sa véritable place: au musée des Antiquités, à côté du rouet et de la hache de bronze.» - Engels 
+* C’est quand le monde sera en feu qu’ils se rendront compte que l’argent ne se mange pas. - Geronimo
 
 ### Apparences vs Réalité
 
@@ -398,11 +399,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk0OTQ1MSw3OTc5Mzc1MjUsLTE4Nz
-MxNjkyMzYsMTY4NTk0MDExNSwtMTQyMjc4NzUwMiwtODg5Mjkx
-NTUxLDExMDc5NzIzMywtMTMwMTI4NjQ5NiwxOTkxNjg3MDM1LD
-Q3MzYxODE3OCw3NzgwODg1NTIsLTEwNzMxMTk1NDYsMTQxNDEy
-MTEyNiwtMTkyNDQ0NDM5NywtMzc4MDI2MjYwLC0xNTMyODY2MD
-UwLC05NjI0ODY5MTIsLTQ1MTYwNTQ4LDE2ODYxMTU3NTEsMTgy
-MDM4MTExMl19
+eyJoaXN0b3J5IjpbMjAzNjQ4ODg5NCwtMTk2OTQ5NDUxLDc5Nz
+kzNzUyNSwtMTg3MzE2OTIzNiwxNjg1OTQwMTE1LC0xNDIyNzg3
+NTAyLC04ODkyOTE1NTEsMTEwNzk3MjMzLC0xMzAxMjg2NDk2LD
+E5OTE2ODcwMzUsNDczNjE4MTc4LDc3ODA4ODU1MiwtMTA3MzEx
+OTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC0zNzgwMjYyNj
+AsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwtNDUxNjA1NDgsMTY4
+NjExNTc1MV19
 -->
