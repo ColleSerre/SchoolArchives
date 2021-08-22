@@ -192,7 +192,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Reinhard Höhn, brillant juriste, apologiste du droit nazi, général SS à la fin de la guerre et qui, en 1956, à la demande du patronat allemand, crée la plus prestigieuse école de management de la jeune République Fédérale d’Allemagne. Installée à Bad Harzburg, une ville thermale de la Basse-Saxe, l’Académie des Cadres  formera plus de 500 000 étudiants et Höhn, enseignant vedette et auteur de best-sellers, deviendra le gourou du management à l’allemande.
 * La SS alimentait le secteur privé allemand d'une main d'oeuvre quasi-gratuite. Après la guerre, ces services rendus ne seront pas oubliés et les dignitaires et responsables SS. La SD (le service des reseignements) qui était présente dans la police, à l'université, dans la diplomatie, dans le privé (pour leurs activités de renseignements) a bénéficié de son réseau (une forme de pantouflage) lorsque les *Altekamaraden* (les nazis en difficulté à la fin de la guerre) ont eu besoin de se reconvertir. 
 * Nous nous rapprochons maintenant à pas rapides d'un stade de développement de la production dans lequel l'existence de ces classes a non seulement cessé d'être une nécessité, mais devient un obstacle direct à la production. Ces classes disparaîtront aussi inévitablement qu'elles sont apparues autrefois. L'État disparaîtra inévitablement avec la disparition des classes. La societé,qui organisera d'une manière nouvelle la production sur la base d'une association libre et égalitaire des producteurs, reléguera toute la machine de l'État là où sera dorénavant sa véritable place: au musée des Antiquités, à côté du rouet et de la hache de bronze. - Engels 
-* uand le dernie arbre aura été abattu, Quand la dernière rivière aura été empoisonnée, Quand le dernier poisson aura été péché. Alors on saura que l’'argent ne se mange pas. - Geronimo
+* Quand le dernier arbre aura été abattu, Quand la dernière rivière aura été empoisonnée, Quand le dernier poisson aura été péché. Alors on saura que l’'argent ne se mange pas. - Geronimo
 
 ### Apparences vs Réalité
 
@@ -398,7 +398,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjgyNzk4NywtOTc0MTk2NjgzLC0xOT
+eyJoaXN0b3J5IjpbMTg5MzMxNzc3NiwtOTc0MTk2NjgzLC0xOT
 Y5NDk0NTEsNzk3OTM3NTI1LC0xODczMTY5MjM2LDE2ODU5NDAx
 MTUsLTE0MjI3ODc1MDIsLTg4OTI5MTU1MSwxMTA3OTcyMzMsLT
 EzMDEyODY0OTYsMTk5MTY4NzAzNSw0NzM2MTgxNzgsNzc4MDg4
