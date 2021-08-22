@@ -193,7 +193,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * La SS alimentait le secteur privé allemand d'une main d'oeuvre quasi-gratuite. Après la guerre, ces services rendus ne seront pas oubliés et les dignitaires et responsables SS. La SD (le service des reseignements) qui était présente dans la police, à l'université, dans la diplomatie, dans le privé (pour leurs activités de renseignements) a bénéficié de son réseau (une forme de pantouflage) lorsque les *Altekamaraden* (les nazis en difficulté à la fin de la guerre) ont eu besoin de se reconvertir. 
 * Nous nous rapprochons maintenant à pas rapides d'un stade de développement de la production dans lequel l'existence de ces classes a non seulement cessé d'être une nécessité, mais devient un obstacle direct à la production. Ces classes disparaîtront aussi inévitablement qu'elles sont apparues autrefois. L'État disparaîtra inévitablement avec la disparition des classes. La societé,qui organisera d'une manière nouvelle la production sur la base d'une association libre et égalitaire des producteurs, reléguera toute la machine de l'État là où sera dorénavant sa véritable place: au musée des Antiquités, à côté du rouet et de la hache de bronze. - Engels 
 * Quand le dernier arbre aura été abattu, Quand la dernière rivière aura été empoisonnée, Quand le dernier poisson aura été péché. Alors on saura que l’'argent ne se mange pas. - Geronimo
-* 
+*  
 
 ### Apparences vs Réalité
 
@@ -399,11 +399,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODUwNDY0OCwtOTc0MTk2NjgzLC0xOT
-Y5NDk0NTEsNzk3OTM3NTI1LC0xODczMTY5MjM2LDE2ODU5NDAx
-MTUsLTE0MjI3ODc1MDIsLTg4OTI5MTU1MSwxMTA3OTcyMzMsLT
-EzMDEyODY0OTYsMTk5MTY4NzAzNSw0NzM2MTgxNzgsNzc4MDg4
-NTUyLC0xMDczMTE5NTQ2LDE0MTQxMjExMjYsLTE5MjQ0NDQzOT
-csLTM3ODAyNjI2MCwtMTUzMjg2NjA1MCwtOTYyNDg2OTEyLC00
-NTE2MDU0OF19
+eyJoaXN0b3J5IjpbLTEzOTY1OTc3ODIsLTk3NDE5NjY4MywtMT
+k2OTQ5NDUxLDc5NzkzNzUyNSwtMTg3MzE2OTIzNiwxNjg1OTQw
+MTE1LC0xNDIyNzg3NTAyLC04ODkyOTE1NTEsMTEwNzk3MjMzLC
+0xMzAxMjg2NDk2LDE5OTE2ODcwMzUsNDczNjE4MTc4LDc3ODA4
+ODU1MiwtMTA3MzExOTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mz
+k3LC0zNzgwMjYyNjAsLTE1MzI4NjYwNTAsLTk2MjQ4NjkxMiwt
+NDUxNjA1NDhdfQ==
 -->
