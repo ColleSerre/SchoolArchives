@@ -194,6 +194,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Nous nous rapprochons maintenant à pas rapides d'un stade de développement de la production dans lequel l'existence de ces classes a non seulement cessé d'être une nécessité, mais devient un obstacle direct à la production. Ces classes disparaîtront aussi inévitablement qu'elles sont apparues autrefois. L'État disparaîtra inévitablement avec la disparition des classes. La societé,qui organisera d'une manière nouvelle la production sur la base d'une association libre et égalitaire des producteurs, reléguera toute la machine de l'État là où sera dorénavant sa véritable place: au musée des Antiquités, à côté du rouet et de la hache de bronze. - Engels 
 * Quand le dernier arbre aura été abattu, Quand la dernière rivière aura été empoisonnée, Quand le dernier poisson aura été péché. Alors on saura que l’'argent ne se mange pas. - Geronimo
 * Le vieux monde se meurt, le nouveau est lent à apparaître, et c'est dans ce clair-obscur que surgissent les monstres. - Gramsci
+* Les philosophes n'ont fait qu'interpréter diversement le monde, ce qui importe, c'est de le changer. - Marx
 
 ### Apparences vs Réalité
 
@@ -399,11 +400,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzgzNDA0LC05NzQxOTY2ODMsLTE5Nj
-k0OTQ1MSw3OTc5Mzc1MjUsLTE4NzMxNjkyMzYsMTY4NTk0MDEx
-NSwtMTQyMjc4NzUwMiwtODg5MjkxNTUxLDExMDc5NzIzMywtMT
-MwMTI4NjQ5NiwxOTkxNjg3MDM1LDQ3MzYxODE3OCw3NzgwODg1
-NTIsLTEwNzMxMTk1NDYsMTQxNDEyMTEyNiwtMTkyNDQ0NDM5Ny
-wtMzc4MDI2MjYwLC0xNTMyODY2MDUwLC05NjI0ODY5MTIsLTQ1
-MTYwNTQ4XX0=
+eyJoaXN0b3J5IjpbMTk2NjI1MTQ1NywyMDIzODM0MDQsLTk3ND
+E5NjY4MywtMTk2OTQ5NDUxLDc5NzkzNzUyNSwtMTg3MzE2OTIz
+NiwxNjg1OTQwMTE1LC0xNDIyNzg3NTAyLC04ODkyOTE1NTEsMT
+EwNzk3MjMzLC0xMzAxMjg2NDk2LDE5OTE2ODcwMzUsNDczNjE4
+MTc4LDc3ODA4ODU1MiwtMTA3MzExOTU0NiwxNDE0MTIxMTI2LC
+0xOTI0NDQ0Mzk3LC0zNzgwMjYyNjAsLTE1MzI4NjYwNTAsLTk2
+MjQ4NjkxMl19
 -->
