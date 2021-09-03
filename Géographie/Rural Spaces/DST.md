@@ -1,7 +1,0 @@
-# Geography DST (Daren Palmer)
-
----
-
-
-
-
