@@ -5,9 +5,9 @@
 
 ### 1 - Un système climatique complexe
 
-Activité: Rédaction de 
+Activité: Rédaction d'un article
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTIyMTA0NSwxMjM2MTcxNzEwXX0=
+eyJoaXN0b3J5IjpbMTE4NDIyMTEyNiwxMjM2MTcxNzEwXX0=
 -->
