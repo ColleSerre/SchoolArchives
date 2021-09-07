@@ -24,7 +24,14 @@
 | die Bewegung | le mouvement |
 | laufen | courir |
 | springen | sauter |
-| der Migrationshintergrund | l'
+| der Migrationshintergrund | l'origine migratoire |
+| Kletten | grimper |
+| der Schnee | la neige |
+| das Eis | la glace |
+| der Erfolg | le succès |
+| der Triumph | Le triomphe |
+| der Sieg | la victoire |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ0NTAxNzldfQ==
+eyJoaXN0b3J5IjpbLTEzMzEwODM1NjZdfQ==
 -->
