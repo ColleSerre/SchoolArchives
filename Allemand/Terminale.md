@@ -31,7 +31,12 @@
 | der Erfolg | le succès |
 | der Triumph | Le triomphe |
 | der Sieg | la victoire |
+| jubeln | jubiler |
+| bejubelt werden | être acclamé |
+| das Angebot | l'offre/choix |
+| sich engagieren | s'engager |
+| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEwODM1NjZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDA3NDE2MjRdfQ==
 -->
