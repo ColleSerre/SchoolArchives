@@ -15,7 +15,8 @@
 |  die Gesellschaft | la société |
 | die Rede | Le discours |
 | sich orientieren | s'orienter |
-| 
+| der Sportler | Un sportif |
+| das Turmen | le gym
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODk1MTkxM119
+eyJoaXN0b3J5IjpbODIxNzgyOTU2XX0=
 -->
