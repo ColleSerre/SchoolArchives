@@ -16,7 +16,11 @@
 | die Rede | Le discours |
 | sich orientieren | s'orienter |
 | der Sportler | Un sportif |
-| das Turmen | le gym
+| das Tumen | La gymnastique |
+| der Verein | le club |
+| der Sportplate | Le terrain de sport |
+| die Halle | La salle de sport |
+| das stedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNzgyOTU2XX0=
+eyJoaXN0b3J5IjpbLTgxOTEwMjY3Nl19
 -->
