@@ -11,7 +11,11 @@
 | das Impfen | La vaccination | 
 | das Gefängnis | La prison |
 | die Haft | Une peine d'emprisonnement | 
-| die 
+| die Schule | L'école |
+|  die Gesellschaft | la société |
+| die Rede | Le discours |
+| sich orientieren | s'orienter |
+| 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjY4NTUwNF19
+eyJoaXN0b3J5IjpbMTgzODk1MTkxM119
 -->
