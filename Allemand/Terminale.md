@@ -18,9 +18,13 @@
 | der Sportler | Un sportif |
 | das Tumen | La gymnastique |
 | der Verein | le club |
-| der Sportplate | Le terrain de sport |
+| der Sportplatz | Le terrain de sport |
 | die Halle | La salle de sport |
-| das stedien
+| das Stadium | le stade |
+| die Bewegung | le mouvement |
+| laufen | courir |
+| springen | sauter |
+| der Migrationshintergrund | l'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTEwMjY3Nl19
+eyJoaXN0b3J5IjpbLTEzNTQ0NTAxNzldfQ==
 -->
