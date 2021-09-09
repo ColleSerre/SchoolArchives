@@ -30,10 +30,14 @@ Mass production of cars allows them to be more accessible to the masses. People 
 	
 ![](https://lh6.googleusercontent.com/GypslUh35T2pOiejGK2wvlxLjjmzpj6IK4NbSLHYsRcNsHzctjSzT5ltiAsSYMDuwDqBlsWFrGTvr4ag-IPUEWemTST6cGKgVSw9-F1fQMUvblQjF62DnY7Ze4WC1ZUlAGdYeC-bBRk=s0)
 
-The perceived health of the stock market is high, which led to a massive increase in the number of shares being traded 
+The perceived health of the stock market is high, which led to a massive increase in the number of shares being traded. 
+
+``The stock market hysteria reached its apex that year [1929]... Everyone was playing the market... On my last day in New York, I went down to the barber. As he removed the sheet he said softly, 'Buy Standard Gas. I've doubled . . . It’s good for another double. ' As I walked upstairs, I suspected that if the hysteria had reached the barber level, something must soon happen.``
+
+Cecil Roberts, The Bright Twenties, 1938.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg0MjAyODgsLTEzNDE3MjYwNjIsMz
-A1MzUwMzY5LDU0NjYzNDY2MiwtMTE0NjM3NzU4OCw5NTM2OTc5
-OTAsLTg1NDcwMTEzNiwtNDE5NDk0MzY1LC0yMDE5NDAyNDc3LC
-0xNTgxOTQ0MTkxXX0=
+eyJoaXN0b3J5IjpbLTY5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMD
+UzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5
+MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLT
+E1ODE5NDQxOTFdfQ==
 -->
