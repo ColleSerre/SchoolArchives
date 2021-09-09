@@ -27,12 +27,12 @@ Mass production of cars allows them to be more accessible to the masses. People 
 	* What is speculation ?
 	* Buying shares "on margin": pay 10% cash and borrow the rest
 	* "Speculate to accumulate"
-
-*![](https://lh6.googleusercontent.com/GypslUh35T2pOiejGK2wvlxLjjmzpj6IK4NbSLHYsRcNsHzctjSzT5ltiAsSYMDuwDqBlsWFrGTvr4ag-IPUEWemTST6cGKgVSw9-F1fQMUvblQjF62DnY7Ze4WC1ZUlAGdYeC-bBRk=s0)
+	
+![](https://lh6.googleusercontent.com/GypslUh35T2pOiejGK2wvlxLjjmzpj6IK4NbSLHYsRcNsHzctjSzT5ltiAsSYMDuwDqBlsWFrGTvr4ag-IPUEWemTST6cGKgVSw9-F1fQMUvblQjF62DnY7Ze4WC1ZUlAGdYeC-bBRk=s0)
 
 The perceived health of the stock market is high, which led to a massive increase in the number of shares being traded 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDQwODE2MSw1NDY2MzQ2NjIsLTExND
-YzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLTQxOTQ5NDM2
-NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
+eyJoaXN0b3J5IjpbMzA1MzUwMzY5LDU0NjYzNDY2MiwtMTE0Nj
+M3NzU4OCw5NTM2OTc5OTAsLTg1NDcwMTEzNiwtNDE5NDk0MzY1
+LC0yMDE5NDAyNDc3LC0xNTgxOTQ0MTkxXX0=
 -->
