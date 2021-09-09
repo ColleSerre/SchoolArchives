@@ -15,7 +15,9 @@ After the 1st World War, immensely rich New Yorkers lived the "roaring twenties"
 
 The production of steel can be used as a proxy to show American industrial development. Coal and oil can also be used as proxies. 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzNjk3OTkwLC04NTQ3MDExMzYsLTQxOT
-Q5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
+eyJoaXN0b3J5IjpbLTU4NTY0NzI0NCw5NTM2OTc5OTAsLTg1ND
+cwMTEzNiwtNDE5NDk0MzY1LC0yMDE5NDAyNDc3LC0xNTgxOTQ0
+MTkxXX0=
 -->
