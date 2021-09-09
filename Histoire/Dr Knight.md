@@ -15,9 +15,9 @@ After the 1st World War, immensely rich New Yorkers lived the "roaring twenties"
 
 The production of steel can be used as a proxy to show American industrial development. Coal and oil can also be used as proxies. 
 
-Mass production of cars allows them to be more accessible to the masses. People start using these cars to enjoy leisure (the beach/countryside). The working class American can now afford leisure. 
+Mass production of cars allows them to be more accessible to the masses. People start using these cars to enjoy leisure (the beach/countryside). The working class American can now afford what used to be luxury leisure. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2ODE5NzI2LDk1MzY5Nzk5MCwtODU0Nz
-AxMTM2LC00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5NDQx
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NT
+Q3MDExMzYsLTQxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0
+NDE5MV19
 -->
