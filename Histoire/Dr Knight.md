@@ -16,8 +16,17 @@ After the 1st World War, immensely rich New Yorkers lived the "roaring twenties"
 The production of steel can be used as a proxy to show American industrial development. Coal and oil can also be used as proxies. 
 
 Mass production of cars allows them to be more accessible to the masses. People start using these cars to enjoy leisure (the beach/countryside). The working class American can now afford what used to be luxury leisure. 
+
+#### Causes
+
+* Speculation
+	* Stock market speculation
+		* 1920: 4 million shareholders
+		* 1929: 20 million shareholders
+		* (US population 120 million)
+	*What is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NT
-Q3MDExMzYsLTQxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0
-NDE5MV19
+eyJoaXN0b3J5IjpbODQ4NDYyOTgwLC0xMTQ2Mzc3NTg4LDk1Mz
+Y5Nzk5MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLTIwMTk0MDI0
+NzcsLTE1ODE5NDQxOTFdfQ==
 -->
