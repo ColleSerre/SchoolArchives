@@ -26,13 +26,13 @@ Mass production of cars allows them to be more accessible to the masses. People 
 		* (US population 120 million)
 	* What is speculation ? → Investing with a lot of risk 
 	* Buying shares "on margin": pay 10% cash and borrow the rest → led to banks failing because people were losing money with stocks
-	* "Speculate to accumulate"
+	* "Speculate to accumulate" 
 	
 ![](https://lh6.googleusercontent.com/GypslUh35T2pOiejGK2wvlxLjjmzpj6IK4NbSLHYsRcNsHzctjSzT5ltiAsSYMDuwDqBlsWFrGTvr4ag-IPUEWemTST6cGKgVSw9-F1fQMUvblQjF62DnY7Ze4WC1ZUlAGdYeC-bBRk=s0)
 
 The perceived health of the stock market is high, which led to a massive increase in the number of shares being traded 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY2NTkzODIsLTEzNDE3MjYwNjIsMz
+eyJoaXN0b3J5IjpbLTIxMDg0MjAyODgsLTEzNDE3MjYwNjIsMz
 A1MzUwMzY5LDU0NjYzNDY2MiwtMTE0NjM3NzU4OCw5NTM2OTc5
 OTAsLTg1NDcwMTEzNiwtNDE5NDk0MzY1LC0yMDE5NDAyNDc3LC
 0xNTgxOTQ0MTkxXX0=
