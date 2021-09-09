@@ -19,14 +19,16 @@ Mass production of cars allows them to be more accessible to the masses. People 
 
 #### Causes
 
-* Speculation
+* **Speculation**
 	* Stock market speculation
 		* 1920: 4 million shareholders
 		* 1929: 20 million shareholders
 		* (US population 120 million)
-	*What is 
+	* What is speculation ?
+	* Buying shares "on margin": pay 10% cash and borrow the rest
+	* "Speculate to accumulate"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NDYyOTgwLC0xMTQ2Mzc3NTg4LDk1Mz
+eyJoaXN0b3J5IjpbNTQ2NjM0NjYyLC0xMTQ2Mzc3NTg4LDk1Mz
 Y5Nzk5MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLTIwMTk0MDI0
 NzcsLTE1ODE5NDQxOTFdfQ==
 -->
