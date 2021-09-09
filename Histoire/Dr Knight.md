@@ -8,7 +8,11 @@
 Greatest economic catastrophy in recent history
 Wall St = most financial companies are
 The crisis caused major changes in the American way of life and had an influence in Hitler's rise to power.
+
+After the 1st World War, immensely rich New Yorkers lived the "roaring twenties" which inspired F Scott Fitzgerald *The Great Gatsby*.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMT
-U4MTk0NDE5MV19
+eyJoaXN0b3J5IjpbLTg1NDcwMTEzNiwtNDE5NDk0MzY1LC0yMD
+E5NDAyNDc3LC0xNTgxOTQ0MTkxXX0=
 -->
