@@ -9,9 +9,9 @@
 2. Un détroit qui présente des risques de différentes natures
 3. Une coopération difficile pour maintenir la liberté de circulation
 
-La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. En effet, la maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques par Christophe Colon en 1492 et le siècle d'or des Provinces-Unis au 17ᵉ siècle. Ce développement se justifie par le besoin de faire transiter des quantités de plus en plus importantes de marchandises et de matières premières provenant des quatre coins du monde. 
+La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. En effet, la maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques par Christophe Colon en 1492 et le siècle d'or des Provinces-Unis au 17ᵉ siècle. Ce développement se justifie par le besoin de faire transiter des quantités de plus en plus importantes de marchandises et de matières premières provenant des quatre coins du monde. Les détroits et canaux prennent une place fondamentale dans ce développement et constituent des enjeux stratégiques cruciaux pour les états et les entreprises privées. En somme, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY2Mzc5OTAsNjkzNTk5ODg3LDE0NT
-Y5ODI2MjUsMTc4MTM3Njk5OSw0MTU2MzY1MjAsLTE0NjY3NDAx
-MTIsOTkyNzQ1ODcyXX0=
+eyJoaXN0b3J5IjpbMTA2NTE0NTU1Myw2OTM1OTk4ODcsMTQ1Nj
+k4MjYyNSwxNzgxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDEx
+Miw5OTI3NDU4NzJdfQ==
 -->
