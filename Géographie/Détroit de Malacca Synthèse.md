@@ -9,9 +9,9 @@
 2. Un détroit qui présente des risques de différentes natures
 3. Une coopération difficile pour maintenir la liberté de circulation
 
-La mondialisation nécessite une extrême fluidité des flux.
+La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. En effet, la maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTMwNzM1MjYsMTQ1Njk4MjYyNSwxNz
-gxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDExMiw5OTI3NDU4
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTM4NDE2NzM5OCwxNDU2OTgyNjI1LDE3OD
+EzNzY5OTksNDE1NjM2NTIwLC0xNDY2NzQwMTEyLDk5Mjc0NTg3
+Ml19
 -->
