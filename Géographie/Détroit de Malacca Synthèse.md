@@ -9,8 +9,9 @@
 2. Un détroit qui présente des risques de différentes natures
 3. Une coopération difficile pour maintenir la liberté de circulation
 
-
+La mondialisation nécessite une extrême fluidité des flux.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Njk4MjYyNSwxNzgxMzc2OTk5LDQxNT
-YzNjUyMCwtMTQ2Njc0MDExMiw5OTI3NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbLTExOTMwNzM1MjYsMTQ1Njk4MjYyNSwxNz
+gxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDExMiw5OTI3NDU4
+NzJdfQ==
 -->
