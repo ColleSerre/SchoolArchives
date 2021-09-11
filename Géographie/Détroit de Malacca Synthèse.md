@@ -11,9 +11,9 @@
 
 Conclusion: le développement de détroits artificiels ou canaux comme ceux de Panama ou de Suez démontrent l'importance capitale des voies de transit maritime et la nécessité d'interconnecter les différents continents et surtout les différents marchés. 
 
-La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. La maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques par Christophe Colon en 1492 et le siècle d'or des Provinces-Unis au 17ᵉ siècle. Ce développement se justifie par le besoin de faire transiter des quantités de plus en plus importantes de marchandises et de matières premières provenant des quatre coins du monde. Les détroits et canaux prennent une place fondamentale dans ce développement et constituent des enjeux stratégiques cruciaux pour les états et les entreprises privées. 
+La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. La maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques par Christophe Colon en 1492 et le siècle d'or des Provinces-Unis au 17ᵉ siècle. Ce développement se justifie par le besoin de faire transiter des quantités de plus en plus importantes de marchandises et de matières premières provenant des quatre coins du monde. Les détroits et canaux prennent une place fondamentale dans ce développement et constituent des enjeux stratégiques cruciaux pour les états et les entreprises privées. Le détroit de Malacca, entre la Malaisie et l'Indonésie constitue un détroit majeur. Nous étudierons en quoi le détroit de Malacca, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDk0MjAxMSw2OTM1OTk4ODcsMTQ1Nj
-k4MjYyNSwxNzgxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDEx
-Miw5OTI3NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbMTEyNzIzOTA0MywtNTI0OTQyMDExLDY5Mz
+U5OTg4NywxNDU2OTgyNjI1LDE3ODEzNzY5OTksNDE1NjM2NTIw
+LC0xNDY2NzQwMTEyLDk5Mjc0NTg3Ml19
 -->
