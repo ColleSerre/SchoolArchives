@@ -23,13 +23,13 @@ Les risques du détroit de Malacca ne se limitent pas à des activités criminel
 Une coopération entre les états riverains et "utilisateurs" est nécessaire au bon fonctionnement du détroit. Cependant, les conflits sont nombreux. Pour les états "utilisateurs", l'enjeu principal est la sécurité des marchandises transitant par le détroit. À l'opposé, les tentatives d'implémentation de ces politiques de sécurité posent un risque de perte de souveraineté nationale en matière de sécurité pour les états riverains. Le financement des infrastructures de sécurité est un débat traité par la convention de Montenegro Bay de 1982. Cette convention rend le financement une obligation des seuls états riverains. Cependant, cette question a été revisitée par l'Organisation Maritime Internationale (OMI) en 2007 avec la mise en place d'une coopération internationale qui "incite les états utilisateurs à financer les aménagements décidés par les états riverains". (doc. 5). 
 Un des états "utilisateurs" les plus vocaux sur cette question est la Chine qui a exigé, après les attaques dans le détroit d'Ormuz attribuées à l'Iran par les États-Unis, une plus grande vigilance dans le détroit de Malacca (doc. 2). Le détroit représente un enjeu écostratégique crucial pour la Chine, car elle est le plus grand importateur de pétrole et de gaz au monde (doc. 2). De plus, le détroit de Malacca relie la Chine à ses partenaires commerciaux en occident le rendant indispensable à ses liens commerciaux internationaux. 
 
-Pour conclure, le détroit de Malacca est un espace clé de la maritimisation en 
+Pour conclure, le détroit de Malacca est un espace clé de la maritimisation en vertu de sa position géographique qui relie l'Asie orientale et l'occident, deux marchés de plus en plus interconnectés. C'est un espace qui fait face à de nombreux enjeux sécuritaires, géopolitiques et logistiques dont dépendent des milliards 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NjgxNDk0LC01MTk4Nzk2MzQsMTE2ND
-Q2NjY2NCwtNTAyNzE1MDYzLC0xMjcxNzE5NTk5LC0xNDI5MTIy
-ODcsLTU4Njg2NzU2NywtMTU5NDk2ODA3LDE2NDk5NDY1ODIsMj
-AzNzExMDA2MiwtMTgwNjY1MDQ4NywtNTI0OTQyMDExLDY5MzU5
-OTg4NywxNDU2OTgyNjI1LDE3ODEzNzY5OTksNDE1NjM2NTIwLC
-0xNDY2NzQwMTEyLDk5Mjc0NTg3Ml19
+eyJoaXN0b3J5IjpbLTEyODAzNjc2NTcsLTUxOTg3OTYzNCwxMT
+Y0NDY2NjY0LC01MDI3MTUwNjMsLTEyNzE3MTk1OTksLTE0Mjkx
+MjI4NywtNTg2ODY3NTY3LC0xNTk0OTY4MDcsMTY0OTk0NjU4Mi
+wyMDM3MTEwMDYyLC0xODA2NjUwNDg3LC01MjQ5NDIwMTEsNjkz
+NTk5ODg3LDE0NTY5ODI2MjUsMTc4MTM3Njk5OSw0MTU2MzY1Mj
+AsLTE0NjY3NDAxMTIsOTkyNzQ1ODcyXX0=
 -->
