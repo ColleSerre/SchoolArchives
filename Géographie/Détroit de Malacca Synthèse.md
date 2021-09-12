@@ -20,12 +20,12 @@ En raison de la valeur et de l'importance des marchandises transportées par ce 
 Malgré cela, les différents ports se défendent contre des attaques bien plus dévastatrices pour le trafic maritime et pour l'économie mondiale: les cyberattaques visant les terminaux portuaires. Ces attaques sont de plus en plus nombreuses et régulières pour les grands ports commerciaux partout dans le monde. Par exemple, le port de Marseille a indiqué être victime de plus de 11 000 cyberattaques par semaine. Cette menace est souvent rapportée avec beaucoup de retard et d'inexactitude, car rien n'oblige les victimes de cyberattaques à le déclarer publiquement ou à informer les autorités nationales. Pour se prémunir de ces risques grandissants, le port de Singapour a inauguré en mai 2019 un centre de cybersécurité destiné à répondre à ces attaques en temps réel. 
 Les risques du détroit de Malacca ne se limitent pas à des activités criminelles. En effet, le trafic exceptionnel du détroit, sa faible profondeur (inférieure à 100 mètres du port de Singapour au port Kelang ; doc. 1) ainsi que sa largeur très réduite de 2,7 kilomètres rendent les collisions particulièrement fréquentes. Les routes régionales et internationales sont confondues aux alentours du port de Singapour ce qui en fait un goulot d'étranglement occasionnant des perturbations de trafic.  
 
-Une coopération entre les états riverains et "utilisateurs" est nécessaire au bon fonctionnement du détroit. Cependant, les conflits sont nombreux. Pour les états "utilisateurs", l'enjeu principal est la sécurité des marchandises transitant par le détroit. À l'opposé, les tentatives d'implémentation de politiques sécuritaires dans la région posent un risque de perte de souveraineté nationale en matière de sécurité pour les états riverains. Le financement des infrastructures de sécurité est un débat traité par la convention de Montenegro Bay de 1982. Cette convention rend le financement une obligation des seuls 
+Une coopération entre les états riverains et "utilisateurs" est nécessaire au bon fonctionnement du détroit. Cependant, les conflits sont nombreux. Pour les états "utilisateurs", l'enjeu principal est la sécurité des marchandises transitant par le détroit. À l'opposé, les tentatives d'implémentation de politiques sécuritaires dans la région posent un risque de perte de souveraineté nationale en matière de sécurité pour les états riverains. Le financement des infrastructures de sécurité est un débat traité par la convention de Montenegro Bay de 1982. Cette convention rend le financement une obligation des seuls états riverains. Cependant, cette question a été revisitée par l'Organisation Maritime Internationale (OMI) en 2007 avec la mise en place d'une coopération internationale 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODAyMzM2LC01MTk4Nzk2MzQsMTE2ND
-Q2NjY2NCwtNTAyNzE1MDYzLC0xMjcxNzE5NTk5LC0xNDI5MTIy
-ODcsLTU4Njg2NzU2NywtMTU5NDk2ODA3LDE2NDk5NDY1ODIsMj
-AzNzExMDA2MiwtMTgwNjY1MDQ4NywtNTI0OTQyMDExLDY5MzU5
-OTg4NywxNDU2OTgyNjI1LDE3ODEzNzY5OTksNDE1NjM2NTIwLC
-0xNDY2NzQwMTEyLDk5Mjc0NTg3Ml19
+eyJoaXN0b3J5IjpbLTExMzcyOTc4NzQsLTUxOTg3OTYzNCwxMT
+Y0NDY2NjY0LC01MDI3MTUwNjMsLTEyNzE3MTk1OTksLTE0Mjkx
+MjI4NywtNTg2ODY3NTY3LC0xNTk0OTY4MDcsMTY0OTk0NjU4Mi
+wyMDM3MTEwMDYyLC0xODA2NjUwNDg3LC01MjQ5NDIwMTEsNjkz
+NTk5ODg3LDE0NTY5ODI2MjUsMTc4MTM3Njk5OSw0MTU2MzY1Mj
+AsLTE0NjY3NDAxMTIsOTkyNzQ1ODcyXX0=
 -->
