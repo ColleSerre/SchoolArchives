@@ -16,12 +16,12 @@ La mondialisation nécessite une extrême fluidité des flux financiers, routier
 Le détroit de Malacca est crucial grâce à plusieurs facteurs. Avec "près de 16 millions de barils de pétrole et d'essence" (doc. 2) transitant par le détroit chaque jour soit plus de 185 barils par seconde. Cela en fait la deuxième route maritime servant au transport du pétrole au monde (doc. 3). Cette place compétitive dans le transport d'une marchandise essentielle à toute production fait du détroit de Malacca un axe fondamental pour l'économie de ses partenaires. 
 Le détroit de Malacca concentre cinq ports. Le port de Singapour, le port de Tanjung Pelepas, le port Kelang, port de Penang et le port de Belawan (doc. 1). Le port de Singapour est le second port de conteneurs au monde, derrière le port de Shanghai, avec 33 700 EVP (Équivalent Vingt Pieds). Il constitue donc à la fois un ressort économique crucial pour cet état-insulaire et un hub privilégié sur toute l'Asie orientale.
 Le détroit de Malacca tient son importance par sa position géographique. En effet, le détroit est l'une des principales voies de passage entre l'océan Indien et l'océan Pacifique. Cela lui permet de faciliter l'accès de l'occident à des pays fortement peuplés comme l'Inde, l'Indonésie, mais surtout la Chine et le Japon. Ces marchés émergents sont des clients de choix pour l'occident et demandent une liaison rapide, sûre et constante. Ces besoins font du détroit de Malacca un emplacement géostratégique de premier plan. 
-La stratégie de défense du détroit de Malacca tend à le rendre de plus en plus compétitifs face à des risques constants de la région comme la piraterie et des risques grandissants comme le terrorisme, mais aussi d'attaques cybercriminelles. Le détroit de Malacca est connu pour ses attaques de pirates, 
+La stratégie de défense du détroit de Malacca tend à le rendre de plus en plus compétitifs face à des risques constants de la région comme la piraterie et des risques grandissants comme le terrorisme, mais aussi les attaques cybercriminelles. En effet, détroit de Malacca est connu pour ses attaques de pirates, la réponse apportée par les 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NzQ4MDI2LC01ODY4Njc1NjcsLTE1OT
-Q5NjgwNywxNjQ5OTQ2NTgyLDIwMzcxMTAwNjIsLTE4MDY2NTA0
-ODcsLTUyNDk0MjAxMSw2OTM1OTk4ODcsMTQ1Njk4MjYyNSwxNz
-gxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDExMiw5OTI3NDU4
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTE0MjkxMjI4NywtNTg2ODY3NTY3LC0xNT
+k0OTY4MDcsMTY0OTk0NjU4MiwyMDM3MTEwMDYyLC0xODA2NjUw
+NDg3LC01MjQ5NDIwMTEsNjkzNTk5ODg3LDE0NTY5ODI2MjUsMT
+c4MTM3Njk5OSw0MTU2MzY1MjAsLTE0NjY3NDAxMTIsOTkyNzQ1
+ODcyXX0=
 -->
