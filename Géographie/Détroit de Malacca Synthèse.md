@@ -20,12 +20,12 @@ En raison de la valeur et de l'importance des marchandises transportées par ce 
 Malgré cela, les différents ports se défendent contre des attaques bien plus dévastatrices pour le trafic maritime et pour l'économie mondiale: les cyberattaques visant les terminaux portuaires. Ces attaques sont de plus en plus nombreuses et régulières pour les grands ports commerciaux partout dans le monde. Par exemple, le port de Marseille a indiqué être victime de plus de 11 000 cyberattaques par semaine. Cette menace est souvent rapportée avec beaucoup de retard et d'inexactitude, car rien n'oblige les victimes de cyberattaques à le déclarer publiquement ou à informer les autorités nationales. Pour se prémunir de ces risques grandissants, le port de Singapour a inauguré en mai 2019 un centre de cybersécurité destiné à répondre à ces attaques en temps réel. 
 Les risques du détroit de Malacca ne se limitent pas à des activités criminelles. En effet, le trafic exceptionnel du détroit, sa faible profondeur (inférieure à 100 mètres du port de Singapour au port Kelang ; doc. 1) ainsi que sa largeur très réduite de 2,7 kilomètres rendent les collisions particulièrement fréquentes. Les routes régionales et internationales sont confondues aux alentours du port de Singapour ce qui en fait un goulot d'étranglement occasionnant des perturbations de trafic.  
 
-Une coopération entre les Etats riverains est nécessaire au bon fonctionne
+Une coopération entre les Etats riverains et "utilisateurs" est nécessaire au bon fonctionnement du détroit. Cependant, les conflits sont nombreux. Pour les Etats "utilisateurs" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMTgwOTA0LDExNjQ0NjY2NjQsLTUwMj
-cxNTA2MywtMTI3MTcxOTU5OSwtMTQyOTEyMjg3LC01ODY4Njc1
-NjcsLTE1OTQ5NjgwNywxNjQ5OTQ2NTgyLDIwMzcxMTAwNjIsLT
-E4MDY2NTA0ODcsLTUyNDk0MjAxMSw2OTM1OTk4ODcsMTQ1Njk4
-MjYyNSwxNzgxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDExMi
-w5OTI3NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbMTAzNTA4MjcxMCwxMTY0NDY2NjY0LC01MD
+I3MTUwNjMsLTEyNzE3MTk1OTksLTE0MjkxMjI4NywtNTg2ODY3
+NTY3LC0xNTk0OTY4MDcsMTY0OTk0NjU4MiwyMDM3MTEwMDYyLC
+0xODA2NjUwNDg3LC01MjQ5NDIwMTEsNjkzNTk5ODg3LDE0NTY5
+ODI2MjUsMTc4MTM3Njk5OSw0MTU2MzY1MjAsLTE0NjY3NDAxMT
+IsOTkyNzQ1ODcyXX0=
 -->
