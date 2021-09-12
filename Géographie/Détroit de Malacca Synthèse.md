@@ -13,9 +13,10 @@ Conclusion: le développement de détroits artificiels ou canaux comme ceux de P
 
 La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. La maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques par Christophe Colon en 1492 et le siècle d'or des Provinces-Unis au 17ᵉ siècle. Ce développement se justifie par le besoin de faire transiter des quantités de plus en plus importantes de marchandises et de matières premières provenant des quatre coins du monde. Les détroits et canaux prennent une place fondamentale dans ce développement et constituent des enjeux stratégiques cruciaux pour les états et les entreprises privées. Le détroit de Malacca, entre la Malaisie et l'Indonésie, constitue un détroit majeur. Nous étudierons en quoi le détroit de Malacca constitue un espace clé de la maritimisation. Dans un premier temps nous verrons en quoi est-il un axe maritime stratégique pour l'économie régionale et mondiale, dans un second temps les risques et les différentes natures de ce détroit et finalement les difficultés de coopération difficiles pour maintenir la liberté de circulation dans la région.
 
-Le détroit de Malacca est crucial grâce à plusieurs facteurs. Avec "près de 16 millions de barils de pétrole et d'essence" (doc. 2) transitant par le détroit chaque jour soit plus de 185 barils par seconde. Cela en fait la deuxième route maritime servant au transport du pétrole au monde (doc. 3). Cette place compétitive dans le transport de la marchandise essentielle à toute productio 
+Le détroit de Malacca est crucial grâce à plusieurs facteurs. Avec "près de 16 millions de barils de pétrole et d'essence" (doc. 2) transitant par le détroit chaque jour soit plus de 185 barils par seconde. Cela en fait la deuxième route maritime servant au transport du pétrole au monde (doc. 3). Cette place compétitive dans le transport d'une marchandise essentielle à toute production fait du détroit de Malacca un axe fondamental pour l'économie de ses partenaires. 
+Le détroit de Malacca tient son importance par sa position géograp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTQ5MDQ1NSwtMTgwNjY1MDQ4NywtNT
-I0OTQyMDExLDY5MzU5OTg4NywxNDU2OTgyNjI1LDE3ODEzNzY5
-OTksNDE1NjM2NTIwLC0xNDY2NzQwMTEyLDk5Mjc0NTg3Ml19
+eyJoaXN0b3J5IjpbOTM1ODY1MTkzLC0xODA2NjUwNDg3LC01Mj
+Q5NDIwMTEsNjkzNTk5ODg3LDE0NTY5ODI2MjUsMTc4MTM3Njk5
+OSw0MTU2MzY1MjAsLTE0NjY3NDAxMTIsOTkyNzQ1ODcyXX0=
 -->
