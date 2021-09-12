@@ -16,13 +16,13 @@ Le détroit de Malacca concentre cinq ports. Le port de Singapour, le port de Ta
 Le détroit de Malacca tient son importance par sa position géographique. En effet, le détroit est l'une des principales voies de passage entre l'océan Indien et l'océan Pacifique. Cela lui permet de faciliter l'accès de l'occident à des pays fortement peuplés comme l'Inde, l'Indonésie, mais surtout la Chine et le Japon. Ces marchés émergents sont des clients de choix pour l'occident et demandent une liaison rapide, sûre et constante. Ces besoins font du détroit de Malacca un emplacement géostratégique de premier plan. 
 
 En raison de la valeur et de l'importance des marchandises transportées par ce dernier,  le détroit de Malacca est devenu une cible préférée pour des attaques de plusieurs natures. Cependant, la stratégie de défense du détroit de Malacca tend à le rendre de plus en plus compétitifs face à des risques constants de la région comme la piraterie et des risques grandissants comme le terrorisme, mais aussi les attaques cybercriminelles. En effet, détroit de Malacca est réputé pour ses attaques de pirates, trois zones à risque sont connues (doc. 1). Ces attaques sont devenues régulières quand les armées américaines et soviétiques ont quittés la région dans les années 1990. En 2000, sur les 469 attaques ou tentatives d’attaque de navire répertoriées dans le monde, 75 avaient eu lieu dans au détroit de Malacca. Depuis, des solutions ont étés développés par les États riverains, en collaboration avec les États "utilisateurs". Les États riverains ont accentué le déploiement de leurs polices, plus particulièrement en Malaisie sur l'île de Batam, un repère connu des pirates de la région. Cependant, la lutte contre ces organisations criminelles est difficile, car elles sont pour la plupart de petite taille (de huit à une petite dizaine de personnes) et utilisent des bateaux de plaisance de même facture à ceux des locaux. De plus, ces pirates attaquent dans les eaux internationales entre Singapour et l'Indonésie, une zone en dehors de la juridiction de la police Malaisienne. À première vue, cette lutte devrait-être facilitée par la présence de la base militaire américaine de Changi. Cependant, les navires militaires de Singapour et des États-Unis ne sont pas efficaces face aux petites embarcations des pirates de la région. 
-Malgré cela, les différents ports se défendent contre des attaques bien plus dévastatrices pour le trafic maritime et pour l'économie mondiale: les cyberattaques visant les terminaux portuaires. Le port de 
+Malgré cela, les différents ports se défendent contre des attaques bien plus dévastatrices pour le trafic maritime et pour l'économie mondiale: les cyberattaques visant les terminaux portuaires. Ces attaques sont de plus en plus nombreuses et régulières pour les grands ports commerciaux partout dans le monde. Par exemple, le port de Marseille a indiqué être victime de plus de 11 000 cyberattaques par semaine. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM2NjkzMTQsLTUwMjcxNTA2MywtMT
-I3MTcxOTU5OSwtMTQyOTEyMjg3LC01ODY4Njc1NjcsLTE1OTQ5
-NjgwNywxNjQ5OTQ2NTgyLDIwMzcxMTAwNjIsLTE4MDY2NTA0OD
-csLTUyNDk0MjAxMSw2OTM1OTk4ODcsMTQ1Njk4MjYyNSwxNzgx
-Mzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDExMiw5OTI3NDU4Nz
-JdfQ==
+eyJoaXN0b3J5IjpbMzEwMjgyNzkxLC01MDI3MTUwNjMsLTEyNz
+E3MTk1OTksLTE0MjkxMjI4NywtNTg2ODY3NTY3LC0xNTk0OTY4
+MDcsMTY0OTk0NjU4MiwyMDM3MTEwMDYyLC0xODA2NjUwNDg3LC
+01MjQ5NDIwMTEsNjkzNTk5ODg3LDE0NTY5ODI2MjUsMTc4MTM3
+Njk5OSw0MTU2MzY1MjAsLTE0NjY3NDAxMTIsOTkyNzQ1ODcyXX
+0=
 -->
