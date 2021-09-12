@@ -13,9 +13,9 @@ Conclusion: le développement de détroits artificiels ou canaux comme ceux de P
 
 La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. La maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques par Christophe Colon en 1492 et le siècle d'or des Provinces-Unis au 17ᵉ siècle. Ce développement se justifie par le besoin de faire transiter des quantités de plus en plus importantes de marchandises et de matières premières provenant des quatre coins du monde. Les détroits et canaux prennent une place fondamentale dans ce développement et constituent des enjeux stratégiques cruciaux pour les états et les entreprises privées. Le détroit de Malacca, entre la Malaisie et l'Indonésie, constitue un détroit majeur. Nous étudierons en quoi le détroit de Malacca constitue un espace clé de la maritimisation. Dans un premier temps nous verrons en quoi est-il un axe maritime stratégique pour l'économie régionale et mondiale, dans un second temps les risques et les différentes natures de ce détroit et finalement les difficultés de coopération difficiles pour maintenir la liberté de circulation dans la région.
 
-Le détroit de Malacca est crucial grâce à plusieurs facteurs. Avec "près de 16 millions de barils de pétrole et d'essence" transitant par le détroit chaque jour soit 
+Le détroit de Malacca est crucial grâce à plusieurs facteurs. Avec "près de 16 millions de barils de pétrole et d'essence" (doc. 2) transitant par le détroit chaque jour soit plus de 185 barils par seconde. Cela en fait la deuxième route maritime servant au traznsport du pétrole au monde (doc. 3)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE0MDM5NzMsLTE4MDY2NTA0ODcsLT
+eyJoaXN0b3J5IjpbLTE4NDMwNTEwNjQsLTE4MDY2NTA0ODcsLT
 UyNDk0MjAxMSw2OTM1OTk4ODcsMTQ1Njk4MjYyNSwxNzgxMzc2
 OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDExMiw5OTI3NDU4NzJdfQ
 ==
