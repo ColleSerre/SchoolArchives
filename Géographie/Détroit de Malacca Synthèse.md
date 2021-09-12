@@ -15,12 +15,12 @@ Le détroit de Malacca est crucial grâce à plusieurs facteurs. Avec "près de 
 Le détroit de Malacca concentre cinq ports. Le port de Singapour, le port de Tanjung Pelepas, le port Kelang, port de Penang et le port de Belawan (doc. 1). Le port de Singapour est le second port de conteneurs au monde, derrière le port de Shanghai, avec 33 700 EVP (Équivalent Vingt Pieds). Il constitue donc à la fois un ressort économique crucial pour cet état-insulaire et un hub privilégié sur toute l'Asie orientale.
 Le détroit de Malacca tient son importance par sa position géographique. En effet, le détroit est l'une des principales voies de passage entre l'océan Indien et l'océan Pacifique. Cela lui permet de faciliter l'accès de l'occident à des pays fortement peuplés comme l'Inde, l'Indonésie, mais surtout la Chine et le Japon. Ces marchés émergents sont des clients de choix pour l'occident et demandent une liaison rapide, sûre et constante. Ces besoins font du détroit de Malacca un emplacement géostratégique de premier plan. 
 
-En raison de la valeur et de l'importance des marchandises transportées par ce dernier,  le détroit de Malacca est devenu une cible préférée pour des attaques de plusieurs natures. Cependant, la stratégie de défense du détroit de Malacca tend à le rendre de plus en plus compétitifs face à des risques constants de la région comme la piraterie et des risques grandissants comme le terrorisme, mais aussi les attaques cybercriminelles. En effet, détroit de Malacca est réputé pour ses attaques de pirates, trois zones à risque connues (doc. 1). Ces attaques sont devenues régulières quand les armées américaines et soviétiques ont quittés la région dans les années 1990. En 2000, sur les 469 attaques ou tentatives d’attaque de navire répertoriées dans le monde, 75 avaient eu lieu dans au détroit de Malacca. Depuis, des solutions ont étés développés par les États riverains, en collaboration avec les États "utilisateurs". 
+En raison de la valeur et de l'importance des marchandises transportées par ce dernier,  le détroit de Malacca est devenu une cible préférée pour des attaques de plusieurs natures. Cependant, la stratégie de défense du détroit de Malacca tend à le rendre de plus en plus compétitifs face à des risques constants de la région comme la piraterie et des risques grandissants comme le terrorisme, mais aussi les attaques cybercriminelles. En effet, détroit de Malacca est réputé pour ses attaques de pirates, trois zones à risque connues (doc. 1). Ces attaques sont devenues régulières quand les armées américaines et soviétiques ont quittés la région dans les années 1990. En 2000, sur les 469 attaques ou tentatives d’attaque de navire répertoriées dans le monde, 75 avaient eu lieu dans au détroit de Malacca. Depuis, des solutions ont étés développés par les États riverains, en collaboration avec les États "utilisateurs". Les Etats riverains ont accentué le dépoiment de leurs polices des cotes, plus particulièrement en Malaisie 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTI5NjIyNiwtMTQyOTEyMjg3LC01OD
-Y4Njc1NjcsLTE1OTQ5NjgwNywxNjQ5OTQ2NTgyLDIwMzcxMTAw
-NjIsLTE4MDY2NTA0ODcsLTUyNDk0MjAxMSw2OTM1OTk4ODcsMT
-Q1Njk4MjYyNSwxNzgxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0
-MDExMiw5OTI3NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzY3NDQ4OTAsLTE0MjkxMjI4NywtNT
+g2ODY3NTY3LC0xNTk0OTY4MDcsMTY0OTk0NjU4MiwyMDM3MTEw
+MDYyLC0xODA2NjUwNDg3LC01MjQ5NDIwMTEsNjkzNTk5ODg3LD
+E0NTY5ODI2MjUsMTc4MTM3Njk5OSw0MTU2MzY1MjAsLTE0NjY3
+NDAxMTIsOTkyNzQ1ODcyXX0=
 -->
