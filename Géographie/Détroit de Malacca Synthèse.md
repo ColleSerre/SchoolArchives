@@ -17,12 +17,12 @@ Le détroit de Malacca tient son importance par sa position géographique. En ef
 
 En raison de la valeur et de l'importance des marchandises transportées par ce dernier,  le détroit de Malacca est devenu une cible préférée pour des attaques de plusieurs natures. Cependant, la stratégie de défense du détroit de Malacca tend à le rendre de plus en plus compétitifs face à des risques constants de la région comme la piraterie et des risques grandissants comme le terrorisme, mais aussi les attaques cybercriminelles. En effet, détroit de Malacca est réputé pour ses attaques de pirates, trois zones à risque sont connues (doc. 1). Ces attaques sont devenues régulières quand les armées américaines et soviétiques ont quittés la région dans les années 1990. En 2000, sur les 469 attaques ou tentatives d’attaque de navire répertoriées dans le monde, 75 avaient eu lieu dans au détroit de Malacca. Depuis, des solutions ont étés développés par les États riverains, en collaboration avec les États "utilisateurs". Les États riverains ont accentué le déploiement de leurs polices, plus particulièrement en Malaisie sur l'île de Batam, un repère connu des pirates de la région. Cependant, la lutte contre ces organisations criminelles est difficile, car elles sont pour la plupart de petite taille (de huit à une petite dizaine de personnes) et utilisent des bateaux de plaisance de même facture à ceux des locaux. De plus, ces pirates attaquent dans les eaux internationales entre Singapour et l'Indonésie, une zone en dehors de la juridiction de la police Malaisienne. À première vue, cette lutte devrait-être facilitée par la présence de la base militaire américaine de Changi. Cependant, les navires militaires de Singapour et des États-Unis ne sont pas efficaces face aux petites embarcations des pirates de la région. 
 Malgré cela, les différents ports se défendent contre des attaques bien plus dévastatrices pour le trafic maritime et pour l'économie mondiale: les cyberattaques visant les terminaux portuaires. Ces attaques sont de plus en plus nombreuses et régulières pour les grands ports commerciaux partout dans le monde. Par exemple, le port de Marseille a indiqué être victime de plus de 11 000 cyberattaques par semaine. Cette menace est souvent rapportée avec beaucoup de retard et d'inexactitude, car rien n'oblige les victimes de cyberattaques à le déclarer publiquement ou à informer les autorités nationales. Pour se prémunir de ces risques grandissants, le port de Singapour a inauguré en mai 2019 un centre de cybersécurité destiné à répondre à ces attaques en temps réel. 
-Les risques du détroit de Malacca ne se limitent pas à des activités criminelles. En effet, le trafic exceptionnel du détroit ainsi que sa faible profondeu 
+Les risques du détroit de Malacca ne se limitent pas à des activités criminelles. En effet, le trafic exceptionnel du détroit, sa faible profondeur (inférieure à 100 mètres du port de Singapour au port Kelang ; doc. 1) ainsi que sa largeur très réduite de 2,7 kilomètres rendent les collisions très fréquentes. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk4ODE2MjgsMTE2NDQ2NjY2NCwtNT
-AyNzE1MDYzLC0xMjcxNzE5NTk5LC0xNDI5MTIyODcsLTU4Njg2
-NzU2NywtMTU5NDk2ODA3LDE2NDk5NDY1ODIsMjAzNzExMDA2Mi
-wtMTgwNjY1MDQ4NywtNTI0OTQyMDExLDY5MzU5OTg4NywxNDU2
-OTgyNjI1LDE3ODEzNzY5OTksNDE1NjM2NTIwLC0xNDY2NzQwMT
-EyLDk5Mjc0NTg3Ml19
+eyJoaXN0b3J5IjpbMzU4NDgyMzkyLDExNjQ0NjY2NjQsLTUwMj
+cxNTA2MywtMTI3MTcxOTU5OSwtMTQyOTEyMjg3LC01ODY4Njc1
+NjcsLTE1OTQ5NjgwNywxNjQ5OTQ2NTgyLDIwMzcxMTAwNjIsLT
+E4MDY2NTA0ODcsLTUyNDk0MjAxMSw2OTM1OTk4ODcsMTQ1Njk4
+MjYyNSwxNzgxMzc2OTk5LDQxNTYzNjUyMCwtMTQ2Njc0MDExMi
+w5OTI3NDU4NzJdfQ==
 -->
