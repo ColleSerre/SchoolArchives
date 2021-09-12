@@ -1,14 +1,6 @@
 
 # Pourquoi le détroit de Malacca est-il un espace de la maritimisation ? - Synthèse 
 
-1. Un axe maritime stratégique pour l'économie régionale et mondiale
-	* Trafic en chiffres (16 millions de barils en 2016 soit plus de 2.5 milliards de litres de pétrole) 
-	* Enjeux internationaux avec la Chine
-	* "Contourner le détroit mobiliserait la flotte mondiale, augmenterait également les coûts d'affrètement et sans doute les prix de l'énergie"
-	* Routes maritimes internationales qui débouche sur l'Europe, le Moyen-Orient, l'Asie du Sud-Est dont la Chine et l'Asie du Nord-Est. Débouche sur des marchés prépondérants dans l'économie internationale (comme l'Europe) mais aussi sur des marchés émergents comme le Moyen-Orient ou l'Asie du Sud-Est. 
-2. Un détroit qui présente des risques de différentes natures
-3. Une coopération difficile pour maintenir la liberté de circulation
-
 La mondialisation nécessite une extrême fluidité des flux financiers, routiers, numériques, migratoires, mais aussi maritimes. La maritimisation du transport des richesses s'est énormément développée depuis la découverte des Amériques par Christophe Colon en 1492 et le siècle d'or des Provinces-Unis au 17ᵉ siècle. Le développement de détroits artificiels ou canaux comme ceux de Panama ou de Suez démontrent l'importance capitale des voies de transit maritime et la nécessité d'interconnecter les différents continents et surtout les différents marchés. Les détroits et canaux prennent une place fondamentale dans la mondialisation et constituent des enjeux stratégiques cruciaux pour les états et les entreprises privées. Le détroit de Malacca, entre la Malaisie et l'Indonésie, constitue un détroit majeur. Nous étudierons en quoi le détroit de Malacca constitue un espace clé de la maritimisation. Dans un premier temps nous verrons en quoi est-il un axe maritime stratégique pour l'économie régionale et mondiale, dans un second temps les risques et les différentes natures de ce détroit et finalement les difficultés de coopération difficiles pour maintenir la liberté de circulation dans la région.
 
 Le détroit de Malacca est crucial grâce à plusieurs facteurs. Avec "près de 16 millions de barils de pétrole et d'essence" (doc. 2) transitant par le détroit chaque jour en 2016 soit plus de 185 barils par seconde (doc.2). Cela en fait la deuxième route maritime servant au transport du pétrole au monde (doc. 3). Cette place compétitive dans le transport d'une marchandise essentielle à toute production fait du détroit de Malacca un axe fondamental pour l'économie de ses partenaires. 
@@ -26,10 +18,10 @@ Un des états "utilisateurs" les plus vocaux sur cette question est la Chine qui
 Pour conclure, le détroit de Malacca est un espace clé de la maritimisation en vertu de sa position géographique qui relie l'Asie orientale et l'occident, deux marchés de plus en plus interconnectés. C'est un espace qui fait face à de nombreux enjeux sécuritaires, géopolitiques et logistiques dont dépendent des milliards d'entreprises et d'états du monde occidental. Il s'intègre aussi dans des routes commerciales internationales incluant d'autres détroits comme ceux de Bab el-Mandeb et le canal de Suez ainsi que les détroits de Gibraltar et d'Ormuz. Ce faisant, le détroit de Malacca est un maillon indispensable de la mondialisation et démontre le degré d'inter-connectivité et de convergence des intérêts qu'elle apporte. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjE4MDcyNCwtNTE5ODc5NjM0LDExNj
-Q0NjY2NjQsLTUwMjcxNTA2MywtMTI3MTcxOTU5OSwtMTQyOTEy
-Mjg3LC01ODY4Njc1NjcsLTE1OTQ5NjgwNywxNjQ5OTQ2NTgyLD
-IwMzcxMTAwNjIsLTE4MDY2NTA0ODcsLTUyNDk0MjAxMSw2OTM1
-OTk4ODcsMTQ1Njk4MjYyNSwxNzgxMzc2OTk5LDQxNTYzNjUyMC
-wtMTQ2Njc0MDExMiw5OTI3NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjEyNTU5OTIsLTUxOTg3OTYzNCwxMT
+Y0NDY2NjY0LC01MDI3MTUwNjMsLTEyNzE3MTk1OTksLTE0Mjkx
+MjI4NywtNTg2ODY3NTY3LC0xNTk0OTY4MDcsMTY0OTk0NjU4Mi
+wyMDM3MTEwMDYyLC0xODA2NjUwNDg3LC01MjQ5NDIwMTEsNjkz
+NTk5ODg3LDE0NTY5ODI2MjUsMTc4MTM3Njk5OSw0MTU2MzY1Mj
+AsLTE0NjY3NDAxMTIsOTkyNzQ1ODcyXX0=
 -->
