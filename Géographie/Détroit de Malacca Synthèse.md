@@ -21,9 +21,9 @@ Malgré cela, les différents ports se défendent contre des attaques bien plus 
 Les risques du détroit de Malacca ne se limitent pas à des activités criminelles. En effet, le trafic exceptionnel du détroit, sa faible profondeur (inférieure à 100 mètres du port de Singapour au port Kelang ; doc. 1) ainsi que sa largeur très réduite de 2,7 kilomètres rendent les collisions particulièrement fréquentes. Les routes régionales et internationales sont confondues aux alentours du port de Singapour ce qui en fait un goulot d'étranglement occasionnant des perturbations de trafic.  
 
 Une coopération entre les états riverains et "utilisateurs" est nécessaire au bon fonctionnement du détroit. Cependant, les conflits sont nombreux. Pour les états "utilisateurs", l'enjeu principal est la sécurité des marchandises transitant par le détroit. À l'opposé, les tentatives d'implémentation de ces politiques de sécurité posent un risque de perte de souveraineté nationale en matière de sécurité pour les états riverains. Le financement des infrastructures de sécurité est un débat traité par la convention de Montenegro Bay de 1982. Cette convention rend le financement une obligation des seuls états riverains. Cependant, cette question a été revisitée par l'Organisation Maritime Internationale (OMI) en 2007 avec la mise en place d'une coopération internationale qui "incite les états utilisateurs à financer les aménagements décidés par les états riverains". (doc. 5). 
-Un des états "utilisateurs" les plus vocaux sur cette question est la Chine qui a exigé, après les attaques dans 
+Un des états "utilisateurs" les plus vocaux sur cette question est la Chine qui a exigé, après les attaques dans le détroit d'Ormuz attribuées à l'Iran par les Etats-Unis, une plus grande vigilance dans le détroit de Malacca (doc. 2). Le détroit représente un enjeux stratégique  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU4NDM1NTQsLTUxOTg3OTYzNCwxMT
+eyJoaXN0b3J5IjpbLTE2NjQ0NDQwOTcsLTUxOTg3OTYzNCwxMT
 Y0NDY2NjY0LC01MDI3MTUwNjMsLTEyNzE3MTk1OTksLTE0Mjkx
 MjI4NywtNTg2ODY3NTY3LC0xNTk0OTY4MDcsMTY0OTk0NjU4Mi
 wyMDM3MTEwMDYyLC0xODA2NjUwNDg3LC01MjQ5NDIwMTEsNjkz
