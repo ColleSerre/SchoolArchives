@@ -5,9 +5,9 @@
 Unités d'énergie: joule et kilowatt-heure
 Sources d'énergie intermittentes: éolienne, 
 Sources d'énergie continues: nucléaire, hydraulique, thermique
-Risque naturel: 
+Risque naturel: la menace que survienne un évènement lié à un phénomène naturel ayant des conséquences dommageables plus ou moins graves sur les personnes et leur environnement.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0NTUyMDMsLTE0NzkzNTcwNDMsLT
-k3NzEyOTEyN119
+eyJoaXN0b3J5IjpbLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOT
+c3MTI5MTI3XX0=
 -->
