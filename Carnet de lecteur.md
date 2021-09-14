@@ -366,6 +366,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Les révolutions sont la locomotive de l'histoire - Karl Marx 
 * Il se peut que les révolutions soient l'acte par lequel l'humanité qui voyage dans le train tire les freins d'urgence - Walter Benjamin *Thèses sur le concept d'histoire* en reprenant Marx
 * Étymologie de réformer: donner une meilleure forme (corriger, modifier)
+* En fait, vous avez déjà gagné, parce que vous ne vous regardez déjà plus pareil. Ils essaient qu’on ne fasse rien d’autre que bosser et regarder nos pompes. Mais vous avez relevé la tête. Et quand vous rentrerez ici, avec vos victoires, il y aura des gens qui regarderont leurs pompes, et ce ne sera pas vous ! Donc force à vous et plein de courage. - Olivier Besancenot, reprenant un gréviste, durant la grève Transdev le lundi 13 septembre 2021
 
 ### Éloge
 
@@ -400,5 +401,5 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MzEwNjQ5XX0=
+eyJoaXN0b3J5IjpbMTU3MzA3MTUyMyw3MTczMTA2NDldfQ==
 -->
