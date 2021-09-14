@@ -35,7 +35,8 @@
 | bejubelt werden | être acclamé |
 | das Angebot | l'offre/choix |
 | sich engagieren | s'engager |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM1MTgxMjgsLTE5MDA3NDE2MjRdfQ
-==
+eyJoaXN0b3J5IjpbNTI5ODQ0NzM0LC0xNzUzNTE4MTI4LC0xOT
+AwNzQxNjI0XX0=
 -->
