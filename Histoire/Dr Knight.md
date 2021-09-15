@@ -51,8 +51,10 @@ Cecil Roberts, The Bright Twenties, 1938
 <img src="https://lh3.googleusercontent.com/4CiZ9A8XG1-K6wiv4feiwudZB1pqP-hUTmOJ5dwK0bKl-lVcIw7MuGlSrmmgPaglO1uDenq_6-ZaQPlwTjtDy7Yk1QTcZM2hk6XLEJpMG1iQD_X6oI4MbUluMMjD7-CHHz1mtaxdeJM=s0" width="400"/>
 
 <img src="https://lh3.googleusercontent.com/YiB16pmYRlCilGx0S08hLY1Ezymswc3JHyamaQoapzapIAnxotcj_3cM14GgHDviN6f-lJJihW1TSea9uHrglFTvVYR80zfA58T7etdFi296df-oljfyl4eTkdljLJqbpra5sxyslBk=s0" width="400"/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjU0MjY5OSwtMTI3ODAzODc5NiwtNj
+eyJoaXN0b3J5IjpbLTc0NDEwMjU4NSwtMTI3ODAzODc5NiwtNj
 k1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2
 NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLT
 QxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
