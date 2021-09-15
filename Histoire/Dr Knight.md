@@ -28,7 +28,7 @@ Mass production of cars allows them to be more accessible to the masses. People 
 	* Buying shares "on margin": pay 10% cash and borrow the rest → led to banks failing because people were losing money with stocks
 	* "Speculate to accumulate" 
 	
-![](https://lh6.googleusercontent.com/GypslUh35T2pOiejGK2wvlxLjjmzpj6IK4NbSLHYsRcNsHzctjSzT5ltiAsSYMDuwDqBlsWFrGTvr4ag-IPUEWemTST6cGKgVSw9-F1fQMUvblQjF62DnY7Ze4WC1ZUlAGdYeC-bBRk=s0)
+`<img src="https://lh6.googleusercontent.com/GypslUh35T2pOiejGK2wvlxLjjmzpj6IK4NbSLHYsRcNsHzctjSzT5ltiAsSYMDuwDqBlsWFrGTvr4ag-IPUEWemTST6cGKgVSw9-F1fQMUvblQjF62DnY7Ze4WC1ZUlAGdYeC-bBRk=s0" alt="drawing" width="200"/>`
 
 The perceived health of the stock market is high, which led to a massive increase in the number of shares being traded. 
 
@@ -38,8 +38,8 @@ Cecil Roberts, The Bright Twenties, 1938
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgwMzg3OTYsLTY5NTg3NzE3MCwtMT
-M0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2Mzc3
-NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLT
-IwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
+eyJoaXN0b3J5IjpbMTMzNjQ4NjYyMiwtMTI3ODAzODc5NiwtNj
+k1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2
+NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLT
+QxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
 -->
