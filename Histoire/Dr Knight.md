@@ -52,10 +52,15 @@ Cecil Roberts, The Bright Twenties, 1938
 
 <img src="https://lh3.googleusercontent.com/YiB16pmYRlCilGx0S08hLY1Ezymswc3JHyamaQoapzapIAnxotcj_3cM14GgHDviN6f-lJJihW1TSea9uHrglFTvVYR80zfA58T7etdFi296df-oljfyl4eTkdljLJqbpra5sxyslBk=s0" width="400"/>
 
+### The Crash
+
+Black Thursday: 24 October 1929
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDEwMjU4NSwtMTI3ODAzODc5NiwtNj
-k1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2
-NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLT
-QxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
+eyJoaXN0b3J5IjpbLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMT
+I3ODAzODc5NiwtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1
+MDM2OSw1NDY2MzQ2NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC
+04NTQ3MDExMzYsLTQxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4
+MTk0NDE5MV19
 -->
