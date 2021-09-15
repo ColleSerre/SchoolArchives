@@ -42,11 +42,11 @@ Cecil Roberts, The Bright Twenties, 1938
 * Decline in construction (since 1926), it reached a plateau after WW1
 * Industry - overproduction
 * Tariffs
-	* Prevent Imports
-	* Europe retaliated to imposing tariffs on US products
+	* Prevent Imports by taxing them
+	* Europe retaliated to imposing tariffs on US products 
 * Unequal distribution of wealth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDg0ODQ2OCwtMTI3ODAzODc5NiwtNj
+eyJoaXN0b3J5IjpbLTU3MTY0MTc4MCwtMTI3ODAzODc5NiwtNj
 k1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2
 NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLT
 QxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
