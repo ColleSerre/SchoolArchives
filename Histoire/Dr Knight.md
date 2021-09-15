@@ -56,11 +56,11 @@ Cecil Roberts, The Bright Twenties, 1938
 
 Black Thursday: 24 October 1929
 
-The Dow Jones snowballed into the krach 
+The year 1920 was a speculative bubble which burst on Black Thursday. People who didn't speculate lost everything too. The Dow Jones snowballed into the crash. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjgzMTQ0OSwtMTQxMDI3MzMyMiwtNz
-Q0MTAyNTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNzAsLTEzNDE3
-MjYwNjIsMzA1MzUwMzY5LDU0NjYzNDY2MiwtMTE0NjM3NzU4OC
-w5NTM2OTc5OTAsLTg1NDcwMTEzNiwtNDE5NDk0MzY1LC0yMDE5
-NDAyNDc3LC0xNTgxOTQ0MTkxXX0=
+eyJoaXN0b3J5IjpbLTExNTA3NDAzODcsLTE0MTAyNzMzMjIsLT
+c0NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1ODc3MTcwLC0xMzQx
+NzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2NjIsLTExNDYzNzc1OD
+gsOTUzNjk3OTkwLC04NTQ3MDExMzYsLTQxOTQ5NDM2NSwtMjAx
+OTQwMjQ3NywtMTU4MTk0NDE5MV19
 -->
