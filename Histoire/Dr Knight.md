@@ -34,10 +34,12 @@ The perceived health of the stock market is high, which led to a massive increas
 
 ``The stock market hysteria reached its apex that year [1929]... Everyone was playing the market... On my last day in New York, I went down to the barber. As he removed the sheet he said softly, 'Buy Standard Gas. I've doubled . . . It’s good for another double. ' As I walked upstairs, I suspected that if the hysteria had reached the barber level, something must soon happen.``
 
-Cecil Roberts, The Bright Twenties, 1938.
+Cecil Roberts, The Bright Twenties, 1938
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMD
-UzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5
-MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLT
-E1ODE5NDQxOTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzgwMzg3OTYsLTY5NTg3NzE3MCwtMT
+M0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2Mzc3
+NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLT
+IwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
 -->
