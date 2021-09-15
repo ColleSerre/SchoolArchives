@@ -43,11 +43,12 @@ Cecil Roberts, The Bright Twenties, 1938
 * Industry - overproduction
 * Tariffs
 	* Prevent Imports by taxing them
-	* Europe retaliated to imposing tariffs on US products 
+	* Europe retaliated to imposing tariffs on US products
 * Unequal distribution of wealth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTY0MTc4MCwtMTI3ODAzODc5NiwtNj
-k1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2
-NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLT
-QxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
+eyJoaXN0b3J5IjpbLTE0ODY0NDA0NTQsLTEyNzgwMzg3OTYsLT
+Y5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0
+NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC
+00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
+
 -->
