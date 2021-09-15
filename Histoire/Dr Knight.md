@@ -36,10 +36,16 @@ The perceived health of the stock market is high, which led to a massive increas
 
 Cecil Roberts, The Bright Twenties, 1938
 
+**Weaknesses in the US economy**
 
+* Farming - overproduction
+* Decline in construction (since 1926)
+* Industry - overproduction
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTE2ODU2LC0xMjc4MDM4Nzk2LC02OT
-U4NzcxNzAsLTEzNDE3MjYwNjIsMzA1MzUwMzY5LDU0NjYzNDY2
-MiwtMTE0NjM3NzU4OCw5NTM2OTc5OTAsLTg1NDcwMTEzNiwtND
-E5NDk0MzY1LC0yMDE5NDAyNDc3LC0xNTgxOTQ0MTkxXX0=
+eyJoaXN0b3J5IjpbLTE3MDc2MDM4NTYsLTEyNzgwMzg3OTYsLT
+Y5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0
+NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC
+00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
+
 -->
