@@ -46,9 +46,11 @@ Cecil Roberts, The Bright Twenties, 1938
 	* Europe retaliated to imposing tariffs on US products (trade war)
 * Unequal distribution of wealth
 
-<img src="https://lh6.googleusercontent.com/GypslUh35T2pOiejGK2wvlxLjjmzpj6IK4NbSLHYsRcNsHzctjSzT5ltiAsSYMDuwDqBlsWFrGTvr4ag-IPUEWemTST6cGKgVSw9-F1fQMUvblQjF62DnY7Ze4WC1ZUlAGdYeC-bBRk=s0" width="400"/>
+<img src="https://lh3.googleusercontent.com/bU-ZvAR-VRbatSreP2EpD1f_eUdlYkZmV6bMREDNECmJ8rQpuZ5PDPUEf0f1UdDZ2ype_GIYh6ma_MPKE-kia3Gz9L0WImUAhhNRS6CJHvVAzSzDetSUSGt7W3kiar6zcUYbfwHj8bQ=s0" width="400"/>
+
+![](https://lh3.googleusercontent.com/4CiZ9A8XG1-K6wiv4feiwudZB1pqP-hUTmOJ5dwK0bKl-lVcIw7MuGlSrmmgPaglO1uDenq_6-ZaQPlwTjtDy7Yk1QTcZM2hk6XLEJpMG1iQD_X6oI4MbUluMMjD7-CHHz1mtaxdeJM=s0)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODM2MTc2MSwtMTI3ODAzODc5NiwtNj
+eyJoaXN0b3J5IjpbLTI4OTU4NTAyNywtMTI3ODAzODc5NiwtNj
 k1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2
 NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLT
 QxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
