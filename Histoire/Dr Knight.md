@@ -73,9 +73,12 @@ Hooverville was the name of a slum in Seattle (1937). It was named after Preside
 	* Reconstruction Finance Company - supported banks
 	* Tariffs
 * Hoover opposed to social security
-	* Relief should be provided by local governement and charities NOT the government
+	* Relief should be provided by local government and charities NOT the government
+* Bonus Army Marches, June 1932 - Hoover refused to meet
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzczMzg5OCwzOTgwMDY5MjcsLTEzMD
+eyJoaXN0b3J5IjpbMTU5NjU4NzE1OSwzOTgwMDY5MjcsLTEzMD
 ExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEwMjcz
 MzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3NzE3MC
 wtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2
