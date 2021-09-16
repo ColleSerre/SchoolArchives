@@ -107,13 +107,15 @@ The type of federal budget that took place in 1932 is characteristic of a war wh
 * National Industrial Recovery Act (NIRA)
 * Public Works Administration
 * National Recovery Administration (NRA)
-* "fireside chats" - every Sunday. 60 million people tuned in.
+* "fireside chats" - every Sunday. 60 million people tuned in
+
+### Tennessee Valley Authority 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAxODA3NjgsMzQ4NzkxOTIxLC0xMj
-k5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLTEzMDExMzYy
-MzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEwMjczMzIyLC
-03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3NzE3MCwtMTM0
-MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2Mzc3NT
-g4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLTIw
-MTk0MDI0NzddfQ==
+eyJoaXN0b3J5IjpbMTg5MDEyNDAyOSwtMTAyMDE4MDc2OCwzND
+g3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5ODAwNjky
+NywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAzODcsLT
+E0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1
+ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2Nj
+IsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLTQx
+OTQ5NDM2NV19
 -->
