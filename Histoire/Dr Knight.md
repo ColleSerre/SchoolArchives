@@ -81,13 +81,14 @@ Roosevelt -- Franklin Delano Roosevelt
 * "Active government" to improve the life of ordinary people
 * Use government to get people back to work
 * Consulted widely: factory owners, union leaders, economist
-* Vague promises of a 'New Deal"
+* Vague promises of a 'New Deal'
+* 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Njk4MjA0Myw1NDIzMTc2MzgsMzk4MD
+eyJoaXN0b3J5IjpbMTI5MzEyMzA2MCw1NDIzMTc2MzgsMzk4MD
 A2OTI3LC0xMzAxMTM2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4
 NywtMTQxMDI3MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4Nzk2LC
 02OTU4NzcxNzAsLTEzNDE3MjYwNjIsMzA1MzUwMzY5LDU0NjYz
