@@ -89,16 +89,20 @@ Massive program that FDR launched. The three Rs: **Relief, Recovery and Reform**
 
 ### Keynesian economics
 
-Sir John Maynard 
+Sir John Maynard Keynes
+
+* Critic of Versailles Treaty
+* Government action can foster full employment and stimulate the economy
+* Managed market economy - predominantly private sector, but with an active role for **government intervention during recessions and **
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAzNTAzOCw1NDIzMTc2MzgsMzk4MD
-A2OTI3LC0xMzAxMTM2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4
-NywtMTQxMDI3MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4Nzk2LC
-02OTU4NzcxNzAsLTEzNDE3MjYwNjIsMzA1MzUwMzY5LDU0NjYz
-NDY2MiwtMTE0NjM3NzU4OCw5NTM2OTc5OTAsLTg1NDcwMTEzNi
-wtNDE5NDk0MzY1LC0yMDE5NDAyNDc3LC0xNTgxOTQ0MTkxXX0=
+eyJoaXN0b3J5IjpbOTAxMjY2NTc2LDU0MjMxNzYzOCwzOTgwMD
+Y5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3
+LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLT
+Y5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0
+NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC
+00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
 
 -->
