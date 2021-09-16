@@ -93,16 +93,16 @@ Sir John Maynard Keynes
 
 * Critic of Versailles Treaty
 * Government action can foster full employment and stimulate the economy
-* Managed market economy - predominantly private sector, but with an active role for **government intervention during recessions and **
+* Managed market economy - predominantly private sector, but with an active role for **government intervention during recessions and depressions**. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMjY2NTc2LDU0MjMxNzYzOCwzOTgwMD
-Y5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3
-LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLT
-Y5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0
-NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC
-00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzU5NzY3NzUsNTQyMzE3NjM4LDM5OD
+AwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAz
+ODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5Ni
+wtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2
+MzQ2NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMz
+YsLTQxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
 
 -->
