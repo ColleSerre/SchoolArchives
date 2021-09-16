@@ -56,11 +56,14 @@ Cecil Roberts, The Bright Twenties, 1938
 
 Black Thursday: 24 October 1929
 
-The year 1920 was a speculative bubble which burst on Black Thursday. People who didn't speculate lost everything too. The Dow Jones snowballed into the crash. US unemployment reaches a high in 1923 (24.9 % of Americans are unemployed). 
+The year 1920 was a speculative bubble which burst on Black Thursday. People who didn't speculate lost everything too. The Dow Jones snowballed into the crash. US unemployment reaches a high in 1923 (24.9 % of Americans are unemployed).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xND
-EwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3
-NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC
-0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC00MTk0
-OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMT
+UwNzQwMzg3LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgw
+Mzg3OTYsLTY5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNj
+ksNTQ2NjM0NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0
+NzAxMTM2LC00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5ND
+QxOTFdfQ==
 -->
