@@ -104,9 +104,12 @@ The type of federal budget that took place in 1932 is characteristic of a war wh
 * Federal Emergency Relief Administration
 * Civilian Conservation Corps
 * Agricultural Adjustment Administration
-* Nationale Industrial 
+* National Industrial Recovery Act (NIRA)
+* Public Works Administration
+* National Recovery Administration (NRA)
+* "fireside chats" - every Sunday. 60 million people tuned in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc0NTUwNTcsMzQ4NzkxOTIxLC0xMj
+eyJoaXN0b3J5IjpbLTEwMjAxODA3NjgsMzQ4NzkxOTIxLC0xMj
 k5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLTEzMDExMzYy
 MzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEwMjczMzIyLC
 03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3NzE3MCwtMTM0
