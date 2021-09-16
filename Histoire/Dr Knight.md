@@ -74,14 +74,23 @@ Hooverville was the name of a slum in Seattle (1937). It was named after Preside
 	* Tariffs
 * Hoover opposed to social security
 	* Relief should be provided by local government and charities NOT the federal government
-* Bonus Army Marches, June 1932 - Hoover refused to meet
+* Bonus Army Marches, June 1932 - Hoover refused to meet the ex soldiers
+
+Roosevelt -- Franklin Delano Roosevelt
+
+* "Active government" to improve the life of ordinary people
+* Use government to get people back to worl
+*
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMzE3NjM4LDM5ODAwNjkyNywtMTMwMT
-EzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAzODcsLTE0MTAyNzMz
-MjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1ODc3MTcwLC
-0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2NjIsLTExNDYz
-Nzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLTQxOTQ5NDM2NS
-wtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
+eyJoaXN0b3J5IjpbLTIwOTk0OTQ4NjIsNTQyMzE3NjM4LDM5OD
+AwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAz
+ODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5Ni
+wtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2
+MzQ2NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMz
+YsLTQxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
+
 -->
