@@ -96,13 +96,21 @@ Sir John Maynard Keynes
 * Managed market economy - predominantly private sector, but with an active role for **government intervention during recessions and depressions**. 
 * Laissez faire
 
-The type of federal budget that took place in 1932 is characteristic of a war which shows the 
+The type of federal budget that took place in 1932 is characteristic of a war which shows the magnitude of the crisis.
+
+**The Hundred Days**
+
+* Emergency Banking Act & Securities Exchange Commission
+* Federal Emergency Relief Administration
+* Civilian Conservation Corps
+* Agricultural Adjustment Administration
+* Nationale Industrial 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNjQ4MjkxLDM0ODc5MTkyMSwtMTI5OT
-cxMDMwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0xMzAxMTM2MjM1
-LDc0MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3MzMyMiwtNz
-Q0MTAyNTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNzAsLTEzNDE3
-MjYwNjIsMzA1MzUwMzY5LDU0NjYzNDY2MiwtMTE0NjM3NzU4OC
-w5NTM2OTc5OTAsLTg1NDcwMTEzNiwtNDE5NDk0MzY1LC0yMDE5
-NDAyNDc3XX0=
+eyJoaXN0b3J5IjpbLTE5ODc0NTUwNTcsMzQ4NzkxOTIxLC0xMj
+k5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLTEzMDExMzYy
+MzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEwMjczMzIyLC
+03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3NzE3MCwtMTM0
+MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2Mzc3NT
+g4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC00MTk0OTQzNjUsLTIw
+MTk0MDI0NzddfQ==
 -->
