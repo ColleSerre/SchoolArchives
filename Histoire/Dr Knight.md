@@ -111,13 +111,13 @@ The type of federal budget that took place in 1932 is characteristic of a war wh
 
 ### Tennessee Valley Authority 
 
-Major infrastructure project. Example of Keynesianism. Trying to put people back to work. Promoted the raw material industry (steel, concrete). Gave people hydroelectric electricity
+Major federal infrastructure project (Reform). Example of Keynesianism. Trying to put people back to work (Recovery). Promoted the raw material industry (steel, concrete). Gave people hydroelectric electricity (Relief)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYzMDcxMTcsLTEwMjAxODA3NjgsMz
-Q4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5
-MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC
-0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5
-NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0Nj
-YyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC00
-MTk0OTQzNjVdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMT
+AyMDE4MDc2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3
+NjM4LDM5ODAwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLT
+ExNTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3
+ODAzODc5NiwtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MD
+M2OSw1NDY2MzQ2NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04
+NTQ3MDExMzZdfQ==
 -->
