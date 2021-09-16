@@ -96,11 +96,11 @@ Sir John Maynard Keynes
 * Managed market economy - predominantly private sector, but with an active role for **government intervention during recessions and depressions**. 
 * Laissez faire
 
-**Keynesianism: ** 
+**Keynesianism:** 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY2NDA5NTksNTQyMzE3NjM4LDM5OD
+eyJoaXN0b3J5IjpbLTE0NDc1MDM0NzcsNTQyMzE3NjM4LDM5OD
 AwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAz
 ODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5Ni
 wtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2
