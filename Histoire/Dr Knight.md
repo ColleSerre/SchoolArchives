@@ -68,12 +68,17 @@ Hooverville was the name of a slum in Seattle (1937). It was named after Preside
 
 ### 1932 Presidential Election
 
-* Hoover; "do nothing"
+* Hoover; "do nothing" president ?
+	* Tax cuts 1930 & 1931
+	* Reconstruction Finance Company - supported banks
+	* Tariffs
+* Hoover opposed to social security
+	* Relief should be provided by local governement and charities NOT the government
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY3MzYxMTEsMzk4MDA2OTI3LC0xMz
-AxMTM2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3
-MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNz
-AsLTEzNDE3MjYwNjIsMzA1MzUwMzY5LDU0NjYzNDY2MiwtMTE0
-NjM3NzU4OCw5NTM2OTc5OTAsLTg1NDcwMTEzNiwtNDE5NDk0Mz
-Y1LC0yMDE5NDAyNDc3LC0xNTgxOTQ0MTkxXX0=
+eyJoaXN0b3J5IjpbMTE0NzczMzg5OCwzOTgwMDY5MjcsLTEzMD
+ExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEwMjcz
+MzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3NzE3MC
+wtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0xMTQ2
+Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC00MTk0OTQzNj
+UsLTIwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
 -->
