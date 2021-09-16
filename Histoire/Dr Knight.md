@@ -83,16 +83,18 @@ Roosevelt -- Franklin Delano Roosevelt
 * Consulted widely: factory owners, union leaders, economist
 * Vague promises of a 'New Deal'
 
+### New Deal
 
+Massive program that FDR launched. Reform
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NjIyMzE0LDU0MjMxNzYzOCwzOTgwMD
-Y5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3
-LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLT
-Y5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0
-NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0NzAxMTM2LC
-00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5NDQxOTFdfQ==
+eyJoaXN0b3J5IjpbLTE2NzI4MzE4NjksNTQyMzE3NjM4LDM5OD
+AwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAz
+ODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5Ni
+wtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2
+MzQ2NjIsLTExNDYzNzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMz
+YsLTQxOTQ5NDM2NSwtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
 
 -->
