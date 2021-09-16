@@ -60,9 +60,9 @@ The year 1920 was a speculative bubble which burst on Black Thursday. People who
 
 ### The Dust Bowl
 
-The dust bowl and 
+1930-1941: A U.S Weather Bureau scientist called the drought of the 1930s "the worst in the climatological history of the country."  Conditions were especially severe in the southern plains, where farming on marginal land threatened the environment even before the drought str
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTkxMTg4OSwtMTMwMTEzNjIzNSw3ND
+eyJoaXN0b3J5IjpbLTMwMTQ3NzI4MSwtMTMwMTEzNjIzNSw3ND
 E2MDc3MDcsLTExNTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0NDEw
 MjU4NSwtMTI3ODAzODc5NiwtNjk1ODc3MTcwLC0xMzQxNzI2MD
 YyLDMwNTM1MDM2OSw1NDY2MzQ2NjIsLTExNDYzNzc1ODgsOTUz
