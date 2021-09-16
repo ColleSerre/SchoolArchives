@@ -58,12 +58,14 @@ Black Thursday: 24 October 1929
 
 The year 1920 was a speculative bubble which burst on Black Thursday. People who didn't speculate lost everything too. The Dow Jones snowballed into the crash. US unemployment reaches a high in 1923 (24.9 % of Americans are unemployed).
 
+### The Dust Bowl
 
+The dust bowl and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMT
-UwNzQwMzg3LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgw
-Mzg3OTYsLTY5NTg3NzE3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNj
-ksNTQ2NjM0NjYyLC0xMTQ2Mzc3NTg4LDk1MzY5Nzk5MCwtODU0
-NzAxMTM2LC00MTk0OTQzNjUsLTIwMTk0MDI0NzcsLTE1ODE5ND
-QxOTFdfQ==
+eyJoaXN0b3J5IjpbLTI4OTkxMTg4OSwtMTMwMTEzNjIzNSw3ND
+E2MDc3MDcsLTExNTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0NDEw
+MjU4NSwtMTI3ODAzODc5NiwtNjk1ODc3MTcwLC0xMzQxNzI2MD
+YyLDMwNTM1MDM2OSw1NDY2MzQ2NjIsLTExNDYzNzc1ODgsOTUz
+Njk3OTkwLC04NTQ3MDExMzYsLTQxOTQ5NDM2NSwtMjAxOTQwMj
+Q3NywtMTU4MTk0NDE5MV19
 -->
