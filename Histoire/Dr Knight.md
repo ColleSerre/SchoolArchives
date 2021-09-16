@@ -62,12 +62,12 @@ The year 1920 was a speculative bubble which burst on Black Thursday. People who
 
 1930-1941: A U.S. Weather Bureau scientist called the drought of the 1930s "the worst in the climatological history of the country."  Conditions were especially severe in the southern plains, where farming on marginal land threatened the environment even before the drought struck. As farm families migrated west on Route 66, the federal government began a series of massive building projects that provided flood control, irrigation, electric power, and transportation facilities to residents of the states of the Far West. 
 
-The over farming that took place in the 30s, combined with long summers and droughts (and of course the Great Depression),  this was a triple (quadruple) catastrophe for farmers. 
+The over farming that took place in the 30s, combined with long summers and droughts (and of course the Great Depression),  this was a triple (quadruple) catastrophe for farmers. They left 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MDA2OTI3LC0xMzAxMTM2MjM1LDc0MT
-YwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3MzMyMiwtNzQ0MTAy
-NTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNzAsLTEzNDE3MjYwNj
-IsMzA1MzUwMzY5LDU0NjYzNDY2MiwtMTE0NjM3NzU4OCw5NTM2
-OTc5OTAsLTg1NDcwMTEzNiwtNDE5NDk0MzY1LC0yMDE5NDAyND
-c3LC0xNTgxOTQ0MTkxXX0=
+eyJoaXN0b3J5IjpbNTQ5NjE1MDU0LDM5ODAwNjkyNywtMTMwMT
+EzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAzODcsLTE0MTAyNzMz
+MjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1ODc3MTcwLC
+0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2NjIsLTExNDYz
+Nzc1ODgsOTUzNjk3OTkwLC04NTQ3MDExMzYsLTQxOTQ5NDM2NS
+wtMjAxOTQwMjQ3NywtMTU4MTk0NDE5MV19
 -->
