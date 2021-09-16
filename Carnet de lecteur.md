@@ -195,7 +195,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Quand le dernier arbre aura été abattu, Quand la dernière rivière aura été empoisonnée, Quand le dernier poisson aura été péché. Alors on saura que l’'argent ne se mange pas. - Geronimo
 * Le vieux monde se meurt, le nouveau est lent à apparaître, et c'est dans ce clair-obscur que surgissent les monstres. - Gramsci
 * Les philosophes n'ont fait qu'interpréter diversement le monde, ce qui importe, c'est de le changer. - Marx
-* La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. (république bourgeoise) - d
+* La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. (république bourgeoise) - Déclaration des droits de l'homme et du citoyen (Article 17)
 
 ### Apparences vs Réalité
 
@@ -402,6 +402,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzk3MjkwNSwxNTczMDcxNTIzLDcxNz
-MxMDY0OV19
+eyJoaXN0b3J5IjpbNTQxMzE0NTE0LDE1NzMwNzE1MjMsNzE3Mz
+EwNjQ5XX0=
 -->
