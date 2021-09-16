@@ -64,9 +64,13 @@ The year 1920 was a speculative bubble which burst on Black Thursday. People who
 
 The over farming that took place in the 30s, combined with long summers and droughts (and of course the Great Depression),  this was a triple (quadruple) catastrophe for farmers. They left their farms and equipment on site which gave the places a deserted look.
 
-Hooverville was the name of a slum in Seattle (1937). It was named after pre
+Hooverville was the name of a slum in Seattle (1937). It was named after President Herbert Hoover. 
+
+### 1932 Presidential Election
+
+* Hoover; "do nothing"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxMzk1ODIsMzk4MDA2OTI3LC0xMz
+eyJoaXN0b3J5IjpbLTE1MzY3MzYxMTEsMzk4MDA2OTI3LC0xMz
 AxMTM2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3
 MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNz
 AsLTEzNDE3MjYwNjIsMzA1MzUwMzY5LDU0NjYzNDY2MiwtMTE0
