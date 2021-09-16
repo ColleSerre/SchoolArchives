@@ -111,9 +111,9 @@ The type of federal budget that took place in 1932 is characteristic of a war wh
 
 ### Tennessee Valley Authority 
 
-Major infrastructure project. Example of Keynesianism. 
+Major infrastructure project. Example of Keynesianism. Trying to put people back to work. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ1NzA4NzksLTEwMjAxODA3NjgsMz
+eyJoaXN0b3J5IjpbLTE1MDkxNzQ0ODAsLTEwMjAxODA3NjgsMz
 Q4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5
 MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC
 0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5
