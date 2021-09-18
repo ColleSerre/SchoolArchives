@@ -196,6 +196,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Le vieux monde se meurt, le nouveau est lent à apparaître, et c'est dans ce clair-obscur que surgissent les monstres. - Gramsci
 * Les philosophes n'ont fait qu'interpréter diversement le monde, ce qui importe, c'est de le changer. - Marx
 * La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. (république bourgeoise) - Déclaration des droits de l'homme et du citoyen (Article 17)
+* Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Compte-Sponville
 
 ### Apparences vs Réalité
 
@@ -402,6 +403,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMzE0NTE0LDE1NzMwNzE1MjMsNzE3Mz
-EwNjQ5XX0=
+eyJoaXN0b3J5IjpbNTYxOTcyMTA1LDU0MTMxNDUxNCwxNTczMD
+cxNTIzLDcxNzMxMDY0OV19
 -->
