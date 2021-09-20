@@ -6,11 +6,10 @@
 ### 1 - Un système climatique complexe
 
 Activité 1: Rédaction d'un article
-
 Activité 2: création d'un Canva sur le débunk d'infos climatosceptiques
-
 Gaz émis par l'homme: CO2, méthane, protoxyde d'azote, autres
+Deux choses font monter les océans: dilatation des 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjk2MjY5OSwxMTg0MjIxMTI2LDEyMz
-YxNzE3MTBdfQ==
+eyJoaXN0b3J5IjpbMTQ4OTYzMTQyNiwtOTI2OTYyNjk5LDExOD
+QyMjExMjYsMTIzNjE3MTcxMF19
 -->
