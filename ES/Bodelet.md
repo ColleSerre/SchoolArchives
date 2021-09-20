@@ -5,9 +5,11 @@
 
 ### 1 - Un système climatique complexe
 
-Activité: Rédaction d'un article
+Activité 1: Rédaction d'un article
 
+Activité 2: création d'un Canva sur le débunk d'infos climatosceptiques
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDIyMTEyNiwxMjM2MTcxNzEwXX0=
+eyJoaXN0b3J5IjpbLTQ2OTE4MjkwMywxMTg0MjIxMTI2LDEyMz
+YxNzE3MTBdfQ==
 -->
