@@ -9,7 +9,8 @@ Activité 1: Rédaction d'un article
 
 Activité 2: création d'un Canva sur le débunk d'infos climatosceptiques
 
+Gaz émis par l'homme: CO2, méthane, protoxyde d'azote, autres
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTE4MjkwMywxMTg0MjIxMTI2LDEyMz
+eyJoaXN0b3J5IjpbLTkyNjk2MjY5OSwxMTg0MjIxMTI2LDEyMz
 YxNzE3MTBdfQ==
 -->
