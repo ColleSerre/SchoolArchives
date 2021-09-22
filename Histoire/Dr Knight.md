@@ -111,7 +111,7 @@ The type of federal budget that took place in 1932 is characteristic of a war wh
 
 ### Tennessee Valley Authority or TVA
 
-Major federal infrastructure project (Reform). Example of Keynesianism. Trying to put people back to work (Recovery). Promoted the raw material industry (steel, concrete). Gave people hydroelectric electricity (Relief ). 
+Major federal infrastructure project (Reform). Example of Keynesianism. Trying to put people back to work (Recovery). Promoted the raw material industry (steel, concrete). Gave people hydroelectric electricity (Relief). 
 
 ### Why were the Hundred days important ? 
 
@@ -120,18 +120,16 @@ See drive
 ### The Second New Deal
 
 See drive
-
 Security and Exchange Commission (SEC): regulates the stock market 
-
 Soil Conservation Act: "To provide for the protection of land resources against soil erosion, and for other purposes”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM5NTUyMzgsLTQ5ODkzNDYzNiwtMT
-Q2NjMwNzExNywtMTAyMDE4MDc2OCwzNDg3OTE5MjEsLTEyOTk3
-MTAzMDcsNTQyMzE3NjM4LDM5ODAwNjkyNywtMTMwMTEzNjIzNS
-w3NDE2MDc3MDcsLTExNTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0
-NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1ODc3MTcwLC0xMzQxNz
-I2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2NjIsLTExNDYzNzc1ODgs
-OTUzNjk3OTkwXX0=
+eyJoaXN0b3J5IjpbLTg5ODU3NzE2LC0xNzczOTU1MjM4LC00OT
+g5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxODA3NjgsMzQ4Nzkx
+OTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLT
+EzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEw
+MjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3Nz
+E3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0x
+MTQ2Mzc3NTg4XX0=
 -->
