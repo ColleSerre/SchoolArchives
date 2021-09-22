@@ -121,15 +121,15 @@ See drive
 
 See drive
 Security and Exchange Commission (SEC): regulates the stock market 
-Soil Conservation Act: "To provide for the protection of land resources against soil erosion, and for other purposes”
+Soil Conservation Act: "To provide for the protection of land resources against soil erosion, and for other purposes” 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODU3NzE2LC0xNzczOTU1MjM4LC00OT
-g5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxODA3NjgsMzQ4Nzkx
-OTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLT
-EzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEw
-MjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3OTYsLTY5NTg3Nz
-E3MCwtMTM0MTcyNjA2MiwzMDUzNTAzNjksNTQ2NjM0NjYyLC0x
-MTQ2Mzc3NTg4XX0=
+eyJoaXN0b3J5IjpbLTEzNzk0NTEyMzIsLTE3NzM5NTUyMzgsLT
+Q5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAyMDE4MDc2OCwzNDg3
+OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5ODAwNjkyNy
+wtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAzODcsLTE0
+MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1OD
+c3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2NjIs
+LTExNDYzNzc1ODhdfQ==
 -->
