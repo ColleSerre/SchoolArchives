@@ -123,13 +123,21 @@ See drive
 Security and Exchange Commission (SEC): regulates the stock market 
 Soil Conservation Act: "To provide for the protection of land resources against soil erosion, and for other purposes” 
 
+### New Deal Criticism
+
+-   The New Deal was complicated and there were too many codes and regulations. 
+-   Government should not support trade unions and it should not support calls for higher wages - the market should deal with these issues.
+-   Schemes such as the TVA created unfair competition for private companies.
+-   The New Deal schemes were like the economic plans being carried out in the Communist USSR and unsuitable for the democratic, free-market USA.
+-   Roosevelt was behaving like a dictator.
+-   The wealthy were wealthy because they had worked hard and used their abilities. High taxes discouraged people from working hard and gave money to people for doing nothing or doing unnecessary jobs.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk0NTEyMzIsLTE3NzM5NTUyMzgsLT
-Q5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAyMDE4MDc2OCwzNDg3
-OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5ODAwNjkyNy
-wtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3NDAzODcsLTE0
-MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1OD
-c3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2NjIs
-LTExNDYzNzc1ODhdfQ==
+eyJoaXN0b3J5IjpbLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLT
+E3NzM5NTUyMzgsLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAy
+MDE4MDc2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3Nj
+M4LDM5ODAwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTEx
+NTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3OD
+AzODc5NiwtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2
+OSw1NDY2MzQ2NjJdfQ==
 -->
