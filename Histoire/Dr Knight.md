@@ -132,12 +132,13 @@ Soil Conservation Act: "To provide for the protection of land resources against 
 -   Roosevelt was behaving like a dictator.
 -   The wealthy were wealthy because they had worked hard and used their abilities. High taxes discouraged people from working hard and gave money to people for doing nothing or doing unnecessary jobs.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLT
-E3NzM5NTUyMzgsLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAy
-MDE4MDc2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3Nj
-M4LDM5ODAwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTEx
-NTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3OD
-AzODc5NiwtNjk1ODc3MTcwLC0xMzQxNzI2MDYyLDMwNTM1MDM2
-OSw1NDY2MzQ2NjJdfQ==
+eyJoaXN0b3J5IjpbMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMT
+M3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2
+MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMD
+MwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0xMzAxMTM2MjM1LDc0
+MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3MzMyMiwtNzQ0MT
+AyNTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNzAsLTEzNDE3MjYw
+NjIsMzA1MzUwMzY5XX0=
 -->
