@@ -109,17 +109,19 @@ The type of federal budget that took place in 1932 is characteristic of a war wh
 * National Recovery Administration (NRA)
 * "fireside chats" - every Sunday. 60 million people tuned in
 
-### Tennessee Valley Authority 
+### Tennessee Valley Authority or TVA
 
 Major federal infrastructure project (Reform). Example of Keynesianism. Trying to put people back to work (Recovery). Promoted the raw material industry (steel, concrete). Gave people hydroelectric electricity (Relief ). 
 
+### The Hundred Days
 
+Created the TVA, halted 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzA1NDM4NCwtNDk4OTM0NjM2LC0xND
-Y2MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MTkyMSwtMTI5OTcx
-MDMwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0xMzAxMTM2MjM1LD
-c0MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3MzMyMiwtNzQ0
-MTAyNTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNzAsLTEzNDE3Mj
-YwNjIsMzA1MzUwMzY5LDU0NjYzNDY2MiwtMTE0NjM3NzU4OCw5
-NTM2OTc5OTBdfQ==
+eyJoaXN0b3J5IjpbLTE5MzI3NzkwOTksLTQ5ODkzNDYzNiwtMT
+Q2NjMwNzExNywtMTAyMDE4MDc2OCwzNDg3OTE5MjEsLTEyOTk3
+MTAzMDcsNTQyMzE3NjM4LDM5ODAwNjkyNywtMTMwMTEzNjIzNS
+w3NDE2MDc3MDcsLTExNTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0
+NDEwMjU4NSwtMTI3ODAzODc5NiwtNjk1ODc3MTcwLC0xMzQxNz
+I2MDYyLDMwNTM1MDM2OSw1NDY2MzQ2NjIsLTExNDYzNzc1ODgs
+OTUzNjk3OTkwXX0=
 -->
