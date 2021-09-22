@@ -113,11 +113,19 @@ The type of federal budget that took place in 1932 is characteristic of a war wh
 
 Major federal infrastructure project (Reform). Example of Keynesianism. Trying to put people back to work (Recovery). Promoted the raw material industry (steel, concrete). Gave people hydroelectric electricity (Relief ). 
 
-### The Hundred Days
+### Why were the Hundred days important ? 
 
-Created the TVA, halted 
+See drive
+
+### The Second New Deal
+
+See drive
+
+### Security and Exchange Commission 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI3NzkwOTksLTQ5ODkzNDYzNiwtMT
+eyJoaXN0b3J5IjpbLTE2MjI5ODEyNTMsLTQ5ODkzNDYzNiwtMT
 Q2NjMwNzExNywtMTAyMDE4MDc2OCwzNDg3OTE5MjEsLTEyOTk3
 MTAzMDcsNTQyMzE3NjM4LDM5ODAwNjkyNywtMTMwMTEzNjIzNS
 w3NDE2MDc3MDcsLTExNTA3NDAzODcsLTE0MTAyNzMzMjIsLTc0
