@@ -137,13 +137,20 @@ Soil Conservation Act: "To provide for the protection of land resources against 
 
 Popular Front: A coalition of left, extreme-left wing parties and centre parties. They were made to combat the rising threat of Nazism and fascism. 
 
-The threat of fascism in France in 1937 was very real (nationalist li)
+The threat of fascism in France in 1937 was very real (nationalist leagues). 
+
+### Matignon Accords
+
+
+
+* 40 hour long week
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTI2OTYyMywtMjA4Mzc0MTcwNywxND
-k0OTM0NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzcz
-OTU1MjM4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxOD
-A3NjgsMzQ4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwz
-OTgwMDY5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNz
-QwMzg3LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3
-OTYsLTY5NTg3NzE3MF19
+eyJoaXN0b3J5IjpbMTYwMTUzNTQxLC0yMDgzNzQxNzA3LDE0OT
+Q5MzQ1ODYsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5
+NTUyMzgsLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAyMDE4MD
+c2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5
+ODAwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3ND
+AzODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5
+NiwtNjk1ODc3MTcwXX0=
 -->
