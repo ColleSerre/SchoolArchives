@@ -23,8 +23,9 @@ c. With all that which, but by being so retired, O'er-prized all popular rate
 d. in my false brother awaked an evil nature
 e. A falsehood, in its contrary as great as my trust was- which had indeed no limit, a confidence sans bound.
 f. Not only what my revenue yielded, but what my power might else exact
-g. To credit his own lie - 
+g. To credit his own lie - he did believe he was indeed Duke
+h. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjQxMDY2NywtNTcyODE0ODI2LC0xNj
-MyMDQ4ODY3LC0xNTAxNjEzMjgwLC01Njg5MDA2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTUyNDg4MDEsLTU3MjgxNDgyNiwtMT
+YzMjA0ODg2NywtMTUwMTYxMzI4MCwtNTY4OTAwNjQwXX0=
 -->
