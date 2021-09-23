@@ -141,16 +141,17 @@ The threat of fascism in France in 1937 was very real (nationalist leagues).
 
 ### Matignon Accords
 
-
+Created the French social contract
 
 * 40 hour long week
-* 
+* Collective bargaining
+* Paid holiday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTUzNTQxLC0yMDgzNzQxNzA3LDE0OT
-Q5MzQ1ODYsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5
-NTUyMzgsLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAyMDE4MD
-c2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5
-ODAwNjkyNywtMTMwMTEzNjIzNSw3NDE2MDc3MDcsLTExNTA3ND
-AzODcsLTE0MTAyNzMzMjIsLTc0NDEwMjU4NSwtMTI3ODAzODc5
-NiwtNjk1ODc3MTcwXX0=
+eyJoaXN0b3J5IjpbLTE4MzMzMjAyNjEsLTIwODM3NDE3MDcsMT
+Q5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3
+Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMT
+gwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMDMwNyw1NDIzMTc2Mzgs
+Mzk4MDA2OTI3LC0xMzAxMTM2MjM1LDc0MTYwNzcwNywtMTE1MD
+c0MDM4NywtMTQxMDI3MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4
+Nzk2LC02OTU4NzcxNzBdfQ==
 -->
