@@ -153,13 +153,15 @@ France and Belgium were hit later by the 1929 crisis because France was less ind
 
 Unemployment in France was *relatively* low because foreign workers were sent back to their home countries and French workers from rural origins returned to their native farms. This created problems because polish workers, which were the ones mostly working the mines, were forcefully returned to their countries. Unfortunately, the northern mines were low on workers because a lot of working class people had died during WW1.  
 
+### Radicalisation of politics
 
+the political system in France & Germany is discredited w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxND
-Y2OTExMDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3
-MDcsMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMi
-wtMTc3Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0x
-MDIwMTgwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMDMwNyw1NDIzMT
-c2MzgsMzk4MDA2OTI3LC0xMzAxMTM2MjM1LDc0MTYwNzcwNywt
-MTE1MDc0MDM4N119
+eyJoaXN0b3J5IjpbMTYxNTI0NDk3MSw1NTcwNzMwMDYsMTM3Mj
+g0ODc1NiwtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3NDExODE2
+NCwtMjA4Mzc0MTcwNywxNDk0OTM0NTg2LC0xMjkyMTc5MTg4LC
+0xMzc5NDUxMjMyLC0xNzczOTU1MjM4LC00OTg5MzQ2MzYsLTE0
+NjYzMDcxMTcsLTEwMjAxODA3NjgsMzQ4NzkxOTIxLC0xMjk5Nz
+EwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLTEzMDExMzYyMzUs
+NzQxNjA3NzA3XX0=
 -->
