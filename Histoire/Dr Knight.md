@@ -126,19 +126,21 @@ Soil Conservation Act: "To provide for the protection of land resources against 
 ### New Deal Criticism
 
 -   The New Deal was complicated and there were too many codes and regulations. 
--   Government should not support trade unions and it should not support calls for higher wages - the market should deal with these issues.
+-   Government should not support trade unions an d it should not support calls for higher wages - the market should deal with these issues.
 -   Schemes such as the TVA created unfair competition for private companies.
 -   The New Deal schemes were like the economic plans being carried out in the Communist USSR and unsuitable for the democratic, free-market USA.
 -   Roosevelt was behaving like a dictator.
 -   The wealthy were wealthy because they had worked hard and used their abilities. High taxes discouraged people from working hard and gave money to people for doing nothing or doing unnecessary jobs.
 
+## Great Depression in France
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMT
-M3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2
-MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMD
-MwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0xMzAxMTM2MjM1LDc0
-MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3MzMyMiwtNzQ0MT
-AyNTg1LC0xMjc4MDM4Nzk2LC02OTU4NzcxNzAsLTEzNDE3MjYw
-NjIsMzA1MzUwMzY5XX0=
+eyJoaXN0b3J5IjpbLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMT
+I5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4
+OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MT
+kyMSwtMTI5OTcxMDMwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0x
+MzAxMTM2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMD
+I3MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4Nzk2LC02OTU4Nzcx
+NzAsLTEzNDE3MjYwNjJdfQ==
 -->
