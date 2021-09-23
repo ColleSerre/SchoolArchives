@@ -148,12 +148,14 @@ Created the French social contract
 * Paid holidays
 
 France and Belgium were hit later by the 1929 crisis because France was less industrialized and therefore relied less on exports. France was less in debt than other countries. Its bankruptcies "only" doubled between 1929 & 1935 where the US increased 5 times. It lasted longer than in the US and exacerbated political instability of the Third Republic. 
+
+Unemployment in France was *relatively* low because foreign workers were sent back to their home countries. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY2OTExMDMsNzg0NzQyNDY2LDExNz
-QxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMTI5MjE3
-OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4OTM0Nj
-M2LC0xNDY2MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MTkyMSwt
-MTI5OTcxMDMwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0xMzAxMT
-M2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMDI3MzMy
-MiwtNzQ0MTAyNTg1XX0=
+eyJoaXN0b3J5IjpbMTAzMjE3MjAwMywtMjE0NjY5MTEwMyw3OD
+Q3NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0
+NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzczOTU1Mj
+M4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxODA3Njgs
+MzQ4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMD
+Y5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3
+LC0xNDEwMjczMzIyXX0=
 -->
