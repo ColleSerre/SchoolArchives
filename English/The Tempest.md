@@ -24,8 +24,9 @@ d. in my false brother awaked an evil nature
 e. A falsehood, in its contrary as great as my trust was- which had indeed no limit, a confidence sans bound.
 f. Not only what my revenue yielded, but what my power might else exact
 g. To credit his own lie - he did believe he was indeed Duke
-h. 
+h. Hence his ambition growing
+i. To have no
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUyNDg4MDEsLTU3MjgxNDgyNiwtMT
-YzMjA0ODg2NywtMTUwMTYxMzI4MCwtNTY4OTAwNjQwXX0=
+eyJoaXN0b3J5IjpbMjAxMjg5NTQ1LC01NzI4MTQ4MjYsLTE2Mz
+IwNDg4NjcsLTE1MDE2MTMyODAsLTU2ODkwMDY0MF19
 -->
