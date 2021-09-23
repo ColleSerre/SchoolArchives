@@ -156,12 +156,13 @@ Unemployment in France was *relatively* low because foreign workers were sent ba
 ### Radicalization of politics
 
 The political system in France & Germany is discredited which led to many people turning back from the "middle ground" towards extreme parties. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mj
-g0ODc1NiwtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3NDExODE2
-NCwtMjA4Mzc0MTcwNywxNDk0OTM0NTg2LC0xMjkyMTc5MTg4LC
-0xMzc5NDUxMjMyLC0xNzczOTU1MjM4LC00OTg5MzQ2MzYsLTE0
-NjYzMDcxMTcsLTEwMjAxODA3NjgsMzQ4NzkxOTIxLC0xMjk5Nz
-EwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLTEzMDExMzYyMzUs
-NzQxNjA3NzA3XX0=
+eyJoaXN0b3J5IjpbMzc4NDAxMzM5LDIwNDk2NzIwMTMsNTU3MD
+czMDA2LDEzNzI4NDg3NTYsLTIxNDY2OTExMDMsNzg0NzQyNDY2
+LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMT
+I5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4
+OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MT
+kyMSwtMTI5OTcxMDMwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0x
+MzAxMTM2MjM1XX0=
 -->
