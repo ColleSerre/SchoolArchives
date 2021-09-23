@@ -166,13 +166,14 @@ Several individuals were killed when several extreme right leagues protested aga
 Contre la misère, la guerre et le fascisme. 
 "Donner du pain aux travailleurs, du travail à la jeunesse, et la paix au monde"
 
+"Blum was confronted from the outset with a wave anti-Semitism such as France 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg5NTg1MzEsMjc4ODM2MzY3LDIwND
-k2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2OTEx
-MDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMT
-Q5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3
-Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMT
-gwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMDMwNyw1NDIzMTc2Mzgs
-Mzk4MDA2OTI3XX0=
+eyJoaXN0b3J5IjpbOTY4MDI1Mzg5LDI3ODgzNjM2NywyMDQ5Nj
+cyMDEzLDU1NzA3MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAz
+LDc4NDc0MjQ2NiwxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OT
+Q5MzQ1ODYsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5
+NTUyMzgsLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAyMDE4MD
+c2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5
+ODAwNjkyN119
 -->
