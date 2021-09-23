@@ -147,9 +147,9 @@ Created the French social contract
 * Collective bargaining
 * Paid holidays
 
-France and Belgium were hit later by the 1929 crisis because France was less industrialized and therefore relied less on exports. 
+France and Belgium were hit later by the 1929 crisis because France was less industrialized and therefore relied less on exports. France was less in debt than other countries. Its bankruptcies "only" doubled 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzExNTUzNiw3ODQ3NDI0NjYsMTE3ND
+eyJoaXN0b3J5IjpbLTQ2OTU1NTY1Niw3ODQ3NDI0NjYsMTE3ND
 ExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0NTg2LC0xMjkyMTc5
 MTg4LC0xMzc5NDUxMjMyLC0xNzczOTU1MjM4LC00OTg5MzQ2Mz
 YsLTE0NjYzMDcxMTcsLTEwMjAxODA3NjgsMzQ4NzkxOTIxLC0x
