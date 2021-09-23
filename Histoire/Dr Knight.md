@@ -147,13 +147,13 @@ Created the French social contract
 * Collective bargaining
 * Paid holidays
 
-
+France and Belgium were hit later by the 1929 crisis because France was less industrialized and therefore relied less on exports. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwOD
-M3NDE3MDcsMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1
-MTIzMiwtMTc3Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MT
-E3LC0xMDIwMTgwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMDMwNyw1
-NDIzMTc2MzgsMzk4MDA2OTI3LC0xMzAxMTM2MjM1LDc0MTYwNz
-cwNywtMTE1MDc0MDM4NywtMTQxMDI3MzMyMiwtNzQ0MTAyNTg1
-LC0xMjc4MDM4Nzk2XX0=
+eyJoaXN0b3J5IjpbMTgyMzExNTUzNiw3ODQ3NDI0NjYsMTE3ND
+ExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0NTg2LC0xMjkyMTc5
+MTg4LC0xMzc5NDUxMjMyLC0xNzczOTU1MjM4LC00OTg5MzQ2Mz
+YsLTE0NjYzMDcxMTcsLTEwMjAxODA3NjgsMzQ4NzkxOTIxLC0x
+Mjk5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMDY5MjcsLTEzMDExMz
+YyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3LC0xNDEwMjczMzIy
+LC03NDQxMDI1ODVdfQ==
 -->
