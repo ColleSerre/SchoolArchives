@@ -157,9 +157,11 @@ Unemployment in France was *relatively* low because foreign workers were sent ba
 
 The political system in France & Germany is discredited which led to many people turning back from the "middle ground" towards extreme parties. 
 
+### February 6th 1934 Crisis
 
+Several individuals were killed when several extreme right leagues protested against parliament. Some think this was an attempt to overthrow parliament. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MDUyMzI5LDIwNDk2NzIwMTMsNTU3MD
+eyJoaXN0b3J5IjpbMjc4ODM2MzY3LDIwNDk2NzIwMTMsNTU3MD
 czMDA2LDEzNzI4NDg3NTYsLTIxNDY2OTExMDMsNzg0NzQyNDY2
 LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMT
 I5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4
