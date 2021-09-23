@@ -17,8 +17,11 @@ Act I Scene 2:
 
 Activity page 14:
 
-a. I, thus neglected wo
+a. I, thus neglected worldly ends
+b. all dedicated to closeness 
+c. With all that which, but by being so retired, O'er-prized all popular rate
+d. in my fals
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzc0NjUwOCwtMTYzMjA0ODg2NywtMT
+eyJoaXN0b3J5IjpbMTE2NjIzMDEyMiwtMTYzMjA0ODg2NywtMT
 UwMTYxMzI4MCwtNTY4OTAwNjQwXX0=
 -->
