@@ -20,8 +20,9 @@ Activity page 14:
 a. I, thus neglected worldly ends
 b. all dedicated to closeness 
 c. With all that which, but by being so retired, O'er-prized all popular rate
-d. in my fals
+d. in my false brother awaked an evil nature
+e. A falsehood, in its contrary as great as my trust was- which had indeed no limit, a confidence 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjIzMDEyMiwtMTYzMjA0ODg2NywtMT
+eyJoaXN0b3J5IjpbMTA3MjcwNDQ0NywtMTYzMjA0ODg2NywtMT
 UwMTYxMzI4MCwtNTY4OTAwNjQwXX0=
 -->
