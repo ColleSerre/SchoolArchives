@@ -166,14 +166,16 @@ Several individuals were killed when several extreme right leagues protested aga
 Contre la misère, la guerre et le fascisme. 
 "Donner du pain aux travailleurs, du travail à la jeunesse, et la paix au monde"
 
-"Blum was confronted from the outset with a wave anti-Semitism such as France 
+"L'homme est à fusiller, mais dans le dos. C'est en tant que juif qu'il faut voir, concevoir, ent
+
+"Blum was confronted from the outset with a wave of anti-Semitism such as France had not seen since the days of the Dreyfus Affair." - William Shirer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MDI1Mzg5LDI3ODgzNjM2NywyMDQ5Nj
-cyMDEzLDU1NzA3MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAz
-LDc4NDc0MjQ2NiwxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OT
-Q5MzQ1ODYsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5
-NTUyMzgsLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAyMDE4MD
-c2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5
-ODAwNjkyN119
+eyJoaXN0b3J5IjpbLTExNTgyMTk4MSwyNzg4MzYzNjcsMjA0OT
+Y3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEw
+Myw3ODQ3NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxND
+k0OTM0NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzcz
+OTU1MjM4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxOD
+A3NjgsMzQ4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwz
+OTgwMDY5MjddfQ==
 -->
