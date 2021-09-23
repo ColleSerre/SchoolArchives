@@ -200,6 +200,9 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 
 ![](https://wikirouge.net/wr/images/5/51/ProductiviteTravailSalairesFrance.jpg)
 
+  
+![Bureau of Labor Statistics](https://wikirouge.net/wr/images/f/f9/Product-salaires.png)
+
 ### Apparences vs Réalité
 
 * Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action immorale qu'il commetra.
@@ -405,6 +408,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjEyMjQ5MSw1NjE5NzIxMDUsNTQxMz
-E0NTE0LDE1NzMwNzE1MjMsNzE3MzEwNjQ5XX0=
+eyJoaXN0b3J5IjpbLTE1ODAwOTQ0MzcsMjAxNjEyMjQ5MSw1Nj
+E5NzIxMDUsNTQxMzE0NTE0LDE1NzMwNzE1MjMsNzE3MzEwNjQ5
+XX0=
 -->
