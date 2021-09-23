@@ -153,11 +153,11 @@ France and Belgium were hit later by the 1929 crisis because France was less ind
 
 Unemployment in France was *relatively* low because foreign workers were sent back to their home countries and French workers from rural origins returned to their native farms. This created problems because polish workers, which were the ones mostly working the mines, were forcefully returned to their countries. Unfortunately, the northern mines were low on workers because a lot of working class people had died during WW1.  
 
-### Radicalisation of politics
+### Radicalization of politics
 
-the political system in France & Germany is discredited w
+The political system in France & Germany is discredited which led to many people turning back from the "middle ground" towards extreme parties. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTI0NDk3MSw1NTcwNzMwMDYsMTM3Mj
+eyJoaXN0b3J5IjpbMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mj
 g0ODc1NiwtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3NDExODE2
 NCwtMjA4Mzc0MTcwNywxNDk0OTM0NTg2LC0xMjkyMTc5MTg4LC
 0xMzc5NDUxMjMyLC0xNzczOTU1MjM4LC00OTg5MzQ2MzYsLTE0
