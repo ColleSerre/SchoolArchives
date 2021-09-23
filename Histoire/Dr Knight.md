@@ -159,13 +159,15 @@ The political system in France & Germany is discredited which led to many people
 
 ### February 6th 1934 Crisis
 
-Several individuals were killed when several extreme right leagues protested against parliament. Some think this was an attempt to overthrow parliament. After this crisis, the government resigned (Daladier). 
+Several individuals were killed when several extreme right leagues protested against parliament. Some think this was an attempt to overthrow parliament. After this crisis, the government resigned (Daladier). This shows the rise of fasctists as Hitler was already in power 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjA4Nzk4NCwyNzg4MzYzNjcsMjA0OT
-Y3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEw
-Myw3ODQ3NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxND
-k0OTM0NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzcz
-OTU1MjM4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxOD
-A3NjgsMzQ4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwz
-OTgwMDY5MjddfQ==
+eyJoaXN0b3J5IjpbLTU5NjYyNjYwLDI3ODgzNjM2NywyMDQ5Nj
+cyMDEzLDU1NzA3MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAz
+LDc4NDc0MjQ2NiwxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OT
+Q5MzQ1ODYsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5
+NTUyMzgsLTQ5ODkzNDYzNiwtMTQ2NjMwNzExNywtMTAyMDE4MD
+c2OCwzNDg3OTE5MjEsLTEyOTk3MTAzMDcsNTQyMzE3NjM4LDM5
+ODAwNjkyN119
 -->
