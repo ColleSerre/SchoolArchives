@@ -163,9 +163,12 @@ Several individuals were killed when several extreme right leagues protested aga
 
 ### The Popular Front
 
+Contre la misère, la guerre et le fascisme. 
+"Donner du pain aux travailleurs, du travail à la jeunesse, et la paix au monde"
 
+The bourgeoisie: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5MDEzOTQyLDI3ODgzNjM2NywyMDQ5Nj
+eyJoaXN0b3J5IjpbLTg1NjA3MzczLDI3ODgzNjM2NywyMDQ5Nj
 cyMDEzLDU1NzA3MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAz
 LDc4NDc0MjQ2NiwxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OT
 Q5MzQ1ODYsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5
