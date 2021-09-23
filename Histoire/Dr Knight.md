@@ -159,11 +159,13 @@ The political system in France & Germany is discredited which led to many people
 
 ### February 6th 1934 Crisis
 
-Several individuals were killed when several extreme right leagues protested against parliament. Some think this was an attempt to overthrow parliament. After this crisis, the government resigned (Daladier). This shows the rise of fasctists as Hitler was already in power 
+Several individuals were killed when several extreme right leagues protested against parliament. Some think this was an attempt to overthrow parliament. After this crisis, the government resigned (Daladier). This shows the rise of fascists as Hitler was already in power since 1933. Many thought that what happened in Germany would soon happen in France. 
+
+### The Popular Front
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjYyNjYwLDI3ODgzNjM2NywyMDQ5Nj
+eyJoaXN0b3J5IjpbOTM5MDEzOTQyLDI3ODgzNjM2NywyMDQ5Nj
 cyMDEzLDU1NzA3MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAz
 LDc4NDc0MjQ2NiwxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OT
 Q5MzQ1ODYsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5
