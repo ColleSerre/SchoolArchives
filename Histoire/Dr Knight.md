@@ -136,12 +136,14 @@ Soil Conservation Act: "To provide for the protection of land resources against 
 
 
 Popular Front: A coalition of left, extreme-left wing parties and centre parties. They were made to combat the rising threat of Nazism and fascism. 
+
+The threat of fascism in France in 1937 was very real (nationalist li)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE3MzE5NzksLTIwODM3NDE3MDcsMT
-Q5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3
-Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMT
-gwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMDMwNyw1NDIzMTc2Mzgs
-Mzk4MDA2OTI3LC0xMzAxMTM2MjM1LDc0MTYwNzcwNywtMTE1MD
-c0MDM4NywtMTQxMDI3MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4
-Nzk2LC02OTU4NzcxNzBdfQ==
+eyJoaXN0b3J5IjpbLTkzOTI2OTYyMywtMjA4Mzc0MTcwNywxND
+k0OTM0NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzcz
+OTU1MjM4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxOD
+A3NjgsMzQ4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwz
+OTgwMDY5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNz
+QwMzg3LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3
+OTYsLTY5NTg3NzE3MF19
 -->
