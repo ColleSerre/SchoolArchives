@@ -198,6 +198,8 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. (république bourgeoise) - Déclaration des droits de l'homme et du citoyen (Article 17)
 * Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Compte-Sponville
 
+![](https://wikirouge.net/wr/images/5/51/ProductiviteTravailSalairesFrance.jpg)
+
 ### Apparences vs Réalité
 
 * Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action immorale qu'il commetra.
@@ -403,6 +405,6 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxOTcyMTA1LDU0MTMxNDUxNCwxNTczMD
-cxNTIzLDcxNzMxMDY0OV19
+eyJoaXN0b3J5IjpbMjAxNjEyMjQ5MSw1NjE5NzIxMDUsNTQxMz
+E0NTE0LDE1NzMwNzE1MjMsNzE3MzEwNjQ5XX0=
 -->
