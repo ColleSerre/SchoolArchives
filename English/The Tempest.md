@@ -26,8 +26,8 @@ f. Not only what my revenue yielded, but what my power might else exact
 g. To credit his own lie - he did believe he was indeed Duke
 h. Hence his ambition growing
 i. To have no screen between this part he played
-j. Me, poor man, my library was dukedom large enough. Of temporal royalties he thi
+j. Me, poor man, my library was dukedom large enough. Of temporal royalties he thinks me now incapable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTMwMjc2NiwtNTcyODE0ODI2LC0xNj
+eyJoaXN0b3J5IjpbMTkwNjM0MDgxOSwtNTcyODE0ODI2LC0xNj
 MyMDQ4ODY3LC0xNTAxNjEzMjgwLC01Njg5MDA2NDBdfQ==
 -->
