@@ -132,15 +132,16 @@ Soil Conservation Act: "To provide for the protection of land resources against 
 -   Roosevelt was behaving like a dictator.
 -   The wealthy were wealthy because they had worked hard and used their abilities. High taxes discouraged people from working hard and gave money to people for doing nothing or doing unnecessary jobs.
 
-## Great Depression in France
+## Great Depression in France - The Popular Front and the Matignon Accords
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMT
-I5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4
-OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MT
-kyMSwtMTI5OTcxMDMwNyw1NDIzMTc2MzgsMzk4MDA2OTI3LC0x
-MzAxMTM2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4NywtMTQxMD
-I3MzMyMiwtNzQ0MTAyNTg1LC0xMjc4MDM4Nzk2LC02OTU4Nzcx
-NzAsLTEzNDE3MjYwNjJdfQ==
+eyJoaXN0b3J5IjpbMTg4OTc4NjQxMSwtMjA4Mzc0MTcwNywxND
+k0OTM0NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzcz
+OTU1MjM4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxOD
+A3NjgsMzQ4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwz
+OTgwMDY5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNz
+QwMzg3LC0xNDEwMjczMzIyLC03NDQxMDI1ODUsLTEyNzgwMzg3
+OTYsLTY5NTg3NzE3MF19
 -->
