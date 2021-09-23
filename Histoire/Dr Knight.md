@@ -149,13 +149,13 @@ Created the French social contract
 
 France and Belgium were hit later by the 1929 crisis because France was less industrialized and therefore relied less on exports. France was less in debt than other countries. Its bankruptcies "only" doubled between 1929 & 1935 where the US increased 5 times. It lasted longer than in the US and exacerbated political instability of the Third Republic. 
 
-Unemployment in France was *relatively* low because foreign workers were sent back to their home countries and french workers from rural origins returned to their native farms. 
+Unemployment in France was *relatively* low because foreign workers were sent back to their home countries and French workers from rural origins returned to their native farms. This created problems because polish workers which were the ones working the mines 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjIxNTIsLTIxNDY2OTExMDMsNzg0Nz
-QyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4
-NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOC
-wtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMTgwNzY4LDM0
-ODc5MTkyMSwtMTI5OTcxMDMwNyw1NDIzMTc2MzgsMzk4MDA2OT
-I3LC0xMzAxMTM2MjM1LDc0MTYwNzcwNywtMTE1MDc0MDM4Nywt
-MTQxMDI3MzMyMl19
+eyJoaXN0b3J5IjpbMTUyMjMyNTczNiwtMjE0NjY5MTEwMyw3OD
+Q3NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0
+NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzczOTU1Mj
+M4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxODA3Njgs
+MzQ4NzkxOTIxLC0xMjk5NzEwMzA3LDU0MjMxNzYzOCwzOTgwMD
+Y5MjcsLTEzMDExMzYyMzUsNzQxNjA3NzA3LC0xMTUwNzQwMzg3
+LC0xNDEwMjczMzIyXX0=
 -->
