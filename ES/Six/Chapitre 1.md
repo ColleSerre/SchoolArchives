@@ -10,10 +10,10 @@ Activité 1: En 40 ans, la consommation d'énergie a quasiment doublé dans le m
 
 Activité 2: Différentes émissions de gaz et de particules (en joules) qui ont des conséquences pour l'humain. 
 
-Activité 3: cf
+Activité 3: voir Google docs. En France, l'énergie fournie dé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzMzk5MzA5LDYzNzY4NDQ5MCwtNTc4Mz
-IwNjQ2LC0xNDc5MzU3MDQzLC05NzcxMjkxMjddfQ==
+eyJoaXN0b3J5IjpbLTEyNDc2NzEwMyw2Mzc2ODQ0OTAsLTU3OD
+MyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5MTI3XX0=
 -->
