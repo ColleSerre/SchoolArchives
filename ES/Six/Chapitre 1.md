@@ -46,9 +46,11 @@ x = 2,38 * 10 ^-5 * 3,10 = 7,38 * 10^-5 kg de CO2
 
 Biodiesel:
 1 kg biodiesel <-> 38000 kJ
-x = 1/38000 = 
+x = 1/38000 = 2,63 * 10^-5 kg
+1 kg de biodiesel libère 2,82 kg de CO2
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDEyNDQ2MywtNzk4MzMzNTU3LDI4MD
-gyNDMyNywtMTIzODE5OTIzNyw2Mzc2ODQ0OTAsLTU3ODMyMDY0
-NiwtMTQ3OTM1NzA0MywtOTc3MTI5MTI3XX0=
+eyJoaXN0b3J5IjpbNTgxODk1NTg4LC03OTgzMzM1NTcsMjgwOD
+I0MzI3LC0xMjM4MTk5MjM3LDYzNzY4NDQ5MCwtNTc4MzIwNjQ2
+LC0xNDc5MzU3MDQzLC05NzcxMjkxMjddfQ==
 -->
