@@ -29,10 +29,11 @@ Exo 6 p.78:
 
 Exo 7 p.79:
 
-1. La consommation d'énergie a connu un doublement 
+1. Au cours des 40 dernières années, un doublement de la consommation mondiale d'énergie a été observé en lien avec la croissance démographique et les activités humaines
+2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MzkzMjM2LC0xMjM4MTk5MjM3LDYzNz
-Y4NDQ5MCwtNTc4MzIwNjQ2LC0xNDc5MzU3MDQzLC05NzcxMjkx
-MjddfQ==
+eyJoaXN0b3J5IjpbMTYzMTMwMDk1NCwtMTIzODE5OTIzNyw2Mz
+c2ODQ0OTAsLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5
+MTI3XX0=
 -->
