@@ -33,9 +33,10 @@ Exo 7 p.79:
 2. Les énergies de flux, contrairement aux énergies de stock, sont inépuisables. 
 3. Les émissions de CO2, qui est un GES, sont responsables du réchauffement climatique. 
 4. La combustion provoque des émissions de particules nocives pour la santé. 
-5. 
+
+Plus le cout énergétique augmente, plus le cout carbone augmente. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc1ODAyOTYsMjgwODI0MzI3LC0xMj
-M4MTk5MjM3LDYzNzY4NDQ5MCwtNTc4MzIwNjQ2LC0xNDc5MzU3
-MDQzLC05NzcxMjkxMjddfQ==
+eyJoaXN0b3J5IjpbLTMzMTk3NDkzOSwyODA4MjQzMjcsLTEyMz
+gxOTkyMzcsNjM3Njg0NDkwLC01NzgzMjA2NDYsLTE0NzkzNTcw
+NDMsLTk3NzEyOTEyN119
 -->
