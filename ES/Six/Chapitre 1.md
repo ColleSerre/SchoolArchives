@@ -34,9 +34,9 @@ Exo 7 p.79:
 3. Les émissions de CO2, qui est un GES, sont responsables du réchauffement climatique. 
 4. La combustion provoque des émissions de particules nocives pour la santé. 
 
-Plus le cout énergétique augmente, plus le cout carbone augmente. 
+Plus le cout énergétique augmente, plus le cout carbone augmente. Les transports ferroviaires restent les moins émetteurs pour les trajets plus longs. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTk3NDkzOSwyODA4MjQzMjcsLTEyMz
+eyJoaXN0b3J5IjpbLTc5ODMzMzU1NywyODA4MjQzMjcsLTEyMz
 gxOTkyMzcsNjM3Njg0NDkwLC01NzgzMjA2NDYsLTE0NzkzNTcw
 NDMsLTk3NzEyOTEyN119
 -->
