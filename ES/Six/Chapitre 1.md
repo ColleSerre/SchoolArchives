@@ -20,8 +20,13 @@ QCM p. 78:
 
 Le bilan carbone d'un appareil électrique est non nul car on doit prendre en compte toutes les phases de sa vie ainsi que les émissions liées à la production de l'énergie nécessaire à son fonctionnement. 
 
+Exo 6 p.78:
+
+1. Cycle du carbone
+2. Réactions de combustion
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTM0MjEyNiwtMTIzODE5OTIzNyw2Mz
+eyJoaXN0b3J5IjpbMTk0MzIxMzE3MSwtMTIzODE5OTIzNyw2Mz
 c2ODQ0OTAsLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5
 MTI3XX0=
 -->
