@@ -29,11 +29,12 @@ Exo 6 p.78:
 
 Exo 7 p.79:
 
-1. Au cours des 40 dernières années, un doublement de la consommation mondiale d'énergie a été observé en lien avec la croissance démographique et les activités humaines
-2. 
+1. Au cours des 40 dernières années, un doublement de la consommation mondiale d'énergie a été observé en lien avec la croissance démographique et les activités humaines. 
+2. Les énergies de flux, contrairement aux énergies de stock, sont inépuisables. 
+3. Les émissions de CO2, qui est un GES, sont responsables du réchauffemane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTMwMDk1NCwtMTIzODE5OTIzNyw2Mz
+eyJoaXN0b3J5IjpbMTU0MDY4Nzc0MywtMTIzODE5OTIzNyw2Mz
 c2ODQ0OTAsLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5
 MTI3XX0=
 -->
