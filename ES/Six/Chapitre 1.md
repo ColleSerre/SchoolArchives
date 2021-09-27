@@ -41,8 +41,13 @@ Gazole:
 1 kg gazole <-> 42000 kJ
 x = 1/42000 = 2,38 * 10^5 kg de gazole
 1 kg gazole libère 3,10 kg CO2
+
+2,38 * 10^-5 kg -> x 
+x = 2,38 * 10 ^-5 * 3,10 = 7,38 * 10^-5 kg de CO2
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODQ5MzM3OSwtNzk4MzMzNTU3LDI4MD
+eyJoaXN0b3J5IjpbLTc5ODQ4MjE5NCwtNzk4MzMzNTU3LDI4MD
 gyNDMyNywtMTIzODE5OTIzNyw2Mzc2ODQ0OTAsLTU3ODMyMDY0
 NiwtMTQ3OTM1NzA0MywtOTc3MTI5MTI3XX0=
 -->
