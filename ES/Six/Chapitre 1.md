@@ -36,6 +36,8 @@ Exo 7 p.79:
 
 Plus le cout énergétique augmente, plus le cout carbone augmente. Les transports ferroviaires restent les moins émetteurs pour les trajets plus longs. 
 
+Exo 13 p.
+
 Gazole:
 1 kg gazole <-> 42000 kJ
 x = 1/42000 = 2,38 * 10^5 kg de gazole
@@ -50,9 +52,11 @@ x = 1/38000 = 2,63 * 10^-5 kg
 1 kg de biodiesel libère 2,82 kg de CO2
 
 2,63 * 10^-5 = x
-x = 2,63 * 10^-5 * 2,82 = 7,42 * 10^-5
+x = 2,63 * 10^-5 * 2,82 = 7,42 * 10^-5 * 25/100 = 1,85 * 10^-5 kg CO2
+
+Le biodiesel libère beaucoup moins de CO2 que le gazole lors de sa combustion. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2OTU3MjY3LC03OTgzMzM1NTcsMjgwOD
-I0MzI3LC0xMjM4MTk5MjM3LDYzNzY4NDQ5MCwtNTc4MzIwNjQ2
-LC0xNDc5MzU3MDQzLC05NzcxMjkxMjddfQ==
+eyJoaXN0b3J5IjpbMTk4Mzg0MzIyMiwtNzk4MzMzNTU3LDI4MD
+gyNDMyNywtMTIzODE5OTIzNyw2Mzc2ODQ0OTAsLTU3ODMyMDY0
+NiwtMTQ3OTM1NzA0MywtOTc3MTI5MTI3XX0=
 -->
