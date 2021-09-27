@@ -8,10 +8,12 @@ Risque naturel: la menace que survienne un évènement lié à un phénomène na
 
 Activité 1: En 40 ans, la consommation d'énergie a quasiment doublé dans le monde. Le PIB est corrélé à la consommation d'énergie sauf en Russie qui a des besoins énergétiques supérieurs et exporte des ressources raffinées qui nécessitent de l'énergie à produire. Énergies primaires, de stock et de flux (à définir) 
 
-Activité 2: 
+Activité 2: Différentes émissions de gaz et de particules (en joules) qui ont des conséquences pour l'humain. 
+
+Activité 3: cf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MjMxMDY1LDYzNzY4NDQ5MCwtNTc4Mz
+eyJoaXN0b3J5IjpbNzUzMzk5MzA5LDYzNzY4NDQ5MCwtNTc4Mz
 IwNjQ2LC0xNDc5MzU3MDQzLC05NzcxMjkxMjddfQ==
 -->
