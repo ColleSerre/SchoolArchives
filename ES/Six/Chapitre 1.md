@@ -18,10 +18,10 @@ QCM p. 78:
 3. B et C
 4. C et D
 
-Le bilan carbone d'un appareil électrique est non nul car on doit prendre en compte toutes les phases de sa v
+Le bilan carbone d'un appareil électrique est non nul car on doit prendre en compte toutes les phases de sa vie ainsi que les émissions liées à la production de l'énergie nécessaire à son fonctionnement. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzk1NzExMywtMTIzODE5OTIzNyw2Mz
+eyJoaXN0b3J5IjpbLTg1NTM0MjEyNiwtMTIzODE5OTIzNyw2Mz
 c2ODQ0OTAsLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5
 MTI3XX0=
 -->
