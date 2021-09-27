@@ -12,12 +12,19 @@ Activité 2: Différentes émissions de gaz et de particules (en joules) qui ont
 
 Activité 3: voir Google docs. En France, l'énergie fournie dépend du nucléaire 
 
+QCM p. 78:
+
+1. B
+2. A et D
+3. B et C
+4. 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDA1MjYxMywtMTIzODE5OTIzNyw2Mz
+eyJoaXN0b3J5IjpbMjA3MTQyODMyOSwtMTIzODE5OTIzNyw2Mz
 c2ODQ0OTAsLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5
 MTI3XX0=
 -->
