@@ -24,9 +24,15 @@ Exo 6 p.78:
 
 1. Cycle du carbone
 2. Réactions de combustion
+3. Empreinte carbone
+4. Énergie  à stock
+
+Exo 7 p.79:
+
+1. La consommation d'énergie a connu un doublement 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzIxMzE3MSwtMTIzODE5OTIzNyw2Mz
-c2ODQ0OTAsLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5
-MTI3XX0=
+eyJoaXN0b3J5IjpbMjM2MzkzMjM2LC0xMjM4MTk5MjM3LDYzNz
+Y4NDQ5MCwtNTc4MzIwNjQ2LC0xNDc5MzU3MDQzLC05NzcxMjkx
+MjddfQ==
 -->
