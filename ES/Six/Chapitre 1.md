@@ -18,15 +18,10 @@ QCM p. 78:
 3. B et C
 4. C et D
 
-Question 5 p. 78:
-
-1. Non
-2. Non
-3. Non
-4. Non
+Le bilan carbone d'un appareil électrique est non nul car on doit prendre en compte toutes les phases de sa v
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjI5MzExNCwtMTIzODE5OTIzNyw2Mz
+eyJoaXN0b3J5IjpbMTIyMzk1NzExMywtMTIzODE5OTIzNyw2Mz
 c2ODQ0OTAsLTU3ODMyMDY0NiwtMTQ3OTM1NzA0MywtOTc3MTI5
 MTI3XX0=
 -->
