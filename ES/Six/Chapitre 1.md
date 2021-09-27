@@ -35,8 +35,14 @@ Exo 7 p.79:
 4. La combustion provoque des émissions de particules nocives pour la santé. 
 
 Plus le cout énergétique augmente, plus le cout carbone augmente. Les transports ferroviaires restent les moins émetteurs pour les trajets plus longs. 
+
+Gazole:
+
+1 kg gazole <-> 42000 kJ
+x = 1/42000 = 2,38 * 10^5 kg de gazole
+1 kg gazole libère 3,10 kg CO2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODMzMzU1NywyODA4MjQzMjcsLTEyMz
-gxOTkyMzcsNjM3Njg0NDkwLC01NzgzMjA2NDYsLTE0NzkzNTcw
-NDMsLTk3NzEyOTEyN119
+eyJoaXN0b3J5IjpbLTU2ODQ5MzM3OSwtNzk4MzMzNTU3LDI4MD
+gyNDMyNywtMTIzODE5OTIzNyw2Mzc2ODQ0OTAsLTU3ODMyMDY0
+NiwtMTQ3OTM1NzA0MywtOTc3MTI5MTI3XX0=
 -->
