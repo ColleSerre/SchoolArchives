@@ -36,8 +36,10 @@
 | das Angebot | l'offre/choix |
 | sich engagieren | s'engager |
 
-Per Mertesacker ist ein deutschen fussballspieler. 
+Per Mertesacker ist ein deutschen Fußballspieler. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzODc4NDY4LDUyOTg0NDczNCwtMTc1Mz
-UxODEyOCwtMTkwMDc0MTYyNF19
+eyJoaXN0b3J5IjpbODM5OTY2OTgxLDMzMzg3ODQ2OCw1Mjk4ND
+Q3MzQsLTE3NTM1MTgxMjgsLTE5MDA3NDE2MjRdfQ==
 -->
