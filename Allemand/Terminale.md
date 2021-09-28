@@ -36,13 +36,15 @@
 | das Angebot | l'offre/choix |
 | sich engagieren | s'engager |
 
-## Sind die Bundestagswahlen 
+## Sind die Bundestagswahlen von einem demokratischen Staat zum anderen identisch? / gleich ?
+
+Wer darf in Deutschland wählen ? Wen kann man in Deus
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NjIwMTEzLDgzOTk2Njk4MSwzMzM4Nz
-g0NjgsNTI5ODQ0NzM0LC0xNzUzNTE4MTI4LC0xOTAwNzQxNjI0
-XX0=
+eyJoaXN0b3J5IjpbMTM1NTQ4NDY4NSw3NTc2MjAxMTMsODM5OT
+Y2OTgxLDMzMzg3ODQ2OCw1Mjk4NDQ3MzQsLTE3NTM1MTgxMjgs
+LTE5MDA3NDE2MjRdfQ==
 -->
