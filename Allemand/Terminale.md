@@ -38,13 +38,13 @@
 
 ## Sind die Bundestagswahlen von einem demokratischen Staat zum anderen identisch? / gleich ?
 
-Wer darf in Deutschland wählen ? Wen kann man in Deus
+Wer darf in Deutschland wählen ? Wen kann man in Deutschland wählen ? Wie wählt im Deutschland?
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTQ4NDY4NSw3NTc2MjAxMTMsODM5OT
-Y2OTgxLDMzMzg3ODQ2OCw1Mjk4NDQ3MzQsLTE3NTM1MTgxMjgs
-LTE5MDA3NDE2MjRdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDE5Njk0LDc1NzYyMDExMyw4Mzk5Nj
+Y5ODEsMzMzODc4NDY4LDUyOTg0NDczNCwtMTc1MzUxODEyOCwt
+MTkwMDc0MTYyNF19
 -->
