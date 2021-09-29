@@ -170,12 +170,13 @@ Contre la misère, la guerre et le fascisme.
 
 "Blum was confronted from the outset with a wave of anti-Semitism such as France had not seen since the days of the Dreyfus Affair." - William Shirer
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkzMjE5NTQsMjc4ODM2MzY3LDIwND
-k2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2OTEx
-MDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMT
-Q5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3
-Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMT
-gwNzY4LDM0ODc5MTkyMSwtMTI5OTcxMDMwNyw1NDIzMTc2Mzgs
-Mzk4MDA2OTI3XX0=
+eyJoaXN0b3J5IjpbLTgwNjEyNzY2OCwtMTU0OTMyMTk1NCwyNz
+g4MzYzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1
+NiwtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3NDExODE2NCwtMj
+A4Mzc0MTcwNywxNDk0OTM0NTg2LC0xMjkyMTc5MTg4LC0xMzc5
+NDUxMjMyLC0xNzczOTU1MjM4LC00OTg5MzQ2MzYsLTE0NjYzMD
+cxMTcsLTEwMjAxODA3NjgsMzQ4NzkxOTIxLC0xMjk5NzEwMzA3
+LDU0MjMxNzYzOF19
 -->
