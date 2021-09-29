@@ -183,10 +183,14 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 * Paid holidays for workers - 2 weeks
 * Salary increases: 7-15%
 * Collective bargaining (the legal right for unions to negotiate with corporations on behalf of the workers)
-
-
+* National Grain Office
+* Bank of France - government control
+* Nationalizations
+* Compulsory education → 14 years
+* Public Works Program
+* 133 laws in 73 days 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc5MTkyNjQsLTEzMDUzNDgwOTIsNT
+eyJoaXN0b3J5IjpbLTEwNDQxNTA4NTAsLTEzMDUzNDgwOTIsNT
 YwMjczMzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2
 MzY3LDIwNDk2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLT
 IxNDY2OTExMDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3
