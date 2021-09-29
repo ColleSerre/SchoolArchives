@@ -195,18 +195,17 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 * Nationalization of all railway companies
 
 ### Were the measures taken by the FP a french "New Deal" ? 
-
 Difference of scale: New Deal was earlier, longer and bigger
 Different causes: New Deal was born to solve a crisis, FP was born to fight agains fascism (which was growing due to the 1929 crash & the great depression)
-Different continuity: The New Deal "continued" during the second w
+Different continuity: The New Deal "continued" during the second world war whereas the Matignon accords were terminated by the Vichy government. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjE2MzU4NiwtMjEyNDE0MjU0NCwtMT
-k5MzAzOTU5OSwtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgwNjEy
-NzY2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAxMy
-w1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3ODQ3
-NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0NT
-g2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzczOTU1MjM4
-LC00OTg5MzQ2MzZdfQ==
+eyJoaXN0b3J5IjpbLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOT
+kzMDM5NTk5LC0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3
+NjY4LC0xNTQ5MzIxOTU0LDI3ODgzNjM2NywyMDQ5NjcyMDEzLD
+U1NzA3MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAzLDc4NDc0
+MjQ2NiwxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OTQ5MzQ1OD
+YsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5NTUyMzgs
+LTQ5ODkzNDYzNl19
 -->
