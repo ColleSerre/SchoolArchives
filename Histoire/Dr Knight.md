@@ -182,13 +182,15 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 * 40 hours work week (equivalent to a day off for some)
 * Paid holidays for workers - 2 weeks
 * Salary increases: 7-15%
-* Collective bargaining
+* Collective bargaining (the legal right for unions to negotiate with corporations on behalf of the workers)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzIyMTIsLTEzMDUzNDgwOTIsNTYwMj
-czMzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3
-LDIwNDk2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxND
-Y2OTExMDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3
-MDcsMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMi
-wtMTc3Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0x
-MDIwMTgwNzY4XX0=
+eyJoaXN0b3J5IjpbLTE0Nzc5MTkyNjQsLTEzMDUzNDgwOTIsNT
+YwMjczMzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2
+MzY3LDIwNDk2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLT
+IxNDY2OTExMDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3
+NDE3MDcsMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MT
+IzMiwtMTc3Mzk1NTIzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3
+LC0xMDIwMTgwNzY4XX0=
 -->
