@@ -194,11 +194,9 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 
 * Nationalization of all railway companies
 
-
-
-
+### Were the measures taken by the FP a french "New Deal" ? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcwMjIyMDksLTE5OTMwMzk1OTksLT
+eyJoaXN0b3J5IjpbLTIxMjQxNDI1NDQsLTE5OTMwMzk1OTksLT
 EzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMjc2NjgsLTE1NDkz
 MjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMsNTU3MDczMDA2LD
 EzNzI4NDg3NTYsLTIxNDY2OTExMDMsNzg0NzQyNDY2LDExNzQx
