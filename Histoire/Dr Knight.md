@@ -170,13 +170,14 @@ Contre la misère, la guerre et le fascisme.
 
 "Blum was confronted from the outset with a wave of anti-Semitism such as France had not seen since the days of the Dreyfus Affair." - William Shirer
 
-* 19 to 72 
+* 11 % of communists in parliament in 1936 (72 seats)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODQ2ODQxMCwtODA2MTI3NjY4LC0xNT
-Q5MzIxOTU0LDI3ODgzNjM2NywyMDQ5NjcyMDEzLDU1NzA3MzAw
-NiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAzLDc4NDc0MjQ2NiwxMT
-c0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OTQ5MzQ1ODYsLTEyOTIx
-NzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5NTUyMzgsLTQ5ODkzND
-YzNiwtMTQ2NjMwNzExNywtMTAyMDE4MDc2OCwzNDg3OTE5MjEs
-LTEyOTk3MTAzMDddfQ==
+eyJoaXN0b3J5IjpbNzI1MTcxNzQwLC04MDYxMjc2NjgsLTE1ND
+kzMjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMsNTU3MDczMDA2
+LDEzNzI4NDg3NTYsLTIxNDY2OTExMDMsNzg0NzQyNDY2LDExNz
+QxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMTI5MjE3
+OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4OTM0Nj
+M2LC0xNDY2MzA3MTE3LC0xMDIwMTgwNzY4LDM0ODc5MTkyMSwt
+MTI5OTcxMDMwN119
 -->
