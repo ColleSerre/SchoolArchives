@@ -195,12 +195,16 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 * Nationalization of all railway companies
 
 ### Were the measures taken by the FP a french "New Deal" ? 
+
+Difference of scale: New Deal was longer and bigger
+Different causes: New Deal was born to solve a crisis, FP was born to fight agains fasci
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQxNDI1NDQsLTE5OTMwMzk1OTksLT
-EzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMjc2NjgsLTE1NDkz
-MjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMsNTU3MDczMDA2LD
-EzNzI4NDg3NTYsLTIxNDY2OTExMDMsNzg0NzQyNDY2LDExNzQx
-MTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMTI5MjE3OT
-E4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NTIzOCwtNDk4OTM0NjM2
-LC0xNDY2MzA3MTE3XX0=
+eyJoaXN0b3J5IjpbMjAwMTE3NDgzMCwtMjEyNDE0MjU0NCwtMT
+k5MzAzOTU5OSwtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgwNjEy
+NzY2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAxMy
+w1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3ODQ3
+NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0NT
+g2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzczOTU1MjM4
+LC00OTg5MzQ2MzZdfQ==
 -->
