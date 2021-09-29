@@ -170,10 +170,16 @@ Contre la misère, la guerre et le fascisme.
 
 "Blum was confronted from the outset with a wave of anti-Semitism such as France had not seen since the days of the Dreyfus Affair." - William Shirer
 
-* 11 % of communists in parliament in 1936 (72 seats)
-* 
+![](https://lh6.googleusercontent.com/55DBJoToQeZSCp-Yi-cEzgJD-lKFNB1bMYMmaN0rqKehIjNMlmzaFRVoFGZjH8hKyY7BZEm8V9jwHHjj_l3yQmsNz_6RzdKSELfmxP-pq1_TmUcZIjcZ3gp0UklQr22cni9i6XCLTCY=s0)
+
+**11 % of communists in parliament in 1936 (72 seats)**
+
+### Joyous strikes
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MTcxNzQwLC04MDYxMjc2NjgsLTE1ND
+eyJoaXN0b3J5IjpbNTYwMjczMzczLC04MDYxMjc2NjgsLTE1ND
 kzMjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMsNTU3MDczMDA2
 LDEzNzI4NDg3NTYsLTIxNDY2OTExMDMsNzg0NzQyNDY2LDExNz
 QxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMTI5MjE3
