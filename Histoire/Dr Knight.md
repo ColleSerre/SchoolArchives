@@ -177,14 +177,16 @@ Contre la misère, la guerre et le fascisme.
 Simone Weil: philosopher, holocaust survivor
 Outpouring of joy, previous parliaments and governments were more hostile regarding strikes. 
 
-### Matignon Accords
+### Matignon Accords (1936)
 
-* 40 hours work week
+* 40 hours work week (equivalent to a day off for some)
 * Paid holidays for workers - 2 weeks
 * Salary increases: 7-15%
 * Collective bargaining 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTE3MzgxMyw1NjAyNzMzNzMsLTgwNj
+eyJoaXN0b3J5IjpbMTUxNzA5NzIyMCw1NjAyNzMzNzMsLTgwNj
 EyNzY2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAx
 Myw1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3OD
 Q3NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0
