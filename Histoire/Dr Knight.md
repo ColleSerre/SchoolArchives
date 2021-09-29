@@ -196,11 +196,13 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 
 ### Were the measures taken by the FP a french "New Deal" ? 
 
-Difference of scale: New Deal was longer and bigger
-Different causes: New Deal was born to solve a crisis, FP was born to fight agains fasci
+Difference of scale: New Deal was earlier, longer and bigger
+Different causes: New Deal was born to solve a crisis, FP was born to fight agains fascism (which was growing due to the 1929 crash & the great depression)
+Different continuity: The New Deal "continued" during the second w
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTE3NDgzMCwtMjEyNDE0MjU0NCwtMT
+eyJoaXN0b3J5IjpbMjA2MjE2MzU4NiwtMjEyNDE0MjU0NCwtMT
 k5MzAzOTU5OSwtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgwNjEy
 NzY2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAxMy
 w1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3ODQ3
