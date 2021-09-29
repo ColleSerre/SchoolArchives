@@ -176,14 +176,14 @@ Contre la misère, la guerre et le fascisme.
 
 ### Joyous strikes
 
+"
 Simone Weil: philosopher, holocaust survivor
-
-
+Outpouring of joy, previous parliaments and governments were more hostile regarding strikes. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzA4ODIwNCw1NjAyNzMzNzMsLTgwNj
+eyJoaXN0b3J5IjpbMTk2NDg5NDQ1Myw1NjAyNzMzNzMsLTgwNj
 EyNzY2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAx
 Myw1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3OD
 Q3NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0
