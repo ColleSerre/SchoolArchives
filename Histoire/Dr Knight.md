@@ -139,9 +139,7 @@ Popular Front: A coalition of left, extreme-left wing parties and centre parties
 
 The threat of fascism in France in 1937 was very real (nationalist leagues). 
 
-### Matignon Accords
-
-Created the French social contract
+Matignon accords: created the French social contract and,
 
 * 40 hour long week
 * Collective bargaining
@@ -179,12 +177,18 @@ Contre la misère, la guerre et le fascisme.
 Simone Weil: philosopher, holocaust survivor
 Outpouring of joy, previous parliaments and governments were more hostile regarding strikes. 
 
+### Matignon Accords
+
+* 40 hours work week
+* Paid holidays for workers - 2 weeks
+* Salary increases: 7-15%
+* Collective bargaining 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQzOTQ5NDMsNTYwMjczMzczLC04MD
-YxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIw
-MTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2OTExMDMsNz
-g0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkz
-NDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwtMTc3Mzk1NT
-IzOCwtNDk4OTM0NjM2LC0xNDY2MzA3MTE3LC0xMDIwMTgwNzY4
-LDM0ODc5MTkyMV19
+eyJoaXN0b3J5IjpbMTY5MTE3MzgxMyw1NjAyNzMzNzMsLTgwNj
+EyNzY2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAx
+Myw1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3OD
+Q3NDI0NjYsMTE3NDExODE2NCwtMjA4Mzc0MTcwNywxNDk0OTM0
+NTg2LC0xMjkyMTc5MTg4LC0xMzc5NDUxMjMyLC0xNzczOTU1Mj
+M4LC00OTg5MzQ2MzYsLTE0NjYzMDcxMTcsLTEwMjAxODA3Njgs
+MzQ4NzkxOTIxXX0=
 -->
