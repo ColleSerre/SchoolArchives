@@ -203,17 +203,17 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 Authoritarianism limit political freedom whereas totalitarianism tend to limit individual liberty as a whole. 
 Totalitarian states are guided by an ideology whereas authoritarian states don't necessarily start off with an ideology. In a totalitarian state, the ideology and the leader become one through a cult of personality. The word cult denotes the prophet/godlike figure the person becomes. You need to perform, to show your enthusiasm for the leader. 
 
-Totalitarianism: A form of government that permits little or no freedom and seeks to subordinate all aspects of the individual's life to the authority of the state. An essential feature is its basis on a mass movement and that it seeks 'to rule from the inside out'. 
+Totalitarianism: A form of government that permits little or no freedom and seeks to subordinate all aspects of the individual's life to the authority of the state. An essential feature is its basis on a mass movement and that it seeks 'to rule from the inside out'. (The public and private become blurred)
 
 Authoritarianism: Wants compliance from their citizens and to stay in power. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yOD
-kzNzE1MDYsLTg2NzkzMzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5
-MywtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Mi
-w1NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0OTMyMTk1NCwyNzg4
-MzYzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1Ni
-wtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3NDExODE2NCwtMjA4
-Mzc0MTcwN119
+eyJoaXN0b3J5IjpbLTEyMzcyODkwMjksMjA4Mzc4MzUzNSwyMD
+AwODExMTU4LC0yODkzNzE1MDYsLTg2NzkzMzM3MCwxMTczMTQx
+MTU2LC0zNTg2NTQ5MywtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OS
+wtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0
+OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMD
+YsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3
+NDExODE2NF19
 -->
