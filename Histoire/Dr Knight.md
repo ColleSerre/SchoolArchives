@@ -196,9 +196,12 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 **Different causes:** New Deal was born to solve a crisis, FP was born to fight agains fascism (which was growing due to the 1929 crash & the great depression)
 **Different continuity:** The New Deal "continued" during the second world war whereas the Matignon accords were terminated by the Vichy government. 
 
+## The Soviet Union under Stalin - Idology, terror and modernisation
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDAyOTU5MiwtMzU4NjU0OTMsLTIxMj
+eyJoaXN0b3J5IjpbMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMj
 QxNDI1NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjcz
 MzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LD
 IwNDk2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2
