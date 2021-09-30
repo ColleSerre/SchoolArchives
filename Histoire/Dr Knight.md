@@ -189,23 +189,20 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 * Compulsory education → 14 years
 * Public Works Program
 * 133 laws in 73 days 
-
-### SNCF
-
-* Nationalization of all railway companies
+* SNCF: Nationalization of all railway companies
 
 ### Were the measures taken by the FP a french "New Deal" ? 
-Difference of scale: New Deal was earlier, longer and bigger
-Different causes: New Deal was born to solve a crisis, FP was born to fight agains fascism (which was growing due to the 1929 crash & the great depression)
-Different continuity: The New Deal "continued" during the second world war whereas the Matignon accords were terminated by the Vichy government. 
+**Difference of scale:** New Deal was earlier, longer and bigger
+**Different causes:** New Deal was born to solve a crisis, FP was born to fight agains fascism (which was growing due to the 1929 crash & the great depression)
+**Different continuity:** The New Deal "continued" during the second world war whereas the Matignon accords were terminated by the Vichy government. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOT
-kzMDM5NTk5LC0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3
-NjY4LC0xNTQ5MzIxOTU0LDI3ODgzNjM2NywyMDQ5NjcyMDEzLD
-U1NzA3MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAzLDc4NDc0
-MjQ2NiwxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OTQ5MzQ1OD
-YsLTEyOTIxNzkxODgsLTEzNzk0NTEyMzIsLTE3NzM5NTUyMzgs
-LTQ5ODkzNDYzNl19
+eyJoaXN0b3J5IjpbMTQyNDAyOTU5MiwtMzU4NjU0OTMsLTIxMj
+QxNDI1NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjcz
+MzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LD
+IwNDk2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2
+OTExMDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MD
+csMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwt
+MTc3Mzk1NTIzOF19
 -->
