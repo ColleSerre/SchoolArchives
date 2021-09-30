@@ -228,8 +228,9 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 
 ### Joseph Stalin
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTMxNzg1NSwxNzU2MTM2OTQ4LC0yMT
+eyJoaXN0b3J5IjpbMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMT
 Q1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3
 ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNz
 AsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5
