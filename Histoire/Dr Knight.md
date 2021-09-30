@@ -206,12 +206,14 @@ Totalitarian states are guided by an ideology whereas authoritarian states don't
 Totalitarianism: A form of government that permits little or no freedom and seeks to subordinate all aspects of the individual's life to the authority of the state. An essential feature is its basis on a mass movement and that it seeks 'to rule from the inside out'. 
 
 Authoritarianism: Wants compliance from their citizens and to stay in power. 
+
+See diagram on Google Slides. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTM3MTUwNiwtODY3OTMzMzcwLDExNz
-MxNDExNTYsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5
-NTk5LC0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC
-0xNTQ5MzIxOTU0LDI3ODgzNjM2NywyMDQ5NjcyMDEzLDU1NzA3
-MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAzLDc4NDc0MjQ2Ni
-wxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OTQ5MzQ1ODYsLTEy
-OTIxNzkxODhdfQ==
+eyJoaXN0b3J5IjpbMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Nj
+c5MzMzNzAsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1
+NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjczMzczLC
+04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LDIwNDk2
+NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2OTExMD
+MsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMTQ5
+NDkzNDU4Nl19
 -->
