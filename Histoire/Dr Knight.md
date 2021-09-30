@@ -209,13 +209,18 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 
 ### Ideology
 
-Communism: Political ideology that attempts to est
+**Communism:** Political ideology that attempts to establish a perfectly equal society, without social classes, without a state, and without private property. Worldwide proletarian revolution
+
+**Stalinism:** A form of Communism led by Stalin: totalitarianism and terror
+
+* Cult of personality: Stalin
+* "Socialism in one co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTkzNjEzOCwtMTczODM2MzAzNCwtMT
-IzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4MTExNTgsLTI4OTM3
-MTUwNiwtODY3OTMzMzcwLDExNzMxNDExNTYsLTM1ODY1NDkzLC
-0yMTI0MTQyNTQ0LC0xOTkzMDM5NTk5LC0xMzA1MzQ4MDkyLDU2
-MDI3MzM3MywtODA2MTI3NjY4LC0xNTQ5MzIxOTU0LDI3ODgzNj
-M2NywyMDQ5NjcyMDEzLDU1NzA3MzAwNiwxMzcyODQ4NzU2LC0y
-MTQ2NjkxMTAzXX0=
+eyJoaXN0b3J5IjpbLTE2NjQyMjQ4ODMsLTE3MzgzNjMwMzQsLT
+EyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkz
+NzE1MDYsLTg2NzkzMzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5My
+wtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Miw1
+NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0OTMyMTk1NCwyNzg4Mz
+YzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1Niwt
+MjE0NjY5MTEwM119
 -->
