@@ -198,7 +198,7 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 
 ## The Soviet Union under Stalin - Idology, terror and modernisation
 
-**What is the difference between totalitarianism and authoritarianism ?** 
+**What is the difference between totalitarianism and authoritarianism ? (See diagram on Google Slides)** 
 
 Authoritarianism limit political freedom whereas totalitarianism tend to limit individual liberty as a whole. 
 Totalitarian states are guided by an ideology whereas authoritarian states don't necessarily start off with an ideology. In a totalitarian state, the ideology and the leader become one through a cult of personality. The word cult denotes the prophet/godlike figure the person becomes. You need to perform, to show your enthusiasm for the leader. 
@@ -207,13 +207,13 @@ Totalitarianism: A form of government that permits little or no freedom and seek
 
 Authoritarianism: Wants compliance from their citizens and to stay in power. 
 
-See diagram on Google Slides. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Nj
-c5MzMzNzAsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1
-NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjczMzczLC
-04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LDIwNDk2
-NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2OTExMD
-MsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MDcsMTQ5
-NDkzNDU4Nl19
+eyJoaXN0b3J5IjpbMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yOD
+kzNzE1MDYsLTg2NzkzMzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5
+MywtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Mi
+w1NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0OTMyMTk1NCwyNzg4
+MzYzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1Ni
+wtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3NDExODE2NCwtMjA4
+Mzc0MTcwN119
 -->
