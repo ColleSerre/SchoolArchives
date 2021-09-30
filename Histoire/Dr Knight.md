@@ -228,13 +228,17 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 
 ### Joseph Stalin
 
+Five year plans:
 
+* 1928-1940: Industrial output grew 4x
+* Iron, steel, coal, electrical power, tractors, railways, etc
+* 1939: Soviet Union = 3rd (US and Germany 1st
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMT
-Q1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3
-ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNz
-AsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5
-OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMj
-c2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMs
-NTU3MDczMDA2XX0=
+eyJoaXN0b3J5IjpbLTE0MDAxNTA4NDAsMTM3OTc1MjM5NywxNz
+U2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3
+Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNT
+A2LC04Njc5MzMzNzAsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIx
+MjQxNDI1NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMj
+czMzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3
+LDIwNDk2NzIwMTNdfQ==
 -->
