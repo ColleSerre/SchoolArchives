@@ -201,13 +201,13 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 **What is the difference between totalitarianism and authoritarianism ?** 
 
 Authoritarianism limit political freedom whereas totalitarianism tend to limit individual liberty as a whole. 
-Totalitarian states are guided by an ideology whereas authoritarian states don't necessarily start off with an ideology. 
+Totalitarian states are guided by an ideology whereas authoritarian states don't necessarily start off with an ideology. In a totalitarian state, the ideology and the leader become
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MTE5ODA0LC04Njc5MzMzNzAsMTE3Mz
-E0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5OTMwMzk1
-OTksLTEzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMjc2NjgsLT
-E1NDkzMjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMsNTU3MDcz
-MDA2LDEzNzI4NDg3NTYsLTIxNDY2OTExMDMsNzg0NzQyNDY2LD
-ExNzQxMTgxNjQsLTIwODM3NDE3MDcsMTQ5NDkzNDU4NiwtMTI5
-MjE3OTE4OF19
+eyJoaXN0b3J5IjpbLTc4MzI2ODEwOCwtODY3OTMzMzcwLDExNz
+MxNDExNTYsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5
+NTk5LC0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC
+0xNTQ5MzIxOTU0LDI3ODgzNjM2NywyMDQ5NjcyMDEzLDU1NzA3
+MzAwNiwxMzcyODQ4NzU2LC0yMTQ2NjkxMTAzLDc4NDc0MjQ2Ni
+wxMTc0MTE4MTY0LC0yMDgzNzQxNzA3LDE0OTQ5MzQ1ODYsLTEy
+OTIxNzkxODhdfQ==
 -->
