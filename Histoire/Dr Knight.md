@@ -200,8 +200,9 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 
 **What is the difference between totalitarianism and authoritarianism ?** 
 
+Both don't support individual freedom Both forms of government discourage individual freedom of thought and action. **Totalitarianism attempts to do this by asserting total control over the lives of its citizens**, whereas authoritarianism prefers the blind submission of its citizens to authority.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTQzOTIzNywxMTczMTQxMTU2LC0zNT
+eyJoaXN0b3J5IjpbMTYxMDE4OTc1MywxMTczMTQxMTU2LC0zNT
 g2NTQ5MywtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwtMTMwNTM0
 ODA5Miw1NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0OTMyMTk1NC
 wyNzg4MzYzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0
