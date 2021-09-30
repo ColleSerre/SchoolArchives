@@ -223,13 +223,17 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 	* Hyperinflation
 * March 1921: 'New Economic Policy'
 	* Private/local enterprise permitted
-	* 'commanding heights' of the economy under state control: banking, heavy indust
+	* 'commanding heights' of the economy under state control: banking, heavy industry, transportation, international trade
+	* 1927: output = prewar levels
+
+### Joseph Stalin
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMDIxNDA4LDE3NTYxMzY5NDgsLTIxND
-U1Mzc3MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4Mzc4
-MzUzNSwyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2NzkzMzM3MC
-wxMTczMTQxMTU2LC0zNTg2NTQ5MywtMjEyNDE0MjU0NCwtMTk5
-MzAzOTU5OSwtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgwNjEyNz
-Y2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3MjAxMyw1
-NTcwNzMwMDZdfQ==
+eyJoaXN0b3J5IjpbMTU5OTMxNzg1NSwxNzU2MTM2OTQ4LC0yMT
+Q1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3
+ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNz
+AsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5
+OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMj
+c2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMs
+NTU3MDczMDA2XX0=
 -->
