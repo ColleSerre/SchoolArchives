@@ -207,13 +207,15 @@ Totalitarianism: A form of government that permits little or no freedom and seek
 
 Authoritarianism: Wants compliance from their citizens and to stay in power. 
 
+### Ideology
 
+Communism: Political ideology that attempts to est
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMj
-A4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2Nzkz
-MzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5MywtMjEyNDE0MjU0NC
-wtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgw
-NjEyNzY2OCwtMTU0OTMyMTk1NCwyNzg4MzYzNjcsMjA0OTY3Mj
-AxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1NiwtMjE0NjY5MTEwMyw3
-ODQ3NDI0NjZdfQ==
+eyJoaXN0b3J5IjpbMTg4MTkzNjEzOCwtMTczODM2MzAzNCwtMT
+IzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4MTExNTgsLTI4OTM3
+MTUwNiwtODY3OTMzMzcwLDExNzMxNDExNTYsLTM1ODY1NDkzLC
+0yMTI0MTQyNTQ0LC0xOTkzMDM5NTk5LC0xMzA1MzQ4MDkyLDU2
+MDI3MzM3MywtODA2MTI3NjY4LC0xNTQ5MzIxOTU0LDI3ODgzNj
+M2NywyMDQ5NjcyMDEzLDU1NzA3MzAwNiwxMzcyODQ4NzU2LC0y
+MTQ2NjkxMTAzXX0=
 -->
