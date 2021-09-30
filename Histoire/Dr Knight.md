@@ -217,12 +217,13 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 * "Socialism in one country": instead of worldwide proleterian revolution, build a classless society in the Soviet Union (despite hostile "capitalist encirclement"). 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLT
-EyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkz
-NzE1MDYsLTg2NzkzMzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5My
-wtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Miw1
-NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0OTMyMTk1NCwyNzg4Mz
-YzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1Niwt
-MjE0NjY5MTEwM119
+eyJoaXN0b3J5IjpbMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMT
+czODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4
+MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDExNzMxNDExNT
+YsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5NTk5LC0x
+MzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC0xNTQ5Mz
+IxOTU0LDI3ODgzNjM2NywyMDQ5NjcyMDEzLDU1NzA3MzAwNiwx
+MzcyODQ4NzU2XX0=
 -->
