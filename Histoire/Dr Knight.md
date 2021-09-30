@@ -198,14 +198,14 @@ Outpouring of joy, previous parliaments and governments were more hostile regard
 
 ## The Soviet Union under Stalin - Idology, terror and modernisation
 
-
+**What is the difference between totalitarianism and authoritarianism ?** 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMj
-QxNDI1NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjcz
-MzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LD
-IwNDk2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIxNDY2
-OTExMDMsNzg0NzQyNDY2LDExNzQxMTgxNjQsLTIwODM3NDE3MD
-csMTQ5NDkzNDU4NiwtMTI5MjE3OTE4OCwtMTM3OTQ1MTIzMiwt
-MTc3Mzk1NTIzOF19
+eyJoaXN0b3J5IjpbMTM0NTQzOTIzNywxMTczMTQxMTU2LC0zNT
+g2NTQ5MywtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwtMTMwNTM0
+ODA5Miw1NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0OTMyMTk1NC
+wyNzg4MzYzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0
+ODc1NiwtMjE0NjY5MTEwMyw3ODQ3NDI0NjYsMTE3NDExODE2NC
+wtMjA4Mzc0MTcwNywxNDk0OTM0NTg2LC0xMjkyMTc5MTg4LC0x
+Mzc5NDUxMjMyXX0=
 -->
