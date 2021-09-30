@@ -216,14 +216,14 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 * Cult of personality: Stalin
 * "Socialism in one country": instead of worldwide proleterian revolution, build a classless society in the Soviet Union (despite hostile "capitalist encirclement"). 
 
-
+### NEP
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMT
-czODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4
-MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDExNzMxNDExNT
-YsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5NTk5LC0x
-MzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC0xNTQ5Mz
-IxOTU0LDI3ODgzNjM2NywyMDQ5NjcyMDEzLDU1NzA3MzAwNiwx
-MzcyODQ4NzU2XX0=
+eyJoaXN0b3J5IjpbLTY1NTY2MTQ3MiwxNzU2MTM2OTQ4LC0yMT
+Q1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3
+ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNz
+AsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5
+OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMj
+c2NjgsLTE1NDkzMjE5NTQsMjc4ODM2MzY3LDIwNDk2NzIwMTMs
+NTU3MDczMDA2XX0=
 -->
