@@ -214,13 +214,13 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 **Stalinism:** A form of Communism led by Stalin: totalitarianism and terror
 
 * Cult of personality: Stalin
-* "Socialism in one co
+* "Socialism in one country": instead of worldwide proleterian revolution, build a clas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQyMjQ4ODMsLTE3MzgzNjMwMzQsLT
-EyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkz
-NzE1MDYsLTg2NzkzMzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5My
-wtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Miw1
-NjAyNzMzNzMsLTgwNjEyNzY2OCwtMTU0OTMyMTk1NCwyNzg4Mz
-YzNjcsMjA0OTY3MjAxMyw1NTcwNzMwMDYsMTM3Mjg0ODc1Niwt
-MjE0NjY5MTEwM119
+eyJoaXN0b3J5IjpbMjk2ODQyNzkxLC0xNzM4MzYzMDM0LC0xMj
+M3Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5Mzcx
+NTA2LC04Njc5MzMzNzAsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLT
+IxMjQxNDI1NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYw
+MjczMzczLC04MDYxMjc2NjgsLTE1NDkzMjE5NTQsMjc4ODM2Mz
+Y3LDIwNDk2NzIwMTMsNTU3MDczMDA2LDEzNzI4NDg3NTYsLTIx
+NDY2OTExMDNdfQ==
 -->
