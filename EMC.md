@@ -13,7 +13,9 @@
 -   Law is above any executive power.
 3.  Can the roman tables be considered as democratic (democracy = a system of government by the whole population or all the eligible members of a state, typically through elected representatives.)
 In some ways it is democratic as each “table” came under review by every citizen (not taking into account that only a small percentage of people living in Rome were citizens), however, certain tables do not really fit to democratic standards (table IV /VIII / etc.). Furthermore, Table XI divides the roman society by preventing non-citizens to marry citizens. This feeds into a form of elitism; and inbreeding. The fact that this table is after Table X  is based on sanitary reasons may mean that this division between citizens and non-citizens was based on eugenics and pseudo-scientific motivation. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzYyMDE3Nyw0Mzg5ODQzMjUsLTE4Mz
-U0ODc5MDBdfQ==
+eyJoaXN0b3J5IjpbNzM3NjA5MjYxLDQzODk4NDMyNSwtMTgzNT
+Q4NzkwMF19
 -->
