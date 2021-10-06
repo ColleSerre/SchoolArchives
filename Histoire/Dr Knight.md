@@ -252,13 +252,16 @@ Modernisation of Agriculture (industry and agriculture, two sides of the same co
 * Famines 1932-1933
 * 1934: 75% of farms collectivized
 * Millions of peasants & kulaks opposed to collectivization: arrested, deported, land confiscated
-* 100 million horses and ca
+* 100 million horses and cattle slaughtered by peasants
+* 10 million peasants killed
+* 1928: 98% land = small holdings
+* 1938: 90% land = collectivized
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNjA1NDM2LC0xMzE2NzU4NjkwLDQ3Mj
-A1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgs
-LTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMj
-A4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2Nzkz
-MzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5MywtMjEyNDE0MjU0NC
-wtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgw
-NjEyNzY2OF19
+eyJoaXN0b3J5IjpbLTE5NTEwOTM4MzUsLTEzMTY3NTg2OTAsND
+cyMDUyOTIsNDkzNDA3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0
+OCwtMjE0NTUzNzcyMiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOS
+wyMDgzNzgzNTM1LDIwMDA4MTExNTgsLTI4OTM3MTUwNiwtODY3
+OTMzMzcwLDExNzMxNDExNTYsLTM1ODY1NDkzLC0yMTI0MTQyNT
+Q0LC0xOTkzMDM5NTk5LC0xMzA1MzQ4MDkyLDU2MDI3MzM3Mywt
+ODA2MTI3NjY4XX0=
 -->
