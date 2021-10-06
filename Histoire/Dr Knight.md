@@ -246,12 +246,19 @@ Modernisation of Agriculture (industry and agriculture, two sides of the same co
 	* Free peasant labor for factories
 * Elimination of kulaks
 * Forced collectivization
+
+#### Collectivization
+
+* Famines 1932-1933
+* 1934: 75% of farms collectivized
+* Millions of peasants & kulaks opposed to collectivization: arrested, deported, land confiscated
+* 100 million horses and ca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY3NTg2OTAsNDcyMDUyOTIsNDkzND
-A3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcy
-MiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LD
-IwMDA4MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDExNzMx
-NDExNTYsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5NT
-k5LC0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC0x
-NTQ5MzIxOTU0XX0=
+eyJoaXN0b3J5IjpbOTkyNjA1NDM2LC0xMzE2NzU4NjkwLDQ3Mj
+A1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgs
+LTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMj
+A4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2Nzkz
+MzM3MCwxMTczMTQxMTU2LC0zNTg2NTQ5MywtMjEyNDE0MjU0NC
+wtMTk5MzAzOTU5OSwtMTMwNTM0ODA5Miw1NjAyNzMzNzMsLTgw
+NjEyNzY2OF19
 -->
