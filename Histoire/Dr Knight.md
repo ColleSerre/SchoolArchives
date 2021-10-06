@@ -231,19 +231,21 @@ Authoritarianism: Wants compliance from their citizens and to stay in power.
 Cult of personality
 
 Five year plans:
-
 * 1928-1940: Industrial output grew 4x
 * Iron, steel, coal, electrical power, tractors, railways, etc
 * 1939: Soviet Union = 3rd (US and Germany 1st and 2nd)
 * Capital raised from grain
 
+Modernisation of Agriculture:
 
+* Private ownership: *kulaks* - wealthy peasants (4%)
+* Gr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMDUyOTIsNDkzNDA3OTczLDEzNzk3NT
-IzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMTczODM2MzAz
-NCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4MTExNTgsLT
-I4OTM3MTUwNiwtODY3OTMzMzcwLDExNzMxNDExNTYsLTM1ODY1
-NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5NTk5LC0xMzA1MzQ4MD
-kyLDU2MDI3MzM3MywtODA2MTI3NjY4LC0xNTQ5MzIxOTU0LDI3
-ODgzNjM2N119
+eyJoaXN0b3J5IjpbODQ4MDM3MDgsNDcyMDUyOTIsNDkzNDA3OT
+czLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwt
+MTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMD
+A4MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDExNzMxNDEx
+NTYsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5NTk5LC
+0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC0xNTQ5
+MzIxOTU0XX0=
 -->
