@@ -260,12 +260,14 @@ Modernisation of Agriculture (industry and agriculture, two sides of the same co
 * Agricultural modernization was a complete failure compared to the modernization of industry which was outstanding
 
 Cf. case study on the Ukranian famine 
+
+#### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMT
-MxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5
-NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC
-0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5
-MzcxNTA2LC04Njc5MzMzNzAsMTE3MzE0MTE1NiwtMzU4NjU0OT
-MsLTIxMjQxNDI1NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIs
-NTYwMjczMzczXX0=
+eyJoaXN0b3J5IjpbMTM3NDYxMTM5NCwtMjE0NDkzMzk5NCwtOT
+c4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLDQ5MzQwNzk3
+MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1Mzc3MjIsLT
+E3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAw
+ODExMTU4LC0yODkzNzE1MDYsLTg2NzkzMzM3MCwxMTczMTQxMT
+U2LC0zNTg2NTQ5MywtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwt
+MTMwNTM0ODA5Ml19
 -->
