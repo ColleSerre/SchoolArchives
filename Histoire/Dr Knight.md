@@ -238,7 +238,7 @@ Five year plans:
 
 Modernisation of Agriculture (industry and agriculture, two sides of the same coin, statue):
 
-* Private ownership: *kulaks* - wealthy peasants (4%)
+* Private ownership: *kulaks* - relatively wealthy peasants, leased land out, owned multiple plots of land (4%)
 * Grain shortages in cities
 * rapid industrialization
 * Collectivization of agriculture:
@@ -247,11 +247,11 @@ Modernisation of Agriculture (industry and agriculture, two sides of the same co
 * Elimination of kulaks
 * Forced collectivization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDIzMzk2MSw0NzIwNTI5Miw0OTM0MD
-c5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIy
-LC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMj
-AwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3MzE0
-MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5OTMwMzk1OT
-ksLTEzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMjc2NjgsLTE1
-NDkzMjE5NTRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTY3NTg2OTAsNDcyMDUyOTIsNDkzND
+A3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcy
+MiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LD
+IwMDA4MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDExNzMx
+NDExNTYsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5NT
+k5LC0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC0x
+NTQ5MzIxOTU0XX0=
 -->
