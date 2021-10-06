@@ -236,16 +236,22 @@ Five year plans:
 * 1939: Soviet Union = 3rd (US and Germany 1st and 2nd)
 * Capital raised from grain
 
-Modernisation of Agriculture:
+Modernisation of Agriculture (industry and agriculture, two sides of the same coin, statue):
 
 * Private ownership: *kulaks* - wealthy peasants (4%)
-* Gr
+* Grain shortages in cities
+* rapid industrialization
+* Collectivization of agriculture:
+	* Produce grain for food and export
+	* Free peasant labor for factories
+* Elimination of kulaks
+* Forced collectivization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4MDM3MDgsNDcyMDUyOTIsNDkzNDA3OT
-czLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwt
-MTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMD
-A4MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDExNzMxNDEx
-NTYsLTM1ODY1NDkzLC0yMTI0MTQyNTQ0LC0xOTkzMDM5NTk5LC
-0xMzA1MzQ4MDkyLDU2MDI3MzM3MywtODA2MTI3NjY4LC0xNTQ5
-MzIxOTU0XX0=
+eyJoaXN0b3J5IjpbMTI1NDIzMzk2MSw0NzIwNTI5Miw0OTM0MD
+c5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIy
+LC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMj
+AwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3MzE0
+MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5OTMwMzk1OT
+ksLTEzMDUzNDgwOTIsNTYwMjczMzczLC04MDYxMjc2NjgsLTE1
+NDkzMjE5NTRdfQ==
 -->
