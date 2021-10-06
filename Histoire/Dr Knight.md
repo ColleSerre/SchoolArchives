@@ -257,12 +257,14 @@ Modernisation of Agriculture (industry and agriculture, two sides of the same co
 * 1928: 98% land = small holdings
 * 1938: 90% land = collectivized
 * This was a great failure as the output of grain, cattle, pigs, sheep and goats all decreased. 
+
+Cf. case study on the Ukranian famine 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0Nz
-IwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4
-LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LD
-IwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5
-MzMzNzAsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1ND
-QsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIsNTYwMjczMzczLC04
-MDYxMjc2NjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNjM1Nzc4NjYsLTk3ODQxODk4NSwtMT
+MxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5
+NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC
+0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5
+MzcxNTA2LC04Njc5MzMzNzAsMTE3MzE0MTE1NiwtMzU4NjU0OT
+MsLTIxMjQxNDI1NDQsLTE5OTMwMzk1OTksLTEzMDUzNDgwOTIs
+NTYwMjczMzczXX0=
 -->
