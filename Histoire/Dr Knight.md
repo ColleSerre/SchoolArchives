@@ -263,13 +263,19 @@ Cf. case study on the Ukranian famine
 
 #### Great purges
 
-
+* Opposition to Socialization of Economy
+* Great Purges
+* Arrests, murders, torture, show trials, executions, deportations -   deportations, long prison sentences.
+-   Communist Party
+-   Red Army – officer corps
+-   1939: Purges stopped
+-   10-11 million dead
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOT
-c4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLDQ5MzQwNzk3
-MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1Mzc3MjIsLT
-E3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAw
-ODExMTU4LC0yODkzNzE1MDYsLTg2NzkzMzM3MCwxMTczMTQxMT
-U2LC0zNTg2NTQ5MywtMjEyNDE0MjU0NCwtMTk5MzAzOTU5OSwt
-MTMwNTM0ODA5Ml19
+eyJoaXN0b3J5IjpbNzE1NjMwNTMxLDE4NTUyNTI5MzEsLTIxND
+Q5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5
+Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMT
+Q1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3
+ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNz
+AsMTE3MzE0MTE1NiwtMzU4NjU0OTMsLTIxMjQxNDI1NDQsLTE5
+OTMwMzk1OTldfQ==
 -->
