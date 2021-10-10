@@ -42,9 +42,10 @@ Wer darf in Deutschland wählen ? Wen kann man in Deutschland wählen ? Wie wäh
 
 ### Travail pour le 11/10
 
-En allemagne, les citoyens ne votent pas directement pour leur chancelier car l'Allemagne est une démocratie parlementaire à régime parlementaire alors que la France est semi-présidentielle. C'est le Bundestag (l'équivalent de l'Assemblée nationale) qui élit le chancelier. Pour se faire, il est nécessaire de créer des coalition entre partis car il est très improbable qu'un seul parti arrive à former une majorité évidente. Ces coalitions portent des noms en fonction des couleurs représentatives des différents partis (rouge foncé pour Die Linke, rouge pour le SPD, vert pour Die Grünen, jaune pour le FDP, noir pour les chrétiens démocrates de la CDU et bleu pour l'AFD). Par exemple, une coalition entre Die Grünen et la CDU (vert et noir) porterait le nom de Kiwi-Koalition. Les coalitions qui ont élu Angela Merkel sont: CDU/CSU-SPD (deux fois) et CDU/CSU-FDP. La première 
+En allemagne, les citoyens ne votent pas directement pour leur chancelier car l'Allemagne est une démocratie parlementaire à régime parlementaire alors que la France est semi-présidentielle. C'est le Bundestag (l'équivalent de l'Assemblée nationale) qui élit le chancelier. Pour se faire, il est nécessaire de créer des coalition entre partis car il est très improbable qu'un seul parti arrive à former une majorité évidente. Ces coalitions portent des noms en fonction des couleurs représentatives des différents partis (rouge foncé pour Die Linke, rouge pour le SPD, vert pour Die Grünen, jaune pour le FDP, noir pour les chrétiens démocrates de la CDU et bleu pour l'AFD). Par exemple, une coalition entre Die Grünen et la CDU (vert et noir) porterait le nom de Kiwi-Koalition. Les coalitions qui ont élu Angela Merkel sont: CDU/CSU-SPD (deux fois) et CDU/CSU-FDP. La première s'appelait la "Groko", diminutif de Grosse Coalition. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5OTk0NTczLC01MDQwNDY0NiwtNDY0MT
-k2OTQsNzU3NjIwMTEzLDgzOTk2Njk4MSwzMzM4Nzg0NjgsNTI5
-ODQ0NzM0LC0xNzUzNTE4MTI4LC0xOTAwNzQxNjI0XX0=
+eyJoaXN0b3J5IjpbLTE4MDQyNjk2NTksOTk5OTk0NTczLC01MD
+QwNDY0NiwtNDY0MTk2OTQsNzU3NjIwMTEzLDgzOTk2Njk4MSwz
+MzM4Nzg0NjgsNTI5ODQ0NzM0LC0xNzUzNTE4MTI4LC0xOTAwNz
+QxNjI0XX0=
 -->
