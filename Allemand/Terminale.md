@@ -42,11 +42,10 @@ Wer darf in Deutschland wählen ? Wen kann man in Deutschland wählen ? Wie wäh
 
 ### Travail pour le 11/10
 
-En allema
-
+En allemagne, les citoyens ne votent pas directement pour leur chancelier car l'Allemagne est une démocratie parlementaire à
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMxMDE0MjYsLTQ2NDE5Njk0LDc1Nz
+eyJoaXN0b3J5IjpbLTE1OTYxMzM0NTgsLTQ2NDE5Njk0LDc1Nz
 YyMDExMyw4Mzk5NjY5ODEsMzMzODc4NDY4LDUyOTg0NDczNCwt
 MTc1MzUxODEyOCwtMTkwMDc0MTYyNF19
 -->
