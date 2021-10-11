@@ -367,6 +367,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
 * Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
 * Le temps avale ses enfants - Tiré du mythe de Kronos qui avala ses enfants
+* C'est l'angoisse du temps qui passe qui nous fait tant parler du temps qu'il fait - Jean-Pierre Jeunet dans *Le fabuleux destin d'Amélie Poulain *
 
 ### Révolution
 
@@ -408,7 +409,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5NDUxMTEwLC0xNTgwMDk0NDM3LDIwMT
-YxMjI0OTEsNTYxOTcyMTA1LDU0MTMxNDUxNCwxNTczMDcxNTIz
-LDcxNzMxMDY0OV19
+eyJoaXN0b3J5IjpbLTEyMzkxNTU1NTIsMzI5NDUxMTEwLC0xNT
+gwMDk0NDM3LDIwMTYxMjI0OTEsNTYxOTcyMTA1LDU0MTMxNDUx
+NCwxNTczMDcxNTIzLDcxNzMxMDY0OV19
 -->
