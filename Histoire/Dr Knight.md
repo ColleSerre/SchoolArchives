@@ -277,17 +277,18 @@ Hitler jailed in 1923 after a failed uprising (New York Times: "Hitler tamed by 
 
 Fascism did not have a clear founding doctrine, and it manifested itself differently in different countries. In general, Fascism promoted nationalisme, a strong leader or dictator, one-party government, empire building and war. Nevertheless, it could be argued that it is easier to understand what Fascism was by considering what it stood against: it was anti-communist and against the class struggle, against internationalism, against multi-party liberal democracy and against pacifism. (Roger & Thomas, *Move to Global War, 2015* p.89)
 
-Comparison between Communism and Fascism:
+Fascism:
 
 * Communism is deeply internationalist whereas Fascism is nationalist
-* Social darwinism: justifying social, geopolitical inequality to explain  
+* Social darwinism: justifying social, geopolitical inequality with pseudo-scientific theories (a very popular idea throughout Europe)
+* Social unity, going away with class warfare. E
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ5ODU5NTcsMTM3MDIyMzg3OCwxNj
-ExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMTQ0OTMz
-OTk0LC05Nzg0MTg5ODUsLTEzMTY3NTg2OTAsNDcyMDUyOTIsND
-kzNDA3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUz
-NzcyMiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNT
-M1LDIwMDA4MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDEx
-NzMxNDExNTZdfQ==
+eyJoaXN0b3J5IjpbMjY1MDk2MTYwLDEzNzAyMjM4NzgsMTYxMT
+A0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMjE0NDkzMzk5
+NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLDQ5Mz
+QwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1Mzc3
+MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4Mzc4MzUzNS
+wyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2NzkzMzM3MCwxMTcz
+MTQxMTU2XX0=
 -->
