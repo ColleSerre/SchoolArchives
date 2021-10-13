@@ -306,14 +306,16 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 	* Sept. 1923: 100m reichmarks/$
 	* Oct. 1923: 1 trillion reichmarks/$
 	* Nov. 1923: 4.2 trillion reichmarks/$
+* 1923: Default on payments -> France & Belgium occupied Ruhr (for coal)
 * During the German inflation of 1923, currency was worth less than the paper it was printed on. 
-* 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODcyMzk2OSwtMTQwMjU3Nzg5LDEzNz
-AyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1Mjkz
-MSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLD
-Q3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5
-NDgsLTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMj
-ksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2
-NzkzMzM3MF19
+eyJoaXN0b3J5IjpbMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3MD
+IyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMx
+LC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLTEzMTY3NTg2OTAsND
+cyMDUyOTIsNDkzNDA3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0
+OCwtMjE0NTUzNzcyMiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOS
+wyMDgzNzgzNTM1LDIwMDA4MTExNTgsLTI4OTM3MTUwNiwtODY3
+OTMzMzcwXX0=
 -->
