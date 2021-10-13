@@ -292,13 +292,14 @@ Fascism did not have a clear founding doctrine, and it manifested itself differe
 * Restriction of state citizenship to those of German blood
 * Jews to be denined membership of the Volksgemeinschaft
 * Aryans have led the advacement of the Human race throughout History against Jews (since the Antiquity)
-* 
+
+Instead of working to achieve power by an armed coup we shall have to hold our noses and enter the Reichstag against the Catholic and Marxist deputies. If out-voting them takes longer than outshooting them, at least the results will be guaranteed by their own constitution ! Any lawful 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI1Nzg5NTUsMTM3MDIyMzg3OCwxNj
-ExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMTQ0OTMz
-OTk0LC05Nzg0MTg5ODUsLTEzMTY3NTg2OTAsNDcyMDUyOTIsND
-kzNDA3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUz
-NzcyMiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNT
-M1LDIwMDA4MTExNTgsLTI4OTM3MTUwNiwtODY3OTMzMzcwLDEx
-NzMxNDExNTZdfQ==
+eyJoaXN0b3J5IjpbLTI0ODMwMzMzMywxMzcwMjIzODc4LDE2MT
+EwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5
+OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OT
+M0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3
+NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1Mz
+UsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3
+MzE0MTE1Nl19
 -->
