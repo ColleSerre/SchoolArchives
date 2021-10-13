@@ -273,10 +273,12 @@ Cf. case study on the Ukranian famine
 
 ## Fascism in Germany: Adolf Hitler
 
-* Hitler jailed in 1923 after a failed uprising (New York Times: "Hitler tamed by prison")
-* 
+Hitler jailed in 1923 after a failed uprising (New York Times: "Hitler tamed by prison")
+
+Fascism did not have a clear founding doctrine, and it manifested itself differently in different countries. In general, Fascism promoted nationalisme, a strong leader or dictator, one-party government, empire building and war. Nevertheless, it could be argued that it is easier to understand what Fascism was 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjM5OTU5OSwxNjExMDQxNDYyLDIwNT
+eyJoaXN0b3J5IjpbLTMwNjExMTY3MiwxNjExMDQxNDYyLDIwNT
 g1Njk4NCwxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5
 ODUsLTEzMTY3NTg2OTAsNDcyMDUyOTIsNDkzNDA3OTczLDEzNz
 k3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMTczODM2
