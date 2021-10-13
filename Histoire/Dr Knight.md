@@ -277,19 +277,25 @@ Hitler jailed in 1923 after a failed uprising (New York Times: "Hitler tamed by 
 
 Fascism did not have a clear founding doctrine, and it manifested itself differently in different countries. In general, Fascism promoted nationalisme, a strong leader or dictator, one-party government, empire building and war. Nevertheless, it could be argued that it is easier to understand what Fascism was by considering what it stood against: it was anti-communist and against the class struggle, against internationalism, against multi-party liberal democracy and against pacifism. (Roger & Thomas, *Move to Global War, 2015* p.89)
 
-Fascism:
+**Fascism:**
 
 * Communism is deeply internationalist whereas Fascism is nationalist
-* Promotion of state violence and the belief that 
+* Promotion of state violence and the belief that violence is necessary for progress
 * Social darwinism: justifying social, geopolitical inequality with pseudo-scientific theories (a very popular idea throughout Europe)
 * Social unity, going away with class warfare. Everyone is united through race and nation (opposite of Communism: all proletariates are united beyond nations). 
 
+**National Socialism:**
+
+* Union of all Germans in a greater Germany
+* Revocation of the Treaty of Versailles
+* Gaining territories to accommodate surplus German production: Lebensraum - "living space"
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTM3MzkxNCwxMzcwMjIzODc4LDE2MT
-EwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5
-OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OT
-M0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3
-NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1Mz
-UsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3
-MzE0MTE1Nl19
+eyJoaXN0b3J5IjpbMzQ5NTUxNTQ3LDEzNzAyMjM4NzgsMTYxMT
+A0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMjE0NDkzMzk5
+NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLDQ5Mz
+QwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1Mzc3
+MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4Mzc4MzUzNS
+wyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2NzkzMzM3MCwxMTcz
+MTQxMTU2XX0=
 -->
