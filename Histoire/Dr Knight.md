@@ -287,13 +287,13 @@ Fascism did not have a clear founding doctrine, and it manifested itself differe
 **National Socialism:**
 
 * Union of all Germans in a greater Germany
-* Revocation of the Treaty of Versailles (enormous reparations, lost territory, can't have a large military)
+* Revocation of the Treaty of Versailles (enormous reparations, lost territory, can't have a large military, war guilt clause)
 * Gaining territories to accommodate surplus German production: Lebensraum - "living space"
 * Restriction of state citizenship to those of German blood
 * Jews to be denined membership of the Volksgemeinshaft
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDIwODEwOSwxMzcwMjIzODc4LDE2MT
+eyJoaXN0b3J5IjpbMTg5NzkxMTI5MSwxMzcwMjIzODc4LDE2MT
 EwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5
 OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OT
 M0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3
