@@ -281,14 +281,14 @@ Fascism:
 
 * Communism is deeply internationalist whereas Fascism is nationalist
 * Social darwinism: justifying social, geopolitical inequality with pseudo-scientific theories (a very popular idea throughout Europe)
-* Social unity, going away with class warfare. E
+* Social unity, going away with class warfare. Everyone is united through race and nation (opposite of Communism: all proletariates are united beyond nations). 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MDk2MTYwLDEzNzAyMjM4NzgsMTYxMT
-A0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMjE0NDkzMzk5
-NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLDQ5Mz
-QwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1Mzc3
-MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4Mzc4MzUzNS
-wyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2NzkzMzM3MCwxMTcz
-MTQxMTU2XX0=
+eyJoaXN0b3J5IjpbMTE2NjUyNiwxMzcwMjIzODc4LDE2MTEwND
+E0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQs
+LTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MD
+c5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIy
+LC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMj
+AwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3MzE0
+MTE1Nl19
 -->
