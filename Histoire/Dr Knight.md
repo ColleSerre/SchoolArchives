@@ -305,13 +305,15 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 	* 1921: 270 reichmarks/$
 	* Sept. 1923: 100m reichmarks/$
 	* Oct. 1923: 1 trillion reichmarks/$
-	* Nov. 1923: 4.2 trillion reichmarks+
+	* Nov. 1923: 4.2 trillion reichmarks/$
+* During the German inflation of 1923, currency was worth less than the paper it was printed on. 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ4NzMyNzksLTE0MDI1Nzc4OSwxMz
-cwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5
-MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MC
-w0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2
-OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MD
-I5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04
-Njc5MzMzNzBdfQ==
+eyJoaXN0b3J5IjpbLTk0ODcyMzk2OSwtMTQwMjU3Nzg5LDEzNz
+AyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1Mjkz
+MSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLD
+Q3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5
+NDgsLTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMj
+ksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkzNzE1MDYsLTg2
+NzkzMzM3MF19
 -->
