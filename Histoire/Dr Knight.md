@@ -293,9 +293,11 @@ Fascism did not have a clear founding doctrine, and it manifested itself differe
 * Jews to be denined membership of the Volksgemeinschaft
 * Aryans have led the advacement of the Human race throughout History against Jews (since the Antiquity)
 
-Instead of working to achieve power by an armed coup we shall have to hold our noses and enter the Reichstag against the Catholic and Marxist deputies. If out-voting them takes longer than outshooting them, at least the results will be guaranteed by their own constitution ! Any lawful 
+Instead of working to achieve power by an armed coup we shall have to hold our noses and enter the Reichstag against the Catholic and Marxist deputies. If out-voting them takes longer than outshooting them, at least the results will be guaranteed by their own constitution ! Any lawful process is slow. Sooner or later we will have a majority, and after that - Germany. (A possible comment by Hilter to one of the Nazi Party's backers 1924. *After his prison time*)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODMwMzMzMywxMzcwMjIzODc4LDE2MT
+eyJoaXN0b3J5IjpbLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MT
 EwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5
 OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OT
 M0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3
