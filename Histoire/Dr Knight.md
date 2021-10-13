@@ -298,9 +298,16 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 ### Germany: Weimar Republic
 
 * 1919: new government convened in Weimar
-* July 1919: New German cons
+* July 1919: New German constitution
+* Reparations: $33 Billion
+* Inflation
+	* 1914: 4.2 reichmarks/$
+	* 1921: 270 reichmarks/$
+	* Sept. 1923: 100m reichmarks/$
+	* Oct. 1923: 1 trillion reichmarks/$
+	* Nov. 1923: 4.2 trillion reichmarks+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIzMTUwNDAsLTE0MDI1Nzc4OSwxMz
+eyJoaXN0b3J5IjpbLTE5NjQ4NzMyNzksLTE0MDI1Nzc4OSwxMz
 cwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5
 MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MC
 w0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2
