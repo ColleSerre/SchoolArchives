@@ -280,15 +280,16 @@ Fascism did not have a clear founding doctrine, and it manifested itself differe
 Fascism:
 
 * Communism is deeply internationalist whereas Fascism is nationalist
+* Promotion of state violence and the belief that 
 * Social darwinism: justifying social, geopolitical inequality with pseudo-scientific theories (a very popular idea throughout Europe)
 * Social unity, going away with class warfare. Everyone is united through race and nation (opposite of Communism: all proletariates are united beyond nations). 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjUyNiwxMzcwMjIzODc4LDE2MTEwND
-E0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQs
-LTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MD
-c5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIy
-LC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMj
-AwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3MzE0
-MTE1Nl19
+eyJoaXN0b3J5IjpbMTYyNTM3MzkxNCwxMzcwMjIzODc4LDE2MT
+EwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5
+OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OT
+M0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3
+NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1Mz
+UsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3
+MzE0MTE1Nl19
 -->
