@@ -295,13 +295,16 @@ Fascism did not have a clear founding doctrine, and it manifested itself differe
 
 Instead of working to achieve power by an armed coup we shall have to hold our noses and enter the Reichstag against the Catholic and Marxist deputies. If out-voting them takes longer than outshooting them, at least the results will be guaranteed by their own constitution ! Any lawful process is slow. Sooner or later we will have a majority, and after that - Germany. (A possible comment by Hilter to one of the Nazi Party's backers 1924. *After his prison time*)
 
+### Germany: Weimar Republic
 
+* 1919: new government convened in Weimar
+* July 1919: New German cons
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MT
-EwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5
-OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OT
-M0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3
-NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1Mz
-UsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04Njc5MzMzNzAsMTE3
-MzE0MTE1Nl19
+eyJoaXN0b3J5IjpbLTE0NzIzMTUwNDAsLTE0MDI1Nzc4OSwxMz
+cwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5
+MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MC
+w0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2
+OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MD
+I5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5MzcxNTA2LC04
+Njc5MzMzNzBdfQ==
 -->
