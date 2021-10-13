@@ -275,10 +275,12 @@ Cf. case study on the Ukranian famine
 
 Hitler jailed in 1923 after a failed uprising (New York Times: "Hitler tamed by prison")
 
-Fascism did not have a clear founding doctrine, and it manifested itself differently in different countries. In general, Fascism promoted nationalisme, a strong leader or dictator, one-party government, empire building and war. Nevertheless, it could be argued that it is easier to understand what Fascism was 
+Fascism did not have a clear founding doctrine, and it manifested itself differently in different countries. In general, Fascism promoted nationalisme, a strong leader or dictator, one-party government, empire building and war. Nevertheless, it could be argued that it is easier to understand what Fascism was by considering what it stood against: it was anti-communist and against the class struggle, against internationalism, against multi-party liberal democracy and against pacifism. (Roger & Thomas, *Move to Global War, 2015* p.89)
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjExMTY3MiwxNjExMDQxNDYyLDIwNT
+eyJoaXN0b3J5IjpbMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNT
 g1Njk4NCwxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5
 ODUsLTEzMTY3NTg2OTAsNDcyMDUyOTIsNDkzNDA3OTczLDEzNz
 k3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMTczODM2
