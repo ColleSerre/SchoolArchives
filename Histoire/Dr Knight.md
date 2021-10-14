@@ -356,15 +356,19 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 ### Elimination of Rivals
 
 * SA (Sturmabteilung) Storm Stroopers: 1 million members - mainly ex-soldiers
-	* Military wing of the party
-	* Commanded by Ernst Rohm (major rival)
-* 30 June 1934: Night of the Long Knivew
+	* Para-military wing of the party
+	* Commanded by Ernst Rohm (major rival, he needed him to )
+* 30 June 1934: Night of the Long Knives
+	* Rohm & other SA officers murdered (c. 200)
+* Aug. 1934: President Hindenburg died
+	* Hitler -> Chancellor & President = Fuhrer --- The Leader
+	* Plebiscite: 84% approval
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NzMxMTY5LC03Mzg5MjY2MzMsMTc0NT
-UzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1Nzc4
-OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NT
-UyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1
-ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNz
-U2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3
-Mjg5MDI5XX0=
+eyJoaXN0b3J5IjpbLTg5ODYyMTAzMCwtNzM4OTI2NjMzLDE3ND
+U1MzI5NDcsLTE0NDc4OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3
+ODksMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4NCwxOD
+U1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLTEzMTY3
+NTg2OTAsNDcyMDUyOTIsNDkzNDA3OTczLDEzNzk3NTIzOTcsMT
+c1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMTczODM2MzAzNCwtMTIz
+NzI4OTAyOV19
 -->
