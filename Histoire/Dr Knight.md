@@ -324,7 +324,7 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 * Germany is second in steel output (first is USA), Coal output has exceeded pre-war levels (1928)
 * European powers wanted a powerful Germany against the Soviet Union
 * **Things are looking good for Germany, this discredits the straight line between WW1, Treaty of Versailles, economic crisis, nazism, Hitler**
-* However, nazism, the versailles treaty didn't go away, the NSDAP held 32 seats in parliamenti  1924
+* However, nazism, the versailles treaty didn't go away, the NSDAP held 32 seats in parliament in 1924
 
 ### Rise of the Nazis (National Socialist)
 
@@ -338,12 +338,13 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 
 ![](https://lh4.googleusercontent.com/1EG6QOWvIRFtS3GJI9zUzmz5uek6hJUBPxRNS2_dO7TazS3fpous3Yu4nlzTrQiW2zUn7ZrwvzQNo_sNn3Eiiri3uLq2_d2AnJ6fMmuzAmR0YpHlWCbeJNkQDDAnfxywYAG3bkq6Rjs=s0)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzY3MTQwLC0xNDQ3ODk4NDgyLDIxOD
-IzODY4NCwtMTQwMjU3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2
-MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOT
-c4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLDQ5MzQwNzk3
-MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1Mzc3MjIsLT
-E3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAw
-ODExMTU4XX0=
+eyJoaXN0b3J5IjpbMjEwNDQzNjAxNiwtMTQ0Nzg5ODQ4MiwyMT
+gyMzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0
+NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLT
+k3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5
+NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC
+0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAw
+MDgxMTE1OF19
 -->
