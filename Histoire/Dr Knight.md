@@ -321,14 +321,20 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 * Massive inflow of capital from the US (in the form of loans)
 * Modernization of German industry (helped by Ford and General Motors)
 * 1923-1928: GDP +50% / 9% p.a
-* Germany is only , Coal output has exceeded pre-war levels (1928)
+* Germany is second in steel output (first is USA), Coal output has exceeded pre-war levels (1928)
 * European powers wanted a powerful Germany against the Soviet Union
 * **Things are looking good for Germany, this discredits the straight line between WW1, Treaty of Versailles, economic crisis, nazism, Hitler**
 
+### Rise of the Nazis (National Socialist)
 
-
+* 1929: Great Depression
+* Massive unemployment (especially in youth)
+* 50% decline in industrial production
+* Parliament deadlocked
+* Increase in extreme parties
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxNDgwODMyLDIxODIzODY4NCwtMTQwMj
+eyJoaXN0b3J5IjpbNTUwNjE3NzkyLDIxODIzODY4NCwtMTQwMj
 U3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQs
 MTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMz
 E2NzU4NjkwLDQ3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3
