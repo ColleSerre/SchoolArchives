@@ -307,17 +307,25 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 	* Oct. 1923: 1 trillion reichmarks/$
 	* Nov. 1923: 4.2 trillion reichmarks/$
 * 1923: Default on payments -> France & Belgium occupied Ruhr (for coal)
-* During the German inflation of 1923, currency was worth less than the paper it was printed on. 
+* During the German inflation of 1923, currency was worth more to burn as fuel than to use as money
+
+### Spirit of Locarno
+
+* August 1923: Gustav Stressmann - new Chancellor
+	- Stabilized currency
+	- Renegociated reparations payments
+* 1925: French & Belgium troops left the Ruhr
+* 19
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzIwMzEyLDIxODIzODY4NCwtMTQwMj
-U3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQs
-MTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMz
-E2NzU4NjkwLDQ3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3
-LDE3NTYxMzY5NDgsLTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLT
-EyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkz
-NzE1MDZdfQ==
+eyJoaXN0b3J5IjpbLTcwMjIzNjc1NiwyMTgyMzg2ODQsLTE0MD
+I1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0
+LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMT
+MxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5
+NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC
+0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5
+MzcxNTA2XX0=
 -->
