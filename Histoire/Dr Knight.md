@@ -338,13 +338,13 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 
 <img width=500 src="https://lh4.googleusercontent.com/1EG6QOWvIRFtS3GJI9zUzmz5uek6hJUBPxRNS2_dO7TazS3fpous3Yu4nlzTrQiW2zUn7ZrwvzQNo_sNn3Eiiri3uLq2_d2AnJ6fMmuzAmR0YpHlWCbeJNkQDDAnfxywYAG3bkq6Rjs=s0"/>
 
-
+* "The Nazi vote was above all a protest vote" - Richard J. Evans *The Coming of the Third Reich*, 2003, p. 448
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE5NTQzMzcsLTE0NDc4OTg0ODIsMj
-E4MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3OCwxNjExMDQx
-NDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC
-05Nzg0MTg5ODUsLTEzMTY3NTg2OTAsNDcyMDUyOTIsNDkzNDA3
-OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMi
-wtMTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIw
-MDA4MTExNThdfQ==
+eyJoaXN0b3J5IjpbMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMT
+gyMzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0
+NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLT
+k3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5
+NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC
+0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAw
+MDgxMTE1OF19
 -->
