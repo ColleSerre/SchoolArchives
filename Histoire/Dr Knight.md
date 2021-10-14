@@ -315,17 +315,18 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 	- Stabilized currency
 	- Renegociated reparations payments
 * 1925: French & Belgium troops left the Ruhr
-* 19
+* 1925 Treaties of Locarno: Germany recognized the borders of France & Belgium and accepted the demilitarization of the Rhineland
+* 1926: Germany entered League of Nations
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjIzNjc1NiwyMTgyMzg2ODQsLTE0MD
-I1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0
-LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMT
-MxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5
-NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC
-0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5
-MzcxNTA2XX0=
+eyJoaXN0b3J5IjpbLTExMDk0NzI1OTIsMjE4MjM4Njg0LC0xND
+AyNTc3ODksMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4
+NCwxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLT
+EzMTY3NTg2OTAsNDcyMDUyOTIsNDkzNDA3OTczLDEzNzk3NTIz
+OTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMTczODM2MzAzNC
+wtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4MTExNTgsLTI4
+OTM3MTUwNl19
 -->
