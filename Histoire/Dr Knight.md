@@ -344,13 +344,17 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 
 * July 1932 elections: 37% vote - 230 seats
 * Nov. 1932 elections: 33% vote - 196 seats
-* Jan. 1933: Hitler appointed Chancellor 
+* Jan. 1933: Hitler appointed Chancellor
+
+### Reichstag fire & the enabling act
+
+* 27 February 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NTk5NjYwLDE3NDU1MzI5NDcsLTE0ND
-c4OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3
-OCwxNjExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMT
-Q0OTMzOTk0LC05Nzg0MTg5ODUsLTEzMTY3NTg2OTAsNDcyMDUy
-OTIsNDkzNDA3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMj
-E0NTUzNzcyMiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgz
-NzgzNTM1XX0=
+eyJoaXN0b3J5IjpbMjEwMjM0OTI4OSwxNzQ1NTMyOTQ3LC0xND
+Q3ODk4NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LDEzNzAyMjM4
+NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMj
+E0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1
+MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLT
+IxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4
+Mzc4MzUzNV19
 -->
