@@ -332,13 +332,13 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 * 50% decline in industrial production
 * Parliament deadlocked
 * Increase in extreme parties
-	* 
+* Increase in nazi Sturmabteilung (SA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNjE3NzkyLDIxODIzODY4NCwtMTQwMj
-U3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQs
-MTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMz
-E2NzU4NjkwLDQ3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3
-LDE3NTYxMzY5NDgsLTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLT
-EyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkz
-NzE1MDZdfQ==
+eyJoaXN0b3J5IjpbLTExMTEzMTA4MzIsMjE4MjM4Njg0LC0xND
+AyNTc3ODksMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4
+NCwxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLT
+EzMTY3NTg2OTAsNDcyMDUyOTIsNDkzNDA3OTczLDEzNzk3NTIz
+OTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMTczODM2MzAzNC
+wtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4MTExNTgsLTI4
+OTM3MTUwNl19
 -->
