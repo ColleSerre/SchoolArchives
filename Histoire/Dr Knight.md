@@ -333,14 +333,17 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 * Parliament deadlocked
 * Increase in extreme parties
 * Increase in nazi Sturmabteilung (SA)
+* Unemployment and Nazi vote share are correlated
+
+![](https://lh4.googleusercontent.com/1EG6QOWvIRFtS3GJI9zUzmz5uek6hJUBPxRNS2_dO7TazS3fpous3Yu4nlzTrQiW2zUn7ZrwvzQNo_sNn3Eiiri3uLq2_d2AnJ6fMmuzAmR0YpHlWCbeJNkQDDAnfxywYAG3bkq6Rjs=s0)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjU5MDYxOSwyMTgyMzg2ODQsLTE0MD
-I1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0
-LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMT
-MxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5
-NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC
-0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5
-MzcxNTA2XX0=
+eyJoaXN0b3J5IjpbLTE0NDc4OTg0ODIsMjE4MjM4Njg0LC0xND
+AyNTc3ODksMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4
+NCwxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLT
+EzMTY3NTg2OTAsNDcyMDUyOTIsNDkzNDA3OTczLDEzNzk3NTIz
+OTcsMTc1NjEzNjk0OCwtMjE0NTUzNzcyMiwtMTczODM2MzAzNC
+wtMTIzNzI4OTAyOSwyMDgzNzgzNTM1LDIwMDA4MTExNTgsLTI4
+OTM3MTUwNl19
 -->
