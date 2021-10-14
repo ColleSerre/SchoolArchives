@@ -394,6 +394,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	1. Elle est d'abord raillée, contredite
 	2. Elle est attaquée jusqu'à la mort s'il le faut
 	3. Elle est admise comme ayant été toujours une évidence - Schopenhauer 
+* Si cela va sans dire, il va encore mieux en le disant - Talleyrand
 
 ### Crimes contre l'humanité
 
@@ -409,7 +410,7 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkxNTU1NTIsMzI5NDUxMTEwLC0xNT
-gwMDk0NDM3LDIwMTYxMjI0OTEsNTYxOTcyMTA1LDU0MTMxNDUx
-NCwxNTczMDcxNTIzLDcxNzMxMDY0OV19
+eyJoaXN0b3J5IjpbMTU1NjA4NDQxLDMyOTQ1MTExMCwtMTU4MD
+A5NDQzNywyMDE2MTIyNDkxLDU2MTk3MjEwNSw1NDEzMTQ1MTQs
+MTU3MzA3MTUyMyw3MTczMTA2NDldfQ==
 -->
