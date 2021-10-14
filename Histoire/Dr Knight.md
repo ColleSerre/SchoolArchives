@@ -328,7 +328,7 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 ### Rise of the Nazis (National Socialist)
 
 * 1929: Great Depression
-* Massive unemployment (especially in youth ; this massively decreased )
+* Massive unemployment (especially in youth ; this massively decreased when Hitler reached power)
 * 50% decline in industrial production
 * Parliament deadlocked
 * Increase in extreme parties
@@ -336,11 +336,11 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4OTEzMjM0LDIxODIzODY4NCwtMTQwMj
-U3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQs
-MTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMz
-E2NzU4NjkwLDQ3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3
-LDE3NTYxMzY5NDgsLTIxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLT
-EyMzcyODkwMjksMjA4Mzc4MzUzNSwyMDAwODExMTU4LC0yODkz
-NzE1MDZdfQ==
+eyJoaXN0b3J5IjpbLTI2MjU5MDYxOSwyMTgyMzg2ODQsLTE0MD
+I1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0
+LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMT
+MxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5
+NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC
+0xMjM3Mjg5MDI5LDIwODM3ODM1MzUsMjAwMDgxMTE1OCwtMjg5
+MzcxNTA2XX0=
 -->
