@@ -348,9 +348,12 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 
 ### Reichstag fire & the enabling act
 
-* 27 February 
+* 27 February 1933: Reichstag burnt down
+* Enabling Act: rule by decree (i.e. without approval of parliament)
+	*  SA/SS violence
+	* 2/3 majority required - supported by the Centre Party
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjM0OTI4OSwxNzQ1NTMyOTQ3LC0xND
+eyJoaXN0b3J5IjpbLTczODkyNjYzMywxNzQ1NTMyOTQ3LC0xND
 Q3ODk4NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LDEzNzAyMjM4
 NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMj
 E0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1
