@@ -338,13 +338,19 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 
 <img width=500 src="https://lh4.googleusercontent.com/1EG6QOWvIRFtS3GJI9zUzmz5uek6hJUBPxRNS2_dO7TazS3fpous3Yu4nlzTrQiW2zUn7ZrwvzQNo_sNn3Eiiri3uLq2_d2AnJ6fMmuzAmR0YpHlWCbeJNkQDDAnfxywYAG3bkq6Rjs=s0"/>
 
-* "The Nazi vote was above all a protest vote" - Richard J. Evans *The Coming of the Third Reich*, 2003, p. 448 (did people who voted for the Nazi party vote for ideas or against something else)
+* "The Nazi vote was above all a protest vote" - Richard J. Evans *The Coming of the Third Reich*, 2003, p. 448 (did people who voted for the Nazi party vote for ideas or against something else?)
+
+### Hitler takes over
+
+* July 1932 elections: 37% vote - 230 seats
+* Nov. 1932 elections: 33% vote - 196 seats
+* Jan. 1933: Hitler appointed Chancellor 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY4NjQ0NDQsMTc0NTUzMjk0NywtMT
-Q0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIz
-ODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLT
-IxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIw
-NTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNzU2MTM2OTQ4LC
-0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3Mjg5MDI5LDIw
-ODM3ODM1MzVdfQ==
+eyJoaXN0b3J5IjpbNDk1NTk5NjYwLDE3NDU1MzI5NDcsLTE0ND
+c4OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3
+OCwxNjExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMT
+Q0OTMzOTk0LC05Nzg0MTg5ODUsLTEzMTY3NTg2OTAsNDcyMDUy
+OTIsNDkzNDA3OTczLDEzNzk3NTIzOTcsMTc1NjEzNjk0OCwtMj
+E0NTUzNzcyMiwtMTczODM2MzAzNCwtMTIzNzI4OTAyOSwyMDgz
+NzgzNTM1XX0=
 -->
