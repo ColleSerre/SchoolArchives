@@ -361,11 +361,12 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 * 30 June 1934: Night of the Long Knives
 	* Rohm & other SA officers murdered (c. 200)
 	* He didn't need a para-military group since he was now head of State and of the military
+	* Pleased the military
 * Aug. 1934: President Hindenburg died
 	* Hitler -> Chancellor & President = Fuhrer --- The Leader
 	* Plebiscite: 84% approval
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MjYzMjg0LC03Mzg5MjY2MzMsMTc0NT
+eyJoaXN0b3J5IjpbOTQwODY2MjI2LC03Mzg5MjY2MzMsMTc0NT
 UzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1Nzc4
 OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NT
 UyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1
