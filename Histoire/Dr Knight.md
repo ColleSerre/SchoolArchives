@@ -336,11 +336,11 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 * Increase in nazi Sturmabteilung (SA)
 * Unemployment and Nazi vote share are correlated
 
-![](https://lh4.googleusercontent.com/1EG6QOWvIRFtS3GJI9zUzmz5uek6hJUBPxRNS2_dO7TazS3fpous3Yu4nlzTrQiW2zUn7ZrwvzQNo_sNn3Eiiri3uLq2_d2AnJ6fMmuzAmR0YpHlWCbeJNkQDDAnfxywYAG3bkq6Rjs=s0)
+<img style= "width: 400px;" src="https://lh4.googleusercontent.com/1EG6QOWvIRFtS3GJI9zUzmz5uek6hJUBPxRNS2_dO7TazS3fpous3Yu4nlzTrQiW2zUn7ZrwvzQNo_sNn3Eiiri3uLq2_d2AnJ6fMmuzAmR0YpHlWCbeJNkQDDAnfxywYAG3bkq6Rjs=s0"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDQzNjAxNiwtMTQ0Nzg5ODQ4MiwyMT
+eyJoaXN0b3J5IjpbLTk5MzE2MjA5MiwtMTQ0Nzg5ODQ4MiwyMT
 gyMzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0
 NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLT
 k3ODQxODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5
