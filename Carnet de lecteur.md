@@ -396,7 +396,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 	3. Elle est admise comme ayant été toujours une évidence - Schopenhauer 
 * Si cela va sans dire, il va encore mieux en le disant - Talleyrand
 
-### Crimes contre l'humanité
+### Colonialisme, nazisme et crimes contre l'humanité
 
 * Ce qu’il [l'homme blanc, bourgeois et occidental] ne pardonne pas à Hitler, ce n’est pas le crime en soi, le crime contre l’homme, ce n’est pas l’humiliation de l’homme en soi, c’est le crime contre l’homme blanc, c’est l’humiliation de l’homme blanc, et d’avoir appliqué à l’Europe des procédés colonialistes dont ne relevaient jusqu’ici que les Arabes d’Algérie, les coolies de l’Inde et les nègres d’Afrique. - Aimé Césaire *Discours sur le colonialisme*
 * Périssent les colonies plutôt qu’un principe - Robespierre sur l'abolition de l'esclavage et son impact sur l'économie des colonies françaises
@@ -404,13 +404,11 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 ### Fonctions et registres du langage
 
-Fonction phatique selon Barthes: la parole qui ne sert qu'à l'interaction sociale.
-
+Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction sociale.
 Registre épidictique: pointer du doigt quelque chose
-
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjA4NDQxLDMyOTQ1MTExMCwtMTU4MD
-A5NDQzNywyMDE2MTIyNDkxLDU2MTk3MjEwNSw1NDEzMTQ1MTQs
-MTU3MzA3MTUyMyw3MTczMTA2NDldfQ==
+eyJoaXN0b3J5IjpbLTYyNjg3OTk3MCwzMjk0NTExMTAsLTE1OD
+AwOTQ0MzcsMjAxNjEyMjQ5MSw1NjE5NzIxMDUsNTQxMzE0NTE0
+LDE1NzMwNzE1MjMsNzE3MzEwNjQ5XX0=
 -->
