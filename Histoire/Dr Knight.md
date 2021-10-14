@@ -352,12 +352,19 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 * Enabling Act: rule by decree (i.e. without approval of parliament)
 	*  SA/SS violence
 	* 2/3 majority required - supported by the Centre Party
+
+### Elimination of Rivals
+
+* SA (Sturmabteilung) Storm Stroopers: 1 million members - mainly ex-soldiers
+	* Military wing of the party
+	* Commanded by Ernst Rohm (major rival)
+* 30 June 1934: Night of the Long Knivew
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODkyNjYzMywxNzQ1NTMyOTQ3LC0xND
-Q3ODk4NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LDEzNzAyMjM4
-NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMj
-E0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1
-MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLT
-IxNDU1Mzc3MjIsLTE3MzgzNjMwMzQsLTEyMzcyODkwMjksMjA4
-Mzc4MzUzNV19
+eyJoaXN0b3J5IjpbOTQ1NzMxMTY5LC03Mzg5MjY2MzMsMTc0NT
+UzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1Nzc4
+OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NT
+UyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMxNjc1
+ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMTM3OTc1MjM5NywxNz
+U2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4MzYzMDM0LC0xMjM3
+Mjg5MDI5XX0=
 -->
