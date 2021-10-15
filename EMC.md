@@ -15,7 +15,15 @@
 In some ways it is democratic as each “table” came under review by every citizen, however, certain tables do not really fit to democratic standards (table IV /VIII / etc.). Furthermore, Table XI divides the Roman society by preventing non-citizens to marry citizens. This feeds into a form of elitism; and inbreeding. The fact that this table is after Table X  is based on sanitary reasons may mean that this division between citizens and non-citizens was based on eugenics and pseudo-scientific motivation. However it wasn't enforced. 
 
 This constitution was made to establish peace and to put an end to class tensions. This social contract was elaborated collectively, so it would be recognized by all citizens. Roman society was far more complicated because mixing and transfer in classes was extremely common. Classes were all defined as being citizens and were collectively opposed to barbarians. 
+
+### Education
+Questions:
+
+1. What is the purpose of education and educators, according to Jean Jaurès ?
+2. What are the qualities that one expected from educators ? What outcomes one expected from students
+3. What difficulties are currently impari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzM2MjYwNywtMzMyMTg3MTg4LDczNz
-YwOTI2MSw0Mzg5ODQzMjUsLTE4MzU0ODc5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTc1NTk5MDUsMTg3MzM2MjYwNywtMz
+MyMTg3MTg4LDczNzYwOTI2MSw0Mzg5ODQzMjUsLTE4MzU0ODc5
+MDBdfQ==
 -->
