@@ -203,6 +203,8 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
   
 ![Bureau of Labor Statistics](https://wikirouge.net/wr/images/f/f9/Product-salaires.png)
 
+* Eric Zemmour fait appel au même raisonnement que le parti nazi en disant "Je ne suis pas le candidat des riches, au contraire je pense qu'il faut rassembler *tous* l
+
 ### Apparences vs Réalité
 
 * Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action immorale qu'il commetra.
@@ -408,7 +410,7 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjg3OTk3MCwzMjk0NTExMTAsLTE1OD
-AwOTQ0MzcsMjAxNjEyMjQ5MSw1NjE5NzIxMDUsNTQxMzE0NTE0
-LDE1NzMwNzE1MjMsNzE3MzEwNjQ5XX0=
+eyJoaXN0b3J5IjpbLTM4NDUwMTY4MywtNjI2ODc5OTcwLDMyOT
+Q1MTExMCwtMTU4MDA5NDQzNywyMDE2MTIyNDkxLDU2MTk3MjEw
+NSw1NDEzMTQ1MTQsMTU3MzA3MTUyMyw3MTczMTA2NDldfQ==
 -->
