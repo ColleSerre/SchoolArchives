@@ -139,7 +139,9 @@ Popular Front: A coalition of left, extreme-left wing parties and centre parties
 
 The threat of fascism in France in 1937 was very real (nationalist leagues). 
 
-Matignon accords: created the French social contract and,
+### Matignon aAccords: c
+
+Created the French social contract and,
 
 * 40 hour long week
 * Collective bargaining
@@ -371,11 +373,11 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mz
-g5MjY2MzMsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2
-ODQsLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMj
-A1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQx
-ODk4NSwtMTMxNjc1ODY5MCw0NzIwNTI5Miw0OTM0MDc5NzMsMT
-M3OTc1MjM5NywxNzU2MTM2OTQ4LC0yMTQ1NTM3NzIyLC0xNzM4
-MzYzMDM0XX0=
+eyJoaXN0b3J5IjpbMTU5NjM5NTY1NCwtMTA4NTM2NDQyMywtMz
+IwNzA1NjAsLTczODkyNjYzMywxNzQ1NTMyOTQ3LC0xNDQ3ODk4
+NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LDEzNzAyMjM4NzgsMT
+YxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMjE0NDkz
+Mzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLD
+Q5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1
+Mzc3MjJdfQ==
 -->
