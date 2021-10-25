@@ -203,7 +203,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
   
 ![Bureau of Labor Statistics](https://wikirouge.net/wr/images/f/f9/Product-salaires.png)
 
-* Eric Zemmour fait appel au même raisonnement que le parti nazi en disant "Je ne suis pas le candidat des riches, au contraire je pense qu'il faut rassembler *tous* l
+* Eric Zemmour fait appel au même raisonnement que le parti nazi en disant "Je ne suis pas le candidat des riches, au contraire je pense qu'il faut rassembler *tous* les français pour défendre la France".
 
 ### Apparences vs Réalité
 
@@ -410,7 +410,7 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDUwMTY4MywtNjI2ODc5OTcwLDMyOT
-Q1MTExMCwtMTU4MDA5NDQzNywyMDE2MTIyNDkxLDU2MTk3MjEw
-NSw1NDEzMTQ1MTQsMTU3MzA3MTUyMyw3MTczMTA2NDldfQ==
+eyJoaXN0b3J5IjpbMzIwNzM5MzM5LC02MjY4Nzk5NzAsMzI5ND
+UxMTEwLC0xNTgwMDk0NDM3LDIwMTYxMjI0OTEsNTYxOTcyMTA1
+LDU0MTMxNDUxNCwxNTczMDcxNTIzLDcxNzMxMDY0OV19
 -->
