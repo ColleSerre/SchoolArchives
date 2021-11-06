@@ -13,8 +13,9 @@
 * Die Bäckerin hatte nichts dagegen, mir die Grundlagen der bayerischen Küche beizubringen
 * Ich habe gelernt, dass man in Bayern keine Wahl hat: Man muss sich integrieren. 
 
-* Noch immer liess mich die bayerische Begrüssun
+* "Noch immer ließ mich die bayerische Begrüßungsformel erschauern"
+* "In Bayern, das merkte ich schnell, integrierte man sich nicht selbst, man wurde integriert" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDg4Mjk3NCwtNDc5ODI0NzY1LC04MT
+eyJoaXN0b3J5IjpbMjEwNjA4MTE1NiwtNDc5ODI0NzY1LC04MT
 czNjg0MTNdfQ==
 -->
