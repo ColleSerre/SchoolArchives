@@ -25,8 +25,10 @@
 
 2 p.160:
 
-1.  
+1. Condition
+2. les deux
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzgzNjAzLDE5ODkzNzczMTUsLTE3NT
-EwOTg3ODEsLTQ3OTgyNDc2NSwtODE3MzY4NDEzXX0=
+eyJoaXN0b3J5IjpbLTE0ODI2MzkxNjcsMTk4OTM3NzMxNSwtMT
+c1MTA5ODc4MSwtNDc5ODI0NzY1LC04MTczNjg0MTNdfQ==
 -->
