@@ -35,8 +35,9 @@
 3 p.160:
 
 1. Wenn Daniel morgens in die Redaktion kommt; hört er nur Bayerisch (Temps)
-2. Wenn 
+2. Wenn er die bayerische Begrüßungsformel hört; kann er nur mit "Hallo" antworten (Temps)
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMTcyNzg3LDE5ODkzNzczMTUsLTE3NT
-EwOTg3ODEsLTQ3OTgyNDc2NSwtODE3MzY4NDEzXX0=
+eyJoaXN0b3J5IjpbMTUwMjI2NjgyMCwxOTg5Mzc3MzE1LC0xNz
+UxMDk4NzgxLC00Nzk4MjQ3NjUsLTgxNzM2ODQxM119
 -->
