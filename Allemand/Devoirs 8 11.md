@@ -7,7 +7,7 @@
 * Identités et échanges
 
 ### Compréhension écrite
-* 
+* Der Ich-Erzähler, ist in Bayern 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDk3ODE1Ml19
+eyJoaXN0b3J5IjpbMTc0MjM0Mzc1NF19
 -->
