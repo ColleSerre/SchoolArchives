@@ -21,8 +21,8 @@
 * Hochdeutsch, Bayerisch (semmeln au lieu de Brötchen et Grüß Gott au lieu de Hallo, Servus au lieu de Hallo entre amis)
 * Hochdeutsch: Über all in Deutschland, Bayerisch: in Bayern. 
 * Hochdeutsch
-* 
+* Es gibt auch viele Dialekte in Frankreich aber sie werden über haubt von den 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTM3NzMxNSwtMTc1MTA5ODc4MSwtND
-c5ODI0NzY1LC04MTczNjg0MTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTE2NzU1MjUsMTk4OTM3NzMxNSwtMT
+c1MTA5ODc4MSwtNDc5ODI0NzY1LC04MTczNjg0MTNdfQ==
 -->
