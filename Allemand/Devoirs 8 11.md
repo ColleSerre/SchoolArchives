@@ -8,7 +8,7 @@
 
 ### Compréhension écrite
 * Der Ich-Erzähler kommt in Bayern an, betritt eine Bäckerei und ist über die sprachlichen Unterschiede zwischen ihm und die Bäckerin überrascht. Als die Bäckerin ihm fragt, welche Semmel er möchte, antwortet er mit einem bayerischen Wort. 
-* Der Ich-Erzähler ist höflich, aber die Bäckerin und ihre andere Kunde
+* Der Ich-Erzähler ist höflich, aber die Bäckerin macht sich keine Mühe und hat Spass mit ihren Kunden.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MzY5NDk2XX0=
+eyJoaXN0b3J5IjpbLTc4MzYwMTU1NF19
 -->
