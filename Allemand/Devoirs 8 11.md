@@ -19,8 +19,9 @@
 * Dialekte trennen Menschen, weil sie sich nicht immer verstehen können aber sie verbinden Menschen, aber es bietet ihnen die Möglichkeit zum Austausch. 
 
 * Hochdeutsch
-* Bayrisch (semmeln au lieu de Brötchen et Grüß Gott au lieu de Hallo, ) 
+* Bayrisch (semmeln au lieu de Brötchen et Grüß Gott au lieu de Hallo, Servus au lieu de Hallo entre amis)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1ODA4MTI0LC0xNzUxMDk4NzgxLC00Nz
-k4MjQ3NjUsLTgxNzM2ODQxM119
+eyJoaXN0b3J5IjpbLTkwMDg4MTk1NCwtMTc1MTA5ODc4MSwtND
+c5ODI0NzY1LC04MTczNjg0MTNdfQ==
 -->
