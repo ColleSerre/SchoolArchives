@@ -16,8 +16,10 @@
 * "Noch immer ließ mich die bayerische Begrüßungsformel erschauern". Der Satz ist witzig, denn es ist witzig zu suggerieren, dass man durch eine Höflichkeitsfloskel erschreckt werden könnte.
 * "In Bayern, das merkte ich schnell, integrierte man sich nicht selbst, man wurde integriert". Der Satz ist humorvoll, denn es ist witzig zu behaupten, dass jemand trotz seiner selbst integriert werden kann.
 
-* Dialekte trennen Menschen, weil sie sich nicht immer verstehen können aber sie verbinden Menschen  
+* Dialekte trennen Menschen, weil sie sich nicht immer verstehen können aber sie verbinden Menschen, aber es bietet ihnen die Möglichkeit zum Austausch. 
+
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjY0OTk0NywtMTc1MTA5ODc4MSwtND
-c5ODI0NzY1LC04MTczNjg0MTNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjg0NDE0MDYsLTE3NTEwOTg3ODEsLT
+Q3OTgyNDc2NSwtODE3MzY4NDEzXX0=
 -->
