@@ -28,8 +28,14 @@
 1. Condition
 2. Les deux
 3. Les deux
-4. 
+4. Temps
+5. Condition
+6. Temps
+
+3 p.160:
+
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMwNTg3NDMsMTk4OTM3NzMxNSwtMT
+eyJoaXN0b3J5IjpbLTEzMzE4NzUyMTAsMTk4OTM3NzMxNSwtMT
 c1MTA5ODc4MSwtNDc5ODI0NzY1LC04MTczNjg0MTNdfQ==
 -->
