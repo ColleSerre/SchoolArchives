@@ -11,8 +11,8 @@
 
 * Ich konnte es nicht sagen
 * Die Bäckerin hatte nichts dagegen, mir die Grundlagen der bayerischen Küche beizubringen
-
+* Ich habe gelernt, dass man in Bayern keine Wahl hat: Man muss sich integrieren. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTQyNTI1NywtODE3MzY4NDEzXX0=
+eyJoaXN0b3J5IjpbLTQ3OTgyNDc2NSwtODE3MzY4NDEzXX0=
 -->
