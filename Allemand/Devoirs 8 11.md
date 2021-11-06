@@ -38,8 +38,9 @@
 2. Wenn er die bayerische Begrüßungsformel hört; kann er nur mit "Hallo" antworten (Temps)
 3. Wenn Daniel den Dialekt lernt; ist er besser integriert (condition)
 4. Wenn er mehr Zeit hat; macht er einen Audio-Sprachkurs (condition)
-5. Wenn er sich Mühe gi
+5. Wenn er sich Mühe gibt; lernt er schnell (condition)
+6. Wenn er bayerisch spricht; sind die Leute in den Gesch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNDMzNzAyLDE5ODkzNzczMTUsLTE3NT
-EwOTg3ODEsLTQ3OTgyNDc2NSwtODE3MzY4NDEzXX0=
+eyJoaXN0b3J5IjpbLTk0NTc2MDUwOCwxOTg5Mzc3MzE1LC0xNz
+UxMDk4NzgxLC00Nzk4MjQ3NjUsLTgxNzM2ODQxM119
 -->
