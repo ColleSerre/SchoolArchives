@@ -5,7 +5,9 @@
 * Allemand parlé ou allemand standard ?
 * Pour ou contre les dialectes
 * Identités et échanges
-a. 
+
+### Compréhension écrite
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjk4MTg1Nl19
+eyJoaXN0b3J5IjpbMTM0MDk3ODE1Ml19
 -->
