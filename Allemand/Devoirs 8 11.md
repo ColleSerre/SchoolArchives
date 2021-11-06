@@ -36,11 +36,11 @@
 
 1. Wenn Daniel morgens in die Redaktion kommt; hört er nur Bayerisch (Temps)
 2. Wenn er die bayerische Begrüßungsformel hört; kann er nur mit "Hallo" antworten (Temps)
-3. Wenn Daniel den Dialekt lernt; ist er besser integriert (condition)
-4. Wenn er mehr Zeit hat; macht er einen Audio-Sprachkurs (condition)
-5. Wenn er sich Mühe gibt; lernt er schnell (condition)
-6. Wenn er bayerisch spricht; sind die Leute in den Gesch
+3. Wenn Daniel den Dialekt lernt; ist er besser integriert (Condition)
+4. Wenn er mehr Zeit hat; macht er einen Audio-Sprachkurs (Condition)
+5. Wenn er sich Mühe gibt; lernt er schnell (Condition)
+6. Wenn er bayerisch spricht; sind die Leute in den Geschäften auf einmal sehr freundlich zu ihm. (Condition)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTc2MDUwOCwxOTg5Mzc3MzE1LC0xNz
+eyJoaXN0b3J5IjpbMTc3NjU4OTAwOCwxOTg5Mzc3MzE1LC0xNz
 UxMDk4NzgxLC00Nzk4MjQ3NjUsLTgxNzM2ODQxM119
 -->
