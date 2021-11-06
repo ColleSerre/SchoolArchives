@@ -13,9 +13,11 @@
 * Die Bäckerin hatte nichts dagegen, mir die Grundlagen der bayerischen Küche beizubringen
 * Ich habe gelernt, dass man in Bayern keine Wahl hat: Man muss sich integrieren. 
 
-* "Noch immer ließ mich die bayerische Begrüßungsformel erschauern". 
-* "In Bayern, das merkte ich schnell, integrierte man sich nicht selbst, man wurde integriert" 
+* "Noch immer ließ mich die bayerische Begrüßungsformel erschauern". Der Satz ist witzig, denn es ist witzig zu suggerieren, dass man durch eine Höflichkeitsfloskel erschreckt werden könnte.
+* "In Bayern, das merkte ich schnell, integrierte man sich nicht selbst, man wurde integriert". Der Satz ist humorvoll, denn es ist witzig zu behaupten, dass jemand trotz seiner selbst integriert werden kann.
+
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDYyNzQ2NiwtNDc5ODI0NzY1LC04MT
-czNjg0MTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTEwOTg3ODEsLTQ3OTgyNDc2NSwtOD
+E3MzY4NDEzXX0=
 -->
