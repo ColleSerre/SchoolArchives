@@ -23,7 +23,10 @@
 * Hochdeutsch
 * Es gibt auch viele Dialekte in Frankreich, aber sie werden überhaupt von den Eltern Leuten und in der Familie gesprochen. In der Öffentlichkeit wird nur wenig Dialekt gesprochen.
 
+2 p.160:
+
+1.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDMyNDMyMSwxOTg5Mzc3MzE1LC0xNz
-UxMDk4NzgxLC00Nzk4MjQ3NjUsLTgxNzM2ODQxM119
+eyJoaXN0b3J5IjpbMTc2NzgzNjAzLDE5ODkzNzczMTUsLTE3NT
+EwOTg3ODEsLTQ3OTgyNDc2NSwtODE3MzY4NDEzXX0=
 -->
