@@ -18,8 +18,8 @@
 
 * Dialekte trennen Menschen, weil sie sich nicht immer verstehen können aber sie verbinden Menschen, aber es bietet ihnen die Möglichkeit zum Austausch. 
 
-* 
+* Hochdeutsch, Bayrisch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg0NDE0MDYsLTE3NTEwOTg3ODEsLT
+eyJoaXN0b3J5IjpbLTE2ODE5NjQyNzcsLTE3NTEwOTg3ODEsLT
 Q3OTgyNDc2NSwtODE3MzY4NDEzXX0=
 -->
