@@ -10,7 +10,9 @@
 * Der Ich-Erzähler ist höflich, aber die Bäckerin macht sich keine Mühe und hat Spaß mit ihren Kunden.
 
 * Ich konnte es nicht sagen
-* 
+* Die Bäckerin hatte nichts dagegen, mir die Grundlagen der bayerischen Küche beizubringen
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzM2ODQxM119
+eyJoaXN0b3J5IjpbMjAxOTQyNTI1NywtODE3MzY4NDEzXX0=
 -->
