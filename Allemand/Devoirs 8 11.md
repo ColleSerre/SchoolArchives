@@ -7,7 +7,8 @@
 * Identités et échanges
 
 ### Compréhension écrite
-* Der Ich-Erzähler kommt in Bayern an, betritt eine Bäckerei und ist überrascht über die sprachlichen Unterschiede zwischen ihm und dem Bäcker.
+* Der Ich-Erzähler kommt in Bayern an, betritt eine Bäckerei und ist über die sprachlichen Unterschiede zwischen ihm und die Bäckerin überrascht.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzg3NjY5OV19
+eyJoaXN0b3J5IjpbMTA3NDU2NDkwMl19
 -->
