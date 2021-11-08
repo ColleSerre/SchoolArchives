@@ -7,7 +7,8 @@
 2. L'aimant joue le rôle de rotor, la bobine de stator. 
 3. L'énergie thermique a pour origine les frottements mécaniques entre les différentes parties en mouvement de l'alternateur et l'effet joule (échauffement des éléments du circuit électrique provoqué par le passage du courant électrique)
 4. Rendement : 700/735 = 0,95 soit un rendement de 95%
+5. La tension observée aux bornes du stator est alternative et pratiquement sinusoïdale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTExNTM2LC0xNjEwMDUwMTY4LDIyNj
-Q3ODE1Ml19
+eyJoaXN0b3J5IjpbMTk5ODAxNjI4MSwtMTYxMDA1MDE2OCwyMj
+Y0NzgxNTJdfQ==
 -->
