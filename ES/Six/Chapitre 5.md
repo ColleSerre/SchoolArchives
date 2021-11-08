@@ -13,7 +13,8 @@
 ## Activité 2 p.94
 
 1. Aucune de ces longueurs d'onde ne correspond aux longueurs d'onde des raies qui apparaissent sur le spectre d'émission de l'hydrogène donné dans le document 1. Ce gaz n'est donc pas constitué d'atomes d'hydrogène. 
-2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts sont propres à chaque atome, les longueurs d'onde des photons émis sont spécifiques à chaque atome et sont donc différents dans les atomes d'hydrogène et de mercure.
+2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts 
+sont propres à chaque atome, les longueurs d'onde des photons émis sont spécifiques à chaque atome et sont donc différents dans les atomes d'hydrogène et de mercure.
 3. Les longueurs d'onde des raies d'émission sont propres à chaque atome. Ainsi, chaque atome est caractérisé par un spectre d'émission qui permet de l'identifier. 
 4. L'effet photovoltaïque correspond à la conversion d'énergie lumineuse (radiative) en énergie électrique. 
 5. L'intensité du rayonnement solaire à la surface de la Terre est maximal pour des longueurs d'ondes comprises entre 400 et 900 nm. Or le silicium et le germanium absorbent bien les radiations pour ces longueurs d'onde.
@@ -22,6 +23,6 @@
 
 1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MDIwMjk4LC0xNjEwMDUwMTY4LDIyNj
-Q3ODE1Ml19
+eyJoaXN0b3J5IjpbMzc5MzI5OTc2LDg4NDAyMDI5OCwtMTYxMD
+A1MDE2OCwyMjY0NzgxNTJdfQ==
 -->
