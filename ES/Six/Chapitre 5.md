@@ -10,8 +10,11 @@
 5. La tension observée aux bornes du stator est alternative et pratiquement sinusoïdale donc périodique
 6. L'amplitude de la tension sera d'autant plus élevée que la vitesse de rotation de l'aimant est plus élevée, que la distance entre l'aimant et la bobine est petite, que le nombre de spires de la bobine est important et par l'introduction d'un barreau de fer doux à l'intérieur de la bobine. 
 
-## Activité 2 p.92
+## Activité 2 p.95
+
+1. Aucune de ces longueurs d'onde ne correspond aux longueurs d'onde des raies qui apparaissent sur le spectre d'émission de l'hydrogène donné dans le document 1. Ce gaz n'est donc pas constitué d'atomes d'hydrogène. 
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTIwNjM1NywtMTYxMDA1MDE2OCwyMj
-Y0NzgxNTJdfQ==
+eyJoaXN0b3J5IjpbNzEyMjcyODcyLC0xNjEwMDUwMTY4LDIyNj
+Q3ODE1Ml19
 -->
