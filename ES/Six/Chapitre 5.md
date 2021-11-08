@@ -13,8 +13,8 @@
 ## Activité 2 p.95
 
 1. Aucune de ces longueurs d'onde ne correspond aux longueurs d'onde des raies qui apparaissent sur le spectre d'émission de l'hydrogène donné dans le document 1. Ce gaz n'est donc pas constitué d'atomes d'hydrogène. 
-2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'éne
+2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts sont propres à chaque atome, les longueurs d'onde des photons émis sont spécifiques à chaque atome et sont donc différents dans les atomes d'hydrogène et de mercure. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMzk3NzYyLC0xNjEwMDUwMTY4LDIyNj
-Q3ODE1Ml19
+eyJoaXN0b3J5IjpbLTQyMjgzNjg3MiwtMTYxMDA1MDE2OCwyMj
+Y0NzgxNTJdfQ==
 -->
