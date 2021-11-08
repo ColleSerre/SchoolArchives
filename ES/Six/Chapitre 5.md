@@ -8,8 +8,8 @@
 3. L'énergie thermique a pour origine les frottements mécaniques entre les différentes parties en mouvement de l'alternateur et l'effet joule (échauffement des éléments du circuit électrique provoqué par le passage du courant électrique)
 4. Rendement : 700/735 = 0,95 soit un rendement de 95 %
 5. La tension observée aux bornes du stator est alternative et pratiquement sinusoïdale donc périodique
-6. 
+6. L'amplitude de la tension sera d'autant plus élevée que la vitesse de rotation de l'aimant est plus élevée, que la distance entre l'aimant et la bobine est petite, que le nombre de spires de la bobine est important et par l'introduction d'un barreau de fer doux à l'inter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNzk1ODYxLC0xNjEwMDUwMTY4LDIyNj
-Q3ODE1Ml19
+eyJoaXN0b3J5IjpbLTE2NDQyOTQxNzUsLTE2MTAwNTAxNjgsMj
+I2NDc4MTUyXX0=
 -->
