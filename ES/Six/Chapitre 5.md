@@ -10,14 +10,18 @@
 5. La tension observée aux bornes du stator est alternative et pratiquement sinusoïdale donc périodique
 6. L'amplitude de la tension sera d'autant plus élevée que la vitesse de rotation de l'aimant est plus élevée, que la distance entre l'aimant et la bobine est petite, que le nombre de spires de la bobine est important et par l'introduction d'un barreau de fer doux à l'intérieur de la bobine. 
 
-## Activité 2 p.95
+## Activité 2 p.94
 
 1. Aucune de ces longueurs d'onde ne correspond aux longueurs d'onde des raies qui apparaissent sur le spectre d'émission de l'hydrogène donné dans le document 1. Ce gaz n'est donc pas constitué d'atomes d'hydrogène. 
 2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts sont propres à chaque atome, les longueurs d'onde des photons émis sont spécifiques à chaque atome et sont donc différents dans les atomes d'hydrogène et de mercure.
 3. Les longueurs d'onde des raies d'émission sont propres à chaque atome. Ainsi, chaque atome est caractérisé par un spectre d'émission qui permet de l'identifier. 
 4. L'effet photovoltaïque correspond à la conversion d'énergie lumineuse (radiative) en énergie électrique. 
-5. L'intensité du rayonnement solaire à la surface de la Terre est maximal pour des longueurs d'ondes comprises entre 400 et 900 nm. Or le silicium et le germanium absorbent bien les radiations pour ces longueurs d'onde. 
+5. L'intensité du rayonnement solaire à la surface de la Terre est maximal pour des longueurs d'ondes comprises entre 400 et 900 nm. Or le silicium et le germanium absorbent bien les radiations pour ces longueurs d'onde.
+
+## Activité 3 p.96
+
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTY4MjQyNywtMTYxMDA1MDE2OCwyMj
-Y0NzgxNTJdfQ==
+eyJoaXN0b3J5IjpbODg0MDIwMjk4LC0xNjEwMDUwMTY4LDIyNj
+Q3ODE1Ml19
 -->
