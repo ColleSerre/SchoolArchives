@@ -23,6 +23,7 @@
 **F.**
  - Dialekte trennen Menschen, weil sie sich nicht immer verstehen können aber sie verbinden Menschen, aber es bietet ihnen die Möglichkeit zum Austausch. 
 
+**Dialekte **
  - Hochdeutsch, Bayerisch (semmeln au lieu de Brötchen et Grüß Gott au lieu de Hallo, Servus au lieu de Hallo entre amis)
  - Hochdeutsch: Über all in Deutschland, Bayerisch: in Bayern. 
  - Hochdeutsch
@@ -46,7 +47,7 @@
 5. Wenn er sich Mühe gibt; lernt er schnell (Condition)
 6. Wenn er bayerisch spricht; sind die Leute in den Geschäften auf einmal sehr freundlich zu ihm. (Condition)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTI5Mjk2MiwtMTgwMTY5NjE3MSwxNz
+eyJoaXN0b3J5IjpbLTU1MTcwNzQxNywtMTgwMTY5NjE3MSwxNz
 c2NTg5MDA4LDE5ODkzNzczMTUsLTE3NTEwOTg3ODEsLTQ3OTgy
 NDc2NSwtODE3MzY4NDEzXX0=
 -->
