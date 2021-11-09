@@ -15,7 +15,7 @@
  - Ich konnte es nicht sagen
  - Die Bäckerin hatte nichts dagegen, mir die Grundlagen der bayerischen Küche beizubringen
  - Ich habe gelernt, dass man in Bayern keine Wahl hat: Man muss sich integrieren. 
- - 
+
 **E.**
  - "Noch immer ließ mich die bayerische Begrüßungsformel erschauern". Der Satz ist witzig, denn es ist witzig zu suggerieren, dass man durch eine Höflichkeitsfloskel erschreckt werden könnte.
  - "In Bayern, das merkte ich schnell, integrierte man sich nicht selbst, man wurde integriert". Der Satz ist humorvoll, denn es ist witzig zu behaupten, dass jemand trotz seiner selbst integriert werden kann.
@@ -28,7 +28,7 @@
  - Hochdeutsch
  - Es gibt auch viele Dialekte in Frankreich, aber sie werden überhaupt von den Eltern Leuten und in der Familie gesprochen. In der Öffentlichkeit wird nur wenig Dialekt gesprochen.
 
-2 p.160:**
+**2 p.160:**
 
 1. Condition
 2. Les deux
@@ -37,7 +37,7 @@
 5. Condition
 6. Temps
 
-3 p.160:
+**3 p.160:**
 
 1. Wenn Daniel morgens in die Redaktion kommt; hört er nur Bayerisch (Temps)
 2. Wenn er die bayerische Begrüßungsformel hört; kann er nur mit "Hallo" antworten (Temps)
@@ -46,7 +46,7 @@
 5. Wenn er sich Mühe gibt; lernt er schnell (Condition)
 6. Wenn er bayerisch spricht; sind die Leute in den Geschäften auf einmal sehr freundlich zu ihm. (Condition)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMjQ3MTI1LC0xODAxNjk2MTcxLDE3Nz
-Y1ODkwMDgsMTk4OTM3NzMxNSwtMTc1MTA5ODc4MSwtNDc5ODI0
-NzY1LC04MTczNjg0MTNdfQ==
+eyJoaXN0b3J5IjpbMTEyNTI5Mjk2MiwtMTgwMTY5NjE3MSwxNz
+c2NTg5MDA4LDE5ODkzNzczMTUsLTE3NTEwOTg3ODEsLTQ3OTgy
+NDc2NSwtODE3MzY4NDEzXX0=
 -->
