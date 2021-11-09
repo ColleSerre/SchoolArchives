@@ -15,10 +15,12 @@
  - Ich konnte es nicht sagen
  - Die Bäckerin hatte nichts dagegen, mir die Grundlagen der bayerischen Küche beizubringen
  - Ich habe gelernt, dass man in Bayern keine Wahl hat: Man muss sich integrieren. 
-
+ - 
+**E.**
  - "Noch immer ließ mich die bayerische Begrüßungsformel erschauern". Der Satz ist witzig, denn es ist witzig zu suggerieren, dass man durch eine Höflichkeitsfloskel erschreckt werden könnte.
  - "In Bayern, das merkte ich schnell, integrierte man sich nicht selbst, man wurde integriert". Der Satz ist humorvoll, denn es ist witzig zu behaupten, dass jemand trotz seiner selbst integriert werden kann.
 
+**F.**
  - Dialekte trennen Menschen, weil sie sich nicht immer verstehen können aber sie verbinden Menschen, aber es bietet ihnen die Möglichkeit zum Austausch. 
 
  - Hochdeutsch, Bayerisch (semmeln au lieu de Brötchen et Grüß Gott au lieu de Hallo, Servus au lieu de Hallo entre amis)
@@ -44,7 +46,7 @@
 5. Wenn er sich Mühe gibt; lernt er schnell (Condition)
 6. Wenn er bayerisch spricht; sind die Leute in den Geschäften auf einmal sehr freundlich zu ihm. (Condition)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTE5MjIzMywxNzc2NTg5MDA4LDE5OD
-kzNzczMTUsLTE3NTEwOTg3ODEsLTQ3OTgyNDc2NSwtODE3MzY4
-NDEzXX0=
+eyJoaXN0b3J5IjpbLTE4MDE2OTYxNzEsMTc3NjU4OTAwOCwxOT
+g5Mzc3MzE1LC0xNzUxMDk4NzgxLC00Nzk4MjQ3NjUsLTgxNzM2
+ODQxM119
 -->
