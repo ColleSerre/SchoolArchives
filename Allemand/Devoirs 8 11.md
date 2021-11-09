@@ -28,7 +28,7 @@
  - Hochdeutsch
  - Es gibt auch viele Dialekte in Frankreich, aber sie werden überhaupt von den Eltern Leuten und in der Familie gesprochen. In der Öffentlichkeit wird nur wenig Dialekt gesprochen.
 
-2 p.160:
+2 p.160:**
 
 1. Condition
 2. Les deux
@@ -46,7 +46,7 @@
 5. Wenn er sich Mühe gibt; lernt er schnell (Condition)
 6. Wenn er bayerisch spricht; sind die Leute in den Geschäften auf einmal sehr freundlich zu ihm. (Condition)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE2OTYxNzEsMTc3NjU4OTAwOCwxOT
-g5Mzc3MzE1LC0xNzUxMDk4NzgxLC00Nzk4MjQ3NjUsLTgxNzM2
-ODQxM119
+eyJoaXN0b3J5IjpbODIyMjQ3MTI1LC0xODAxNjk2MTcxLDE3Nz
+Y1ODkwMDgsMTk4OTM3NzMxNSwtMTc1MTA5ODc4MSwtNDc5ODI0
+NzY1LC04MTczNjg0MTNdfQ==
 -->
