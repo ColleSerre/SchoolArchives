@@ -6,9 +6,12 @@
  - Allemand parlé ou allemand standard ?
  - Pour ou contre les dialectes
  - Identités et échanges
+
+**Beantworten sie Fragen:**
  - Der Ich-Erzähler kommt in Bayern an, betritt eine Bäckerei und ist über die sprachlichen Unterschiede zwischen ihm und die Bäckerin überrascht. Als die Bäckerin ihm fragt, welche Semmel er möchte, antwortet er mit einem bayerischen Wort. 
  - Der Ich-Erzähler ist höflich, aber die Bäckerin macht sich keine Mühe und hat Spaß mit ihren Kunden.
 
+**Finde synonyme **
  - Ich konnte es nicht sagen
  - Die Bäckerin hatte nichts dagegen, mir die Grundlagen der bayerischen Küche beizubringen
  - Ich habe gelernt, dass man in Bayern keine Wahl hat: Man muss sich integrieren. 
@@ -41,7 +44,7 @@
 5. Wenn er sich Mühe gibt; lernt er schnell (Condition)
 6. Wenn er bayerisch spricht; sind die Leute in den Geschäften auf einmal sehr freundlich zu ihm. (Condition)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg3NjA3OTMsMTc3NjU4OTAwOCwxOT
+eyJoaXN0b3J5IjpbLTE2MTE2MzA0NDIsMTc3NjU4OTAwOCwxOT
 g5Mzc3MzE1LC0xNzUxMDk4NzgxLC00Nzk4MjQ3NjUsLTgxNzM2
 ODQxM119
 -->
