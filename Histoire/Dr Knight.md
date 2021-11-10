@@ -378,13 +378,18 @@ Working women during WW2 were depicted in propaganda as systematically linked to
 -   Mainly clerical, communications, and health care.
 -   Only WAC and nurses served overseas.
 
-
+-   Before war: young & single
+-   75% new workers married
+-   60% over 35
+-   33% had children under 14
+-   Earned 65% of male salaries
+-   Women gave up jobs for returning men
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYyMjkzNjQsMTU5NjM5NTY1NCwtMT
-A4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMywxNzQ1NTMy
-OTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LD
-EzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1
-MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4Nj
-kwLDQ3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYx
-MzY5NDhdfQ==
+eyJoaXN0b3J5IjpbMTY5MTI0ODk2NCwxNTk2Mzk1NjU0LC0xMD
+g1MzY0NDIzLC0zMjA3MDU2MCwtNzM4OTI2NjMzLDE3NDU1MzI5
+NDcsLTE0NDc4OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3ODksMT
+M3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUy
+OTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLTEzMTY3NTg2OT
+AsNDcyMDUyOTIsNDkzNDA3OTczLDEzNzk3NTIzOTcsMTc1NjEz
+Njk0OF19
 -->
