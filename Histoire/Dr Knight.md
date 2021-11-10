@@ -371,13 +371,13 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 ## US Home Front During WW2
 ### "Arsenal of Democracy" - FDR, 29/12/1940
 
-
+Working women during WW2 were depicted in propaganda as systematically linked to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjM5NTY1NCwtMTA4NTM2NDQyMywtMz
-IwNzA1NjAsLTczODkyNjYzMywxNzQ1NTMyOTQ3LC0xNDQ3ODk4
-NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LDEzNzAyMjM4NzgsMT
-YxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1MjkzMSwtMjE0NDkz
-Mzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4NjkwLDQ3MjA1MjkyLD
-Q5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYxMzY5NDgsLTIxNDU1
-Mzc3MjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMzgzMTQwOTksMTU5NjM5NTY1NCwtMT
+A4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMywxNzQ1NTMy
+OTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LD
+EzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1
+MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0xMzE2NzU4Nj
+kwLDQ3MjA1MjkyLDQ5MzQwNzk3MywxMzc5NzUyMzk3LDE3NTYx
+MzY5NDhdfQ==
 -->
