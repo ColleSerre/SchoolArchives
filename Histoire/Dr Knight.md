@@ -371,9 +371,9 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 ## US Home Front During WW2
 ### "Arsenal of Democracy" - FDR, 29/12/1940
 
-Working women during WW2 were depicted in propaganda as systematically linked to 
+Working women during WW2 were depicted in propaganda as systematically linked to a man and as replacements for men. "Anything except heavy lifting and combat. They could try" - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgzMTQwOTksMTU5NjM5NTY1NCwtMT
+eyJoaXN0b3J5IjpbLTE4OTkwMzQ2MDIsMTU5NjM5NTY1NCwtMT
 A4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMywxNzQ1NTMy
 OTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQwMjU3Nzg5LD
 EzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5ODQsMTg1NTI1
