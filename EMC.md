@@ -25,9 +25,10 @@ Questions:
 
 ## 12/11 — Democratic institutions in France (presentation)
 
-1. Researching the political institut
+1. Researching the political institutions of France (Vth Republic)
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA0Njg2NTIsMzk4MzI4NjcxLC0xOD
+eyJoaXN0b3J5IjpbLTE3MDMzODM2MTQsMzk4MzI4NjcxLC0xOD
 g3NzU4NzE0LDE4NzMzNjI2MDcsLTMzMjE4NzE4OCw3Mzc2MDky
 NjEsNDM4OTg0MzI1LC0xODM1NDg3OTAwXX0=
 -->
