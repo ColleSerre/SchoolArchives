@@ -23,9 +23,11 @@ Questions:
 2. What are the qualities that one expected from educators ? What outcomes one expected from students
 3. What difficulties are currently impairing eductors and students from achieving this vision ?
 
+## 12/11 — Democratic institutions in France (presentation)
 
+1. Researching the political institut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE5NjU3NjUsMzk4MzI4NjcxLC0xOD
+eyJoaXN0b3J5IjpbLTEwOTA0Njg2NTIsMzk4MzI4NjcxLC0xOD
 g3NzU4NzE0LDE4NzMzNjI2MDcsLTMzMjE4NzE4OCw3Mzc2MDky
 NjEsNDM4OTg0MzI1LC0xODM1NDg3OTAwXX0=
 -->
