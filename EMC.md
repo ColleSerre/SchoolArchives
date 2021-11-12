@@ -27,12 +27,14 @@ Questions:
 
 1. Researching the political institutions of France (Vth Republic)
 	* Constitution of the Vth Republic
-	* Institution of the Vth Republic
-
-
+	* Institutions of the Vth Republic
+* Present an institution
+	* Description (constitutional) / intro
+	* Functioning
+	* Dysfunction (issues, challenges) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM5MjQ4MTMsLTE3MDMzODM2MTQsMz
-k4MzI4NjcxLC0xODg3NzU4NzE0LDE4NzMzNjI2MDcsLTMzMjE4
-NzE4OCw3Mzc2MDkyNjEsNDM4OTg0MzI1LC0xODM1NDg3OTAwXX
-0=
+eyJoaXN0b3J5IjpbMTQ1OTYwMjI0MSwtMTcwMzM4MzYxNCwzOT
+gzMjg2NzEsLTE4ODc3NTg3MTQsMTg3MzM2MjYwNywtMzMyMTg3
+MTg4LDczNzYwOTI2MSw0Mzg5ODQzMjUsLTE4MzU0ODc5MDBdfQ
+==
 -->
