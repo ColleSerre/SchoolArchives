@@ -22,8 +22,10 @@ Questions:
 1. What is the purpose of education and educators, according to Jean Jaurès ?
 2. What are the qualities that one expected from educators ? What outcomes one expected from students
 3. What difficulties are currently impairing eductors and students from achieving this vision ?
+
+zfdez
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzI4NjcxLC0xODg3NzU4NzE0LDE4Nz
-MzNjI2MDcsLTMzMjE4NzE4OCw3Mzc2MDkyNjEsNDM4OTg0MzI1
-LC0xODM1NDg3OTAwXX0=
+eyJoaXN0b3J5IjpbLTIxMDU0MjMzMTYsMzk4MzI4NjcxLC0xOD
+g3NzU4NzE0LDE4NzMzNjI2MDcsLTMzMjE4NzE4OCw3Mzc2MDky
+NjEsNDM4OTg0MzI1LC0xODM1NDg3OTAwXX0=
 -->
