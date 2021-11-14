@@ -29,9 +29,12 @@ i. To have no screen between this part he played
 j. Me, poor man, my library was dukedom large enough. Of temporal royalties he thinks me now incapable
 k. So dry he was for sway - wi'th' King of Naples to give him annual tribute, do him homage, subject his coronet to his crown, and bend the dukedom yet unbowed
 
+Act III Scene 1 Quotation quest:
+
+1. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMzNjcxNiwxNTA2MjY2NjQ4LC01Nz
-I4MTQ4MjYsLTE2MzIwNDg4NjcsLTE1MDE2MTMyODAsLTU2ODkw
-MDY0MF19
+eyJoaXN0b3J5IjpbMTgxMTYwNDU0NywtMjA3MzM2NzE2LDE1MD
+YyNjY2NDgsLTU3MjgxNDgyNiwtMTYzMjA0ODg2NywtMTUwMTYx
+MzI4MCwtNTY4OTAwNjQwXX0=
 -->
