@@ -38,10 +38,13 @@ Act III Scene 1 Quotation quest:
 5. Ferdinand
 6. Miranda
 7. Prospero aside, why is he saying this aside ?
+8. Ferdinand puts aside his kingdom as a proof of love
+9. Miranda
+10. Prospero 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA4OTY5NzcsLTg2ODg2NTk2MSwxOD
-ExNjA0NTQ3LC0yMDczMzY3MTYsMTUwNjI2NjY0OCwtNTcyODE0
-ODI2LC0xNjMyMDQ4ODY3LC0xNTAxNjEzMjgwLC01Njg5MDA2ND
-BdfQ==
+eyJoaXN0b3J5IjpbMTM1NTg3NTIwNSwtODY4ODY1OTYxLDE4MT
+E2MDQ1NDcsLTIwNzMzNjcxNiwxNTA2MjY2NjQ4LC01NzI4MTQ4
+MjYsLTE2MzIwNDg4NjcsLTE1MDE2MTMyODAsLTU2ODkwMDY0MF
+19
 -->
