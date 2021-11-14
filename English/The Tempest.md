@@ -31,10 +31,12 @@ k. So dry he was for sway - wi'th' King of Naples to give him annual tribute, do
 
 Act III Scene 1 Quotation quest:
 
-1. Ferdinand is talking about Miranda an
+1. Ferdinand is talking about Miranda and doesn't seem to mind that his task is difficult (he is enamoured)
+2. Ferdinand
+3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg0NDAxNDgsMTgxMTYwNDU0NywtMj
-A3MzM2NzE2LDE1MDYyNjY2NDgsLTU3MjgxNDgyNiwtMTYzMjA0
-ODg2NywtMTUwMTYxMzI4MCwtNTY4OTAwNjQwXX0=
+eyJoaXN0b3J5IjpbLTY3NDE1NTgzMywxODExNjA0NTQ3LC0yMD
+czMzY3MTYsMTUwNjI2NjY0OCwtNTcyODE0ODI2LC0xNjMyMDQ4
+ODY3LC0xNTAxNjEzMjgwLC01Njg5MDA2NDBdfQ==
 -->
