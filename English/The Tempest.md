@@ -34,11 +34,12 @@ Act III Scene 1 Quotation quest:
 1. Ferdinand is talking about Miranda and doesn't seem to mind that his task is difficult (he is enamoured)
 2. Ferdinand
 3. Miranda sounds apologetic for the treatment Ferdinand is getting from her father Prospero
-4. A contemporary interpretation would be that Prosperoc is making fun of Miranda when he could be threatened by his daughter's feelings for Ferdinand (who he still believes is a spy)
-5. 
+4. A contemporary interpretation would be that Prospero is making fun of Miranda when he could be threatened by his daughter's feelings for Ferdinand (who he still believes is a spy)
+5. Ferdinand is 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODg2NTk2MSwxODExNjA0NTQ3LC0yMD
-czMzY3MTYsMTUwNjI2NjY0OCwtNTcyODE0ODI2LC0xNjMyMDQ4
-ODY3LC0xNTAxNjEzMjgwLC01Njg5MDA2NDBdfQ==
+eyJoaXN0b3J5IjpbLTg2OTM2OTExOSwtODY4ODY1OTYxLDE4MT
+E2MDQ1NDcsLTIwNzMzNjcxNiwxNTA2MjY2NjQ4LC01NzI4MTQ4
+MjYsLTE2MzIwNDg4NjcsLTE1MDE2MTMyODAsLTU2ODkwMDY0MF
+19
 -->
