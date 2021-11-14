@@ -33,10 +33,10 @@ Act III Scene 1 Quotation quest:
 
 1. Ferdinand is talking about Miranda and doesn't seem to mind that his task is difficult (he is enamoured)
 2. Ferdinand
-3. Miranda sounds apologetic for the treatment Fer
+3. Miranda sounds apologetic for the treatment Ferdinand is 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODM5NDI2NywxODExNjA0NTQ3LC0yMD
+eyJoaXN0b3J5IjpbMTgyMDY2MzQ0NywxODExNjA0NTQ3LC0yMD
 czMzY3MTYsMTUwNjI2NjY0OCwtNTcyODE0ODI2LC0xNjMyMDQ4
 ODY3LC0xNTAxNjEzMjgwLC01Njg5MDA2NDBdfQ==
 -->
