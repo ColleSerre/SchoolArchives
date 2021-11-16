@@ -35,16 +35,16 @@ Act III Scene 1 Quotation quest:
 2. Ferdinand "some thousand of these logs": can't keep track of his work/doesn't feel like it's a lot because of his love (usually Caliban's job, hyperbole) 
 3. Miranda sounds apologetic for the treatment Ferdinand is getting from her father Prospero
 4. A contemporary interpretation would be that Prospero is making fun of Miranda when he could be threatened by his daughter's feelings for Ferdinand (who he still believes is a spy). His character represents wisdom and power, love would blind in his opinion. He may think she might be manipulated by Ferdinand and the situation he started could get out of hand.
-5. Ferdinand, talking about Miranda. Flattering her, admiration, incomparable to 
-6. Miranda
+5. Ferdinand, talking about Miranda. Flattering her, admiration, incomparable.
+6. Miranda, wants Ferdinand to know her innocence
 7. Prospero aside, why is he saying this aside ? (secretly wanting prospero and miranda to be in love, why would he hide it ?)
 8. Ferdinand puts aside his kingdom as a proof of love
 9. Miranda
 10. Prospero 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTM4MzY3OSwxMzU1ODc1MjA1LC04Nj
-g4NjU5NjEsMTgxMTYwNDU0NywtMjA3MzM2NzE2LDE1MDYyNjY2
-NDgsLTU3MjgxNDgyNiwtMTYzMjA0ODg2NywtMTUwMTYxMzI4MC
-wtNTY4OTAwNjQwXX0=
+eyJoaXN0b3J5IjpbMjk4MjI1NTU5LDEzNTU4NzUyMDUsLTg2OD
+g2NTk2MSwxODExNjA0NTQ3LC0yMDczMzY3MTYsMTUwNjI2NjY0
+OCwtNTcyODE0ODI2LC0xNjMyMDQ4ODY3LC0xNTAxNjEzMjgwLC
+01Njg5MDA2NDBdfQ==
 -->
