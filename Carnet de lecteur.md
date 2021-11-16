@@ -265,6 +265,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Comte-Sponville
 * Ceux qui ont pris tout le plat dans leurs assiettes, laissant les assiettes des autres vides et qui ayant tout disent avec bonne figure, une bonne conscience, nous, nous qui avons tout, on est pour la paix. Je sais que je dois leur crier à ceux-là, les premiers violents, les provocateurs de toute violence c’est vous, et quand le soir dans vos belles maisons vous allez embrasser vos petits enfants, avec votre bonne conscience, au regard de dieu vous avez probablement plus de sang sur vos mains d’inconscient que n’en aura jamais le désespéré qui a pris des armes pour essayer de sortir de son désespoir - l'Abbé Pierre *La voix des sans-voix*
 * Ulysse face au cyclope, tente de le convaincre en réduisant la chair de ses camarades à de l'"abominable nourriture". Il essaye d'employer un argument dit *reductio ad unum* pour à la fois rendre le cyclope empathique et le dissuader de rejoindre le camp de ceux qui ont fait souffrir les hommes. Cela ne fonctionne pas face au cyclopse qui adopte une position semblable au *carpe diem* d'Horace en affirmant qu'aucun Dieu ne peut l'atteindre dans sa grotte et qu'il vit sa vie sans demander de plus. Les hommes ont tout simplement eu le malheur de croiser son chemin alors qu'il avait faim. La richesse exprimée dans **"La richesse est le dieu des sages: tout le reste n'est que vanité et beaux discours.** est une richesse spirituelle ainsi que matérielle. - Euripide *Le Cyclope*
+* C'est de l'enfer des pauvres qu'est fait le paradis des riches - V.Hugo
 
 ### L'orateur
 
@@ -409,8 +410,8 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDIxNzg1MCw4ODU2Njk2MzgsMzIwNz
-M5MzM5LC02MjY4Nzk5NzAsMzI5NDUxMTEwLC0xNTgwMDk0NDM3
-LDIwMTYxMjI0OTEsNTYxOTcyMTA1LDU0MTMxNDUxNCwxNTczMD
-cxNTIzLDcxNzMxMDY0OV19
+eyJoaXN0b3J5IjpbLTE1OTk2MzczODQsODg1NjY5NjM4LDMyMD
+czOTMzOSwtNjI2ODc5OTcwLDMyOTQ1MTExMCwtMTU4MDA5NDQz
+NywyMDE2MTIyNDkxLDU2MTk3MjEwNSw1NDEzMTQ1MTQsMTU3Mz
+A3MTUyMyw3MTczMTA2NDldfQ==
 -->
