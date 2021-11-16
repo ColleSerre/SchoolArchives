@@ -46,6 +46,10 @@
 4. Wenn er mehr Zeit hat; macht er einen Audio-Sprachkurs (Condition)
 5. Wenn er sich Mühe gibt; lernt er schnell (Condition)
 6. Wenn er bayerisch spricht; sind die Leute in den Geschäften auf einmal sehr freundlich zu ihm. (Condition)
+
+Mini-oral:
+
+In dem Text werden Dialekte als etwas Komisches dargestellt, das zu Missverständnissen zwischen Menschen aus demselben Land führt. In der Tat können Dialekte ein Hindernis für Studenten und Ausländer sein. Dialekte schaffen jedoch Solidarität zwischen den Menschen einer Region und sind eine Form des Austauschs zwischen Großeltern und Enkelkindern.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTcwNzQxN119
+eyJoaXN0b3J5IjpbLTE2ODY2NTM0NjYsLTU1MTcwNzQxN119
 -->
