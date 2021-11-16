@@ -195,7 +195,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Quand le dernier arbre aura été abattu, Quand la dernière rivière aura été empoisonnée, Quand le dernier poisson aura été péché. Alors on saura que l’'argent ne se mange pas. - Geronimo
 * Le vieux monde se meurt, le nouveau est lent à apparaître, et c'est dans ce clair-obscur que surgissent les monstres. - Gramsci
 * Les philosophes n'ont fait qu'interpréter diversement le monde, ce qui importe, c'est de le changer. - Marx
-* La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. (république bourgeoise) - Déclaration des droits de l'homme et du citoyen (Article 17)
+* La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. - Déclaration des droits de l'homme et du citoyen (Article 17)
 * Le travail n'est pas un devoir, c'est pourquoi il a un prix - André Compte-Sponville
 
 ![](https://wikirouge.net/wr/images/5/51/ProductiviteTravailSalairesFrance.jpg)
@@ -410,7 +410,8 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNzM5MzM5LC02MjY4Nzk5NzAsMzI5ND
-UxMTEwLC0xNTgwMDk0NDM3LDIwMTYxMjI0OTEsNTYxOTcyMTA1
-LDU0MTMxNDUxNCwxNTczMDcxNTIzLDcxNzMxMDY0OV19
+eyJoaXN0b3J5IjpbODg1NjY5NjM4LDMyMDczOTMzOSwtNjI2OD
+c5OTcwLDMyOTQ1MTExMCwtMTU4MDA5NDQzNywyMDE2MTIyNDkx
+LDU2MTk3MjEwNSw1NDEzMTQ1MTQsMTU3MzA3MTUyMyw3MTczMT
+A2NDldfQ==
 -->
