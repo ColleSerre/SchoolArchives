@@ -37,14 +37,14 @@ Act III Scene 1 Quotation quest:
 4. A contemporary interpretation would be that Prospero is making fun of Miranda when he could be threatened by his daughter's feelings for Ferdinand (who he still believes is a spy). His character represents wisdom and power, love would blind in his opinion. He may think she might be manipulated by Ferdinand and the situation he started could get out of hand.
 5. Ferdinand, talking about Miranda. Flattering her, admiration, incomparable.
 6. Miranda, wants Ferdinand to know her innocence
-7. Prospero saying this aside to
-8. Ferdinand puts aside his kingdom as a proof of love
+7. Prospero saying this aside so that the moment stays private, doesn't want them to know he orchestrated it.
+8. Ferdinand puts aside his kingdom as a proof of love.
 9. Miranda
 10. Prospero 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NjYxNDc4LDEzNTU4NzUyMDUsLTg2OD
-g2NTk2MSwxODExNjA0NTQ3LC0yMDczMzY3MTYsMTUwNjI2NjY0
-OCwtNTcyODE0ODI2LC0xNjMyMDQ4ODY3LC0xNTAxNjEzMjgwLC
-01Njg5MDA2NDBdfQ==
+eyJoaXN0b3J5IjpbMTg3MTYwOTcyOCwxMzU1ODc1MjA1LC04Nj
+g4NjU5NjEsMTgxMTYwNDU0NywtMjA3MzM2NzE2LDE1MDYyNjY2
+NDgsLTU3MjgxNDgyNiwtMTYzMjA0ODg2NywtMTUwMTYxMzI4MC
+wtNTY4OTAwNjQwXX0=
 -->
