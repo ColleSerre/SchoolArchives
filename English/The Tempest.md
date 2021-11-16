@@ -37,14 +37,14 @@ Act III Scene 1 Quotation quest:
 4. A contemporary interpretation would be that Prospero is making fun of Miranda when he could be threatened by his daughter's feelings for Ferdinand (who he still believes is a spy)
 5. Ferdinand
 6. Miranda
-7. Prospero aside, why is he saying this aside ?
+7. Prospero aside, why is he saying this aside ? (secretly wanting prospero and miranda to be in love, why would he hide it ?)
 8. Ferdinand puts aside his kingdom as a proof of love
 9. Miranda
 10. Prospero 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTg3NTIwNSwtODY4ODY1OTYxLDE4MT
-E2MDQ1NDcsLTIwNzMzNjcxNiwxNTA2MjY2NjQ4LC01NzI4MTQ4
-MjYsLTE2MzIwNDg4NjcsLTE1MDE2MTMyODAsLTU2ODkwMDY0MF
-19
+eyJoaXN0b3J5IjpbLTEwOTM3OTU4MzUsMTM1NTg3NTIwNSwtOD
+Y4ODY1OTYxLDE4MTE2MDQ1NDcsLTIwNzMzNjcxNiwxNTA2MjY2
+NjQ4LC01NzI4MTQ4MjYsLTE2MzIwNDg4NjcsLTE1MDE2MTMyOD
+AsLTU2ODkwMDY0MF19
 -->
