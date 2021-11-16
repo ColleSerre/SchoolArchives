@@ -38,13 +38,13 @@ Act III Scene 1 Quotation quest:
 5. Ferdinand, talking about Miranda. Flattering her, admiration, incomparable.
 6. Miranda, wants Ferdinand to know her innocence
 7. Prospero saying this aside so that the moment stays private, doesn't want them to know he orchestrated it.
-8. Ferdinand puts aside his kingdom as a proof of love.
+8. Ferdinand puts aside his kingdom as a proof of love
 9. Miranda
 10. Prospero 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTYwOTcyOCwxMzU1ODc1MjA1LC04Nj
-g4NjU5NjEsMTgxMTYwNDU0NywtMjA3MzM2NzE2LDE1MDYyNjY2
-NDgsLTU3MjgxNDgyNiwtMTYzMjA0ODg2NywtMTUwMTYxMzI4MC
-wtNTY4OTAwNjQwXX0=
+eyJoaXN0b3J5IjpbLTIxMDE2MjYzOTgsMTg3MTYwOTcyOCwxMz
+U1ODc1MjA1LC04Njg4NjU5NjEsMTgxMTYwNDU0NywtMjA3MzM2
+NzE2LDE1MDYyNjY2NDgsLTU3MjgxNDgyNiwtMTYzMjA0ODg2Ny
+wtMTUwMTYxMzI4MCwtNTY4OTAwNjQwXX0=
 -->
