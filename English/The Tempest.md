@@ -32,7 +32,7 @@ k. So dry he was for sway - wi'th' King of Naples to give him annual tribute, do
 Act III Scene 1 Quotation quest:
 
 1. Ferdinand is talking about Miranda and doesn't seem to mind that his task is difficult (he is enamoured)
-2. Ferdinand "some thousand of these logs": can't keep track of his work/doesn't feel like it's a lot because of his love 
+2. Ferdinand "some thousand of these logs": can't keep track of his work/doesn't feel like it's a lot because of his love (usually Caliban's job) 
 3. Miranda sounds apologetic for the treatment Ferdinand is getting from her father Prospero
 4. A contemporary interpretation would be that Prospero is making fun of Miranda when he could be threatened by his daughter's feelings for Ferdinand (who he still believes is a spy)
 5. Ferdinand
@@ -43,7 +43,7 @@ Act III Scene 1 Quotation quest:
 10. Prospero 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA2NzkxNTEsMTM1NTg3NTIwNSwtOD
+eyJoaXN0b3J5IjpbLTEwMzc2OTc0MjgsMTM1NTg3NTIwNSwtOD
 Y4ODY1OTYxLDE4MTE2MDQ1NDcsLTIwNzMzNjcxNiwxNTA2MjY2
 NjQ4LC01NzI4MTQ4MjYsLTE2MzIwNDg4NjcsLTE1MDE2MTMyOD
 AsLTU2ODkwMDY0MF19
