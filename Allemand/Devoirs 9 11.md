@@ -49,7 +49,7 @@
 
 Mini-oral:
 
-In dem Text werden Dialekte als etwas Komisches dargestellt, das zu Missverständnissen zwischen Menschen aus demselben Land führt. In der Tat können Dialekte ein Hindernis für Studenten und Ausländer sein. Dialekte schaffen jedoch Solidarität zwischen den Menschen einer Region und sind eine Form des Austauschs zwischen Großeltern und Enkelkindern.
+In dem Text werden Dialekte als etwas Komisches dargestellt, das zu Missverständnissen zwischen Menschen aus demselben Land führt. In der Tat können Dialekte ein Hindernis für Studenten und Ausländer sein. Dialekte schaffen jedoch Solidarität zwischen den Menschen einer Region und sind eine Form des Austauschs zwischen Großeltern und Enkelkindern. Außerdem ermöglichen Dialekte es den alten Einwohnern, mit neuen Einwohnern in Kontakt zu treten, indem sie ihnen ihren Dialekt beibringen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY2NTM0NjYsLTU1MTcwNzQxN119
+eyJoaXN0b3J5IjpbLTE2MDI2ODI0OCwtNTUxNzA3NDE3XX0=
 -->
