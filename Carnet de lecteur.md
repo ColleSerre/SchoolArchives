@@ -1,4 +1,4 @@
-# Carnet de Lecteur - [Carnet de lecteur Victor](https://docs.google.com/document/d/1Hb05TOM-bxX6xufFjwyJV_j5fpjroV9E_mtFUfdTq5o/edit?usp=sharing_eip&ts=5fc60d23)
+# Carnet de Lecteur - [Carnet de lecteur Victor](https://docs.google.com/document/d/1-OqhyW3EJVvQ6slGIn5Q8ShEBM4QVdMXYmoPPezhNuA/edit)
 
 Code site Monsieur Bernard: Chesterton
 
@@ -410,8 +410,8 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTcyOTExNCwtMTU5OTYzNzM4NCw4OD
-U2Njk2MzgsMzIwNzM5MzM5LC02MjY4Nzk5NzAsMzI5NDUxMTEw
-LC0xNTgwMDk0NDM3LDIwMTYxMjI0OTEsNTYxOTcyMTA1LDU0MT
-MxNDUxNCwxNTczMDcxNTIzLDcxNzMxMDY0OV19
+eyJoaXN0b3J5IjpbLTEzOTk5MTA3NTAsLTE1OTk2MzczODQsOD
+g1NjY5NjM4LDMyMDczOTMzOSwtNjI2ODc5OTcwLDMyOTQ1MTEx
+MCwtMTU4MDA5NDQzNywyMDE2MTIyNDkxLDU2MTk3MjEwNSw1ND
+EzMTQ1MTQsMTU3MzA3MTUyMyw3MTczMTA2NDldfQ==
 -->
