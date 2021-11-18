@@ -180,7 +180,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Le mannequin ne mange pas pour garder la ligne, le journaliste garde la ligne pour manger
 * Une des propriétés des sondages consiste à poser aux gens des problèmes qu'ils ne se posent pas, à faire glisser des réponses aux problèmes qu'ils n'ont pas posés, donc à imposer des réponses. - *Pierre Bourdieu* au Collège de France 1990
 * Pour Goëte, l'ère moderne commence avec la déclaration des droits de l'homme car elle est la première fois que les citoyens ont proclamé un droit pour tous les Hommes du monde et par que pour les français. 
-* Mieux vaut perdre une élection que perdre son âme - Michel Noir, député/maire de droite sur sa stratégie vis à vis de l'extrème droite. 
+* Mieux vaut perdre une élection que perdre son âme - Michel Noir, député-maire de droite sur sa stratégie vis à vis de l'extrème droite. 
 
 ### Capitalisme/libéralisme
 
@@ -410,8 +410,9 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk5MTA3NTAsLTE1OTk2MzczODQsOD
-g1NjY5NjM4LDMyMDczOTMzOSwtNjI2ODc5OTcwLDMyOTQ1MTEx
-MCwtMTU4MDA5NDQzNywyMDE2MTIyNDkxLDU2MTk3MjEwNSw1ND
-EzMTQ1MTQsMTU3MzA3MTUyMyw3MTczMTA2NDldfQ==
+eyJoaXN0b3J5IjpbLTE5NjgwNzYxODgsLTEzOTk5MTA3NTAsLT
+E1OTk2MzczODQsODg1NjY5NjM4LDMyMDczOTMzOSwtNjI2ODc5
+OTcwLDMyOTQ1MTExMCwtMTU4MDA5NDQzNywyMDE2MTIyNDkxLD
+U2MTk3MjEwNSw1NDEzMTQ1MTQsMTU3MzA3MTUyMyw3MTczMTA2
+NDldfQ==
 -->
