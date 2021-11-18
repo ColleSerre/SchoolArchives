@@ -364,7 +364,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 * Ne pourrons nous jamais sur l'océan des âges, Jeter l'ancre un seul jour ? - Alphonse de Lamartine *Méditations poétiques - Le Lac* 
 * Le temps passe et nous coulons - Alphonse de Lamartine *Méditations poétiques - Le Lac*
-* L'âge moderne représente le triomphe de la médiocrité collective - Gustave le Bon *Hier et Demain*
+* L'âge moderne représente le triomphe de la médiocrité collective - Gustave le Bon *Hier et Demain* (démocratie vs aristocratie)
 * L'art est long et le temps est court - Charles Baudelaire *Les Fleurs du Mal*
 * Le seul charme du passé, c'est qu'il est passé - Oscar Wilde *Le portrait de Dorian Grey*
 * Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. - Incipit de *l'Etranger* d'Albert Camus
@@ -410,9 +410,9 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIxNDc5MDEsLTE5NjgwNzYxODgsLT
-EzOTk5MTA3NTAsLTE1OTk2MzczODQsODg1NjY5NjM4LDMyMDcz
-OTMzOSwtNjI2ODc5OTcwLDMyOTQ1MTExMCwtMTU4MDA5NDQzNy
-wyMDE2MTIyNDkxLDU2MTk3MjEwNSw1NDEzMTQ1MTQsMTU3MzA3
-MTUyMyw3MTczMTA2NDldfQ==
+eyJoaXN0b3J5IjpbMTU2MTcwNjU1MiwtMjAyMjE0NzkwMSwtMT
+k2ODA3NjE4OCwtMTM5OTkxMDc1MCwtMTU5OTYzNzM4NCw4ODU2
+Njk2MzgsMzIwNzM5MzM5LC02MjY4Nzk5NzAsMzI5NDUxMTEwLC
+0xNTgwMDk0NDM3LDIwMTYxMjI0OTEsNTYxOTcyMTA1LDU0MTMx
+NDUxNCwxNTczMDcxNTIzLDcxNzMxMDY0OV19
 -->
