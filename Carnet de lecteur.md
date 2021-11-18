@@ -251,7 +251,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 
 ### Nature
 
-* Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitud: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'une enfant monstrueux*
+* Nous appelons 'contre-nature' ce qui arrive contrairement à l'habitude: il n'y a rien, quoi que ce puisse être, qui ne soit pas selon la nature. Que cette raison universelle et naturelle chasse de nous l'erreur et l'étonnement que la nouveauté nous apporte. - Michel de Montaigne *Essais - Au sujet d'une enfant monstrueux*
 
 ### Peur
 
@@ -410,9 +410,9 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgwNzYxODgsLTEzOTk5MTA3NTAsLT
-E1OTk2MzczODQsODg1NjY5NjM4LDMyMDczOTMzOSwtNjI2ODc5
-OTcwLDMyOTQ1MTExMCwtMTU4MDA5NDQzNywyMDE2MTIyNDkxLD
-U2MTk3MjEwNSw1NDEzMTQ1MTQsMTU3MzA3MTUyMyw3MTczMTA2
-NDldfQ==
+eyJoaXN0b3J5IjpbLTIwMjIxNDc5MDEsLTE5NjgwNzYxODgsLT
+EzOTk5MTA3NTAsLTE1OTk2MzczODQsODg1NjY5NjM4LDMyMDcz
+OTMzOSwtNjI2ODc5OTcwLDMyOTQ1MTExMCwtMTU4MDA5NDQzNy
+wyMDE2MTIyNDkxLDU2MTk3MjEwNSw1NDEzMTQ1MTQsMTU3MzA3
+MTUyMyw3MTczMTA2NDldfQ==
 -->
