@@ -22,10 +22,10 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 ## Activité 3 p.96
 
 3. $P_{max} = U_{max} \times I_{max}$ avec $U_{max}$ en abscisse et $I_{max}$ en ordonnée. 
-4. L'énergie transmise par les photons qui atteignent la cellule provoquent l'extraction des   
+4. L'énergie transmise par les photons qui atteignent la cellule provoque l'extraction d'électrons puis leur mise en mouvement dans le circuit. L'effet photo-électrique correspond à la conversion d'énergie lumineuse ou radiative en énergie électrique
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2NTM5NjcxLC0xNjc0MDE5NTI3LDgyNj
-U5Njg5OSwzNzkzMjk5NzYsODg0MDIwMjk4LC0xNjEwMDUwMTY4
-LDIyNjQ3ODE1Ml19
+eyJoaXN0b3J5IjpbLTIxMTA4NDQ4NSwtMTY3NDAxOTUyNyw4Mj
+Y1OTY4OTksMzc5MzI5OTc2LDg4NDAyMDI5OCwtMTYxMDA1MDE2
+OCwyMjY0NzgxNTJdfQ==
 -->
