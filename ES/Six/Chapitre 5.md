@@ -21,8 +21,9 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 
 ## Activité 3 p.96
 
-1. On doit placer un ampèremètre en série 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NTk2ODk5LDM3OTMyOTk3Niw4ODQwMj
-AyOTgsLTE2MTAwNTAxNjgsMjI2NDc4MTUyXX0=
+eyJoaXN0b3J5IjpbLTE2NzQwMTk1MjcsODI2NTk2ODk5LDM3OT
+MyOTk3Niw4ODQwMjAyOTgsLTE2MTAwNTAxNjgsMjI2NDc4MTUy
+XX0=
 -->
