@@ -21,10 +21,11 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 
 ## Activité 3 p.96
 
-
+2. $P_{max} = U_{max} \times I_{max}$ avec U
+3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTQxMTAzMywtMTY3NDAxOTUyNyw4Mj
-Y1OTY4OTksMzc5MzI5OTc2LDg4NDAyMDI5OCwtMTYxMDA1MDE2
-OCwyMjY0NzgxNTJdfQ==
+eyJoaXN0b3J5IjpbNTc5MjE1NDY0LC0xNjc0MDE5NTI3LDgyNj
+U5Njg5OSwzNzkzMjk5NzYsODg0MDIwMjk4LC0xNjEwMDUwMTY4
+LDIyNjQ3ODE1Ml19
 -->
