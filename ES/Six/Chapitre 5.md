@@ -22,8 +22,9 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 ## Activité 3 p.96
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQwMTk1MjcsODI2NTk2ODk5LDM3OT
-MyOTk3Niw4ODQwMjAyOTgsLTE2MTAwNTAxNjgsMjI2NDc4MTUy
-XX0=
+eyJoaXN0b3J5IjpbLTM4MTQxMTAzMywtMTY3NDAxOTUyNyw4Mj
+Y1OTY4OTksMzc5MzI5OTc2LDg4NDAyMDI5OCwtMTYxMDA1MDE2
+OCwyMjY0NzgxNTJdfQ==
 -->
