@@ -13,7 +13,7 @@
 ## Activité 2 p.94
 
 1. Aucune de ces longueurs d'onde ne correspond aux longueurs d'onde des raies qui apparaissent sur le spectre d'émission de l'hydrogène donné dans le document 1. Ce gaz n'est donc pas constitué d'atomes d'hydrogène. 
-2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts 
+2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts 
 sont propres à chaque atome, les longueurs d'onde des photons émis sont spécifiques à chaque atome et sont donc différents dans les atomes d'hydrogène et de mercure.
 3. Les longueurs d'onde des raies d'émission sont propres à chaque atome. Ainsi, chaque atome est caractérisé par un spectre d'émission qui permet de l'identifier. 
 4. L'effet photovoltaïque correspond à la conversion d'énergie lumineuse (radiative) en énergie électrique. 
@@ -21,8 +21,8 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 
 ## Activité 3 p.96
 
-1. 
+1. On doit placer un ampèremètre en série 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MzI5OTc2LDg4NDAyMDI5OCwtMTYxMD
-A1MDE2OCwyMjY0NzgxNTJdfQ==
+eyJoaXN0b3J5IjpbODI2NTk2ODk5LDM3OTMyOTk3Niw4ODQwMj
+AyOTgsLTE2MTAwNTAxNjgsMjI2NDc4MTUyXX0=
 -->
