@@ -25,9 +25,10 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 4. L'énergie transmise par les photons qui atteignent la cellule provoque l'extraction d'électrons puis leur mise en mouvement dans le circuit. L'effet photo-électrique correspond à la conversion d'énergie lumineuse ou radiative en énergie électrique
 5. La valeur de la résistance R maximisant la puissance électrique délivrée par la cellule est obtenue en l'inverse de la pente de la droite qui passe par l'origine et le point de fonctionnement F (point commun entre les deux caractéristiques).
 6. Le point de fonctionnement correspond au point de concours de la caractéristique de la cellule et de la caractéristique du conducteur ohmique.
+7. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQyMDg2ODksLTE2NzQwMTk1MjcsOD
-I2NTk2ODk5LDM3OTMyOTk3Niw4ODQwMjAyOTgsLTE2MTAwNTAx
-NjgsMjI2NDc4MTUyXX0=
+eyJoaXN0b3J5IjpbMTA3OTczOTQ2NiwtMTY3NDAxOTUyNyw4Mj
+Y1OTY4OTksMzc5MzI5OTc2LDg4NDAyMDI5OCwtMTYxMDA1MDE2
+OCwyMjY0NzgxNTJdfQ==
 -->
