@@ -369,7 +369,9 @@ Instead of working to achieve power by an armed coup we shall have to hold our n
 	* Plebiscite: 84% approval
 
 ## US Home Front During WW2
-### "Arsenal of Democracy" - FDR, 29/12/1940
+### Women in WW2
+
+"Arsenal of Democracy" - FDR, 29/12/1940
 
 Working women during WW2 were depicted in propaganda as systematically linked to a man and as replacements for men. "Anything except heavy lifting and combat. They could try" - Major Ruth Cheney Streeter
 
@@ -387,15 +389,19 @@ Working women during WW2 were depicted in propaganda as systematically linked to
 
 On one hand, the war effort allowed women to work in manual jobs and to some extent were emancipated. On the other hand, their role was always to free up a man to join the fight and were never pushed to the actual front. This means that gender hierarchy was reinforced.
 
-## AAs during WW2
+### AAs during WW2
+
+**Executive order 8802, Prohibition of Discrimmination in the Defense Industry**
+
+`There shall be no discrimination in the employment of workers in defense industries `
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMDA3MTc1LC0xNzczMDQ3Nzc2LDE1ND
-czNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2
-NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMT
-c0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1
-Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LD
-E4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMx
-Njc1ODY5MF19
+eyJoaXN0b3J5IjpbLTM2ODg0NjQ0MSwtMTc3MzA0Nzc3NiwxNT
+Q3MzU2OTkxLC00Njg3NjUwNzAsMTY5MTI0ODk2NCwxNTk2Mzk1
+NjU0LC0xMDg1MzY0NDIzLC0zMjA3MDU2MCwtNzM4OTI2NjMzLD
+E3NDU1MzI5NDcsLTE0NDc4OTg0ODIsMjE4MjM4Njg0LC0xNDAy
+NTc3ODksMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4NC
+wxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLTEz
+MTY3NTg2OTBdfQ==
 -->
