@@ -431,16 +431,17 @@ Two interpretations:
 2. Cold War deterrent
 	1. It had nothing to do with Japan or military necessity
 	2. Was fueled by the US's geo-strategic motives to demonstrate to the Soviet Union
+	3. Wanted to make sure that Japan was not only defeated but also humilitated (like France with Germany after WW1)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY3ODYzODUsMTk1OTc4MDE1NywxOT
-A4Mzk0MiwtMzMzOTEzMDMzLDE4NTAwNzY3NjYsLTE3NzMwNDc3
-NzYsMTU0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMT
-U5NjM5NTY1NCwtMTA4NTM2NDQyMywtMzIwNzA1NjAsLTczODky
-NjYzMywxNzQ1NTMyOTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NC
-wtMTQwMjU3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4
-NTY5ODRdfQ==
+eyJoaXN0b3J5IjpbMTcyOTg5MDIxMywtMjExNjc4NjM4NSwxOT
+U5NzgwMTU3LDE5MDgzOTQyLC0zMzM5MTMwMzMsMTg1MDA3Njc2
+NiwtMTc3MzA0Nzc3NiwxNTQ3MzU2OTkxLC00Njg3NjUwNzAsMT
+Y5MTI0ODk2NCwxNTk2Mzk1NjU0LC0xMDg1MzY0NDIzLC0zMjA3
+MDU2MCwtNzM4OTI2NjMzLDE3NDU1MzI5NDcsLTE0NDc4OTg0OD
+IsMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3OCwxNjEx
+MDQxNDYyXX0=
 -->
