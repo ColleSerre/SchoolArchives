@@ -385,9 +385,9 @@ Working women during WW2 were depicted in propaganda as systematically linked to
 -   Earned 65% of male salaries
 -   Women gave up jobs for returning men
 
-On one hand, the war effort allowed women to work in manual jobs and to some extent 
+On one hand, the war effort allowed women to work in manual jobs and to some extent were emancipated. On the other hand, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNDI2MjkwLC0xNzczMDQ3Nzc2LDE1ND
+eyJoaXN0b3J5IjpbODg5NTg2NjgxLC0xNzczMDQ3Nzc2LDE1ND
 czNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2
 NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMT
 c0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1
