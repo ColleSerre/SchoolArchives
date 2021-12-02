@@ -412,8 +412,10 @@ Although this data shows that progress was made, it took place in a systemicly r
 * EO 9066: **removal of all JAs living on the West-Coast**
 * 1942: 112,000 JAs sent to internment camps. **2/3 were born in America**
 * Approved by the Supreme Court
+* "A Jap's a Jap, It makes no difference wether he is an American citizen or not."
+* Cf. videos on slide
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODg1OTQ2MSwxODUwMDc2NzY2LC0xNz
+eyJoaXN0b3J5IjpbLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNz
 czMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4
 OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC
 03Mzg5MjY2MzMsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgy
