@@ -387,13 +387,15 @@ Working women during WW2 were depicted in propaganda as systematically linked to
 
 On one hand, the war effort allowed women to work in manual jobs and to some extent were emancipated. On the other hand, their role was always to free up a man to join the fight and were never pushed to the actual front. This means that gender hierarchy was reinforced.
 
+## AAs during WW2
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU1MjExNzUsLTE3NzMwNDc3NzYsMT
-U0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5
-NTY1NCwtMTA4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMy
-wxNzQ1NTMyOTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQw
-MjU3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5OD
-QsMTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0x
-MzE2NzU4NjkwXX0=
+eyJoaXN0b3J5IjpbOTYxMDA3MTc1LC0xNzczMDQ3Nzc2LDE1ND
+czNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2
+NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMT
+c0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1
+Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LD
+E4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMx
+Njc1ODY5MF19
 -->
