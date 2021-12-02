@@ -407,9 +407,12 @@ Like women, parity was never achieved
 * Officers: 1940: 5 ; 1945: over 7000
 Although this data shows that progress was made, it took place in a systemicly racist system. 
 
-### Japa
+### Japanese-Americans internment
+
+* EO 9066: **removal of all JAs living on the West-Coast**
+* 1942: 112,000 JAs sent to internment camps. **2/3 were **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc4MzkzMDMsMTg1MDA3Njc2NiwtMT
+eyJoaXN0b3J5IjpbLTE0NDExNTYwNTYsMTg1MDA3Njc2NiwtMT
 c3MzA0Nzc3NiwxNTQ3MzU2OTkxLC00Njg3NjUwNzAsMTY5MTI0
 ODk2NCwxNTk2Mzk1NjU0LC0xMDg1MzY0NDIzLC0zMjA3MDU2MC
 wtNzM4OTI2NjMzLDE3NDU1MzI5NDcsLTE0NDc4OTg0ODIsMjE4
