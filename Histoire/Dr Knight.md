@@ -406,13 +406,15 @@ Like women, parity was never achieved
 	* Mostly assigned to non-combat roles or defense
 * Officers: 1940: 5 ; 1945: over 7000
 
+This data shows that although progress was made, it took place in a systemicly racist system
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIxODczMDQsLTE3NzMwNDc3NzYsMT
-U0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5
-NTY1NCwtMTA4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMy
-wxNzQ1NTMyOTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQw
-MjU3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5OD
-QsMTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0x
-MzE2NzU4NjkwXX0=
+eyJoaXN0b3J5IjpbNjY5MDI0NDkyLC0xNzczMDQ3Nzc2LDE1ND
+czNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2
+NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMT
+c0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1
+Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LD
+E4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMx
+Njc1ODY5MF19
 -->
