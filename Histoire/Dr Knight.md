@@ -403,18 +403,17 @@ Like women, parity was never achieved
 * 700,000 - 1 million AAs served in the military
 * Segregated military units
 * Marine Corps first refused to accept any AAs
-	* Mostly assigned to non-combat roles or defense
+	* Mostly assigned to non-combat roles or defense (cf. quote on slide 28)
 * Officers: 1940: 5 ; 1945: over 7000
-
-This data shows that although progress was made, it took place in a systemicly racist system
+Although this data shows that progress was made, it took place in a systemicly racist system. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MDI0NDkyLC0xNzczMDQ3Nzc2LDE1ND
-czNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2
-NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMT
-c0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1
-Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LD
-E4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMx
-Njc1ODY5MF19
+eyJoaXN0b3J5IjpbMTg1MDA3Njc2NiwtMTc3MzA0Nzc3NiwxNT
+Q3MzU2OTkxLC00Njg3NjUwNzAsMTY5MTI0ODk2NCwxNTk2Mzk1
+NjU0LC0xMDg1MzY0NDIzLC0zMjA3MDU2MCwtNzM4OTI2NjMzLD
+E3NDU1MzI5NDcsLTE0NDc4OTg0ODIsMjE4MjM4Njg0LC0xNDAy
+NTc3ODksMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4NC
+wxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLTEz
+MTY3NTg2OTBdfQ==
 -->
