@@ -391,17 +391,18 @@ On one hand, the war effort allowed women to work in manual jobs and to some ext
 
 ### AAs during WW2
 
-**Executive order 8802, Prohibition of Discrimmination in the Defense Industry**
+**Executive order 8802, Prohibition of Discrimmination in the Defense Industry (June 1941)**
 
-`There shall be no discrimination in the employment of workers in defense industries `
+`"There shall be no discrimination in the employment of workers in defense industries and in Government, because of race, creed, color, or national origin"`
 
+**Double V campaign:** 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODg0NjQ0MSwtMTc3MzA0Nzc3NiwxNT
-Q3MzU2OTkxLC00Njg3NjUwNzAsMTY5MTI0ODk2NCwxNTk2Mzk1
-NjU0LC0xMDg1MzY0NDIzLC0zMjA3MDU2MCwtNzM4OTI2NjMzLD
-E3NDU1MzI5NDcsLTE0NDc4OTg0ODIsMjE4MjM4Njg0LC0xNDAy
-NTc3ODksMTM3MDIyMzg3OCwxNjExMDQxNDYyLDIwNTg1Njk4NC
-wxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05Nzg0MTg5ODUsLTEz
-MTY3NTg2OTBdfQ==
+eyJoaXN0b3J5IjpbNjc5NDkxMTMyLC0xNzczMDQ3Nzc2LDE1ND
+czNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2
+NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMT
+c0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1
+Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LD
+E4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMx
+Njc1ODY5MF19
 -->
