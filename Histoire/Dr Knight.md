@@ -410,13 +410,14 @@ Although this data shows that progress was made, it took place in a systemicly r
 ### Japanese-Americans internment
 
 * EO 9066: **removal of all JAs living on the West-Coast**
-* 1942: 112,000 JAs sent to internment camps. **2/3 were **
+* 1942: 112,000 JAs sent to internment camps. **2/3 were born in America**
+* Approved by the Supreme Court
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDExNTYwNTYsMTg1MDA3Njc2NiwtMT
-c3MzA0Nzc3NiwxNTQ3MzU2OTkxLC00Njg3NjUwNzAsMTY5MTI0
-ODk2NCwxNTk2Mzk1NjU0LC0xMDg1MzY0NDIzLC0zMjA3MDU2MC
-wtNzM4OTI2NjMzLDE3NDU1MzI5NDcsLTE0NDc4OTg0ODIsMjE4
-MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3OCwxNjExMDQxND
-YyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMTQ0OTMzOTk0LC05
-Nzg0MTg5ODVdfQ==
+eyJoaXN0b3J5IjpbMTQxODg1OTQ2MSwxODUwMDc2NzY2LC0xNz
+czMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4
+OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC
+03Mzg5MjY2MzMsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgy
+Mzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0Nj
+IsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3
+ODQxODk4NV19
 -->
