@@ -429,17 +429,18 @@ Two interpretations:
 
 1. Save (American) lives
 2. Cold War deterrent
-3. 
+	1. It had nothing to do with Japan or military necessity
+	2. Was fueled by the US's geo-strategic motives to demonstrate to the Soviet Union
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTgyMTU2LDE5NTk3ODAxNTcsMTkwOD
-M5NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2
-LDE1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OT
-YzOTU2NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2
-MzMsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLT
-E0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2
-OTg0XX0=
+eyJoaXN0b3J5IjpbLTIxMTY3ODYzODUsMTk1OTc4MDE1NywxOT
+A4Mzk0MiwtMzMzOTEzMDMzLDE4NTAwNzY3NjYsLTE3NzMwNDc3
+NzYsMTU0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMT
+U5NjM5NTY1NCwtMTA4NTM2NDQyMywtMzIwNzA1NjAsLTczODky
+NjYzMywxNzQ1NTMyOTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NC
+wtMTQwMjU3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4
+NTY5ODRdfQ==
 -->
