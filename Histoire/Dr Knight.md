@@ -403,12 +403,12 @@ Like women, parity was never achieved
 * 700,000 - 1 million AAs served in the military
 * Segregated military units
 * Marine Corps first refused to accept any AAs
-	* Mostly assigned to non-c
-
+	* Mostly assigned to non-combat roles or defense
+* Officers: 1940: 5 ; 1945: over 7000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUzMDcyOTYsLTE3NzMwNDc3NzYsMT
+eyJoaXN0b3J5IjpbLTIwMzIxODczMDQsLTE3NzMwNDc3NzYsMT
 U0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5
 NTY1NCwtMTA4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMy
 wxNzQ1NTMyOTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQw
