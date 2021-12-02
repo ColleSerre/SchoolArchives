@@ -398,15 +398,21 @@ On one hand, the war effort allowed women to work in manual jobs and to some ext
 **Double V campaign:** Victory over racism in the US and over the Axis
 
 Average wages during WW2: AA: $457 -> $1,967 ; White Americans: $1,064 -> $2,600
+Like women, parity was never achieved
 
-Like women, parit
+* 700,000 - 1 million AAs served in the military
+* Segregated military units
+* Marine Corps first refused to accept any AAs
+	* Mostly assigned to non-c
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyOTk4NzM1LC0xNzczMDQ3Nzc2LDE1ND
-czNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2
-NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMT
-c0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1
-Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LD
-E4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3ODQxODk4NSwtMTMx
-Njc1ODY5MF19
+eyJoaXN0b3J5IjpbLTEzMDUzMDcyOTYsLTE3NzMwNDc3NzYsMT
+U0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5
+NTY1NCwtMTA4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMy
+wxNzQ1NTMyOTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQw
+MjU3Nzg5LDEzNzAyMjM4NzgsMTYxMTA0MTQ2MiwyMDU4NTY5OD
+QsMTg1NTI1MjkzMSwtMjE0NDkzMzk5NCwtOTc4NDE4OTg1LC0x
+MzE2NzU4NjkwXX0=
 -->
