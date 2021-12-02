@@ -414,12 +414,19 @@ Although this data shows that progress was made, it took place in a systemicly r
 * Approved by the Supreme Court
 * "A Jap's a Jap, It makes no difference wether he is an American citizen or not."
 * Cf. videos on slide
+* ** Why did the JAs got imprisoned and not GAs ? They looked different.** 
+
+## US Atomic Bombing of Japan
+
+* 1894-5: Chine-Japan War
+* 1902: All
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNz
-czMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4
-OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC
-03Mzg5MjY2MzMsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgy
-Mzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIzODc4LDE2MTEwNDE0Nj
-IsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5MzM5OTQsLTk3
-ODQxODk4NV19
+eyJoaXN0b3J5IjpbNDQ4NDMzMjI3LC0zMzM5MTMwMzMsMTg1MD
+A3Njc2NiwtMTc3MzA0Nzc3NiwxNTQ3MzU2OTkxLC00Njg3NjUw
+NzAsMTY5MTI0ODk2NCwxNTk2Mzk1NjU0LC0xMDg1MzY0NDIzLC
+0zMjA3MDU2MCwtNzM4OTI2NjMzLDE3NDU1MzI5NDcsLTE0NDc4
+OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3OC
+wxNjExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMTQ0
+OTMzOTk0XX0=
 -->
