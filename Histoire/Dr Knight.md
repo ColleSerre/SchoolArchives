@@ -423,16 +423,15 @@ Although this data shows that progress was made, it took place in a systemicly r
 -   1904: Russia-Japan War: First victory of a non-western nation over a western nation
 -   1904-1910: Occupation and Annexation of Korea
 -   1937-1945: Sino-Japanese War
-
-
+Historiography: the study of how interpretations of the past change
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MzQ3NjE4LC0zMzM5MTMwMzMsMTg1MD
-A3Njc2NiwtMTc3MzA0Nzc3NiwxNTQ3MzU2OTkxLC00Njg3NjUw
-NzAsMTY5MTI0ODk2NCwxNTk2Mzk1NjU0LC0xMDg1MzY0NDIzLC
-0zMjA3MDU2MCwtNzM4OTI2NjMzLDE3NDU1MzI5NDcsLTE0NDc4
-OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3OC
-wxNjExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMTQ0
-OTMzOTk0XX0=
+eyJoaXN0b3J5IjpbMTkwODM5NDIsLTMzMzkxMzAzMywxODUwMD
+c2NzY2LC0xNzczMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NTA3
+MCwxNjkxMjQ4OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMsLT
+MyMDcwNTYwLC03Mzg5MjY2MzMsMTc0NTUzMjk0NywtMTQ0Nzg5
+ODQ4MiwyMTgyMzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIzODc4LD
+E2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIxNDQ5
+MzM5OTRdfQ==
 -->
