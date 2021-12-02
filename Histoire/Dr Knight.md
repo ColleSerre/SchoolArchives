@@ -418,15 +418,22 @@ Although this data shows that progress was made, it took place in a systemicly r
 
 ## US Atomic Bombing of Japan
 
-* 1894-5: Chine-Japan War
-* 1902: All
+-   1894-5: China-Japan War
+    
+-   1902: Alliance with Britain: first ever military pact concluded on equal terms between a western and non-western power
+    
+-   1904: Russia-Japan War: First victory of a non-western nation over a western nation
+    
+-   1904-1910: Occupation and Annexation of Korea
+   
+-   1937-1945: Sino-Japanese War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NDMzMjI3LC0zMzM5MTMwMzMsMTg1MD
-A3Njc2NiwtMTc3MzA0Nzc3NiwxNTQ3MzU2OTkxLC00Njg3NjUw
-NzAsMTY5MTI0ODk2NCwxNTk2Mzk1NjU0LC0xMDg1MzY0NDIzLC
-0zMjA3MDU2MCwtNzM4OTI2NjMzLDE3NDU1MzI5NDcsLTE0NDc4
-OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3MDIyMzg3OC
-wxNjExMDQxNDYyLDIwNTg1Njk4NCwxODU1MjUyOTMxLC0yMTQ0
-OTMzOTk0XX0=
+eyJoaXN0b3J5IjpbLTEyMTg4MTc5MDAsLTMzMzkxMzAzMywxOD
+UwMDc2NzY2LC0xNzczMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2
+NTA3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0Mj
+MsLTMyMDcwNTYwLC03Mzg5MjY2MzMsMTc0NTUzMjk0NywtMTQ0
+Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0MDI1Nzc4OSwxMzcwMjIzOD
+c4LDE2MTEwNDE0NjIsMjA1ODU2OTg0LDE4NTUyNTI5MzEsLTIx
+NDQ5MzM5OTRdfQ==
 -->
