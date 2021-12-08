@@ -435,9 +435,10 @@ Two interpretations:
 	3. Wanted to make sure that Japan was not only defeated but also humilitated (like France with Germany after WW1)
 	4. Started to break the "marriage of convinience" between USSR and US
 
-End of the war in Europe -> USSR troops massively move to the Eastern front (Invasion of Manchuria)
+End of the war in Europe -> USSR troops massively move to the Eastern front (Invasion of Manchuria: race to Japan)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDAxNTkwMywtMTkxNjM3MDcwNywxNz
+eyJoaXN0b3J5IjpbMTA0NDk4MTY1NywtMTkxNjM3MDcwNywxNz
 I5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwODM5
 NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2LD
 E1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYz
