@@ -434,6 +434,12 @@ Two interpretations:
 	2. Was fueled by the US's geo-strategic motives to demonstrate to the Soviet Union
 	3. Wanted to make sure that Japan was not only defeated but also humilitated (like France with Germany after WW1)
 	4. Started to break the "marriage of convinience" between USSR and US
+3. Additional motives
+	1. Use bomb to justify time and money spent
+	2. Test new weapon
+	3. Revenge for Pearl Harbor
+	4. Revenge for mistreatment of allied war prisoners
+	5. Racism
 
 End of the war in Europe -> USSR troops massively move to the Eastern front (Invasion of Manchuria: race to Japan)
 
@@ -442,11 +448,11 @@ End of the war in Europe -> USSR troops massively move to the Eastern front (Inv
 Tactical bombing: bombs used to destroy specific targets (factories, military facilities)
 Strategic bombing: bomb until winning the war (bombs are the essential component of the war strategy)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMD
-Q0OTgxNjU3LC0xOTE2MzcwNzA3LDE3Mjk4OTAyMTMsLTIxMTY3
-ODYzODUsMTk1OTc4MDE1NywxOTA4Mzk0MiwtMzMzOTEzMDMzLD
-E4NTAwNzY3NjYsLTE3NzMwNDc3NzYsMTU0NzM1Njk5MSwtNDY4
-NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5NTY1NCwtMTA4NTM2ND
-QyMywtMzIwNzA1NjAsLTczODkyNjYzMywxNzQ1NTMyOTQ3LC0x
-NDQ3ODk4NDgyXX0=
+eyJoaXN0b3J5IjpbLTM1Mzk3NzE4NSwxNDQ1NzU0MDUyLC0xOD
+E5Mzg4MzAzLDEwNDQ5ODE2NTcsLTE5MTYzNzA3MDcsMTcyOTg5
+MDIxMywtMjExNjc4NjM4NSwxOTU5NzgwMTU3LDE5MDgzOTQyLC
+0zMzM5MTMwMzMsMTg1MDA3Njc2NiwtMTc3MzA0Nzc3NiwxNTQ3
+MzU2OTkxLC00Njg3NjUwNzAsMTY5MTI0ODk2NCwxNTk2Mzk1Nj
+U0LC0xMDg1MzY0NDIzLC0zMjA3MDU2MCwtNzM4OTI2NjMzLDE3
+NDU1MzI5NDddfQ==
 -->
