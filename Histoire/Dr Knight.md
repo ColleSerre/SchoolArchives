@@ -432,12 +432,14 @@ Two interpretations:
 	1. It had nothing to do with Japan or military necessity
 	2. Was fueled by the US's geo-strategic motives to demonstrate to the Soviet Union
 	3. Wanted to make sure that Japan was not only defeated but also humilitated (like France with Germany after WW1)
+	4. Started to break the "marriage of convinience" between USSR and US
+	5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYzNzA3MDcsMTcyOTg5MDIxMywtMj
-ExNjc4NjM4NSwxOTU5NzgwMTU3LDE5MDgzOTQyLC0zMzM5MTMw
-MzMsMTg1MDA3Njc2NiwtMTc3MzA0Nzc3NiwxNTQ3MzU2OTkxLC
-00Njg3NjUwNzAsMTY5MTI0ODk2NCwxNTk2Mzk1NjU0LC0xMDg1
-MzY0NDIzLC0zMjA3MDU2MCwtNzM4OTI2NjMzLDE3NDU1MzI5ND
-csLTE0NDc4OTg0ODIsMjE4MjM4Njg0LC0xNDAyNTc3ODksMTM3
-MDIyMzg3OF19
+eyJoaXN0b3J5IjpbMTEzMTg1ODU3NiwtMTkxNjM3MDcwNywxNz
+I5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwODM5
+NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2LD
+E1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYz
+OTU2NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2Mz
+MsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0
+MDI1Nzc4OV19
 -->
