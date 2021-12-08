@@ -437,14 +437,16 @@ Two interpretations:
 
 End of the war in Europe -> USSR troops massively move to the Eastern front (Invasion of Manchuria: race to Japan)
 
-Total war & Strategic bombing: Everyone is a target (civilians are targets because they made weapons)
+## Total war & Strategic bombing: Everyone is a target (civilians are targets because they made weapons)
 
+Tactical bombing: bombs used to destroy specific targets (factories, military facilities)
+Strategic bombing: bomb until winning the war (bombs are the essential component of the war strategy)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkzODgzMDMsMTA0NDk4MTY1NywtMT
-kxNjM3MDcwNywxNzI5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3
-ODAxNTcsMTkwODM5NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC
-0xNzczMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkx
-MjQ4OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMsLTMyMDcwNT
-YwLC03Mzg5MjY2MzMsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4Miwy
-MTgyMzg2ODRdfQ==
+eyJoaXN0b3J5IjpbMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMD
+Q0OTgxNjU3LC0xOTE2MzcwNzA3LDE3Mjk4OTAyMTMsLTIxMTY3
+ODYzODUsMTk1OTc4MDE1NywxOTA4Mzk0MiwtMzMzOTEzMDMzLD
+E4NTAwNzY3NjYsLTE3NzMwNDc3NzYsMTU0NzM1Njk5MSwtNDY4
+NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5NTY1NCwtMTA4NTM2ND
+QyMywtMzIwNzA1NjAsLTczODkyNjYzMywxNzQ1NTMyOTQ3LC0x
+NDQ3ODk4NDgyXX0=
 -->
