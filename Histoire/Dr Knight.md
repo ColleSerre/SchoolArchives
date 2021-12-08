@@ -428,14 +428,14 @@ Although this data shows that progress was made, it took place in a systemicly r
 Two interpretations:
 
 1. Save (American) lives
+	2. 
 2. Cold War deterrent
 	1. It had nothing to do with Japan or military necessity
 	2. Was fueled by the US's geo-strategic motives to demonstrate to the Soviet Union
 	3. Wanted to make sure that Japan was not only defeated but also humilitated (like France with Germany after WW1)
 	4. Started to break the "marriage of convinience" between USSR and US
-	5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTg1ODU3NiwtMTkxNjM3MDcwNywxNz
+eyJoaXN0b3J5IjpbLTc1ODc5NDcyMywtMTkxNjM3MDcwNywxNz
 I5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwODM5
 NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2LD
 E1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYz
