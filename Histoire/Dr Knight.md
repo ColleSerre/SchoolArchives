@@ -434,12 +434,14 @@ Two interpretations:
 	2. Was fueled by the US's geo-strategic motives to demonstrate to the Soviet Union
 	3. Wanted to make sure that Japan was not only defeated but also humilitated (like France with Germany after WW1)
 	4. Started to break the "marriage of convinience" between USSR and US
+
+End of the war in Europe -> USSR troops massively move to the Eastern front (**strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyODM4Mjg4LC0xOTE2MzcwNzA3LDE3Mj
-k4OTAyMTMsLTIxMTY3ODYzODUsMTk1OTc4MDE1NywxOTA4Mzk0
-MiwtMzMzOTEzMDMzLDE4NTAwNzY3NjYsLTE3NzMwNDc3NzYsMT
-U0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5
-NTY1NCwtMTA4NTM2NDQyMywtMzIwNzA1NjAsLTczODkyNjYzMy
-wxNzQ1NTMyOTQ3LC0xNDQ3ODk4NDgyLDIxODIzODY4NCwtMTQw
-MjU3Nzg5XX0=
+eyJoaXN0b3J5IjpbLTQzOTE4MTgzMCwtMTkxNjM3MDcwNywxNz
+I5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwODM5
+NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2LD
+E1NDczNTY5OTEsLTQ2ODc2NTA3MCwxNjkxMjQ4OTY0LDE1OTYz
+OTU2NTQsLTEwODUzNjQ0MjMsLTMyMDcwNTYwLC03Mzg5MjY2Mz
+MsMTc0NTUzMjk0NywtMTQ0Nzg5ODQ4MiwyMTgyMzg2ODQsLTE0
+MDI1Nzc4OV19
 -->
