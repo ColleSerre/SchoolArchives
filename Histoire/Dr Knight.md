@@ -454,18 +454,20 @@ Strategic bombing: bomb until winning the war (bombs are the essential component
 The Decision:
 
 * Incremental process: policy evolved over time
-* June 1941: Operation Barbarossa - German invasion of Soview Union 
+* June 1941: **Operation Barbarossa** - German invasion of Soview Union 
 	* Poland/Soviet Union to be used for expansion of the German 'race' - 'liebesraum' ('living space')
 * "Final solution" decision: autumn 1941 - beginning 1942
 	* Early victories against USSR: Hitler thought the war was won
 	* Later losses again the USSR and entry of the US into war: Hitler believed the war was lost
-* Upto mid-Oct
+* Upto mid-October 1941: Deporting Jews to the "east" (e.g. Siberia) for slave labour and decimation
+* Until then: expulsion and extermination (Operation Reinhard)
+* 3 programs in place since 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTcwNzU2ODUsMTkyOTY2MDc2MSwtMz
-UzOTc3MTg1LDE0NDU3NTQwNTIsLTE4MTkzODgzMDMsMTA0NDk4
-MTY1NywtMTkxNjM3MDcwNywxNzI5ODkwMjEzLC0yMTE2Nzg2Mz
-g1LDE5NTk3ODAxNTcsMTkwODM5NDIsLTMzMzkxMzAzMywxODUw
-MDc2NzY2LC0xNzczMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NT
-A3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMs
-LTMyMDcwNTYwXX0=
+eyJoaXN0b3J5IjpbMTc0OTgwNTQ3NCwxOTI5NjYwNzYxLC0zNT
+M5NzcxODUsMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgx
+NjU3LC0xOTE2MzcwNzA3LDE3Mjk4OTAyMTMsLTIxMTY3ODYzOD
+UsMTk1OTc4MDE1NywxOTA4Mzk0MiwtMzMzOTEzMDMzLDE4NTAw
+NzY3NjYsLTE3NzMwNDc3NzYsMTU0NzM1Njk5MSwtNDY4NzY1MD
+cwLDE2OTEyNDg5NjQsMTU5NjM5NTY1NCwtMTA4NTM2NDQyMywt
+MzIwNzA1NjBdfQ==
 -->
