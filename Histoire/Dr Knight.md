@@ -461,6 +461,7 @@ The Decision:
 	* Later losses again the USSR and entry of the US into war: Hitler believed the war was lost → **He had to win the racial war**, although he was going to lose the military war
 * Upto mid-October 1941: Deporting Jews to the "east" (e.g. Siberia) for slave labour and decimation
 * Until then: expulsion and extermination (Operation Reinhard)
+* Mass of the Holocaust (2 million jews) were killed by Einsatzgruppen and the Wehrmacht 
 * 3 programs were **already** in place:
 	* Deportation
 	* Concentration  Camps
@@ -469,11 +470,11 @@ The Decision:
 ### Ghettos
 Jews in Poland, Hungary, occupied USSR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTk5NjY3MCwxMjQxMDUwMzk1LC0xOT
-AzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMTg3MzUsMTkyOTY2
-MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNTIsLTE4MTkzODgzMD
-MsMTA0NDk4MTY1NywtMTkxNjM3MDcwNywxNzI5ODkwMjEzLC0y
-MTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwODM5NDIsLTMzMzkxMz
-AzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2LDE1NDczNTY5OTEs
-LTQ2ODc2NTA3MF19
+eyJoaXN0b3J5IjpbLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMj
+QxMDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEy
+MTg3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNT
+IsLTE4MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcwNywx
+NzI5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwOD
+M5NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2
+LDE1NDczNTY5OTFdfQ==
 -->
