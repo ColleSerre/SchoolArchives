@@ -458,7 +458,7 @@ The Decision:
 	* Poland/Soviet Union to be used for expansion of the German 'race' - 'liebesraum' ('living space')
 * "Final solution" decision: autumn 1941 - beginning 1942
 	* Early victories against USSR: Hitler thought the war was won
-	* Later losses again the USSR and entry of the US into war: Hitler believed the war was lost
+	* Later losses again the USSR and entry of the US into war: Hitler believed the war was lost → **He had to win the racial war**, although he was going to lose the military war
 * Upto mid-October 1941: Deporting Jews to the "east" (e.g. Siberia) for slave labour and decimation
 * Until then: expulsion and extermination (Operation Reinhard)
 * 3 programs in place:
@@ -466,11 +466,11 @@ The Decision:
 	* Concentration  Camps
 	* Gas Chambers - used for "euthanasia" program (Aktion T4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTEyMTg3MzUsMTkyOTY2MDc2MSwtMz
-UzOTc3MTg1LDE0NDU3NTQwNTIsLTE4MTkzODgzMDMsMTA0NDk4
-MTY1NywtMTkxNjM3MDcwNywxNzI5ODkwMjEzLC0yMTE2Nzg2Mz
-g1LDE5NTk3ODAxNTcsMTkwODM5NDIsLTMzMzkxMzAzMywxODUw
-MDc2NzY2LC0xNzczMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NT
-A3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMs
-LTMyMDcwNTYwXX0=
+eyJoaXN0b3J5IjpbMTgxNjY1Mzk1MSwtMTE5MTIxODczNSwxOT
+I5NjYwNzYxLC0zNTM5NzcxODUsMTQ0NTc1NDA1MiwtMTgxOTM4
+ODMwMywxMDQ0OTgxNjU3LC0xOTE2MzcwNzA3LDE3Mjk4OTAyMT
+MsLTIxMTY3ODYzODUsMTk1OTc4MDE1NywxOTA4Mzk0MiwtMzMz
+OTEzMDMzLDE4NTAwNzY3NjYsLTE3NzMwNDc3NzYsMTU0NzM1Nj
+k5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5NTY1NCwt
+MTA4NTM2NDQyM119
 -->
