@@ -451,13 +451,18 @@ Strategic bombing: bomb until winning the war (bombs are the essential component
 ## The Holocaust
 
 "The Final Solution": comprehensive program to exterminate the entire Jewish population
+The Decision:
 
+* Incremental process: policy evolved over time
+* June 1941: Operation Barbarossa - German invasion of Soview Union 
+	* Poland/Soviet Union to be used for expansion of the German 'race' - 'liebesraum' ('living space')
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTcwNTE1OSwxOTI5NjYwNzYxLC0zNT
-M5NzcxODUsMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgx
-NjU3LC0xOTE2MzcwNzA3LDE3Mjk4OTAyMTMsLTIxMTY3ODYzOD
-UsMTk1OTc4MDE1NywxOTA4Mzk0MiwtMzMzOTEzMDMzLDE4NTAw
-NzY3NjYsLTE3NzMwNDc3NzYsMTU0NzM1Njk5MSwtNDY4NzY1MD
-cwLDE2OTEyNDg5NjQsMTU5NjM5NTY1NCwtMTA4NTM2NDQyMywt
-MzIwNzA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjk4MTMwMzAsMTkyOTY2MDc2MSwtMz
+UzOTc3MTg1LDE0NDU3NTQwNTIsLTE4MTkzODgzMDMsMTA0NDk4
+MTY1NywtMTkxNjM3MDcwNywxNzI5ODkwMjEzLC0yMTE2Nzg2Mz
+g1LDE5NTk3ODAxNTcsMTkwODM5NDIsLTMzMzkxMzAzMywxODUw
+MDc2NzY2LC0xNzczMDQ3Nzc2LDE1NDczNTY5OTEsLTQ2ODc2NT
+A3MCwxNjkxMjQ4OTY0LDE1OTYzOTU2NTQsLTEwODUzNjQ0MjMs
+LTMyMDcwNTYwXX0=
 -->
