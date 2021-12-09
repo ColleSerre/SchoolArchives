@@ -450,9 +450,9 @@ Strategic bombing: bomb until winning the war (bombs are the essential component
 
 ## The Holocaust
 
-"The Final Solution": comprehensive program to exterminate the entire Jewish population (1/3 
+"The Final Solution": comprehensive program to exterminate the entire Jewish population
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTI2NDc3NCwtMzUzOTc3MTg1LDE0ND
+eyJoaXN0b3J5IjpbMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0ND
 U3NTQwNTIsLTE4MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3
 MDcwNywxNzI5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNT
 csMTkwODM5NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzcz
