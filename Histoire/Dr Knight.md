@@ -468,13 +468,15 @@ The Decision:
 	* Gas Chambers - used for "euthanasia" program (Aktion T4)
 * **Ghettos**
 
-### Total War & Totalitarian Regimes: the war of annihalitation in eastern europe
+### Total War & Totalitarian Regimes: the war of annihalitation in Eastern Europe
+
+* Both totalitarian 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQyNTIyMzAsLTE3MjQwMTI3MDUsLT
-QxOTk5NjY3MCwxMjQxMDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2
-NTM5NTEsLTExOTEyMTg3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MT
-g1LDE0NDU3NTQwNTIsLTE4MTkzODgzMDMsMTA0NDk4MTY1Nywt
-MTkxNjM3MDcwNywxNzI5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NT
-k3ODAxNTcsMTkwODM5NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2
-LC0xNzczMDQ3Nzc2XX0=
+eyJoaXN0b3J5IjpbOTI4MDU2MDg1LC0xNzI0MDEyNzA1LC00MT
+k5OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0Mzg3MiwxODE2NjUz
+OTUxLC0xMTkxMjE4NzM1LDE5Mjk2NjA3NjEsLTM1Mzk3NzE4NS
+wxNDQ1NzU0MDUyLC0xODE5Mzg4MzAzLDEwNDQ5ODE2NTcsLTE5
+MTYzNzA3MDcsMTcyOTg5MDIxMywtMjExNjc4NjM4NSwxOTU5Nz
+gwMTU3LDE5MDgzOTQyLC0zMzM5MTMwMzMsMTg1MDA3Njc2Niwt
+MTc3MzA0Nzc3Nl19
 -->
