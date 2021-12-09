@@ -466,15 +466,15 @@ The Decision:
 	* Deportation
 	* Concentration  Camps
 	* Gas Chambers - used for "euthanasia" program (Aktion T4)
+* **Ghettos**
 
-### Ghettos
-Jews in Poland, Hungary, occupied USSR
+### Total War & Totalitarian Regimes: the war of anni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMj
-QxMDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEy
-MTg3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNT
-IsLTE4MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcwNywx
-NzI5ODkwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwOD
-M5NDIsLTMzMzkxMzAzMywxODUwMDc2NzY2LC0xNzczMDQ3Nzc2
-LDE1NDczNTY5OTFdfQ==
+eyJoaXN0b3J5IjpbLTE2OTE0NjY0NiwtMTcyNDAxMjcwNSwtND
+E5OTk2NjcwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgxNjY1
+Mzk1MSwtMTE5MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5NzcxOD
+UsMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgxNjU3LC0x
+OTE2MzcwNzA3LDE3Mjk4OTAyMTMsLTIxMTY3ODYzODUsMTk1OT
+c4MDE1NywxOTA4Mzk0MiwtMzMzOTEzMDMzLDE4NTAwNzY3NjYs
+LTE3NzMwNDc3NzZdfQ==
 -->
