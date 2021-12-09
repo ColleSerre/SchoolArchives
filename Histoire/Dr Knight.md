@@ -456,9 +456,12 @@ The Decision:
 * Incremental process: policy evolved over time
 * June 1941: Operation Barbarossa - German invasion of Soview Union 
 	* Poland/Soviet Union to be used for expansion of the German 'race' - 'liebesraum' ('living space')
-* 
+* "Final solution" decision: autumn 1941 - beginning 1942
+	* Early victories against USSR: Hitler thought the war was won
+	* Later losses again the USSR and entry of the US into war: Hitler believed the war was lost
+* Upto mid-Oct
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk4MTMwMzAsMTkyOTY2MDc2MSwtMz
+eyJoaXN0b3J5IjpbLTEwNTcwNzU2ODUsMTkyOTY2MDc2MSwtMz
 UzOTc3MTg1LDE0NDU3NTQwNTIsLTE4MTkzODgzMDMsMTA0NDk4
 MTY1NywtMTkxNjM3MDcwNywxNzI5ODkwMjEzLC0yMTE2Nzg2Mz
 g1LDE5NTk3ODAxNTcsMTkwODM5NDIsLTMzMzkxMzAzMywxODUw
