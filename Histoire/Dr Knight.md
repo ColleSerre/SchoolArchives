@@ -461,16 +461,16 @@ The Decision:
 	* Later losses again the USSR and entry of the US into war: Hitler believed the war was lost → **He had to win the racial war**, although he was going to lose the military war
 * Upto mid-October 1941: Deporting Jews to the "east" (e.g. Siberia) for slave labour and decimation
 * Until then: expulsion and extermination (Operation Reinhard)
-* 3 programs in place:
+* 3 programs were **already** in place:
 	* Deportation
 	* Concentration  Camps
 	* Gas Chambers - used for "euthanasia" program (Aktion T4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjY1Mzk1MSwtMTE5MTIxODczNSwxOT
-I5NjYwNzYxLC0zNTM5NzcxODUsMTQ0NTc1NDA1MiwtMTgxOTM4
-ODMwMywxMDQ0OTgxNjU3LC0xOTE2MzcwNzA3LDE3Mjk4OTAyMT
-MsLTIxMTY3ODYzODUsMTk1OTc4MDE1NywxOTA4Mzk0MiwtMzMz
-OTEzMDMzLDE4NTAwNzY3NjYsLTE3NzMwNDc3NzYsMTU0NzM1Nj
-k5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQsMTU5NjM5NTY1NCwt
-MTA4NTM2NDQyM119
+eyJoaXN0b3J5IjpbLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MSwtMT
+E5MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5NzcxODUsMTQ0NTc1
+NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgxNjU3LC0xOTE2MzcwNz
+A3LDE3Mjk4OTAyMTMsLTIxMTY3ODYzODUsMTk1OTc4MDE1Nywx
+OTA4Mzk0MiwtMzMzOTEzMDMzLDE4NTAwNzY3NjYsLTE3NzMwND
+c3NzYsMTU0NzM1Njk5MSwtNDY4NzY1MDcwLDE2OTEyNDg5NjQs
+MTU5NjM5NTY1NF19
 -->
