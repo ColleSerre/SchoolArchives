@@ -471,9 +471,9 @@ The Decision:
 ### Total War & Totalitarian Regimes: the war of annihalitation in Eastern Europe
 
 * Both totalitarian regimes wanted to annihalate each other
-* Large population of jews in the USSR and necessity to expand "lebesraum" to the East (ya
+* Large population of jews in the USSR and necessity to expand "lebesraum" to the East (Yale interview of Timothy Snyder)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTE3MTY3MiwtMTcyNDAxMjcwNSwtND
+eyJoaXN0b3J5IjpbMTU5NzIwNjY4MywtMTcyNDAxMjcwNSwtND
 E5OTk2NjcwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgxNjY1
 Mzk1MSwtMTE5MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5NzcxOD
 UsMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgxNjU3LC0x
