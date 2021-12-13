@@ -15,7 +15,7 @@ La puissance reçue est **inégale**.
 La puissance reçue dépend **du rayon du corps céleste**
 
 Il y a environ 4,6 milliards d'années, l'atmosphère primitive était composée de N2, CO2 et H20. Sa composition actuelle est d'environ 78% de N2 et 21% de 02, avec des traces d'autres gaz (dont H20, CO2, CH4, N20)
-Le refroidissement de la surface de la Terre primitive a conduit à la liquéfaction de la vapeur d'eau présente dans l'atmosphère initiale. L'hydrosphère s'est formée, dans
+Le refroidissement de la surface de la Terre primitive a conduit à la liquéfaction de la vapeur d'eau présente dans l'atmosphère initiale. L'hydrosphère s'est formée, dans laquelle s'est développée la vie. 4 sphères: hydrosphère, lithosphère, biosphère, atmosphère
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODI0NjcxMl19
+eyJoaXN0b3J5IjpbMTM1NDM2NjQ1XX0=
 -->
