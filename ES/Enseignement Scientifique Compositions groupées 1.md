@@ -15,8 +15,9 @@ La puissance reçue est **inégale**.
 La puissance reçue dépend **du rayon du corps céleste**
 
 Il y a environ 4,6 milliards d'années, l'atmosphère primitive était composée de N2, CO2 et H20. Sa composition actuelle est d'environ 78% de N2 et 21% de 02, avec des traces d'autres gaz (dont H20, CO2, CH4, N20)
-Le refroidissement de la surface de la Terre primitive a conduit à la liquéfaction de la vapeur d'eau présente dans l'atmosphère initiale. L'hydrosphère s'est formée, dans laquelle s'est développée la vie. Quatre sphères : hydrosphère, lithosphère, biosphère, atmosphère.
+Le refroidissement de la surface de la Terre primitive a conduit à la liquéfaction de la vapeur d'eau présente dans l'atmosphère initiale. L'hydrosphère s'est formée, dans laquelle s'est développée la vie. Quatre sphères : hydrosphère, lithosphère, biosphère, atmosphère.
 Les premières traces de vie sont datées d'il y au moins 3,5 milliards d'années. Par leur métabolisme photosynthétique, des cyanobactéries ont produit le dioxygène qui a oxydé, dans l'océan, des espèces chimiques réduites. **Le dioxygène s'est accumulé à partir de 2,2 milliards d'années dans l'atmosphère.** Sa concentration atmosphérique actuelle a été atteinte il y a 500 millions d'années environ. 
+Sous l'effet du rayonnement ultraviolet solaire, le dioxygène stratosphérique peut se dissocier, initiant une transformation chimique qui aboutit à la formation d'ozone. Celui-ci constitue une couche permanente de concentration maximale située à une altitude d'environ 30 km. La c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE3MTQ2MjldfQ==
+eyJoaXN0b3J5IjpbMTYwMjcyODgxOSwtMTY1MTcxNDYyOV19
 -->
