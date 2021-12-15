@@ -476,12 +476,13 @@ The Decision:
 Two thesis:
 1. The German were naturally anti-semitic (conceptions of religion)
 2. Peer pressure, obedience, propaganda and dehumanisation, war and brutalization (Christopher R. Browning) (Reserve Police Battalion 101)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNz
-I0MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0
-Mzg3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5Mjk2NjA3Nj
-EsLTM1Mzk3NzE4NSwxNDQ1NzU0MDUyLC0xODE5Mzg4MzAzLDEw
-NDQ5ODE2NTcsLTE5MTYzNzA3MDcsMTcyOTg5MDIxMywtMjExNj
-c4NjM4NSwxOTU5NzgwMTU3LDE5MDgzOTQyLC0zMzM5MTMwMzMs
-MTg1MDA3Njc2Nl19
+eyJoaXN0b3J5IjpbLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OT
+cyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUw
+Mzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMTg3Mz
+UsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNTIsLTE4
+MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcwNywxNzI5OD
+kwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwODM5NDIs
+LTMzMzkxMzAzM119
 -->
