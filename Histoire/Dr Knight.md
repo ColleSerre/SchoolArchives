@@ -474,14 +474,14 @@ The Decision:
 * Large population of jews in the USSR and necessity to expand "lebesraum" to the East (Yale interview of Timothy Snyder)
 
 Two thesis:
-1. The German were naturally anti-semitic
+1. The German were naturally anti-semitic (conceptions of religion)
 2. Peer pressure, obedience, propaganda and dehumanisation, war and brutalization (Christopher R. Browning) (Reserve Police Battalion 101)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE3MjY4MjMsMTU5NzIwNjY4MywtMT
-cyNDAxMjcwNSwtNDE5OTk2NjcwLDEyNDEwNTAzOTUsLTE5MDM2
-NDM4NzIsMTgxNjY1Mzk1MSwtMTE5MTIxODczNSwxOTI5NjYwNz
-YxLC0zNTM5NzcxODUsMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywx
-MDQ0OTgxNjU3LC0xOTE2MzcwNzA3LDE3Mjk4OTAyMTMsLTIxMT
-Y3ODYzODUsMTk1OTc4MDE1NywxOTA4Mzk0MiwtMzMzOTEzMDMz
-LDE4NTAwNzY3NjZdfQ==
+eyJoaXN0b3J5IjpbLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNz
+I0MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0
+Mzg3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5Mjk2NjA3Nj
+EsLTM1Mzk3NzE4NSwxNDQ1NzU0MDUyLC0xODE5Mzg4MzAzLDEw
+NDQ5ODE2NTcsLTE5MTYzNzA3MDcsMTcyOTg5MDIxMywtMjExNj
+c4NjM4NSwxOTU5NzgwMTU3LDE5MDgzOTQyLC0zMzM5MTMwMzMs
+MTg1MDA3Njc2Nl19
 -->
