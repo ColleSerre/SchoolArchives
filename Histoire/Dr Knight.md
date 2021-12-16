@@ -486,13 +486,14 @@ June 1945: UN Conference - San Francisco
 UN Security Council --> "Big Five" permanent members (veto power)
 Promote human rights (problematic institution)
 **War trials:** supr-national institutions keep leaders who commit crimes against humanity from getting away (IMT)
+Victor's justice: the allies set up the court, the rules of the court and appointed the judges to the court (double standards ? the victors weren't tried)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNj
-U4MDQ4MDU0LDE5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIz
-NTYzLDE1OTcyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MC
-wxMjQxMDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTEx
-OTEyMTg3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NT
-QwNTIsLTE4MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcw
-NywxNzI5ODkwMjEzXX0=
+eyJoaXN0b3J5IjpbMjEzODQzODcyMSwtMzY1NDk1OTgxLC0xMj
+QwNzk5MjUzLC02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYz
+MzI1LC00NDExMjM1NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNS
+wtNDE5OTk2NjcwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgx
+NjY1Mzk1MSwtMTE5MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5Nz
+cxODUsMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgxNjU3
+LC0xOTE2MzcwNzA3XX0=
 -->
