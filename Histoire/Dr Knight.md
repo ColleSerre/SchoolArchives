@@ -488,13 +488,12 @@ Promote human rights (problematic institution)
 **War trials:** supr-national institutions keep leaders who commit crimes against humanity from getting away (IMT)
 Victor's justice: the allies set up the court, the rules of the court and appointed the judges to the court (double standards ? the bombing of civilians and cities wasn't considered a war crime)
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjM2NTMwMSwtMzY1NDk1OTgxLC0xMj
-QwNzk5MjUzLC02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYz
-MzI1LC00NDExMjM1NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNS
-wtNDE5OTk2NjcwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgx
-NjY1Mzk1MSwtMTE5MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5Nz
-cxODUsMTQ0NTc1NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgxNjU3
-LC0xOTE2MzcwNzA3XX0=
+eyJoaXN0b3J5IjpbMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNj
+U0OTU5ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2
+OTM0LC05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC
+0xNzI0MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkw
+MzY0Mzg3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5Mjk2Nj
+A3NjEsLTM1Mzk3NzE4NSwxNDQ1NzU0MDUyLC0xODE5Mzg4MzAz
+LDEwNDQ5ODE2NTddfQ==
 -->
