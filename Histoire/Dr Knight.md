@@ -490,14 +490,15 @@ Victor's justice: the allies set up the court, the rules of the court and appoin
 Stalin wanted "Defense in depth" (Rather than defeating an attacker with a single, strong defensive line, defence in depth relies on the tendency of an attack to lose momentum over time or as it covers a larger area)
 Truman Doctrine (March 1947): 
 * Soviet Union was refuses joint supervision of straits by turkey
-* First major cold war act of the US : Greek CW between authoritarian gov (backed by UK) and communists (backed by USSR)
+* First major cold war act of the US : Greek CW between authoritarian gov (backed by UK) and KKE (backed by USSR). KKE defeated
 * Stop the spread of communism (domino theory)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDY3NzQsNzUyMjQxMDMxLDE2OTU4OT
-c2MjksLTI5NjM2NTMwMSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUz
-LC02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYzMzI1LC00ND
-ExMjM1NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2
-NjcwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MS
-wtMTE5MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5NzcxODUsMTQ0
-NTc1NDA1Ml19
+eyJoaXN0b3J5IjpbOTUzNjU4MjYwLDc1MjI0MTAzMSwxNjk1OD
+k3NjI5LC0yOTYzNjUzMDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1
+MywtNjU4MDQ4MDU0LDE5MTMzMTY5MzQsLTk3OTM2MzMyNSwtND
+QxMTIzNTYzLDE1OTcyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5
+NjY3MCwxMjQxMDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NT
+EsLTExOTEyMTg3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0
+NDU3NTQwNTJdfQ==
 -->
