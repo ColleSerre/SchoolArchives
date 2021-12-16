@@ -486,10 +486,11 @@ June 1945: UN Conference - San Francisco
 UN Security Council --> "Big Five" permanent members (veto power)
 Promote human rights (problematic institution)
 **War trials:** supr-national institutions keep leaders who commit crimes against humanity from getting away (IMT)
-Victor's justice: the allies set up the court, the rules of the court and appointed the judges to the court (double standards ? the victors weren't tried)
+Victor's justice: the allies set up the court, the rules of the court and appointed the judges to the court (double standards ? the bombing of civilians and cities wasn't considered a war crime)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODQzODcyMSwtMzY1NDk1OTgxLC0xMj
+eyJoaXN0b3J5IjpbLTI5NjM2NTMwMSwtMzY1NDk1OTgxLC0xMj
 QwNzk5MjUzLC02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYz
 MzI1LC00NDExMjM1NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNS
 wtNDE5OTk2NjcwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgx
