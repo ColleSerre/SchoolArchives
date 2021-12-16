@@ -477,12 +477,15 @@ Two thesis:
 1. The German were naturally anti-semitic (conceptions of religion)
 2. Peer pressure, obedience, propaganda and dehumanisation, war and brutalization (Christopher R. Browning) (Reserve Police Battalion 101)
 
+# Emergence of the Cold War - The Messy Divorce
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OT
-cyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUw
-Mzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMTg3Mz
-UsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNTIsLTE4
-MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcwNywxNzI5OD
-kwMjEzLC0yMTE2Nzg2Mzg1LDE5NTk3ODAxNTcsMTkwODM5NDIs
-LTMzMzkxMzAzM119
+eyJoaXN0b3J5IjpbMTkxMzMxNjkzNCwtOTc5MzYzMzI1LC00ND
+ExMjM1NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2
+NjcwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MS
+wtMTE5MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5NzcxODUsMTQ0
+NTc1NDA1MiwtMTgxOTM4ODMwMywxMDQ0OTgxNjU3LC0xOTE2Mz
+cwNzA3LDE3Mjk4OTAyMTMsLTIxMTY3ODYzODUsMTk1OTc4MDE1
+NywxOTA4Mzk0Ml19
 -->
