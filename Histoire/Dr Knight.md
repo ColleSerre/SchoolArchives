@@ -485,13 +485,14 @@ June 1945: UN Conference - San Francisco
 51 States unanimously agreed UN charter
 UN Security Council --> "Big Five" permanent members (veto power)
 Promote human rights (problematic institution)
-**War trials: **
+**War trials:** supr-national institutions keep leaders who commit crimes against humanity from getting away (no)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjI2MTU4MywtMTI0MDc5OTI1MywtNj
-U4MDQ4MDU0LDE5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIz
-NTYzLDE1OTcyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MC
-wxMjQxMDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTEx
-OTEyMTg3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NT
-QwNTIsLTE4MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcw
-NywxNzI5ODkwMjEzXX0=
+eyJoaXN0b3J5IjpbLTE5MjQ1MzE5NzIsLTEyNDA3OTkyNTMsLT
+Y1ODA0ODA1NCwxOTEzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEy
+MzU2MywxNTk3MjA2NjgzLC0xNzI0MDEyNzA1LC00MTk5OTY2Nz
+AsMTI0MTA1MDM5NSwtMTkwMzY0Mzg3MiwxODE2NjUzOTUxLC0x
+MTkxMjE4NzM1LDE5Mjk2NjA3NjEsLTM1Mzk3NzE4NSwxNDQ1Nz
+U0MDUyLC0xODE5Mzg4MzAzLDEwNDQ5ODE2NTcsLTE5MTYzNzA3
+MDcsMTcyOTg5MDIxM119
 -->
