@@ -481,12 +481,14 @@ Two thesis:
 
 Berlin blockade & airlift : divorce finalized
 Bretton woods conference (July 1944): IMF, IBRD, against protectionism & tariffs, USD is the world's currency, US dominated the proceedings
+June 1945: UN Conference - San Francisco
+51 States unanimously agreed UN charter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOT
-EzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2
-NjgzLC0xNzI0MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NS
-wtMTkwMzY0Mzg3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5
-Mjk2NjA3NjEsLTM1Mzk3NzE4NSwxNDQ1NzU0MDUyLC0xODE5Mz
-g4MzAzLDEwNDQ5ODE2NTcsLTE5MTYzNzA3MDcsMTcyOTg5MDIx
-MywtMjExNjc4NjM4NV19
+eyJoaXN0b3J5IjpbLTkyNjk4MTQ1OCwtMTI0MDc5OTI1MywtNj
+U4MDQ4MDU0LDE5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIz
+NTYzLDE1OTcyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MC
+wxMjQxMDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTEx
+OTEyMTg3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NT
+QwNTIsLTE4MTkzODgzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcw
+NywxNzI5ODkwMjEzXX0=
 -->
