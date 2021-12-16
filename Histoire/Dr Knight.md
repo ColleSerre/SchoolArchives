@@ -489,12 +489,14 @@ Promote human rights (problematic institution)
 Victor's justice: the allies set up the court, the rules of the court and appointed the judges to the court (double standards ? the bombing of civilians and cities wasn't considered a war crime)
 Stalin wanted "Defense in depth" (Rather than defeating an attacker with a single, strong defensive line, defence in depth relies on the tendency of an attack to lose momentum over time or as it covers a larger area)
 Truman Doctrine (March 1947): 
+* Soviet Union was refuses joint supervision of straits by turkey
+* First major cold war act of the US 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU2ODY4NzcsMTY5NTg5NzYyOSwtMj
-k2MzY1MzAxLC0zNjU0OTU5ODEsLTEyNDA3OTkyNTMsLTY1ODA0
-ODA1NCwxOTEzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEyMzU2My
-wxNTk3MjA2NjgzLC0xNzI0MDEyNzA1LC00MTk5OTY2NzAsMTI0
-MTA1MDM5NSwtMTkwMzY0Mzg3MiwxODE2NjUzOTUxLC0xMTkxMj
-E4NzM1LDE5Mjk2NjA3NjEsLTM1Mzk3NzE4NSwxNDQ1NzU0MDUy
-LC0xODE5Mzg4MzAzXX0=
+eyJoaXN0b3J5IjpbMTc2MjY4MTAxMCwxNjk1ODk3NjI5LC0yOT
+YzNjUzMDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4
+MDU0LDE5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLD
+E1OTcyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQx
+MDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMT
+g3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNTIs
+LTE4MTkzODgzMDNdfQ==
 -->
