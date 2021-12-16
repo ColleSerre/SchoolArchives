@@ -484,12 +484,13 @@ Bretton woods conference (July 1944): IMF, IBRD, against protectionism & tariffs
 June 1945: UN Conference - San Francisco
 51 States unanimously agreed UN charter
 UN Security Council --> "Big Five" permanent members (veto power)
+Promote human rights (problematic institution)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQzMDIyMzUsLTEyNDA3OTkyNTMsLT
-Y1ODA0ODA1NCwxOTEzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEy
-MzU2MywxNTk3MjA2NjgzLC0xNzI0MDEyNzA1LC00MTk5OTY2Nz
-AsMTI0MTA1MDM5NSwtMTkwMzY0Mzg3MiwxODE2NjUzOTUxLC0x
-MTkxMjE4NzM1LDE5Mjk2NjA3NjEsLTM1Mzk3NzE4NSwxNDQ1Nz
-U0MDUyLC0xODE5Mzg4MzAzLDEwNDQ5ODE2NTcsLTE5MTYzNzA3
-MDcsMTcyOTg5MDIxM119
+eyJoaXN0b3J5IjpbOTc2NjA5MTE2LC0xMjQwNzk5MjUzLC02NT
+gwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1
+NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2NjcwLD
+EyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MSwtMTE5
+MTIxODczNSwxOTI5NjYwNzYxLC0zNTM5NzcxODUsMTQ0NTc1ND
+A1MiwtMTgxOTM4ODMwMywxMDQ0OTgxNjU3LC0xOTE2MzcwNzA3
+LDE3Mjk4OTAyMTNdfQ==
 -->
