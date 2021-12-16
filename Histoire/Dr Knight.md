@@ -480,13 +480,13 @@ Two thesis:
 # Emergence of the Cold War - The Messy Divorce
 
 Berlin blockade & airlift : divorce finalized
-Bretton woods conference (July 1944): IMF, IBRD, against protectionism & tariffs, USD is the world's currency
+Bretton woods conference (July 1944): IMF, IBRD, against protectionism & tariffs, USD is the world's currency, US dominated the proceedings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTcwNDEwMiwtNjU4MDQ4MDU0LDE5MT
-MzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcyMDY2
-ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUwMzk1LC
-0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMTg3MzUsMTky
-OTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNTIsLTE4MTkzOD
-gzMDMsMTA0NDk4MTY1NywtMTkxNjM3MDcwNywxNzI5ODkwMjEz
-LC0yMTE2Nzg2Mzg1XX0=
+eyJoaXN0b3J5IjpbLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOT
+EzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2
+NjgzLC0xNzI0MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NS
+wtMTkwMzY0Mzg3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5
+Mjk2NjA3NjEsLTM1Mzk3NzE4NSwxNDQ1NzU0MDUyLC0xODE5Mz
+g4MzAzLDEwNDQ5ODE2NTcsLTE5MTYzNzA3MDcsMTcyOTg5MDIx
+MywtMjExNjc4NjM4NV19
 -->
