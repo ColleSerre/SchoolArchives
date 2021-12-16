@@ -487,13 +487,13 @@ UN Security Council --> "Big Five" permanent members (veto power)
 Promote human rights (problematic institution)
 **War trials:** supr-national institutions keep leaders who commit crimes against humanity from getting away (IMT)
 Victor's justice: the allies set up the court, the rules of the court and appointed the judges to the court (double standards ? the bombing of civilians and cities wasn't considered a war crime)
-
+Defense in dept
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNj
-U0OTU5ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2
-OTM0LC05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC
-0xNzI0MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkw
-MzY0Mzg3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5Mjk2Nj
-A3NjEsLTM1Mzk3NzE4NSwxNDQ1NzU0MDUyLC0xODE5Mzg4MzAz
-LDEwNDQ5ODE2NTddfQ==
+eyJoaXN0b3J5IjpbMTE1Njk4OTExMSwxNjk1ODk3NjI5LC0yOT
+YzNjUzMDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4
+MDU0LDE5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLD
+E1OTcyMDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQx
+MDUwMzk1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMT
+g3MzUsMTkyOTY2MDc2MSwtMzUzOTc3MTg1LDE0NDU3NTQwNTIs
+LTE4MTkzODgzMDNdfQ==
 -->
