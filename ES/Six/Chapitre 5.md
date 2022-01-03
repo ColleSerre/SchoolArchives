@@ -27,9 +27,9 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 6. Le point de fonctionnement correspond au point de concours de la caractéristique de la cellule et de la caractéristique du conducteur ohmique.
 
 Charge batterie à la fin de la journée : 14.025 Wh
-Seuls 18 % de capacité énergétique pourra être utilisée. 18 % de 14,025 Wh = 14×18 / 100 = 2,52 Wh$
+Seuls 18 % de capacité énergétique pourra être utilisée. 18 % de 14,025 Wh = 14×18 / 100 = 2,52 Wh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjI4NzkyNiwtMTA0MzAzODUzOSwtMj
+eyJoaXN0b3J5IjpbLTE4MTkxMzkyNiwtMTA0MzAzODUzOSwtMj
 k1MDI3MTM5LDE5ODAzNDY2NjcsMTA3OTczOTQ2NiwtMTY3NDAx
 OTUyNyw4MjY1OTY4OTksMzc5MzI5OTc2LDg4NDAyMDI5OCwtMT
 YxMDA1MDE2OCwyMjY0NzgxNTJdfQ==
