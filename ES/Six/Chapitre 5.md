@@ -26,9 +26,10 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 5. La valeur de la résistance R maximisant la puissance électrique délivrée par la cellule est obtenue en l'inverse de la pente de la droite qui passe par l'origine et le point de fonctionnement F (point commun entre les deux caractéristiques).
 6. Le point de fonctionnement correspond au point de concours de la caractéristique de la cellule et de la caractéristique du conducteur ohmique.
 
-
+Charge batterie à la fin de la journée : 14.025
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTAyNzEzOSwxOTgwMzQ2NjY3LDEwNz
-k3Mzk0NjYsLTE2NzQwMTk1MjcsODI2NTk2ODk5LDM3OTMyOTk3
-Niw4ODQwMjAyOTgsLTE2MTAwNTAxNjgsMjI2NDc4MTUyXX0=
+eyJoaXN0b3J5IjpbLTIwMTAwNjcwNTUsLTI5NTAyNzEzOSwxOT
+gwMzQ2NjY3LDEwNzk3Mzk0NjYsLTE2NzQwMTk1MjcsODI2NTk2
+ODk5LDM3OTMyOTk3Niw4ODQwMjAyOTgsLTE2MTAwNTAxNjgsMj
+I2NDc4MTUyXX0=
 -->
