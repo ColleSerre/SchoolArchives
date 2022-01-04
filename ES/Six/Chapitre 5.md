@@ -28,9 +28,10 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 
 Charge batterie à la fin de la journée : 14,025 Wh
 Seuls 18 % de capacité énergétique pourra être utilisée. 18 % de 14,025 Wh = 14,025×18 / 100 = 2,52 Wh
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTgzOTkzOSwtMTA0MzAzODUzOSwtMj
-k1MDI3MTM5LDE5ODAzNDY2NjcsMTA3OTczOTQ2NiwtMTY3NDAx
-OTUyNyw4MjY1OTY4OTksMzc5MzI5OTc2LDg4NDAyMDI5OCwtMT
-YxMDA1MDE2OCwyMjY0NzgxNTJdfQ==
+eyJoaXN0b3J5IjpbMjA4NDk3NTc5MywxMTIxODM5OTM5LC0xMD
+QzMDM4NTM5LC0yOTUwMjcxMzksMTk4MDM0NjY2NywxMDc5NzM5
+NDY2LC0xNjc0MDE5NTI3LDgyNjU5Njg5OSwzNzkzMjk5NzYsOD
+g0MDIwMjk4LC0xNjEwMDUwMTY4LDIyNjQ3ODE1Ml19
 -->
