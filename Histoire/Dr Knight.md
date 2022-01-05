@@ -499,13 +499,14 @@ Main events:
 - **Korean War**
 
 ## Berlin crisis
-The alies had calved Germany in 4 different zones (Soviet, French, British and US). The allies unified Wester
+The alies had calved Germany in 4 different zones (Soviet, French, British and US). The allies unified Western Germany to act as a buffer zone agains the Soviet Union, became a federal republic (capital: Bonn), new constitution (west germany only), unified currency between allied zones. 
+Soviet Union: didn't want uni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIxNTI5MTIsMjA0ODY2MDc1MCw3NT
-IyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5
-ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC
-05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNzI0
-MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0Mz
-g3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5Mjk2NjA3NjEs
-LTM1Mzk3NzE4NV19
+eyJoaXN0b3J5IjpbLTg5Mzg2MjY2NywyMDQ4NjYwNzUwLDc1Mj
+I0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUzMDEsLTM2NTQ5NTk4
+MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LDE5MTMzMTY5MzQsLT
+k3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcyMDY2ODMsLTE3MjQw
+MTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUwMzk1LC0xOTAzNjQzOD
+cyLDE4MTY2NTM5NTEsLTExOTEyMTg3MzUsMTkyOTY2MDc2MSwt
+MzUzOTc3MTg1XX0=
 -->
