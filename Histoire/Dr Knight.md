@@ -506,14 +506,15 @@ Nuclearisation of the Cold war (see S30)
 ## Korean war
 
 Occupied by Japan since beginning of 20th century, annexed in 1910. Occupied by both US and SU after WW2, both forces withdrew. DPRK: North Korea (Communist state), Soviet advice, 1M Koreans fled south / ROK: South Korea (US supported). Both Korean governments wanted to unify Korea. NK forces invaded South with Soviet and Chinese support (in an effort to unify the peninsula ?). NK took all of the peninsula, UN forces (US backed) beat NK all the way to the Chinese border, China pushed SK back to the 38th parallel.
-Why didn't the SU or Chine veto the s
+Why didn't the SU or Chine veto the resolution ?
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4MDc4NzkwLC0xMDMwNDcwMjkyLDIwND
-g2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMw
-MSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMT
-kxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1NjMsMTU5NzIw
-NjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2NjcwLDEyNDEwNTAzOT
-UsLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MSwtMTE5MTIxODczNSwx
-OTI5NjYwNzYxXX0=
+eyJoaXN0b3J5IjpbMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMD
+Q4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUz
+MDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LD
+E5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcy
+MDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUwMz
+k1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMTg3MzUs
+MTkyOTY2MDc2MV19
 -->
