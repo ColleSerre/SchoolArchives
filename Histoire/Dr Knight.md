@@ -500,13 +500,13 @@ Main events:
 
 ## Berlin crisis
 The alies had calved Germany in 4 different zones (Soviet, French, British and US). The allies unified Western Germany to act as a buffer zone agains the Soviet Union, became a federal republic (capital: Bonn), new constitution (west germany only), unified currency between allied zones. 
-Soviet Union: didn't want unified Germany, had suffered greatly during WW2 and didn't want a strong power supported by the West (+ ideological reason: against imperialism). Stalin held Berlin hostage to stop the allies from unifying Germany, closed air corridors and roads. This failed due to the response from the allies: **the Berlin airlift** (300 days). As a result of the Berlin crisis, US, Canada, Iceland, Norway, Denmark, Netherlands, Belgium, Luxem
+Soviet Union: didn't want unified Germany, had suffered greatly during WW2 and didn't want a strong power supported by the West (+ ideological reason: against imperialism). Stalin held Berlin hostage to stop the allies from unifying Germany, closed air corridors and roads. This failed due to the response from the allies: **the Berlin airlift** (300 days). As a result of the Berlin crisis, US, Canada, Iceland, Norway, Denmark, Netherlands, Belgium, Luxemburg, UK, France, Portugal, Italy formed NATO (mutual defense, the US now had bases that held SU in B29 nuclear bombing range). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NjIxMDg1LC0xMDMwNDcwMjkyLDIwND
-g2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMw
-MSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMT
-kxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1NjMsMTU5NzIw
-NjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2NjcwLDEyNDEwNTAzOT
-UsLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MSwtMTE5MTIxODczNSwx
-OTI5NjYwNzYxXX0=
+eyJoaXN0b3J5IjpbLTUyNTY0OTExNCwtMTAzMDQ3MDI5MiwyMD
+Q4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUz
+MDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LD
+E5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcy
+MDY2ODMsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUwMz
+k1LC0xOTAzNjQzODcyLDE4MTY2NTM5NTEsLTExOTEyMTg3MzUs
+MTkyOTY2MDc2MV19
 -->
