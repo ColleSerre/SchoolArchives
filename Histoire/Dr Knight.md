@@ -505,14 +505,14 @@ Nuclearisation of the Cold war (see S30)
 
 ## Korean war
 
-Occupied by Japan since beginning of 20th century, annexed in 1910. Occupied by both US and SU after WW2, both forces withdrew. DPRK: North Korea (Communist state), Soviet advice, 1M Koreans fled south / ROK: South Korea (US supported). Both Korean governments wanted to unify Korea. NK forces invaded South with Soviet and Chinese support (in an effort to unify the peninsula ?). NK took all of the peninsula, UN forces (
+Occupied by Japan since beginning of 20th century, annexed in 1910. Occupied by both US and SU after WW2, both forces withdrew. DPRK: North Korea (Communist state), Soviet advice, 1M Koreans fled south / ROK: South Korea (US supported). Both Korean governments wanted to unify Korea. NK forces invaded South with Soviet and Chinese support (in an effort to unify the peninsula ?). NK took all of the peninsula, UN forces (US backed) beat NK all the way to the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMjQwMTMyLC0xMDMwNDcwMjkyLDIwND
-g2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMw
-MSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMT
-kxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1NjMsMTU5NzIw
-NjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2NjcwLDEyNDEwNTAzOT
-UsLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MSwtMTE5MTIxODczNSwx
-OTI5NjYwNzYxXX0=
+eyJoaXN0b3J5IjpbLTE4NTI0NDU0MDEsLTEwMzA0NzAyOTIsMj
+A0ODY2MDc1MCw3NTIyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1
+MzAxLC0zNjU0OTU5ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NC
+wxOTEzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3
+MjA2NjgzLC0xNzI0MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MD
+M5NSwtMTkwMzY0Mzg3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1
+LDE5Mjk2NjA3NjFdfQ==
 -->
