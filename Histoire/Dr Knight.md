@@ -491,13 +491,17 @@ Stalin wanted "Defense in depth" (Rather than defeating an attacker with a singl
 Truman Doctrine (March 1947): 
 	* Soviet Union was refuses joint supervision of straits by turkey
 	* First major cold war act of the US : Greek CW between authoritarian gov (backed by UK) and KKE (backed by USSR). KKE defeated
+	* 
 	* Stop the spread of communism (domino theory)
+* **Truman doctrine and containment**
+* **Berlin Blockade & Airlift**
+* **Korean War**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODY2MDc1MCw3NTIyNDEwMzEsMTY5NT
-g5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5ODEsLTEyNDA3OTky
-NTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC05NzkzNjMzMjUsLT
-Q0MTEyMzU2MywxNTk3MjA2NjgzLC0xNzI0MDEyNzA1LC00MTk5
-OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0Mzg3MiwxODE2NjUzOT
-UxLC0xMTkxMjE4NzM1LDE5Mjk2NjA3NjEsLTM1Mzk3NzE4NSwx
-NDQ1NzU0MDUyXX0=
+eyJoaXN0b3J5IjpbLTEzODI3ODAzMjQsMjA0ODY2MDc1MCw3NT
+IyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5
+ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC
+05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNzI0
+MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0Mz
+g3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5Mjk2NjA3NjEs
+LTM1Mzk3NzE4NV19
 -->
