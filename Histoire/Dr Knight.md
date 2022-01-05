@@ -489,19 +489,22 @@ Promote human rights (problematic institution)
 Victor's justice: the allies set up the court, the rules of the court and appointed the judges to the court (double standards ? the bombing of civilians and cities wasn't considered a war crime)
 Stalin wanted "Defense in depth" (Rather than defeating an attacker with a single, strong defensive line, defence in depth relies on the tendency of an attack to lose momentum over time or as it covers a larger area)
 Truman Doctrine (March 1947): 
-	* Soviet Union was refuses joint supervision of straits by turkey
-	* First major cold war act of the US : Greek CW between authoritarian gov (backed by UK) and KKE (backed by USSR). KKE defeated
-	* 
-	* Stop the spread of communism (domino theory)
-* **Truman doctrine and containment**
-* **Berlin Blockade & Airlift**
-* **Korean War**
+- Soviet Union was refuses joint supervision of straits by turkey
+- Stop the spread of communism (domino theory)
+- First major cold war act of the US : Greek CW between authoritarian gov (backed by UK) and KKE (backed by USSR). KKE defeated
+
+Main events: 
+- **Truman doctrine and containment**
+- **Berlin Blockade & Airlift**
+- **Korean War**
+
+###Berlin crisis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI3ODAzMjQsMjA0ODY2MDc1MCw3NT
-IyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5
-ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC
-05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNzI0
-MDEyNzA1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0Mz
-g3MiwxODE2NjUzOTUxLC0xMTkxMjE4NzM1LDE5Mjk2NjA3NjEs
-LTM1Mzk3NzE4NV19
+eyJoaXN0b3J5IjpbMTA4NDk1Mzk4MCwyMDQ4NjYwNzUwLDc1Mj
+I0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUzMDEsLTM2NTQ5NTk4
+MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LDE5MTMzMTY5MzQsLT
+k3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcyMDY2ODMsLTE3MjQw
+MTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUwMzk1LC0xOTAzNjQzOD
+cyLDE4MTY2NTM5NTEsLTExOTEyMTg3MzUsMTkyOTY2MDc2MSwt
+MzUzOTc3MTg1XX0=
 -->
