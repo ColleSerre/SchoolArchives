@@ -500,9 +500,9 @@ Main events:
 
 ## Berlin crisis
 The alies had calved Germany in 4 different zones (Soviet, French, British and US). The allies unified Western Germany to act as a buffer zone agains the Soviet Union, became a federal republic (capital: Bonn), new constitution (west germany only), unified currency between allied zones. 
-Soviet Union: didn't want unified Germany, had suffered greatly during WW2 and didn't want a strong power supported by the West (+ ideological reason: against imperialism). Stalin held
+Soviet Union: didn't want unified Germany, had suffered greatly during WW2 and didn't want a strong power supported by the West (+ ideological reason: against imperialism). Stalin held Berlin hostage to stop the allies from unifying Germany, closed air corridors and roads. This failed due to the response from the allies: **the Berlin airlift**. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMzMzI3MjgsMjA0ODY2MDc1MCw3NT
+eyJoaXN0b3J5IjpbLTE2MzA4OTg1NTMsMjA0ODY2MDc1MCw3NT
 IyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5
 ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC
 05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNzI0
