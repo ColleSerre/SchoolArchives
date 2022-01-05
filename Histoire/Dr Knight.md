@@ -500,9 +500,12 @@ Main events:
 
 ## Berlin crisis
 The alies had calved Germany in 4 different zones (Soviet, French, British and US). The allies unified Western Germany to act as a buffer zone agains the Soviet Union, became a federal republic (capital: Bonn), new constitution (west germany only), unified currency between allied zones. 
-Soviet Union: didn't want unified Germany, had suffered greatly during WW2 and didn't want a strong power supported by the West (+ ideological reason: against imperialism). Stalin held Berlin hostage to stop the allies from unifying Germany, closed air corridors and roads. This failed due to the response from the allies: **the Berlin airlift** (300 days). As a result of the Berlin crisis, US, Canada, Iceland, Norway, Denmark, Netherlands, Belgium, Luxemburg, UK, France, Portugal, Italy formed NATO (mutual defense, the US now had bases that held SU in B29 nuclear bombing range). 
+Soviet Union: didn't want unified Germany, had suffered greatly during WW2 and didn't want a strong power supported by the West (+ ideological reason: against imperialism). Stalin held Berlin hostage to stop the allies from unifying Germany, closed air corridors and roads. This failed due to the response from the allies: **the Berlin airlift** (300 days). As a result of the Berlin crisis, US, Canada, Iceland, Norway, Denmark, Netherlands, Belgium, Luxemburg, UK, France, Portugal, Italy formed NATO (mutual defense, the US now had bases that held SU in B29 nuclear bombing range).
+Nuclearisation of the Cold war (see slides)
+
+## Korean war
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTY0OTExNCwtMTAzMDQ3MDI5MiwyMD
+eyJoaXN0b3J5IjpbMTk0OTEyODQxMywtMTAzMDQ3MDI5MiwyMD
 Q4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUz
 MDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LD
 E5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcy
