@@ -505,9 +505,9 @@ Nuclearisation of the Cold war (see S30)
 
 ## Korean war
 
-Occupied by Japan since beginning of 20th century. 
+Occupied by Japan since beginning of 20th century, annexed in 1910. Occupied by both US and SU after WW2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODkzNTAwMSwtMTAzMDQ3MDI5MiwyMD
+eyJoaXN0b3J5IjpbMTY1MzYxMDA4MSwtMTAzMDQ3MDI5MiwyMD
 Q4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUz
 MDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LD
 E5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcy
