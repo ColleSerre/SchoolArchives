@@ -510,14 +510,14 @@ Why didn't the SU or Chine veto the resolution ?
 
 # Zionism & the creation of Israël
 
-Zionism: a jewish movement that sought to create a state for their community. Jews are considered a natio
+**Zionism:** a jewish movement that sought to create a state for their community. Jews are considered a national community entitled to their own independent state. Combining Judaism and nationalism (religion and political ideology)
 Zionism emerged at the end of the 19th century (Theodor Herzl)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTY4MTYxLDEwNTAyMzEwOTgsLTEwMz
-A0NzAyOTIsMjA0ODY2MDc1MCw3NTIyNDEwMzEsMTY5NTg5NzYy
-OSwtMjk2MzY1MzAxLC0zNjU0OTU5ODEsLTEyNDA3OTkyNTMsLT
-Y1ODA0ODA1NCwxOTEzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEy
-MzU2MywxNTk3MjA2NjgzLC0xNzI0MDEyNzA1LC00MTk5OTY2Nz
-AsMTI0MTA1MDM5NSwtMTkwMzY0Mzg3MiwxODE2NjUzOTUxLC0x
-MTkxMjE4NzM1XX0=
+eyJoaXN0b3J5IjpbLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMD
+MwNDcwMjkyLDIwNDg2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2
+MjksLTI5NjM2NTMwMSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC
+02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDEx
+MjM1NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2Nj
+cwLDEyNDEwNTAzOTUsLTE5MDM2NDM4NzIsMTgxNjY1Mzk1MSwt
+MTE5MTIxODczNV19
 -->
