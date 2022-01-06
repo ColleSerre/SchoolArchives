@@ -511,13 +511,13 @@ Why didn't the SU or Chine veto the resolution ?
 # Zionism & the creation of Israël
 
 **Zionism:** a jewish movement that sought to create a state for their community. Jews are considered a national community entitled to their own independent state. Combining Judaism and nationalism (religion and political ideology)
-Zionism emerged at the end of the 19th century (Theodor Herzl, the founder of modern zionism reacted to the Dreyfus affair)
+Zionism emerged at the end of the 19th century (Theodor Herzl, the founder of modern zionism reacted to the Dreyfus affair. Wanted to carve out a jewish state in the Ottoman Empire, Palestine was in the OE and jews weez)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDk1MjE4NywtMTY3NzIyOTM1LDEwNT
-AyMzEwOTgsLTEwMzA0NzAyOTIsMjA0ODY2MDc1MCw3NTIyNDEw
-MzEsMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5ODEsLT
-EyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC05Nzkz
-NjMzMjUsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNzI0MDEyNz
-A1LC00MTk5OTY2NzAsMTI0MTA1MDM5NSwtMTkwMzY0Mzg3Miwx
-ODE2NjUzOTUxXX0=
+eyJoaXN0b3J5IjpbMTIxNDgzODk4NSwxNjMwOTUyMTg3LC0xNj
+c3MjI5MzUsMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMDQ4NjYw
+NzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUzMDEsLT
+M2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LDE5MTMz
+MTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcyMDY2OD
+MsLTE3MjQwMTI3MDUsLTQxOTk5NjY3MCwxMjQxMDUwMzk1LC0x
+OTAzNjQzODcyXX0=
 -->
