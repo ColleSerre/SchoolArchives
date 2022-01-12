@@ -521,13 +521,15 @@ Palestinian talking points: Jewish state was given more land + better land (Haif
 
 **1st Arab-Israel War (May-October 1948):** Israelis defended and expanded their territory against 6 countries, Israel won. 
 
+**US & Israel:** US recognised Israel within 11 minutes of it being proclaimed:
 
+- Sympathy for the plight of the Jews during the Holocause ? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MzQyMTcsNDU1NDYzNzQ5LC02MjA5NT
-I0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcs
-LTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMDMwNDcwMjkyLDIwND
-g2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMw
-MSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMT
-kxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1NjMsMTU5NzIw
-NjY4M119
+eyJoaXN0b3J5IjpbLTk4NjU1NDY1MCw0NTU0NjM3NDksLTYyMD
+k1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMDk1MjE4
+NywtMTY3NzIyOTM1LDEwNTAyMzEwOTgsLTEwMzA0NzAyOTIsMj
+A0ODY2MDc1MCw3NTIyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1
+MzAxLC0zNjU0OTU5ODEsLTEyNDA3OTkyNTMsLTY1ODA0ODA1NC
+wxOTEzMzE2OTM0LC05NzkzNjMzMjUsLTQ0MTEyMzU2MywxNTk3
+MjA2NjgzXX0=
 -->
