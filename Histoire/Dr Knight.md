@@ -517,12 +517,13 @@ Zionism emerged at the end of the 19th century (Theodor Herzl, the founder of mo
 British support for Zionism: Nov 1917 --> Balfour Declaration (foreign secretary) supports a "Jewish national home in Palestine" while protecting "civil and religious rights of existing non-Jewish communities in Palestine" (**Dual obligation**)
 
 What as supposed to happen to the 499k Palestinians ? Jewish state was ~50/50 Palestinians/Jews
+Jewish state was given more land + better land (Haifa: major port and the industrial centre, most fertile and lucrative areas)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OT
-Y3MzI3NzcsMTYzMDk1MjE4NywtMTY3NzIyOTM1LDEwNTAyMzEw
-OTgsLTEwMzA0NzAyOTIsMjA0ODY2MDc1MCw3NTIyNDEwMzEsMT
-Y5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5ODEsLTEyNDA3
-OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC05NzkzNjMzMj
-UsLTQ0MTEyMzU2MywxNTk3MjA2NjgzLC0xNzI0MDEyNzA1LC00
-MTk5OTY2NzBdfQ==
+eyJoaXN0b3J5IjpbNjQ1MjQwMzQ4LC02MjA5NTI0NjUsMTIzNT
+QxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2NzcyMjkz
+NSwxMDUwMjMxMDk4LC0xMDMwNDcwMjkyLDIwNDg2NjA3NTAsNz
+UyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMwMSwtMzY1NDk1
+OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMTkxMzMxNjkzNC
+wtOTc5MzYzMzI1LC00NDExMjM1NjMsMTU5NzIwNjY4MywtMTcy
+NDAxMjcwNV19
 -->
