@@ -519,9 +519,9 @@ British support for Zionism: Nov 1917 --> Balfour Declaration (foreign secretary
 What as supposed to happen to the 499k Palestinians ? Jewish state was ~50/50 Palestinians/Jews
 Palestinian talking points: Jewish state was given more land + better land (Haifa: major port and the industrial centre, most fertile and lucrative areas), fundamentally immoral to partition a country against the will of the majority of the population, Zionism is a response to a *european problem*: anti-semitism.
 
-**Civil war: **
+**1st Arab-Israel War (May-October 1948):** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcxNjAyMDIsNDU1NDYzNzQ5LC02Mj
+eyJoaXN0b3J5IjpbLTEzNjE1NDYyNDEsNDU1NDYzNzQ5LC02Mj
 A5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIx
 ODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMDMwNDcwMjkyLD
 IwNDg2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2
