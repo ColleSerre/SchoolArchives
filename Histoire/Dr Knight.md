@@ -515,12 +515,14 @@ Why didn't the SU or Chine veto the resolution ?
 Zionism emerged at the end of the 19th century (Theodor Herzl, the founder of modern zionism reacted to the Dreyfus affair. Wanted to carve out a jewish state in the Ottoman Empire, Palestine was in the OE and jews were a minority there. However, Herzl might have felt entitled to conquer an area already occupied by POC as a white man in an imperialist world)
 
 British support for Zionism: Nov 1917 --> Balfour Declaration (foreign secretary) supports a "Jewish national home in Palestine" while protecting "civil and religious rights of existing non-Jewish communities in Palestine" (**Dual obligation**)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2Mz
-A5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMDMwNDcw
-MjkyLDIwNDg2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLT
-I5NjM2NTMwMSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgw
-NDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1Nj
-MsMTU5NzIwNjY4MywtMTcyNDAxMjcwNSwtNDE5OTk2NjcwLDEy
-NDEwNTAzOTVdfQ==
+eyJoaXN0b3J5IjpbLTIxMTIwODYxMjQsMTIzNTQxNTczNiwtNT
+k2NzMyNzc3LDE2MzA5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMx
+MDk4LC0xMDMwNDcwMjkyLDIwNDg2NjA3NTAsNzUyMjQxMDMxLD
+E2OTU4OTc2MjksLTI5NjM2NTMwMSwtMzY1NDk1OTgxLC0xMjQw
+Nzk5MjUzLC02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYzMz
+I1LC00NDExMjM1NjMsMTU5NzIwNjY4MywtMTcyNDAxMjcwNSwt
+NDE5OTk2NjcwXX0=
 -->
