@@ -520,12 +520,14 @@ What as supposed to happen to the 499k Palestinians ? Jewish state was ~50/50 Pa
 Palestinian talking points: Jewish state was given more land + better land (Haifa: major port and the industrial centre, most fertile and lucrative areas), fundamentally immoral to partition a country against the will of the majority of the population, Zionism is a response to a *european problem*: anti-semitism.
 
 **1st Arab-Israel War (May-October 1948):** Israelis defended and expanded their territory against 6 countries, Israel won. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk0OTE0NDMsNDU1NDYzNzQ5LC02Mj
-A5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIx
-ODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMDMwNDcwMjkyLD
-IwNDg2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2
-NTMwMSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNT
-QsMTkxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1NjMsMTU5
-NzIwNjY4M119
+eyJoaXN0b3J5IjpbODI2MzQyMTcsNDU1NDYzNzQ5LC02MjA5NT
+I0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcs
+LTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMDMwNDcwMjkyLDIwND
+g2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMw
+MSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMT
+kxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDExMjM1NjMsMTU5NzIw
+NjY4M119
 -->
