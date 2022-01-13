@@ -528,9 +528,9 @@ Palestinian talking points: Jewish state was given more land + better land (Haif
 
 # Suez Crisis
 
-India was the center of the british empire (jewel of the wor
+India was the center of the british empire (jewel of the crown), the british wanted to get there faster, the Suez canal allowed that. Much of british middle east policy is, therefore, linked to the canal. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDA5Njg0MSw1OTg2MDk5NzgsNDU1ND
+eyJoaXN0b3J5IjpbMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1ND
 YzNzQ5LC02MjA5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3
 LDE2MzA5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMD
 MwNDcwMjkyLDIwNDg2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2
