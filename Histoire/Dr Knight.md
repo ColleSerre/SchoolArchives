@@ -528,13 +528,13 @@ Palestinian talking points: Jewish state was given more land + better land (Haif
 
 # Suez Crisis
 
-India was the center of the british empire (jewel of the crown), the british wanted to get there faster, the Suez canal allowed that. Much of british middle east policy is, therefore, linked to the canal. When Egypt went bankrupt due to the loans it took out for the Suez canal, the country was in a pre-revolutionary time, Britain
+India was the center of the british empire (jewel of the crown), the british wanted to get there faster, the Suez canal allowed that. Much of british middle east policy is, therefore, linked to the canal. When Egypt went bankrupt due to the loans it took out for the Suez canal, the country was in a pre-revolutionary time, Britain therefore invaded it (were supposed to just restore order, stayed 70 years). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgxNjk4NzUsMTE0MjA0MzM4OSw1OT
-g2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMTIzNTQxNTcz
-NiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2NzcyMjkzNSwxMD
-UwMjMxMDk4LC0xMDMwNDcwMjkyLDIwNDg2NjA3NTAsNzUyMjQx
-MDMxLDE2OTU4OTc2MjksLTI5NjM2NTMwMSwtMzY1NDk1OTgxLC
-0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5
-MzYzMzI1XX0=
+eyJoaXN0b3J5IjpbMTg4Mjk4MjQzNiwxMTQyMDQzMzg5LDU5OD
+YwOTk3OCw0NTU0NjM3NDksLTYyMDk1MjQ2NSwxMjM1NDE1NzM2
+LC01OTY3MzI3NzcsMTYzMDk1MjE4NywtMTY3NzIyOTM1LDEwNT
+AyMzEwOTgsLTEwMzA0NzAyOTIsMjA0ODY2MDc1MCw3NTIyNDEw
+MzEsMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5ODEsLT
+EyNDA3OTkyNTMsLTY1ODA0ODA1NCwxOTEzMzE2OTM0LC05Nzkz
+NjMzMjVdfQ==
 -->
