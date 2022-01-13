@@ -525,12 +525,16 @@ Palestinian talking points: Jewish state was given more land + better land (Haif
 - Sympathy for the plight of the Jews during the Holocause ? (a bit, yeah but...)
 - Next presidential election coming up --> big jewish diaspora in the US (the "Jewish vote")
 - Pre-empt SU
+
+# Suez Crisis
+
+India was the center of the british empire (jewel of the wor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOT
-UyNDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3
-LC0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMD
-Q4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUz
-MDEsLTM2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LD
-E5MTMzMTY5MzQsLTk3OTM2MzMyNSwtNDQxMTIzNTYzLDE1OTcy
-MDY2ODNdfQ==
+eyJoaXN0b3J5IjpbLTgwNDA5Njg0MSw1OTg2MDk5NzgsNDU1ND
+YzNzQ5LC02MjA5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3
+LDE2MzA5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMD
+MwNDcwMjkyLDIwNDg2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2
+MjksLTI5NjM2NTMwMSwtMzY1NDk1OTgxLC0xMjQwNzk5MjUzLC
+02NTgwNDgwNTQsMTkxMzMxNjkzNCwtOTc5MzYzMzI1LC00NDEx
+MjM1NjNdfQ==
 -->
