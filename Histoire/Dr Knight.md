@@ -538,10 +538,10 @@ Non-aligned movement: played both sides to fit their agenda (Nasser was part of 
 
 ## Maoism and 1962 Sino-Spvoet split
 
-Mao was opposed to Kruchchev's criticism of Stalin (destalinization). Instead of building huge industrial power, he focused on agricultural production and developing industry at a smaller level on 
+Mao was opposed to Kruchchev's criticism of Stalin (destalinization). Instead of building huge industrial power, he focused on agricultural production and developing industry at a smaller level in rural areas (Great Leap Forward). 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjkzNjg5OSwtMTYwNzE3NDcsMTg4Mj
+eyJoaXN0b3J5IjpbLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mj
 k4MjQzNiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDks
 LTYyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMD
 k1MjE4NywtMTY3NzIyOTM1LDEwNTAyMzEwOTgsLTEwMzA0NzAy
