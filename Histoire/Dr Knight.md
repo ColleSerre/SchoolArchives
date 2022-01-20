@@ -526,17 +526,21 @@ Palestinian talking points: Jewish state was given more land + better land (Haif
 - Next presidential election coming up --> big jewish diaspora in the US (the "Jewish vote")
 - Pre-empt SU
 
-# Suez Crisis
+## Suez Crisis
 
 India was the center of the british empire (jewel of the crown), the british wanted to get there faster, the Suez canal allowed that. Much of british middle east policy is, therefore, linked to the canal. When Egypt went bankrupt due to the loans it took out for the Suez canal, the country was in a pre-revolutionary time, Britain therefore invaded it (were supposed to just restore order, stayed 70 years). 
 
 Non-aligned movement: played both sides to fit their agenda (Nasser was part of it)
+
+**compléter cours du 19/01**
+
+# China, Mao Zedhong, and the Cold War
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjgzMTAzOCwxODgyOTgyNDM2LDExND
-IwNDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1
-LDEyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3LC0xNj
-c3MjI5MzUsMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMDQ4NjYw
-NzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUzMDEsLT
-M2NTQ5NTk4MSwtMTI0MDc5OTI1MywtNjU4MDQ4MDU0LDE5MTMz
-MTY5MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0Mj
+A0MzM4OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUs
+MTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2Nz
+cyMjkzNSwxMDUwMjMxMDk4LC0xMDMwNDcwMjkyLDIwNDg2NjA3
+NTAsNzUyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMwMSwtMz
+Y1NDk1OTgxLC0xMjQwNzk5MjUzLC02NTgwNDgwNTQsMTkxMzMx
+NjkzNF19
 -->
