@@ -540,12 +540,14 @@ Non-aligned movement: played both sides to fit their agenda (Nasser was part of 
 
 Mao was opposed to Kruchchev's criticism of Stalin (destalinization). Instead of building huge industrial power, he focused on agricultural production and developing industry at a smaller level in rural areas (Great Leap Forward). 
 
+Taiwan was occupied by Nationalists, it was used by US fleet during the Korean War. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mj
-k4MjQzNiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDks
-LTYyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMD
-k1MjE4NywtMTY3NzIyOTM1LDEwNTAyMzEwOTgsLTEwMzA0NzAy
-OTIsMjA0ODY2MDc1MCw3NTIyNDEwMzEsMTY5NTg5NzYyOSwtMj
-k2MzY1MzAxLC0zNjU0OTU5ODEsLTEyNDA3OTkyNTMsLTY1ODA0
-ODA1NF19
+eyJoaXN0b3J5IjpbLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNj
+A3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4
+LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLTU5Nj
+czMjc3NywxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMTA1MDIzMTA5
+OCwtMTAzMDQ3MDI5MiwyMDQ4NjYwNzUwLDc1MjI0MTAzMSwxNj
+k1ODk3NjI5LC0yOTYzNjUzMDEsLTM2NTQ5NTk4MSwtMTI0MDc5
+OTI1M119
 -->
