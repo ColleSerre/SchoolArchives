@@ -11,8 +11,8 @@ Gaz émis par l'homme: CO2, méthane, protoxyde d'azote, autres
 ## Thème 3 : Histoire du vivant
 ### Chapitre 1 : l'évolution humaine
 
-Place de l'Homme dans la 
+Place de l'Homme dans la classification 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzUwODQ5NywtOTA1MTk4NDkwLC05Mj
-Y5NjI2OTksMTE4NDIyMTEyNiwxMjM2MTcxNzEwXX0=
+eyJoaXN0b3J5IjpbLTE0ODM5NTUzODEsLTkwNTE5ODQ5MCwtOT
+I2OTYyNjk5LDExODQyMjExMjYsMTIzNjE3MTcxMF19
 -->
