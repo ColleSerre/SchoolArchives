@@ -13,10 +13,10 @@ Gaz émis par l'homme: CO2, méthane, protoxyde d'azote, autres
 **Place de l'Homme dans la classification**
 
 Explication de citation "L'Homme ne descend pas du singe, l'Homme EST un singe." - Pascal Picq 
-Deux espèces s
+Dans un arbre phylogénétique, deux espèces sont d'autant plus proches qu'elles partagent un ancêtre commun récent. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTQ2OTM0LDE2NTIwMjA0OTYsLTkwNT
-E5ODQ5MCwtOTI2OTYyNjk5LDExODQyMjExMjYsMTIzNjE3MTcx
-MF19
+eyJoaXN0b3J5IjpbMTAxNjAzNjE0MywxNjUyMDIwNDk2LC05MD
+UxOTg0OTAsLTkyNjk2MjY5OSwxMTg0MjIxMTI2LDEyMzYxNzE3
+MTBdfQ==
 -->
