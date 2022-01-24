@@ -11,8 +11,9 @@ Gaz émis par l'homme: CO2, méthane, protoxyde d'azote, autres
 ## Thème 3 : Histoire du vivant
 ### Chapitre 1 : l'évolution humaine
 **Place de l'Homme dans la classification**
- 
+
+Explication de citation "L'Homme ne descend pas du singe, l'Homme EST un singe." - Pascal Picq 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwODE4MjIzLC05MDUxOTg0OTAsLTkyNj
-k2MjY5OSwxMTg0MjIxMTI2LDEyMzYxNzE3MTBdfQ==
+eyJoaXN0b3J5IjpbMTY1MjAyMDQ5NiwtOTA1MTk4NDkwLC05Mj
+Y5NjI2OTksMTE4NDIyMTEyNiwxMjM2MTcxNzEwXX0=
 -->
