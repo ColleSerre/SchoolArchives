@@ -13,7 +13,10 @@ Gaz émis par l'homme: CO2, méthane, protoxyde d'azote, autres
 **Place de l'Homme dans la classification**
 
 Explication de citation "L'Homme ne descend pas du singe, l'Homme EST un singe." - Pascal Picq 
+Deux espèces s
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjAyMDQ5NiwtOTA1MTk4NDkwLC05Mj
-Y5NjI2OTksMTE4NDIyMTEyNiwxMjM2MTcxNzEwXX0=
+eyJoaXN0b3J5IjpbLTI5NTQ2OTM0LDE2NTIwMjA0OTYsLTkwNT
+E5ODQ5MCwtOTI2OTYyNjk5LDExODQyMjExMjYsMTIzNjE3MTcx
+MF19
 -->
