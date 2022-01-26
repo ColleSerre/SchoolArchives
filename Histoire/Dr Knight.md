@@ -552,13 +552,13 @@ Part of the French Empire since mid-19th
 * Communist but more nationalist than commie
 * Declared independence in 1945
 * WW2 led to surprising alliances
-* 
+* Quoted the US declaration of independence in declaration of independence to a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODE0OTE0NiwtNzA1MDczNjg5LC01MT
-UzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0MzM4
-OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMTIzNT
-QxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2NzcyMjkz
-NSwxMDUwMjMxMDk4LC0xMDMwNDcwMjkyLDIwNDg2NjA3NTAsNz
-UyMjQxMDMxLDE2OTU4OTc2MjksLTI5NjM2NTMwMSwtMzY1NDk1
-OTgxXX0=
+eyJoaXN0b3J5IjpbNDQ0OTQwNTEwLDE1MjgxNDkxNDYsLTcwNT
+A3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2
+LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOT
+UyNDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3
+LC0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMD
+Q4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUz
+MDFdfQ==
 -->
