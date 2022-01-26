@@ -542,11 +542,13 @@ Mao was opposed to Kruchchev's criticism of Stalin (destalinization). Instead of
 
 Taiwan was occupied by Nationalists, it was used by US fleet during the Korean War. 
 
-## Vietnam warS (1946-1963)
+## Vietnam warS
+* First V war (1946-1954) or French Indochina war
+* Second V war (1954-1963)
+Second Vietnam war ended in 1975 but Theme 3 talks about 1963-1975
 
-Ended in 1975 but the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjY0NzQ2OCwtNzA1MDczNjg5LC01MT
+eyJoaXN0b3J5IjpbMTIxODMwMjQ5OSwtNzA1MDczNjg5LC01MT
 UzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0MzM4
 OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMTIzNT
 QxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2NzcyMjkz
