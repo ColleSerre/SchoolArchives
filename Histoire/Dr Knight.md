@@ -558,8 +558,9 @@ Part of the French Empire since mid-19th
 * Second layer: the Cold War
 	* When communist china assisted the Viet Minh, the US flipped from being neutral regarding the movement and not particularly supportive of France regaining control of V to basically bank rolling France during the war. 
 	* Decisive battle: Dien Bien Phu
+* Geneva Accords: temporarily divided V @ 17th parallel, north: HCM, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTUxMzQ2NSwtNTY2NzYxMTIyLDE2OD
+eyJoaXN0b3J5IjpbMTE5NzExNjQzMywtNTY2NzYxMTIyLDE2OD
 EyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5
 MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OT
 g2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMTIzNTQxNTcz
