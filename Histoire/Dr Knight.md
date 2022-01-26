@@ -550,12 +550,13 @@ Part of the French Empire since mid-19th
 * Second world war: Vichy surrendered Indochina to Japan
 * Viet Minh: league for the Independence of V, mainly communists, resistance against Japan, led by Ho Chi Minh, supported by US, Japan surrendered 
 * Declared independence in 1945
+* WW2 led to surprising allian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMTM0NjI0LC03MDUwNzM2ODksLTUxNT
-M2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4MjQzNiwxMTQyMDQzMzg5
-LDU5ODYwOTk3OCw0NTU0NjM3NDksLTYyMDk1MjQ2NSwxMjM1ND
-E1NzM2LC01OTY3MzI3NzcsMTYzMDk1MjE4NywtMTY3NzIyOTM1
-LDEwNTAyMzEwOTgsLTEwMzA0NzAyOTIsMjA0ODY2MDc1MCw3NT
-IyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1MzAxLC0zNjU0OTU5
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTE1MTE2NDU4NzcsLTcwNTA3MzY4OSwtNT
+E1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMz
+ODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMz
+U0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3LC0xNjc3MjI5
+MzUsMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMDQ4NjYwNzUwLD
+c1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUzMDEsLTM2NTQ5
+NTk4MV19
 -->
