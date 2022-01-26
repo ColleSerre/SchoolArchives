@@ -554,14 +554,15 @@ Part of the French Empire since mid-19th
 * WW2 led to surprising alliances
 * Quoted the US declaration of independence in declaration of independence to get the US on their side (extending his hand towards the US)
 * France got freed from an imperialist regime (Nazi germany) but clinged to be imperialist in Indochina
-* Nationalist movement wants to break free from colonial domination (began similarly to Nasser in Egypt with the UK, shares some similarities with Mao's nationalism)
+* First layer: Nationalist movement wants to break free from colonial domination (began similarly to Nasser in Egypt with the UK, shares some similarities with Mao's nationalism )
+* Second layer: the Cold War
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDE2NzAzLDE1MjgxNDkxNDYsLTcwNT
-A3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2
-LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOT
-UyNDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3
-LC0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMD
-Q4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3NjI5LC0yOTYzNjUz
-MDFdfQ==
+eyJoaXN0b3J5IjpbMTc2MjYwMjA3MiwxNTI4MTQ5MTQ2LC03MD
+UwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4MjQz
+NiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDksLTYyMD
+k1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMDk1MjE4
+NywtMTY3NzIyOTM1LDEwNTAyMzEwOTgsLTEwMzA0NzAyOTIsMj
+A0ODY2MDc1MCw3NTIyNDEwMzEsMTY5NTg5NzYyOSwtMjk2MzY1
+MzAxXX0=
 -->
