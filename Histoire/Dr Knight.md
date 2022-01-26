@@ -547,8 +547,11 @@ Taiwan was occupied by Nationalists, it was used by US fleet during the Korean W
 * Second V war (1954-1963)
 Second Vietnam war ended in 1975 but Theme 3 talks about 1963-1975
 Part of the French Empire since mid-19th
+* Second world war: Vichy surrendered Indochina to Japan
+* Viet Minh: league for the Independence of V, mainly communists, resistance against Japan, led by Ho Chi Minh, supported by US, Japan surrendered 
+* Declared independence in 1945
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNDM3MDY3LC03MDUwNzM2ODksLTUxNT
+eyJoaXN0b3J5IjpbMzgxMTM0NjI0LC03MDUwNzM2ODksLTUxNT
 M2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4MjQzNiwxMTQyMDQzMzg5
 LDU5ODYwOTk3OCw0NTU0NjM3NDksLTYyMDk1MjQ2NSwxMjM1ND
 E1NzM2LC01OTY3MzI3NzcsMTYzMDk1MjE4NywtMTY3NzIyOTM1
