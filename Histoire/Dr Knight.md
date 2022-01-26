@@ -556,14 +556,14 @@ Part of the French Empire since mid-19th
 * France got freed from an imperialist regime (Nazi germany) but clinged to be imperialist in Indochina
 * First layer: Nationalist movement wants to break free from colonial domination (began similarly to Nasser in Egypt with the UK, shares some similarities with Mao's nationalism + Communist Chinia assisted Viet Minh). Asymetric warfare (guerilla)
 * Second layer: the Cold War
-	* When communist china assisted the Viet Minh, the US flipped from being neutral regarding the movement and not particularly supportive of France regaining control of V to ma
+	* When communist china assisted the Viet Minh, the US flipped from being neutral regarding the movement and not particularly supportive of France regaining control of V to basically bank rolling France during the war. 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5NzAwNjMwLDE2ODEyMTM5NzMsMTUyOD
-E0OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3
-LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1ND
-YzNzQ5LC02MjA5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3
-LDE2MzA5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMD
-MwNDcwMjkyLDIwNDg2NjA3NTAsNzUyMjQxMDMxLDE2OTU4OTc2
-MjldfQ==
+eyJoaXN0b3J5IjpbLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1Mj
+gxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0
+NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NT
+Q2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3
+NywxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMT
+AzMDQ3MDI5MiwyMDQ4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3
+NjI5XX0=
 -->
