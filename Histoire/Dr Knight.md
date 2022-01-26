@@ -560,13 +560,13 @@ Part of the French Empire since mid-19th
 	* Decisive battle: Dien Bien Phu
 * Geneva Accords: temporarily divided V @ 17th parallel, north: HCM, south: other gov
 * Elections in 1956 to unify the country
-* SEATO: not very south-east asian except for Thailand and Phil
+* SEATO: not very south-east asian except for Thailand and Philippines (2/6)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1Mjk3NTI0LC01NjY3NjExMjIsMTY4MT
-IxMzk3MywxNTI4MTQ5MTQ2LC03MDUwNzM2ODksLTUxNTM2MTkw
-NCwtMTYwNzE3NDcsMTg4Mjk4MjQzNiwxMTQyMDQzMzg5LDU5OD
-YwOTk3OCw0NTU0NjM3NDksLTYyMDk1MjQ2NSwxMjM1NDE1NzM2
-LC01OTY3MzI3NzcsMTYzMDk1MjE4NywtMTY3NzIyOTM1LDEwNT
-AyMzEwOTgsLTEwMzA0NzAyOTIsMjA0ODY2MDc1MCw3NTIyNDEw
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNj
+gxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYx
+OTA0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNT
+k4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3
+MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMT
+A1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMDQ4NjYwNzUwLDc1MjI0
+MTAzMV19
 -->
