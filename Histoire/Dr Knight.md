@@ -554,11 +554,11 @@ Part of the French Empire since mid-19th
 * WW2 led to surprising alliances
 * Quoted the US declaration of independence in declaration of independence to get the US on their side (extending his hand towards the US)
 * France got freed from an imperialist regime (Nazi germany) but clinged to be imperialist in Indochina
-* First layer: Nationalist movement wants to break free from colonial domination (began similarly to Nasser in Egypt with the UK, shares some similarities with Mao's nationalism + Communist Chinia assisted Viet Minh). Asymetrical warfare (guerilla)
+* First layer: Nationalist movement wants to break free from colonial domination (began similarly to Nasser in Egypt with the UK, shares some similarities with Mao's nationalism + Communist Chinia assisted Viet Minh). Asymetric warfare (guerilla)
 * Second layer: the Cold War
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjU2ODEyOCwxNTI4MTQ5MTQ2LC03MD
+eyJoaXN0b3J5IjpbMTY4MTIxMzk3MywxNTI4MTQ5MTQ2LC03MD
 UwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4MjQz
 NiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDksLTYyMD
 k1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMDk1MjE4
