@@ -557,13 +557,13 @@ Part of the French Empire since mid-19th
 * First layer: Nationalist movement wants to break free from colonial domination (began similarly to Nasser in Egypt with the UK, shares some similarities with Mao's nationalism + Communist Chinia assisted Viet Minh). Asymetric warfare (guerilla)
 * Second layer: the Cold War
 	* When communist china assisted the Viet Minh, the US flipped from being neutral regarding the movement and not particularly supportive of France regaining control of V to basically bank rolling France during the war. 
-* 
+	* Decisive battle: Dien Bien Phu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1Mj
-gxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0
-NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NT
-Q2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3
-NywxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMT
-AzMDQ3MDI5MiwyMDQ4NjYwNzUwLDc1MjI0MTAzMSwxNjk1ODk3
-NjI5XX0=
+eyJoaXN0b3J5IjpbMTc1NTUxMzQ2NSwtNTY2NzYxMTIyLDE2OD
+EyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5
+MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OT
+g2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMTIzNTQxNTcz
+NiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2NzcyMjkzNSwxMD
+UwMjMxMDk4LC0xMDMwNDcwMjkyLDIwNDg2NjA3NTAsNzUyMjQx
+MDMxXX0=
 -->
