@@ -571,13 +571,14 @@ Part of the French Empire since mid-19th
 * PLAF: People's Liberation Army Forces (Viet Cong)
 
 ### Growing US involvment & escalation
-* Kennedy, 20 April 1961: The concern is what is happening inside the countries, not the threats of war tha
+* Kennedy, 20 April 1961: The concern is what is happening inside the countries, and the threat of war cause by this, that matters. 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNzIwODExLDgzOTc0NDc4OSwtMTAzNj
-c4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5
-NzMsMTUyODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLT
-E2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5
-NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMTIzNTQxNTczNiwtNT
-k2NzMyNzc3LDE2MzA5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMx
-MDk4XX0=
+eyJoaXN0b3J5IjpbLTUwODAwOTQ1MCw4Mzk3NDQ3ODksLTEwMz
+Y3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEz
+OTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC
+0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5
+OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLT
+U5NjczMjc3NywxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMTA1MDIz
+MTA5OF19
 -->
