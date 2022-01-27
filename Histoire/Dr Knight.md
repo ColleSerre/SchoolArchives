@@ -573,13 +573,13 @@ Part of the French Empire since mid-19th
 ### Growing US involvment & escalation
 * Kennedy, 20 April 1961: The concern is what is happening inside the countries, and the threat of war cause by this, that matters. 
 * "Advisers": US soldiers engaging and operating with the SV army. Started by Eisenhower and expanded by Kennedy
-* Sent military equipment: jet fighters, helis, armored personnel carriers, river patrol boats, napalm (although not used yet)
+* Sent military equipment: jet fighters, helis, armored personnel carriers, river patrol boats, napalm (although not used yet), Agent Orange (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjA0OTU2MiwtMTcyODI4NzA0MSw4Mz
-k3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2
-MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OS
-wtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIw
-NDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LD
-EyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3LC0xNjc3
-MjI5MzVdfQ==
+eyJoaXN0b3J5IjpbLTEzMzk4OTAyODMsLTE3MjgyODcwNDEsOD
+M5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3
+NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MTQ2LC03MDUwNzM2OD
+ksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4MjQzNiwxMTQy
+MDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDksLTYyMDk1MjQ2NS
+wxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMDk1MjE4NywtMTY3
+NzIyOTM1XX0=
 -->
