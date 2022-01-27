@@ -570,13 +570,14 @@ Part of the French Empire since mid-19th
 * 1960: National Front for the Liberation of the South (NLF), established in the S by the N
 * PLAF: People's Liberation Army Forces (Viet Cong)
 
-### Growing US involvment & escalatio
+### Growing US involvment & escalation
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYxODgzMTEsLTEwMzY3ODE0MDQsLT
-EzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1Mjgx
-NDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0Ny
-wxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NTQ2
-Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3Ny
-wxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMTAz
-MDQ3MDI5Ml19
+eyJoaXN0b3J5IjpbODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMz
+kzODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5
+MTQ2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMT
+g4Mjk4MjQzNiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3
+NDksLTYyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMT
+YzMDk1MjE4NywtMTY3NzIyOTM1LDEwNTAyMzEwOTgsLTEwMzA0
+NzAyOTJdfQ==
 -->
