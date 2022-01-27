@@ -546,6 +546,7 @@ Taiwan was occupied by Nationalists, it was used by US fleet during the Korean W
 * First V war (1946-1954) or French Indochina war
 * Second V war (1954-1963)
 Second Vietnam war ended in 1975 but Theme 3 talks about 1963-1975
+**First war**
 Part of the French Empire since mid-19th
 * Second world war: Vichy surrendered Indochina to Japan
 * Viet Minh: league for the Independence of V, mainly communists, resistance against Japan, led by Ho Chi Minh, supported by US, Japan surrendered 
@@ -561,18 +562,21 @@ Part of the French Empire since mid-19th
 * Geneva Accords: temporarily divided V @ 17th parallel, north: HCM, south: Ngo Dinh Diem
 * Elections in 1956 to unify the country
 * SEATO: not very south-east asian except for Thailand and Philippines (2/6)
+**Second war**
 * North: supported by the SU & CC (Democratic Republic of Vietnam)
 * South: Ngo Dinh Diem (Authoritarian & corrupt), cancelled 1956 elections (knew he'd lose ?), Republic of Vietnam
 * 1958: Unrest in S. Vietnam (Ho Chi Minh calling upon those who oppose Ngo Dinh Diem)
 * 1959: start of the construction of the future "Ho Chi Minh Trail" (From N to S through Laos and Cambodia)
 * 1960: National Front for the Liberation of the South (NLF), established in the S by the N
 * PLAF: People's Liberation Army Forces (Viet Cong)
+
+### Growing US involvment & escalatio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTkxMzIxMiwtMTAzNjc4MTQwNCwtMT
-M5MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0
-OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LD
-E4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1NDYz
-NzQ5LC02MjA5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LD
-E2MzA5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMDMw
-NDcwMjkyXX0=
+eyJoaXN0b3J5IjpbLTIxMDYxODgzMTEsLTEwMzY3ODE0MDQsLT
+EzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1Mjgx
+NDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0Ny
+wxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NTQ2
+Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3Ny
+wxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMTAz
+MDQ3MDI5Ml19
 -->
