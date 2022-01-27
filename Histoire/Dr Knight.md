@@ -574,13 +574,14 @@ Part of the French Empire since mid-19th
 * Kennedy, 20 April 1961: The concern is what is happening inside the countries, and the threat of war cause by this, that matters. 
 * "Advisers": US soldiers engaging and operating with the SV army. Started by Eisenhower and expanded by Kennedy
 * Sent military equipment: jet fighters, helis, armored personnel carriers, river patrol boats, napalm (although not used yet), Agent Orange (used to kill crops, led to cancer, blindness, congenital diseases)
-* Kennedy, September 
+* Kennedy, September 1963: ambivolent, it's their war, they should win it, but we have to stay
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc5MjA4MTksLTE3MjgyODcwNDEsOD
-M5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3
-NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MTQ2LC03MDUwNzM2OD
-ksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4MjQzNiwxMTQy
-MDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDksLTYyMDk1MjQ2NS
-wxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMDk1MjE4NywtMTY3
-NzIyOTM1XX0=
+eyJoaXN0b3J5IjpbOTQ2NDE4NzczLC0xNzI4Mjg3MDQxLDgzOT
+c0NDc4OSwtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYx
+MTIyLDE2ODEyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNjg5LC
+01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0
+MzM4OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMT
+IzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2Nzcy
+MjkzNV19
 -->
