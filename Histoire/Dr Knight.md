@@ -575,13 +575,15 @@ Part of the French Empire since mid-19th
 * "Advisers": US soldiers engaging and operating with the SV army. Started by Eisenhower and expanded by Kennedy
 * Sent military equipment: jet fighters, helis, armored personnel carriers, river patrol boats, napalm (although not used yet), Agent Orange (used to kill crops, led to cancer, blindness, congenital diseases)
 * Kennedy, September 1963: ambivolent, it's their war, they should win it, but we have to stay
-* 
+* Position got nuances compared to 20 April
+	* Battle of Ap Bac (humiliating defeat for the SV)
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NDE4NzczLC0xNzI4Mjg3MDQxLDgzOT
-c0NDc4OSwtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYx
-MTIyLDE2ODEyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNjg5LC
-01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0
-MzM4OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC02MjA5NTI0NjUsMT
-IzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5NTIxODcsLTE2Nzcy
-MjkzNV19
+eyJoaXN0b3J5IjpbMTc3MDM5ODYyNywtMTcyODI4NzA0MSw4Mz
+k3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2
+MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OS
+wtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIw
+NDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LD
+EyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3LC0xNjc3
+MjI5MzVdfQ==
 -->
