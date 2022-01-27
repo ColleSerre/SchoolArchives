@@ -591,13 +591,13 @@ Part of the French Empire since mid-19th
 	* Platt amendment
 	* FDR (1934): Good Neighbor Policy
 * 1952-1959: Fulgencio Batista (dictator and president of Cuba)
-* Fidel Castro (nationalist
+* Fidel Castro (nationalist, revolutionary, communists)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMxNDYyOTksLTEyMjI5NTMyMDQsLT
-M1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4
-NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MD
-AsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcw
-NTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyND
-M2LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIw
-OTUyNDY1XX0=
+eyJoaXN0b3J5IjpbMTc1OTE3NzE2MSwtMTIyMjk1MzIwNCwtMz
+UxMjg1ODE4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3
+MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMC
+wtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0OTE0NiwtNzA1
+MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0Mz
+YsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC02MjA5
+NTI0NjVdfQ==
 -->
