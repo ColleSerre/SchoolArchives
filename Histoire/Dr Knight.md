@@ -572,13 +572,13 @@ Part of the French Empire since mid-19th
 
 ### Growing US involvment & escalation
 * Kennedy, 20 April 1961: The concern is what is happening inside the countries, and the threat of war cause by this, that matters. 
-* 
+* "Advisers": US soldiers engaging and operating with the SV army. Sent by Kenned
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODAwOTQ1MCw4Mzk3NDQ3ODksLTEwMz
-Y3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEz
-OTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC
-0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5
-OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLT
-U5NjczMjc3NywxNjMwOTUyMTg3LC0xNjc3MjI5MzUsMTA1MDIz
-MTA5OF19
+eyJoaXN0b3J5IjpbLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMD
+M2NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3NjExMjIsMTY4MTIx
+Mzk3MywxNTI4MTQ5MTQ2LC03MDUwNzM2ODksLTUxNTM2MTkwNC
+wtMTYwNzE3NDcsMTg4Mjk4MjQzNiwxMTQyMDQzMzg5LDU5ODYw
+OTk3OCw0NTU0NjM3NDksLTYyMDk1MjQ2NSwxMjM1NDE1NzM2LC
+01OTY3MzI3NzcsMTYzMDk1MjE4NywtMTY3NzIyOTM1LDEwNTAy
+MzEwOThdfQ==
 -->
