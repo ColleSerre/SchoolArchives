@@ -581,12 +581,14 @@ Part of the French Empire since mid-19th
 * Kennedy, September 1963: ambivolent, it's their war, they should win it, but we have to stay
 * 2 November 1963: Ngo Dinh Diem - coup & assassinated
 * 22 November 1963: Kennedy assassinated
+
+## Castro, Cuba, and the Cuban Missile Crisis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3Mj
-gyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkzODMx
-NzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MTQ2LC
-03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4
-MjQzNiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDksLT
-YyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMDk1
-MjE4N119
+eyJoaXN0b3J5IjpbLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5Mz
+UwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0
+MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLD
+E1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3
+MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4LD
+Q1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLTU5Njcz
+Mjc3N119
 -->
