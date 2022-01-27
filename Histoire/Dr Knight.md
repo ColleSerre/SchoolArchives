@@ -558,16 +558,17 @@ Part of the French Empire since mid-19th
 * Second layer: the Cold War
 	* When communist china assisted the Viet Minh, the US flipped from being neutral regarding the movement and not particularly supportive of France regaining control of V to basically bank rolling France during the war. 
 	* Decisive battle: Dien Bien Phu
-* Geneva Accords: temporarily divided V @ 17th parallel, north: HCM, south: other gov
+* Geneva Accords: temporarily divided V @ 17th parallel, north: HCM, south: Ngo Dinh Diem
 * Elections in 1956 to unify the country
 * SEATO: not very south-east asian except for Thailand and Philippines (2/6)
-* 
+* North: supported by the SU & CC (Democratic Republic of Vietnam)
+* South: Ngo Dinh Diem (Authoritarian & corrupt)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLT
-U2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3
-MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2LD
-ExNDIwNDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUy
-NDY1LDEyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3LC
-0xNjc3MjI5MzUsMTA1MDIzMTA5OCwtMTAzMDQ3MDI5MiwyMDQ4
-NjYwNzUwXX0=
+eyJoaXN0b3J5IjpbLTMxMzExOTAwLC0xMDM2NzgxNDA0LC0xMz
+kzODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5
+MTQ2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMT
+g4Mjk4MjQzNiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3
+NDksLTYyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMT
+YzMDk1MjE4NywtMTY3NzIyOTM1LDEwNTAyMzEwOTgsLTEwMzA0
+NzAyOTJdfQ==
 -->
