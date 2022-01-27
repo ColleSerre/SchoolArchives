@@ -579,12 +579,14 @@ Part of the French Empire since mid-19th
 	* "Buddhist Crisis": Buddhists demonstrated against Ngo Dinh Diem favouring catholics in gov, police opened fire (killing 8)
 	* 11 June 1963: Quang Duc (Buddhist monk) suicide
 * Kennedy, September 1963: ambivolent, it's their war, they should win it, but we have to stay
+* 2 November 1963: Ngo Dinh Diem - coup & assassinated
+* 22 November 1963: Kennedy assassinated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjczODkwMSwtMjkzNTA1MDM1LC0xNz
-I4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5Mzgz
-MTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0OTE0Ni
-wtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5
-ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC
-02MjA5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5
-NTIxODddfQ==
+eyJoaXN0b3J5IjpbOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3Mj
+gyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkzODMx
+NzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MTQ2LC
+03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4Mjk4
+MjQzNiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3NDksLT
+YyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMTYzMDk1
+MjE4N119
 -->
