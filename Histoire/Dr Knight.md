@@ -605,13 +605,14 @@ Part of the French Empire since mid-19th
 	* Trained and equipped Cuban counterrevolutionaries
 	* Landed them in the Bay of Pigs
 	* Easily defeated and captured by Castro's forces
-	* 
+	* Supposed to spark a revolution
+	* This agression led to Castro asking help from the SU who stationned nuclear missiles in Cuba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg5MDgyMzAsLTE5MTk5NTIxNjMsLT
-EyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUw
-NTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MD
-QsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1
-MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MT
-c0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1
-NTQ2Mzc0OV19
+eyJoaXN0b3J5IjpbMTA5OTEzNjE4MSwtMTkxOTk1MjE2MywtMT
+IyMjk1MzIwNCwtMzUxMjg1ODE4LDkxNjI0NzI2OSwtMjkzNTA1
+MDM1LC0xNzI4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNC
+wtMTM5MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUy
+ODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNz
+Q3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1
+NDYzNzQ5XX0=
 -->
