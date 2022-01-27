@@ -583,12 +583,20 @@ Part of the French Empire since mid-19th
 * 22 November 1963: Kennedy assassinated
 
 ## Castro, Cuba, and the Cuban Missile Crisis
+
+* US Neo-Imperialism
+	* 75% arable land
+	* 90% essential services
+	* 40% sugar production
+	* Platt amendment
+* 1952-1959: Fulgencio Batista (dictator and president of Cuba)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5Mz
-UwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0
-MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLD
-E1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3
-MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4NjA5OTc4LD
-Q1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0MTU3MzYsLTU5Njcz
-Mjc3N119
+eyJoaXN0b3J5IjpbLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MT
+YyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3
+ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMi
+wxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1
+MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzOD
+ksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LDEyMzU0
+MTU3MzZdfQ==
 -->
