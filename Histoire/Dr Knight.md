@@ -565,12 +565,14 @@ Part of the French Empire since mid-19th
 * South: Ngo Dinh Diem (Authoritarian & corrupt), cancelled 1956 elections (knew he'd lose ?), Republic of Vietnam
 * 1958: Uprisings in S. Vietnam
 * 1959: start of the construction of the future "Ho Chi Minh Trail" (From N to S through Laos and Cambodia)
+* 1960: National Front for the Liberation of the South (NLF), established in the S by the N
+* PLAF: People's Liberation Army (Viet Cong)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIzODg5MSwtMTAzNjc4MTQwNCwtMT
-M5MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0
-OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LD
-E4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1NDYz
-NzQ5LC02MjA5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LD
-E2MzA5NTIxODcsLTE2NzcyMjkzNSwxMDUwMjMxMDk4LC0xMDMw
-NDcwMjkyXX0=
+eyJoaXN0b3J5IjpbNTI5MjQyMDEyLC0xMDM2NzgxNDA0LC0xMz
+kzODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5
+MTQ2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMT
+g4Mjk4MjQzNiwxMTQyMDQzMzg5LDU5ODYwOTk3OCw0NTU0NjM3
+NDksLTYyMDk1MjQ2NSwxMjM1NDE1NzM2LC01OTY3MzI3NzcsMT
+YzMDk1MjE4NywtMTY3NzIyOTM1LDEwNTAyMzEwOTgsLTEwMzA0
+NzAyOTJdfQ==
 -->
