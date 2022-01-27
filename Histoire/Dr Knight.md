@@ -574,18 +574,17 @@ Part of the French Empire since mid-19th
 * Kennedy, 20 April 1961: The concern is what is happening inside the countries, and the threat of war cause by this, that matters. 
 * "Advisors": US soldiers engaging and operating with the SV army. Started by Eisenhower and expanded by Kennedy
 * Sent military equipment: jet fighters, helis, armored personnel carriers, river patrol boats, napalm (although not used yet), Agent Orange (used to kill crops, led to cancer, blindness, congenital diseases)
-* Kennedy, September 1963: ambivolent, it's their war, they should win it, but we have to stay
 * Position got nuances compared to 20 April
 	* Battle of Ap Bac (humiliating defeat for the SV, **while US advisors were on site**)
 	* "Buddhist Crisis": Buddhists demonstrated against Ngo Dinh Diem favouring catholics in gov, police opened fire (killing 8)
 	* 11 June 1963: Quang Duc (Buddhist monk) suicide
-	* 
+* Kennedy, September 1963: ambivolent, it's their war, they should win it, but we have to stay
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mz
-k3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2
-MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OS
-wtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIw
-NDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIwOTUyNDY1LD
-EyMzU0MTU3MzYsLTU5NjczMjc3NywxNjMwOTUyMTg3LC0xNjc3
-MjI5MzVdfQ==
+eyJoaXN0b3J5IjpbMTc1NjczODkwMSwtMjkzNTA1MDM1LC0xNz
+I4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5Mzgz
+MTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0OTE0Ni
+wtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5
+ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1NDYzNzQ5LC
+02MjA5NTI0NjUsMTIzNTQxNTczNiwtNTk2NzMyNzc3LDE2MzA5
+NTIxODddfQ==
 -->
