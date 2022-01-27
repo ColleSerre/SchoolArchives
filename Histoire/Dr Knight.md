@@ -600,12 +600,15 @@ Part of the French Empire since mid-19th
 		* Castro nationalised US sugar refineries
 		* US blocked all Cuban exports
 		* 1961: Eisenhower closed US Embassy in Cuba
+* Bay of Pigs "Invasion"
+	* Trained and equipped Cuban counterrevolutionaries
+	* Landed them in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLT
-M1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4
-NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MD
-AsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcw
-NTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgyOTgyND
-M2LDExNDIwNDMzODksNTk4NjA5OTc4LDQ1NTQ2Mzc0OSwtNjIw
-OTUyNDY1XX0=
+eyJoaXN0b3J5IjpbMTEyMTcwNjg5OCwtMTkxOTk1MjE2MywtMT
+IyMjk1MzIwNCwtMzUxMjg1ODE4LDkxNjI0NzI2OSwtMjkzNTA1
+MDM1LC0xNzI4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNC
+wtMTM5MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUy
+ODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNz
+Q3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1
+NDYzNzQ5XX0=
 -->
