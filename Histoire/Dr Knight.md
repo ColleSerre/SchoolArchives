@@ -592,9 +592,16 @@ Part of the French Empire since mid-19th
 	* FDR (1934): Good Neighbor Policy
 * 1952-1959: Fulgencio Batista (dictator and president of Cuba)
 * Fidel Castro (nationalist, revolutionary, communists) --> Batista fled 1 January 1959
-	* Nationalised 600 amer
+	* Nationalised 600 american compagnies
+	* Trade agreement with Moscow
+	* Land only to be bought by Cubans
+	* Relations with the US
+		* 1960: Eisenhower embargoed Curban sugar
+		* Castro nationalised US sugar refineries
+		* US blocked all Cuban exports
+		* 1961: Eisenhower closed US Embassy in Cuba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI4OTY3MTEsLTEyMjI5NTMyMDQsLT
+eyJoaXN0b3J5IjpbLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLT
 M1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4
 NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MD
 AsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcw
