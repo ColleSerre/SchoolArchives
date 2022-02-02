@@ -609,11 +609,11 @@ Part of the French Empire since mid-19th
 	* This agression led to Castro asking help from the SU who stationned nuclear missiles in Cuba
 * Cuban missile crisis (13 days)
 	* US missiles in Italy and Turkey
-	* DEFCON 2: 
+	* DEFCON 2: Denfense readiness condition (finger is on the trigger, western armies will be ready in 6 hours to invade the USSR)
 	* Removal of nuclear missiles in Italy and Turkey and promise not to invade Cuba <=> removal of Soviet missiles in Cuba
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE2OTAyMDIsMTA5OTEzNjE4MSwtMT
+eyJoaXN0b3J5IjpbLTE3MDI0MTM3MDYsMTA5OTEzNjE4MSwtMT
 kxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1ODE4LDkxNjI0
 NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLDgzOTc0NDc4OS
 wtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYxMTIyLDE2
