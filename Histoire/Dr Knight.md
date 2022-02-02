@@ -607,13 +607,14 @@ Part of the French Empire since mid-19th
 	* Easily defeated and captured by Castro's forces
 	* Supposed to spark a revolution
 	* This agression led to Castro asking help from the SU who stationned nuclear missiles in Cuba
-* Cuban mis
+* Cuban missile crisis (13 days)
+	* US missiles in Italy and Turkey
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MjIzMzc5LDEwOTkxMzYxODEsLTE5MT
-k5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcy
-NjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLT
-EwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgx
-MjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOT
-A0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4
-NjA5OTc4XX0=
+eyJoaXN0b3J5IjpbLTE2NDY5ODQ2NjcsMTA5OTEzNjE4MSwtMT
+kxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1ODE4LDkxNjI0
+NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLDgzOTc0NDc4OS
+wtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYxMTIyLDE2
+ODEyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNj
+E5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1
+OTg2MDk5NzhdfQ==
 -->
