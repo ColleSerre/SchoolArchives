@@ -619,13 +619,17 @@ Part of the French Empire since mid-19th
 ## Oil and Political Islam
 
 ### October 1973: Arab-Israel war & the first oil crisis
-1979: Iranian revolution: political islam
+
+
+
+### 1979: Iranian revolution: political islam & the second oil crisis
+### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTEwNDgxLC0yMzgwOTI4ODEsNjI2OT
-QzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMy
-MDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMT
-cyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4
-MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxND
-YsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgy
-OTgyNDM2XX0=
+eyJoaXN0b3J5IjpbMjAxNjg4OTMxOCwtMjM4MDkyODgxLDYyNj
+k0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUz
+MjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLT
+E3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkz
+ODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MT
+Q2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4
+Mjk4MjQzNl19
 -->
