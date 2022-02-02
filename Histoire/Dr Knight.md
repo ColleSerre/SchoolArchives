@@ -609,15 +609,16 @@ Part of the French Empire since mid-19th
 	* This agression led to Castro asking help from the SU who stationned nuclear missiles in Cuba
 * Cuban missile crisis (13 days)
 	* US missiles in Italy and Turkey
+	* In response to Bay of pigs --> USSR built mis
 	* DEFCON 2: Denfense readiness condition (finger is on the trigger, western armies will be ready in 6 hours to invade the USSR)
 	* Removal of nuclear missiles in Italy and Turkey and promise not to invade Cuba <=> removal of Soviet missiles in Cuba
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI0MTM3MDYsMTA5OTEzNjE4MSwtMT
-kxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1ODE4LDkxNjI0
-NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLDgzOTc0NDc4OS
-wtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYxMTIyLDE2
-ODEyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNj
-E5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1
-OTg2MDk5NzhdfQ==
+eyJoaXN0b3J5IjpbMTE5MzkwOTg3NSwxMDk5MTM2MTgxLC0xOT
+E5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MTgsOTE2MjQ3
+MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC
+0xMDM2NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3NjExMjIsMTY4
+MTIxMzk3MywxNTI4MTQ5MTQ2LC03MDUwNzM2ODksLTUxNTM2MT
+kwNCwtMTYwNzE3NDcsMTg4Mjk4MjQzNiwxMTQyMDQzMzg5LDU5
+ODYwOTk3OF19
 -->
