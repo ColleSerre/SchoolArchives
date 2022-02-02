@@ -607,12 +607,13 @@ Part of the French Empire since mid-19th
 	* Easily defeated and captured by Castro's forces
 	* Supposed to spark a revolution
 	* This agression led to Castro asking help from the SU who stationned nuclear missiles in Cuba
+* Cuban mis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTEzNjE4MSwtMTkxOTk1MjE2MywtMT
-IyMjk1MzIwNCwtMzUxMjg1ODE4LDkxNjI0NzI2OSwtMjkzNTA1
-MDM1LC0xNzI4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNC
-wtMTM5MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUy
-ODE0OTE0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNz
-Q3LDE4ODI5ODI0MzYsMTE0MjA0MzM4OSw1OTg2MDk5NzgsNDU1
-NDYzNzQ5XX0=
+eyJoaXN0b3J5IjpbNzA4MjIzMzc5LDEwOTkxMzYxODEsLTE5MT
+k5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcy
+NjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLT
+EwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgx
+MjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOT
+A0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4
+NjA5OTc4XX0=
 -->
