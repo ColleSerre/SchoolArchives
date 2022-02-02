@@ -624,20 +624,21 @@ Part of the French Empire since mid-19th
 	* OPEP: Organisation des pays exportateurs de pétrole (OPEC in English)
 	* OPAEP: Organisation des pays arabes exportateurs de pétrole
 *  Oil crisis: increase in the price of oil (normally caused by a lack in oil supply)
-* Six day war
+* Six day war (1973)
 	* Defeated 3 armies in 6 days (Syria, Jordan, Egypt)
 	* Captured Golan Heights, West Bank, **Jerusalem**, Sinai peninsula (again)
 	* Closed the Suez canal closed (war zone, occasional artillery being launched accross the canal
+	* Arab states use the "oil weapon" as leverage to get support against Israel
 	* 
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMzOTA0NCwtMjM4MDkyODgxLDYyNj
-k0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUz
-MjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLT
-E3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkz
-ODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MT
-Q2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4
-Mjk4MjQzNl19
+eyJoaXN0b3J5IjpbLTQ5MjkxNzQ1LC0yMzgwOTI4ODEsNjI2OT
+QzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMy
+MDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMT
+cyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4
+MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxND
+YsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgy
+OTgyNDM2XX0=
 -->
