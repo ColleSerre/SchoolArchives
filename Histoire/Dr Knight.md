@@ -623,11 +623,12 @@ Part of the French Empire since mid-19th
 * Organisations
 	* OPEP: Organisation des pays exportateurs de pétrole (OPEC in English)
 	* OPAEP: Organisation des pays arabes exportateurs de pétrole
+*  Oil crisis: can be 
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NjIwMjA4LC0yMzgwOTI4ODEsNjI2OT
+eyJoaXN0b3J5IjpbLTk2MDgxOTA2LC0yMzgwOTI4ODEsNjI2OT
 QzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMy
 MDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMT
 cyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4
