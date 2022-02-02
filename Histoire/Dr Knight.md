@@ -611,16 +611,17 @@ Part of the French Empire since mid-19th
 	* US missiles in Italy and Turkey
 	* In response to Bay of pigs --> USSR built missiles in Cuba
 	* Up to that point, the conflict was in Europe. Cuba is 150 km away from Florida
+	* "Quarantine" around Cuba, not a blockade = not an act of war, only prevented military supplies from entering the perimeter
 	* DEFCON 2: Denfense readiness condition (finger is on the trigger, western armies will be ready in 6 hours to invade the USSR)
 	* Robert Kennedy, JFK's brother and DC attorney general, negociated with the Soviets
 	* Removal of nuclear missiles in Italy and Turkey and promise not to invade Cuba <=> removal of Soviet missiles in Cuba
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5MT
-k5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcy
-NjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLT
-EwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgx
-MjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOT
-A0LC0xNjA3MTc0NywxODgyOTgyNDM2LDExNDIwNDMzODksNTk4
-NjA5OTc4XX0=
+eyJoaXN0b3J5IjpbLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5OT
+EzNjE4MSwtMTkxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1
+ODE4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLD
+gzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2
+NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNj
+g5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0
+MjA0MzM4OV19
 -->
