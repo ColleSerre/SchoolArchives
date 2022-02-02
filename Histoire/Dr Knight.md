@@ -534,9 +534,9 @@ Non-aligned movement: played both sides to fit their agenda (Nasser was part of 
 
 **compléter cours du 19/01**
 
-# China, Mao Zedhong, and the Cold War
+## China, Mao Zedhong, and the Cold War
 
-## Maoism and 1962 Sino-Spvoet split
+### Maoism and 1962 Sino-Spvoet split
 
 Mao was opposed to Kruchchev's criticism of Stalin (destalinization). Instead of building huge industrial power, he focused on agricultural production and developing industry at a smaller level in rural areas (Great Leap Forward). 
 
@@ -615,13 +615,17 @@ Part of the French Empire since mid-19th
 	* DEFCON 2: Denfense readiness condition (finger is on the trigger, western armies will be ready in 6 hours to invade the USSR)
 	* Robert Kennedy, JFK's brother and DC attorney general, negociated with the Soviets
 	* Removal of nuclear missiles in Italy and Turkey and promise not to invade Cuba <=> removal of Soviet missiles in Cuba
-	* 
+
+## Oil and Political Islam
+
+### October 1973: Arab-Israel war & the first oil crisis
+1979: Iranian revolution: political islam
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5OT
-EzNjE4MSwtMTkxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1
-ODE4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLD
-gzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2
-NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0OTE0NiwtNzA1MDczNj
-g5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4ODI5ODI0MzYsMTE0
-MjA0MzM4OV19
+eyJoaXN0b3J5IjpbMTU4MTEwNDgxLC0yMzgwOTI4ODEsNjI2OT
+QzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMy
+MDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMT
+cyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4
+MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxND
+YsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgy
+OTgyNDM2XX0=
 -->
