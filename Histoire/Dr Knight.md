@@ -620,16 +620,18 @@ Part of the French Empire since mid-19th
 
 ### October 1973: Arab-Israeli war & the first oil crisis
 
-* 
+* Organisations
+	* OPEP: Organisation des pays exportateurs de pétrole (OPEC in English)
+	* OPAEP: Organisation des pays arabes exportateurs de pétrole
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI1NDgzNjMsLTIzODA5Mjg4MSw2Mj
-Y5NDMwMzEsMTA5OTEzNjE4MSwtMTkxOTk1MjE2MywtMTIyMjk1
-MzIwNCwtMzUxMjg1ODE4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC
-0xNzI4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5
-MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0OT
-E0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4
-ODI5ODI0MzZdfQ==
+eyJoaXN0b3J5IjpbNDA2NjIwMjA4LC0yMzgwOTI4ODEsNjI2OT
+QzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMy
+MDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMT
+cyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4
+MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTczLDE1MjgxNDkxND
+YsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0xNjA3MTc0NywxODgy
+OTgyNDM2XX0=
 -->
