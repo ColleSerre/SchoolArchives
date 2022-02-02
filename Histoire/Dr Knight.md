@@ -624,12 +624,14 @@ Part of the French Empire since mid-19th
 	* OPEP: Organisation des pays exportateurs de pétrole (OPEC in English)
 	* OPAEP: Organisation des pays arabes exportateurs de pétrole
 *  Oil crisis: increase in the price of oil (normally caused by a lack in oil supply)
-* 
+* Six day war
+	* Defeated 3 armies in 6 days (Syria, Jordan, Egypt)
+	* Gola
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE5MDc3NDIsLTIzODA5Mjg4MSw2Mj
+eyJoaXN0b3J5IjpbLTEwMzgwMjI3MTMsLTIzODA5Mjg4MSw2Mj
 Y5NDMwMzEsMTA5OTEzNjE4MSwtMTkxOTk1MjE2MywtMTIyMjk1
 MzIwNCwtMzUxMjg1ODE4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC
 0xNzI4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5
