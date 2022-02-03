@@ -532,6 +532,8 @@ India was the center of the british empire (jewel of the crown), the british wan
 
 Non-aligned movement: played both sides to fit their agenda (Nasser was part of it)
 
+Nasser: get rid of the British, the monarchy and ...
+
 **compléter cours du 19/01**
 
 ## China, Mao Zedhong, and the Cold War
@@ -656,15 +658,17 @@ Part of the French Empire since mid-19th
 * 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 
-
+* 1951: Muhammad Mossadeq PM --> wanted to reduce the Sha's power
+* 1954: UK-US coup
+* Nationalised the anglo-Iranian oil company 
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzND
-IwMjA3LC04MzU4Nzg1MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0
-NjYsLTE4NzExNTA5NjksMTg2Njc5NjM0NCwtMjM4MDkyODgxLD
-YyNjk0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIy
-OTUzMjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMz
-UsLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0x
-MzkzODMxNzAwXX0=
+eyJoaXN0b3J5IjpbLTE3NDQwNTA4MTksOTM4MTIwNzk0LDQ4OD
+U4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLTE1OTI0NDA5
+OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2Njc5NjM0NC
+wtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC0xOTE5
+OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MTgsOTE2MjQ3Mj
+Y5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC0x
+MDM2NzgxNDA0XX0=
 -->
