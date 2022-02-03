@@ -630,17 +630,17 @@ Part of the French Empire since mid-19th
 	* Closed the Suez canal closed (war zone, occasional artillery being launched accross the canal
 	* Arab states use the "oil weapon" as leverage to get support against Israel
 	* Anwar Sadat (Egypt) starts relations with the US and start a peace process, open up Egypt, modernize, break with Nasser's increasingly soviet ideas, and **free up the Suez canal**. 
-	* Henry Kissinger: State secretary, wouldn't negociate wit
+	* Henry Kissinger: State secretary, wouldn't negociate with Sadat while Soviet "advisers" 
 	* 
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM0NjU3MTEsLTIzODA5Mjg4MSw2Mj
-Y5NDMwMzEsMTA5OTEzNjE4MSwtMTkxOTk1MjE2MywtMTIyMjk1
-MzIwNCwtMzUxMjg1ODE4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC
-0xNzI4Mjg3MDQxLDgzOTc0NDc4OSwtMTAzNjc4MTQwNCwtMTM5
-MzgzMTcwMCwtNTY2NzYxMTIyLDE2ODEyMTM5NzMsMTUyODE0OT
-E0NiwtNzA1MDczNjg5LC01MTUzNjE5MDQsLTE2MDcxNzQ3LDE4
-ODI5ODI0MzZdfQ==
+eyJoaXN0b3J5IjpbMTg2Njc5NjM0NCwtMjM4MDkyODgxLDYyNj
+k0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUz
+MjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLT
+E3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkz
+ODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MT
+Q2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwtMTYwNzE3NDcsMTg4
+Mjk4MjQzNl19
 -->
