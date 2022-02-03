@@ -671,15 +671,15 @@ Part of the French Empire since mid-19th
 	* Education & Health Care
 	* Economic growth: 12% p.a.
 	* Oil revenues:; 285M (1960) -> 20b (1976)
-	* Sent teachers to fight against illiteracy 
+	* Sent teachers to fight against illiteracy and religious 
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDA4OTg5MCwtMTc0NDA1MDgxOSw5Mz
-gxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3ODUy
-NSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MDk2OS
-wxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkx
-MzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NT
-gxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4
-Mzk3NDQ3ODldfQ==
+eyJoaXN0b3J5IjpbLTExNTU1NDE4MzYsLTE3NDQwNTA4MTksOT
+M4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1
+MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5Nj
+ksMTg2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5
+MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyOD
+U4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEs
+ODM5NzQ0Nzg5XX0=
 -->
