@@ -650,15 +650,17 @@ Part of the French Empire since mid-19th
 
 **Kissinger's diplomacy**
 * insert UN forces between armies to prevent escalation
-* Build confidence and trust by making "small" agreements 
+* Build confidence and trust by making "small" agreements which will hopefully lead to "bigger" agreements
+* 1974: Sinai I -  "Egyptian-Israeli Disengagement of Forces Agreement" (not a peace treaty)
+* 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDU0ODIyLC04MzU4Nzg1MjUsLTE1OT
-I0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2Njc5
-NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC
-0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MTgsOTE2
-MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5NzQ0Nz
-g5LC0xMDM2NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3NjExMjIs
-MTY4MTIxMzk3M119
+eyJoaXN0b3J5IjpbMjEzMzQyMDIwNywtODM1ODc4NTI1LC0xNT
+kyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LDE4NjY3
+OTYzNDQsLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5OTEzNjE4MS
+wtMTkxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1ODE4LDkx
+NjI0NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLDgzOTc0ND
+c4OSwtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYxMTIy
+LDE2ODEyMTM5NzNdfQ==
 -->
