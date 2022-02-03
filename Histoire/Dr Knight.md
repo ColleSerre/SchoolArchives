@@ -631,12 +631,12 @@ Part of the French Empire since mid-19th
 	* Arab states use the "oil weapon" as leverage to get support against Israel
 	* Anwar Sadat (Egypt) starts relations with the US and start a peace process, open up Egypt, modernize, break with Nasser's increasingly soviet ideas, and **free up the Suez canal**. 
 	* Henry Kissinger: State secretary, wouldn't negociate with Sadat while Soviet "advisers" --> almost overnight 10k "advisers" left Egypt
-	* Syria: 
+	* Syria: usually the most rejectionist state regarding Israel (why?), willing to engage in some sort of peace process and with the Israelis (not directly but maybe throught the UN)
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTM3MTcxOSwxODY2Nzk2MzQ0LC0yMz
+eyJoaXN0b3J5IjpbMTc4OTQ5NzI1MCwxODY2Nzk2MzQ0LC0yMz
 gwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIx
 NjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLT
 I5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3
