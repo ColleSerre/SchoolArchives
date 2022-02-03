@@ -664,14 +664,19 @@ Part of the French Empire since mid-19th
 	* AIOC / BP : 40%
 	* 5 US companies: 40%
 	* Shell & CFP: 20%
+	* Profits shared with Iran 50/50
+* Muhammad Reza launches a "white revolution"
+	* Industry - Iron and Steel
+	* Communications - ports, railways, roads
+	* Education &
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA0MzkwNDgsLTE3NDQwNTA4MTksOT
-M4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1
-MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5Nj
-ksMTg2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5
-MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyOD
-U4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEs
-ODM5NzQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbNzkwMDYzMDE1LC0xNzQ0MDUwODE5LDkzOD
+EyMDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4NTI1
+LC0xNTkyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LD
+E4NjY3OTYzNDQsLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5OTEz
+NjE4MSwtMTkxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1OD
+E4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLDgz
+OTc0NDc4OV19
 -->
