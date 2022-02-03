@@ -660,15 +660,18 @@ Part of the French Empire since mid-19th
 
 * 1951: Muhammad Mossadeq PM --> wanted to reduce the Sha's power
 * 1954: UK-US coup
-* Nationalised the anglo-Iranian oil company 
+* Nationalised the anglo-Iranian oil company into the National Iranian Oil Company
+	* AIOC / BP : 40%
+	* 5 US companies: 40%
+	* Shell & CFP: 20%
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQwNTA4MTksOTM4MTIwNzk0LDQ4OD
-U4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLTE1OTI0NDA5
-OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2Njc5NjM0NC
-wtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC0xOTE5
-OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MTgsOTE2MjQ3Mj
-Y5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC0x
-MDM2NzgxNDA0XX0=
+eyJoaXN0b3J5IjpbLTEyMTA0MzkwNDgsLTE3NDQwNTA4MTksOT
+M4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1
+MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5Nj
+ksMTg2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5
+MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyOD
+U4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEs
+ODM5NzQ0Nzg5XX0=
 -->
