@@ -637,16 +637,22 @@ Part of the French Empire since mid-19th
 	* **How a regional war became a Cold War**
 	* 6 Oct 1973: Syrian & Egyptian attack
 		* Egyptian forces crossed the Suez Canal and broke through Israeli lines
-		* Syrain
+		* Syrian forces attacked thr Golan
+		* US & SU reinforced their allies
+		* US Nuclear Alert & Soviet threats
+		* OPEC: quadrupled price
+		* S. Arabia, Kuwait, UAE: suspended oil shipments to US
+		* **First Oil Crisis / "Oil Shock"**
+		* 
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTA3OTE2NCwtMTg3MTE1MDk2OSwxOD
-Y2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYx
-ODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOC
-w5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3
-NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MT
-EyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwt
-NTE1MzYxOTA0XX0=
+eyJoaXN0b3J5IjpbLTE5NTAzMzQ4OTUsLTE4NzExNTA5NjksMT
+g2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2
+MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MT
+gsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5
+NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3Nj
+ExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MTQ2LC03MDUwNzM2ODks
+LTUxNTM2MTkwNF19
 -->
