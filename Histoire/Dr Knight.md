@@ -633,15 +633,16 @@ Part of the French Empire since mid-19th
 	* Henry Kissinger: State secretary, wouldn't negociate with Sadat while Soviet "advisers" --> almost overnight 10k "advisers" left Egypt
 	* Syria: usually the most rejectionist state regarding Israel (why?), willing to engage in some sort of peace process and with the Israelis (not directly but maybe throught the UN)
 	* "Diplomacy of Attrition" - refuse to deal with Egypt and Syria's demands to start a diplomatic process (saw these demands from E and S as signs of weakeness from US and Israel). Made them desperate for a peace process --> push E and S  into a corner to comply to US and Israel peace terms. 
+	* Carl von Clausewitz: "War is the continuation of politics by other means", 
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjM5MTE5OCwxODY2Nzk2MzQ0LC0yMz
-gwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIx
-NjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLT
-I5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3
-ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOT
-czLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwtNTE1MzYxOTA0LC0x
-NjA3MTc0N119
+eyJoaXN0b3J5IjpbLTE4NzExNTA5NjksMTg2Njc5NjM0NCwtMj
+M4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUy
+MTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC
+0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2
+NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMz
+k3MywxNTI4MTQ5MTQ2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwt
+MTYwNzE3NDddfQ==
 -->
