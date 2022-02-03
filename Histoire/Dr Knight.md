@@ -634,15 +634,17 @@ Part of the French Empire since mid-19th
 	* Syria: usually the most rejectionist state regarding Israel (why?), willing to engage in some sort of peace process and with the Israelis (not directly but maybe throught the UN)
 	* "Diplomacy of Attrition" - refuse to deal with Egypt and Syria's demands to start a diplomatic process (saw these demands from E and S as signs of weakeness from US and Israel). Made them desperate for a peace process --> push E and S  into a corner to comply to US and Israel peace terms. 
 	* Carl von Clausewitz: "War is the continuation of politics by other means", 
+	* **How a regional war became a Cold War**
+	* 6 Oct 1973: Syrian & Egy
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzExNTA5NjksMTg2Njc5NjM0NCwtMj
-M4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUy
-MTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC
-0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2
-NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3NjExMjIsMTY4MTIxMz
-k3MywxNTI4MTQ5MTQ2LC03MDUwNzM2ODksLTUxNTM2MTkwNCwt
-MTYwNzE3NDddfQ==
+eyJoaXN0b3J5IjpbMTMyODUzODYwMiwtMTg3MTE1MDk2OSwxOD
+Y2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYx
+ODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOC
+w5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3
+NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MT
+EyMiwxNjgxMjEzOTczLDE1MjgxNDkxNDYsLTcwNTA3MzY4OSwt
+NTE1MzYxOTA0XX0=
 -->
