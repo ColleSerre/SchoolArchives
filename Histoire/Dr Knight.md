@@ -643,12 +643,13 @@ Part of the French Empire since mid-19th
 		* OPEC: quadrupled price
 		* S. Arabia, Kuwait, UAE: suspended oil shipments to US
 		* **First Oil Crisis / "Oil Shock"**
-		* 
+* 22 Oct. 1973: ceasefire
+* Price of oil quadrupled
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAzMzQ4OTUsLTE4NzExNTA5NjksMT
+eyJoaXN0b3J5IjpbLTEwNTUwODQ2NTMsLTE4NzExNTA5NjksMT
 g2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2
 MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MT
 gsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5
