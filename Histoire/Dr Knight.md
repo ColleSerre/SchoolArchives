@@ -634,8 +634,6 @@ Part of the French Empire since mid-19th
 	* Syria: usually the most rejectionist state regarding Israel (why?), willing to engage in some sort of peace process and with the Israelis (not directly but maybe throught the UN)
 	* "Diplomacy of Attrition" - refuse to deal with Egypt and Syria's demands to start a diplomatic process (saw these demands from E and S as signs of weakeness from US and Israel). Made them desperate for a peace process --> push E and S  into a corner to comply to US and Israel peace terms. 
 	* Carl von Clausewitz: "War is the continuation of politics by other means", 
-	* Egypt: had gone accross the canal 
-	* Syria:
 	* **How a regional war became a Cold War**
 	* 6 Oct 1973: Syrian & Egyptian attack
 		* Egyptian forces crossed the Suez Canal and broke through Israeli lines
@@ -653,11 +651,11 @@ Part of the French Empire since mid-19th
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLT
-E4NzExNTA5NjksMTg2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0
-MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMj
-A0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3
-MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0xMzkzOD
-MxNzAwLC01NjY3NjExMjIsMTY4MTIxMzk3MywxNTI4MTQ5MTQ2
-LC03MDUwNzM2ODldfQ==
+eyJoaXN0b3J5IjpbLTgzNTg3ODUyNSwtMTU5MjQ0MDk5OCwtMj
+EyMzMwMDQ2NiwtMTg3MTE1MDk2OSwxODY2Nzk2MzQ0LC0yMzgw
+OTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIxNj
+MsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5
+MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3OD
+E0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTcz
+LDE1MjgxNDkxNDZdfQ==
 -->
