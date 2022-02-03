@@ -634,6 +634,8 @@ Part of the French Empire since mid-19th
 	* Syria: usually the most rejectionist state regarding Israel (why?), willing to engage in some sort of peace process and with the Israelis (not directly but maybe throught the UN)
 	* "Diplomacy of Attrition" - refuse to deal with Egypt and Syria's demands to start a diplomatic process (saw these demands from E and S as signs of weakeness from US and Israel). Made them desperate for a peace process --> push E and S  into a corner to comply to US and Israel peace terms. 
 	* Carl von Clausewitz: "War is the continuation of politics by other means", 
+	* Egypt: 
+	* Syria:
 	* **How a regional war became a Cold War**
 	* 6 Oct 1973: Syrian & Egyptian attack
 		* Egyptian forces crossed the Suez Canal and broke through Israeli lines
@@ -644,12 +646,14 @@ Part of the French Empire since mid-19th
 		* S. Arabia, Kuwait, UAE: suspended oil shipments to US
 		* **First Oil Crisis / "Oil Shock"**
 * 22 Oct. 1973: ceasefire
-* Price of oil quadrupled
+* **Price of oil quadrupled**
+	* **Oil shortages & oil rationing**
+* End of cheap and abundant oil 
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUwODQ2NTMsLTE4NzExNTA5NjksMT
+eyJoaXN0b3J5IjpbLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMT
 g2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2
 MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MT
 gsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5
