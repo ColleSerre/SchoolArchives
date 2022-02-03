@@ -655,13 +655,16 @@ Part of the French Empire since mid-19th
 * 1974: Sinai I -  "Egyptian-Israeli Disengagement of Forces Agreement" (not a peace treaty)
 * 
 ### 1979: Iranian revolution: political islam & the second oil crisis
+
+
+
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNT
-g3ODUyNSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1
-MDk2OSwxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLD
-EwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1
-MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4Nz
-A0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAs
-LTU2Njc2MTEyMl19
+eyJoaXN0b3J5IjpbOTM4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzND
+IwMjA3LC04MzU4Nzg1MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0
+NjYsLTE4NzExNTA5NjksMTg2Njc5NjM0NCwtMjM4MDkyODgxLD
+YyNjk0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIy
+OTUzMjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMz
+UsLTE3MjgyODcwNDEsODM5NzQ0Nzg5LC0xMDM2NzgxNDA0LC0x
+MzkzODMxNzAwXX0=
 -->
