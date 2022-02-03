@@ -647,6 +647,7 @@ Part of the French Empire since mid-19th
 * **Price of oil quadrupled**
 	* **Oil shortages & oil rationing**
 * End of cheap and abundant oil
+* Only time the oil weapon was used to such an extent
 
 **Kissinger's diplomacy**
 * insert UN forces between armies to prevent escalation
@@ -656,11 +657,11 @@ Part of the French Empire since mid-19th
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzQyMDIwNywtODM1ODc4NTI1LC0xNT
-kyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LDE4NjY3
-OTYzNDQsLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5OTEzNjE4MS
-wtMTkxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1ODE4LDkx
-NjI0NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLDgzOTc0ND
-c4OSwtMTAzNjc4MTQwNCwtMTM5MzgzMTcwMCwtNTY2NzYxMTIy
-LDE2ODEyMTM5NzNdfQ==
+eyJoaXN0b3J5IjpbNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNT
+g3ODUyNSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1
+MDk2OSwxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLD
+EwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1
+MTI4NTgxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4Nz
+A0MSw4Mzk3NDQ3ODksLTEwMzY3ODE0MDQsLTEzOTM4MzE3MDAs
+LTU2Njc2MTEyMl19
 -->
