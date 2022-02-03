@@ -672,14 +672,16 @@ Part of the French Empire since mid-19th
 	* Economic growth: 12% p.a.
 	* Oil revenues:; 285M (1960) -> 20b (1976)
 	* Sent teachers to fight against illiteracy and religious 
+	* Ayatollah Khomeini
+		* 
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU1NDE4MzYsLTE3NDQwNTA4MTksOT
-M4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1
-MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5Nj
-ksMTg2Njc5NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5
-MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyOD
-U4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEs
-ODM5NzQ0Nzg5XX0=
+eyJoaXN0b3J5IjpbLTE1MzUwNjQzMzksLTExNTU1NDE4MzYsLT
+E3NDQwNTA4MTksOTM4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIw
+MjA3LC04MzU4Nzg1MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0Nj
+YsLTE4NzExNTA5NjksMTg2Njc5NjM0NCwtMjM4MDkyODgxLDYy
+Njk0MzAzMSwxMDk5MTM2MTgxLC0xOTE5OTUyMTYzLC0xMjIyOT
+UzMjA0LC0zNTEyODU4MTgsOTE2MjQ3MjY5LC0yOTM1MDUwMzUs
+LTE3MjgyODcwNDFdfQ==
 -->
