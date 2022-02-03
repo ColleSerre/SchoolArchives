@@ -668,15 +668,17 @@ Part of the French Empire since mid-19th
 * Muhammad Reza launches a "white revolution"
 	* Industry - Iron and Steel
 	* Communications - ports, railways, roads
-	* Education &
+	* Education & Health Care
+	* Economic growth: 12% p.a.
+	* Oil revenues:; 285M (1960) -> 
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwMDYzMDE1LC0xNzQ0MDUwODE5LDkzOD
-EyMDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4NTI1
-LC0xNTkyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LD
-E4NjY3OTYzNDQsLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5OTEz
-NjE4MSwtMTkxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1OD
-E4LDkxNjI0NzI2OSwtMjkzNTA1MDM1LC0xNzI4Mjg3MDQxLDgz
-OTc0NDc4OV19
+eyJoaXN0b3J5IjpbLTE5MDA3OTg1MSwtMTc0NDA1MDgxOSw5Mz
+gxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3ODUy
+NSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MDk2OS
+wxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkx
+MzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NT
+gxOCw5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4
+Mzk3NDQ3ODldfQ==
 -->
