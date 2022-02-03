@@ -646,16 +646,19 @@ Part of the French Empire since mid-19th
 * 22 Oct. 1973: ceasefire
 * **Price of oil quadrupled**
 	* **Oil shortages & oil rationing**
-* End of cheap and abundant oil 
+* End of cheap and abundant oil
 
+**Kissinger's diplomacy**
+* insert UN forces between armies to prevent escalation
+* Build confidence and trust by making "small" agreements 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTg3ODUyNSwtMTU5MjQ0MDk5OCwtMj
-EyMzMwMDQ2NiwtMTg3MTE1MDk2OSwxODY2Nzk2MzQ0LC0yMzgw
-OTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5MTk5NTIxNj
-MsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcyNjksLTI5
-MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3NDQ3ODksLTEwMzY3OD
-E0MDQsLTEzOTM4MzE3MDAsLTU2Njc2MTEyMiwxNjgxMjEzOTcz
-LDE1MjgxNDkxNDZdfQ==
+eyJoaXN0b3J5IjpbMTc3NDU0ODIyLC04MzU4Nzg1MjUsLTE1OT
+I0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2Njc5
+NjM0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC
+0xOTE5OTUyMTYzLC0xMjIyOTUzMjA0LC0zNTEyODU4MTgsOTE2
+MjQ3MjY5LC0yOTM1MDUwMzUsLTE3MjgyODcwNDEsODM5NzQ0Nz
+g5LC0xMDM2NzgxNDA0LC0xMzkzODMxNzAwLC01NjY3NjExMjIs
+MTY4MTIxMzk3M119
 -->
