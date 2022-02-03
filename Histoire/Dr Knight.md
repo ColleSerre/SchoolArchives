@@ -635,12 +635,14 @@ Part of the French Empire since mid-19th
 	* "Diplomacy of Attrition" - refuse to deal with Egypt and Syria's demands to start a diplomatic process (saw these demands from E and S as signs of weakeness from US and Israel). Made them desperate for a peace process --> push E and S  into a corner to comply to US and Israel peace terms. 
 	* Carl von Clausewitz: "War is the continuation of politics by other means", 
 	* **How a regional war became a Cold War**
-	* 6 Oct 1973: Syrian & Egy
+	* 6 Oct 1973: Syrian & Egyptian attack
+		* Egyptian forces crossed the Suez Canal and broke through Israeli lines
+		* Syrain
 
 ### 1979: Iranian revolution: political islam & the second oil crisis
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODUzODYwMiwtMTg3MTE1MDk2OSwxOD
+eyJoaXN0b3J5IjpbMTA1MTA3OTE2NCwtMTg3MTE1MDk2OSwxOD
 Y2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYx
 ODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOC
 w5MTYyNDcyNjksLTI5MzUwNTAzNSwtMTcyODI4NzA0MSw4Mzk3
