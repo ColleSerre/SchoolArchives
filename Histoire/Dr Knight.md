@@ -686,13 +686,15 @@ Part of the French Empire since mid-19th
 
 Second Oil crisis:
 
-* 
+* 1978: Oil workers on strike (and foreign workers left Iran)
+* 1979: NIOC completely nationalized
+* 1
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzAwMTI4MiwtNjQxNDIxNTgzLDE5Mj
+eyJoaXN0b3J5IjpbLTYwMDYwMzY0MywtNjQxNDIxNTgzLDE5Mj
 U0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3
 NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOS
 w5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3
