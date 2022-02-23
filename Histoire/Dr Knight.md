@@ -675,12 +675,14 @@ Part of the French Empire since mid-19th
 	* Ayatollah Khomeini -- highest religious leader in Shia Islam and attacked the Shad, exiled in Turkey, Iraq, France, Islamic & social themes
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
+
+## Iranian Revolution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODQ5NTY3NSwtMTUzNTA2NDMzOSwtMT
-E1NTU0MTgzNiwtMTc0NDA1MDgxOSw5MzgxMjA3OTQsNDg4NTg1
-NDI0LDIxMzM0MjAyMDcsLTgzNTg3ODUyNSwtMTU5MjQ0MDk5OC
-wtMjEyMzMwMDQ2NiwtMTg3MTE1MDk2OSwxODY2Nzk2MzQ0LC0y
-MzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5MTk5NT
-IxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgxOCw5MTYyNDcyNjks
-LTI5MzUwNTAzNV19
+eyJoaXN0b3J5IjpbMTQyNTgxNzQ4MiwtODA4NDk1Njc1LC0xNT
+M1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LDkzODEy
+MDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4NTI1LC
+0xNTkyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LDE4
+NjY3OTYzNDQsLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5OTEzNj
+E4MSwtMTkxOTk1MjE2MywtMTIyMjk1MzIwNCwtMzUxMjg1ODE4
+LDkxNjI0NzI2OV19
 -->
