@@ -677,13 +677,15 @@ Part of the French Empire since mid-19th
 	* Jan. 1979: Shah left Iran
 	* Vilayet-e Faqih: government led by religious scholars
 	* Government by religious scholars/clerics
-	* March 1979 98% of pop agrees to an Islamic gov (referend
+	* March 1979: 98% of pop agrees to an Islamic gov (referendum)
+		* Sharia
+		* Vilayet-e Faqih wrote the constitution
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzU0ODk1MCw1NDUzNjEzNywtMjA0NT
+eyJoaXN0b3J5IjpbMTkyNTQxMDg2MSw1NDUzNjEzNywtMjA0NT
 M2NTIxNSwtODA4NDk1Njc1LC0xNTM1MDY0MzM5LC0xMTU1NTQx
 ODM2LC0xNzQ0MDUwODE5LDkzODEyMDc5NCw0ODg1ODU0MjQsMj
 EzMzQyMDIwNywtODM1ODc4NTI1LC0xNTkyNDQwOTk4LC0yMTIz
