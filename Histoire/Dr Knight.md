@@ -688,17 +688,18 @@ Second Oil crisis:
 
 * 1978: Oil workers on strike (and foreign workers left Iran)
 * 1979: NIOC completely nationalized
-* 1
+* 1979: Iranian Oil production: 5.8M barrels/day --> 500k
+* 7% decline in global oil supply
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDYwMzY0MywtNjQxNDIxNTgzLDE5Mj
-U0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3
-NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOS
-w5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3
-ODUyNSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MD
-k2OSwxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEw
-OTkxMzYxODFdfQ==
+eyJoaXN0b3J5IjpbOTY2MzEzNTM0LC02NDE0MjE1ODMsMTkyNT
+QxMDg2MSw1NDUzNjEzNywtMjA0NTM2NTIxNSwtODA4NDk1Njc1
+LC0xNTM1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LD
+kzODEyMDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4
+NTI1LC0xNTkyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOT
+Y5LDE4NjY3OTYzNDQsLTIzODA5Mjg4MSw2MjY5NDMwMzEsMTA5
+OTEzNjE4MV19
 -->
