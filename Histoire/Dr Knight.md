@@ -680,17 +680,20 @@ Part of the French Empire since mid-19th
 * March 1979: 98% of pop agrees to an Islamic gov (referendum)
 	* Sharia
 	* Vilayet-e Faqih wrote the constitution
-	* Consitution, parliament, elections - how ismali
+	* Consitution, parliament, elections - how ismalic is it really ? 
+	* Middle-eastern ideals tied together with western ideals and influences
+* **It's not just an Islamic revolution, it's also a revolution of Islam**
+* 
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjI4NTI1LDE5MjU0MTA4NjEsNTQ1Mz
-YxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3NSwtMTUzNTA2NDMz
-OSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOSw5MzgxMjA3OTQsND
-g4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3ODUyNSwtMTU5MjQ0
-MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MDk2OSwxODY2Nzk2Mz
-Q0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5
-MTk5NTIxNjNdfQ==
+eyJoaXN0b3J5IjpbLTY0MTQyMTU4MywxOTI1NDEwODYxLDU0NT
+M2MTM3LC0yMDQ1MzY1MjE1LC04MDg0OTU2NzUsLTE1MzUwNjQz
+MzksLTExNTU1NDE4MzYsLTE3NDQwNTA4MTksOTM4MTIwNzk0LD
+Q4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLTE1OTI0
+NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2Njc5Nj
+M0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC0x
+OTE5OTUyMTYzXX0=
 -->
