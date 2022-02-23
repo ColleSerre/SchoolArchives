@@ -672,24 +672,25 @@ Part of the French Empire since mid-19th
 	* Economic growth: 12% p.a.
 	* Oil revenues:; 285M (1960) -> 20b (1976)
 	* Sent teachers to fight against illiteracy and religious 
-	* Ayatollah Khomeini -- highest religious leader in Shia Islam and attacked the Shad, exiled in Turkey, Iraq, France, Islamic & social themes
-	* Successive protests, escalation, black friday, mass demonstrations (1977-Jan 1978)
-	* Jan. 1979: Shah left Iran
-	* Vilayet-e Faqih: government led by religious scholars
-	* Government by religious scholars/clerics
-	* March 1979: 98% of pop agrees to an Islamic gov (referendum)
-		* Sharia
-		* Vilayet-e Faqih wrote the constitution
+* Ayatollah Khomeini -- highest religious leader in Shia Islam and attacked the Shad, exiled in Turkey, Iraq, France, Islamic & social themes
+* Successive protests, escalation, black friday, mass demonstrations (1977-Jan 1978)
+* Jan. 1979: Shah left Iran
+* Vilayet-e Faqih: government led by religious scholars
+* Government by religious scholars/clerics
+* March 1979: 98% of pop agrees to an Islamic gov (referendum)
+	* Sharia
+	* Vilayet-e Faqih wrote the constitution
+	* Consitution, parliament, elections - how ismali
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTQxMDg2MSw1NDUzNjEzNywtMjA0NT
-M2NTIxNSwtODA4NDk1Njc1LC0xNTM1MDY0MzM5LC0xMTU1NTQx
-ODM2LC0xNzQ0MDUwODE5LDkzODEyMDc5NCw0ODg1ODU0MjQsMj
-EzMzQyMDIwNywtODM1ODc4NTI1LC0xNTkyNDQwOTk4LC0yMTIz
-MzAwNDY2LC0xODcxMTUwOTY5LDE4NjY3OTYzNDQsLTIzODA5Mj
-g4MSw2MjY5NDMwMzEsMTA5OTEzNjE4MSwtMTkxOTk1MjE2Mywt
-MTIyMjk1MzIwNF19
+eyJoaXN0b3J5IjpbMTYxMjI4NTI1LDE5MjU0MTA4NjEsNTQ1Mz
+YxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3NSwtMTUzNTA2NDMz
+OSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOSw5MzgxMjA3OTQsND
+g4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3ODUyNSwtMTU5MjQ0
+MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MDk2OSwxODY2Nzk2Mz
+Q0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMzYxODEsLTE5
+MTk5NTIxNjNdfQ==
 -->
