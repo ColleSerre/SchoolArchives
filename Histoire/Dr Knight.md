@@ -673,16 +673,18 @@ Part of the French Empire since mid-19th
 	* Oil revenues:; 285M (1960) -> 20b (1976)
 	* Sent teachers to fight against illiteracy and religious 
 	* Ayatollah Khomeini -- highest religious leader in Shia Islam and attacked the Shad, exiled in Turkey, Iraq, France, Islamic & social themes
+	* Successive protests, escalation, black friday, mass demonstrations (1977-Jan 1978)
+	* Jan. 1979: Shah left Iran
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUzNjUyMTUsLTgwODQ5NTY3NSwtMT
-UzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOSw5Mzgx
-MjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3ODUyNS
-wtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MDk2OSwx
-ODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEwOTkxMz
-YxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQsLTM1MTI4NTgx
-OCw5MTYyNDcyNjldfQ==
+eyJoaXN0b3J5IjpbNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwOD
+Q5NTY3NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1
+MDgxOSw5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLT
+gzNTg3ODUyNSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3
+MTE1MDk2OSwxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMD
+MxLDEwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQs
+LTM1MTI4NTgxOF19
 -->
