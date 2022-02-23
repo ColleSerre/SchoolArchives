@@ -677,8 +677,10 @@ Part of the French Empire since mid-19th
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 ## Iranian Revolution
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTgxNzQ4MiwtODA4NDk1Njc1LC0xNT
+eyJoaXN0b3J5IjpbMTkzNzY4MzMwMiwtODA4NDk1Njc1LC0xNT
 M1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LDkzODEy
 MDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4NTI1LC
 0xNTkyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LDE4
