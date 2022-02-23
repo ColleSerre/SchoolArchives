@@ -204,6 +204,7 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 ![Bureau of Labor Statistics](https://wikirouge.net/wr/images/f/f9/Product-salaires.png)
 
 * Eric Zemmour fait appel au même raisonnement que le parti nazi en disant "Je ne suis pas le candidat des riches ni des classes populaires, au contraire je pense qu'il faut rassembler *tous* les français pour défendre la France" (raisonnement populiste).
+* It's easier to imagine the end of the world than the end of capitalism - Slavoj Žižek
 
 ### Apparences vs Réalité
 
@@ -410,9 +411,10 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTcwNjU1MiwtMjAyMjE0NzkwMSwtMT
-k2ODA3NjE4OCwtMTM5OTkxMDc1MCwtMTU5OTYzNzM4NCw4ODU2
-Njk2MzgsMzIwNzM5MzM5LC02MjY4Nzk5NzAsMzI5NDUxMTEwLC
-0xNTgwMDk0NDM3LDIwMTYxMjI0OTEsNTYxOTcyMTA1LDU0MTMx
-NDUxNCwxNTczMDcxNTIzLDcxNzMxMDY0OV19
+eyJoaXN0b3J5IjpbMTQ5ODg3MDI0NCwxNTYxNzA2NTUyLC0yMD
+IyMTQ3OTAxLC0xOTY4MDc2MTg4LC0xMzk5OTEwNzUwLC0xNTk5
+NjM3Mzg0LDg4NTY2OTYzOCwzMjA3MzkzMzksLTYyNjg3OTk3MC
+wzMjk0NTExMTAsLTE1ODAwOTQ0MzcsMjAxNjEyMjQ5MSw1NjE5
+NzIxMDUsNTQxMzE0NTE0LDE1NzMwNzE1MjMsNzE3MzEwNjQ5XX
+0=
 -->
