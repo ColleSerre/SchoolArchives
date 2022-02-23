@@ -683,17 +683,20 @@ Part of the French Empire since mid-19th
 	* Consitution, parliament, elections - how ismalic is it really ? 
 	* Middle-eastern ideals tied together with western ideals and influences
 * **It's not just an Islamic revolution, it's also a revolution of Islam**
+
+Second Oil crisis:
+
 * 
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTQyMTU4MywxOTI1NDEwODYxLDU0NT
-M2MTM3LC0yMDQ1MzY1MjE1LC04MDg0OTU2NzUsLTE1MzUwNjQz
-MzksLTExNTU1NDE4MzYsLTE3NDQwNTA4MTksOTM4MTIwNzk0LD
-Q4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLTE1OTI0
-NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2Njc5Nj
-M0NCwtMjM4MDkyODgxLDYyNjk0MzAzMSwxMDk5MTM2MTgxLC0x
-OTE5OTUyMTYzXX0=
+eyJoaXN0b3J5IjpbLTUyNzAwMTI4MiwtNjQxNDIxNTgzLDE5Mj
+U0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3
+NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOS
+w5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3
+ODUyNSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MD
+k2OSwxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMDMxLDEw
+OTkxMzYxODFdfQ==
 -->
