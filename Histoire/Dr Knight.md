@@ -675,16 +675,19 @@ Part of the French Empire since mid-19th
 	* Ayatollah Khomeini -- highest religious leader in Shia Islam and attacked the Shad, exiled in Turkey, Iraq, France, Islamic & social themes
 	* Successive protests, escalation, black friday, mass demonstrations (1977-Jan 1978)
 	* Jan. 1979: Shah left Iran
+	* Vilayet-e Faqih: government led by religious scholars
+	* Government by religious scholars/clerics
+	* March 1979 98% of pop agrees to an Islamic gov (referend
 
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwOD
-Q5NTY3NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1
-MDgxOSw5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLT
-gzNTg3ODUyNSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3
-MTE1MDk2OSwxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2OTQzMD
-MxLDEwOTkxMzYxODEsLTE5MTk5NTIxNjMsLTEyMjI5NTMyMDQs
-LTM1MTI4NTgxOF19
+eyJoaXN0b3J5IjpbLTgxMzU0ODk1MCw1NDUzNjEzNywtMjA0NT
+M2NTIxNSwtODA4NDk1Njc1LC0xNTM1MDY0MzM5LC0xMTU1NTQx
+ODM2LC0xNzQ0MDUwODE5LDkzODEyMDc5NCw0ODg1ODU0MjQsMj
+EzMzQyMDIwNywtODM1ODc4NTI1LC0xNTkyNDQwOTk4LC0yMTIz
+MzAwNDY2LC0xODcxMTUwOTY5LDE4NjY3OTYzNDQsLTIzODA5Mj
+g4MSw2MjY5NDMwMzEsMTA5OTEzNjE4MSwtMTkxOTk1MjE2Mywt
+MTIyMjk1MzIwNF19
 -->
