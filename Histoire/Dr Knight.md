@@ -709,12 +709,17 @@ Afghanistan:
 	* **Mujahadeen** --> "one who undertakes jihad" (fighting for god)
 		* Anticommunist islamic guerillas
 * Communist Party -- conflicts between two major/rival factions
+SU Invasion: 30k-50k troops, killed afghan communist president, set up a soviet supported president, 100k-150k troops
+
+WHY? 
+
+* Acc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzU3MzMzNywtMTA3NjAxMjIzLDQzNz
-E5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4MywxOTI1NDEwODYx
-LDU0NTM2MTM3LC0yMDQ1MzY1MjE1LC04MDg0OTU2NzUsLTE1Mz
-UwNjQzMzksLTExNTU1NDE4MzYsLTE3NDQwNTA4MTksOTM4MTIw
-Nzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLT
-E1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2
-Njc5NjM0NF19
+eyJoaXN0b3J5IjpbLTE3OTM0NjYzMjYsLTUwMzU3MzMzNywtMT
+A3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4
+MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMDQ1MzY1MjE1LC04MD
+g0OTU2NzUsLTE1MzUwNjQzMzksLTExNTU1NDE4MzYsLTE3NDQw
+NTA4MTksOTM4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC
+04MzU4Nzg1MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4
+NzExNTA5NjldfQ==
 -->
