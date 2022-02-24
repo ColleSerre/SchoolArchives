@@ -695,12 +695,14 @@ Second Oil crisis:
 
 Attack of Ukraine shows that Russia has learned from the mistakes in Afghanistant (less instant attack 24th December)
 Led to the rise of Islamic Resistance Movements
+
+Detente (1967-1979): Nixon in China, Moscow, SALT I, Handshake in Space, SALT II, grain shipments to USSR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxND
-IxNTgzLDE5MjU0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUs
-LTgwODQ5NTY3NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMT
-c0NDA1MDgxOSw5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAy
-MDcsLTgzNTg3ODUyNSwtMTU5MjQ0MDk5OCwtMjEyMzMwMDQ2Ni
-wtMTg3MTE1MDk2OSwxODY2Nzk2MzQ0LC0yMzgwOTI4ODEsNjI2
-OTQzMDMxXX0=
+eyJoaXN0b3J5IjpbLTEwNzYwMTIyMyw0MzcxOTY5NDgsOTY2Mz
+EzNTM0LC02NDE0MjE1ODMsMTkyNTQxMDg2MSw1NDUzNjEzNywt
+MjA0NTM2NTIxNSwtODA4NDk1Njc1LC0xNTM1MDY0MzM5LC0xMT
+U1NTQxODM2LC0xNzQ0MDUwODE5LDkzODEyMDc5NCw0ODg1ODU0
+MjQsMjEzMzQyMDIwNywtODM1ODc4NTI1LC0xNTkyNDQwOTk4LC
+0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LDE4NjY3OTYzNDQsLTIz
+ODA5Mjg4MV19
 -->
