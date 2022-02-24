@@ -694,9 +694,9 @@ Second Oil crisis:
 ### 1979: Soviet Invastion of Afghanistan: emergence of Islamic resistance
 
 Attack of Ukraine shows that Russia has learned from the mistakes in Afghanistant (less instant attack 24th December)
-
+Led to the rise of Islamic Resistance Movements
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1OTM3NDk4LDk2NjMxMzUzNCwtNjQxND
+eyJoaXN0b3J5IjpbNDM3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxND
 IxNTgzLDE5MjU0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUs
 LTgwODQ5NTY3NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMT
 c0NDA1MDgxOSw5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAy
