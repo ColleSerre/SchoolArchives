@@ -712,13 +712,20 @@ SU Invasion: 30k-50k troops, killed afghan communist president, set up a soviet 
 
 WHY? 
 * ~~Access to a warm water port...in Pakistan~~
-* 
+
+US Response:
+* US senate refused to ratify SALT II
+* US banned grain exports to USSR
+* US boycott of 1980 Moscow olympics
+* Carter Doctrine
+	* Supplied weapons and money to mujahadeen
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI3NTg5NTIsLTUwMzU3MzMzNywtMT
-A3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4
-MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMDQ1MzY1MjE1LC04MD
-g0OTU2NzUsLTE1MzUwNjQzMzksLTExNTU1NDE4MzYsLTE3NDQw
-NTA4MTksOTM4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC
-04MzU4Nzg1MjUsLTE1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4
-NzExNTA5NjldfQ==
+eyJoaXN0b3J5IjpbLTEzMjAxMzA0NjgsLTIwOTI3NTg5NTIsLT
+UwMzU3MzMzNywtMTA3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1
+MzQsLTY0MTQyMTU4MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMD
+Q1MzY1MjE1LC04MDg0OTU2NzUsLTE1MzUwNjQzMzksLTExNTU1
+NDE4MzYsLTE3NDQwNTA4MTksOTM4MTIwNzk0LDQ4ODU4NTQyNC
+wyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLTE1OTI0NDA5OTgsLTIx
+MjMzMDA0NjZdfQ==
 -->
