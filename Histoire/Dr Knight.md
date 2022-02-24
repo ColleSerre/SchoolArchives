@@ -698,8 +698,7 @@ Led to the rise of Islamic Resistance Movements
 
 Detente (1967-1979): Nixon in China, Moscow, SALT I, Handshake in Space, SALT II, grain shipments to USSR
 
-Afghanistan:
-
+**Afghanistan:**
 * 1973: Mohammed Daoud Khan overhrew monarche --> became a republic
 * April 1978: Communists overthrew Khan
 	* close ties with the SU
@@ -712,10 +711,10 @@ Afghanistan:
 SU Invasion: 30k-50k troops, killed afghan communist president, set up a soviet supported president, 100k-150k troops
 
 WHY? 
-
-* Acc
+* ~~Access to a warm water port...in Pakistan~~
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM0NjYzMjYsLTUwMzU3MzMzNywtMT
+eyJoaXN0b3J5IjpbLTIwOTI3NTg5NTIsLTUwMzU3MzMzNywtMT
 A3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4
 MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMDQ1MzY1MjE1LC04MD
 g0OTU2NzUsLTE1MzUwNjQzMzksLTExNTU1NDE4MzYsLTE3NDQw
