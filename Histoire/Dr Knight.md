@@ -706,15 +706,15 @@ Afghanistan:
 	* purges of domestic opposition
 	* extensive land and social reform
 * Opposition & Uprising
-	* **Mujahadeen** --> "one who undertakes jihad" (fighting for your god)
+	* **Mujahadeen** --> "one who undertakes jihad" (fighting for god)
 		* Anticommunist islamic guerillas
 * Communist Party -- conflicts between two major/rival factions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MzIwNTU0LC0xMDc2MDEyMjMsNDM3MT
-k2OTQ4LDk2NjMxMzUzNCwtNjQxNDIxNTgzLDE5MjU0MTA4NjEs
-NTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3NSwtMTUzNT
-A2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOSw5MzgxMjA3
-OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3ODUyNSwtMT
-U5MjQ0MDk5OCwtMjEyMzMwMDQ2NiwtMTg3MTE1MDk2OSwxODY2
-Nzk2MzQ0XX0=
+eyJoaXN0b3J5IjpbLTUwMzU3MzMzNywtMTA3NjAxMjIzLDQzNz
+E5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4MywxOTI1NDEwODYx
+LDU0NTM2MTM3LC0yMDQ1MzY1MjE1LC04MDg0OTU2NzUsLTE1Mz
+UwNjQzMzksLTExNTU1NDE4MzYsLTE3NDQwNTA4MTksOTM4MTIw
+Nzk0LDQ4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLT
+E1OTI0NDA5OTgsLTIxMjMzMDA0NjYsLTE4NzExNTA5NjksMTg2
+Njc5NjM0NF19
 -->
