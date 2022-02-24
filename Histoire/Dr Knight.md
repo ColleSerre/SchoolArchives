@@ -697,12 +697,22 @@ Attack of Ukraine shows that Russia has learned from the mistakes in Afghanistan
 Led to the rise of Islamic Resistance Movements
 
 Detente (1967-1979): Nixon in China, Moscow, SALT I, Handshake in Space, SALT II, grain shipments to USSR
+
+Afghanistan:
+
+* 1973: Mohammed Daoud Khan overhrew monarche --> became a republic
+* April 1978: Communists overthrew Khan
+	* close ties with the SU
+	* purges of domestic opposition
+	* extensive land and social reform
+* Opposition & Uprising
+	* **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwMTIyMyw0MzcxOTY5NDgsOTY2Mz
-EzNTM0LC02NDE0MjE1ODMsMTkyNTQxMDg2MSw1NDUzNjEzNywt
-MjA0NTM2NTIxNSwtODA4NDk1Njc1LC0xNTM1MDY0MzM5LC0xMT
-U1NTQxODM2LC0xNzQ0MDUwODE5LDkzODEyMDc5NCw0ODg1ODU0
-MjQsMjEzMzQyMDIwNywtODM1ODc4NTI1LC0xNTkyNDQwOTk4LC
-0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LDE4NjY3OTYzNDQsLTIz
-ODA5Mjg4MV19
+eyJoaXN0b3J5IjpbLTE3NjM4Mzk2NTcsLTEwNzYwMTIyMyw0Mz
+cxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1ODMsMTkyNTQxMDg2
+MSw1NDUzNjEzNywtMjA0NTM2NTIxNSwtODA4NDk1Njc1LC0xNT
+M1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LDkzODEy
+MDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4NTI1LC
+0xNTkyNDQwOTk4LC0yMTIzMzAwNDY2LC0xODcxMTUwOTY5LDE4
+NjY3OTYzNDRdfQ==
 -->
