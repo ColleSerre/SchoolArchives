@@ -726,13 +726,14 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 
 **Gorbachev:** Afghanistan is a "bleeding wound", gave an extra year before withdrawl (eventually in 1989)
 **Talibans:** students 
-**Blowback:** 
+**Blowback:** unforeseen consequence of an action
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzAyNDcwNyw3NzkwMzEzMjgsMjEwMT
-MzNjU5OCw5MzQwOTEwNzgsLTIwOTI3NTg5NTIsLTUwMzU3MzMz
-NywtMTA3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1MzQsLTY0MT
-QyMTU4MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMDQ1MzY1MjE1
-LC04MDg0OTU2NzUsLTE1MzUwNjQzMzksLTExNTU1NDE4MzYsLT
-E3NDQwNTA4MTksOTM4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIw
-MjA3XX0=
+eyJoaXN0b3J5IjpbMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OT
+AzMTMyOCwyMTAxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1
+MiwtNTAzNTczMzM3LC0xMDc2MDEyMjMsNDM3MTk2OTQ4LDk2Nj
+MxMzUzNCwtNjQxNDIxNTgzLDE5MjU0MTA4NjEsNTQ1MzYxMzcs
+LTIwNDUzNjUyMTUsLTgwODQ5NTY3NSwtMTUzNTA2NDMzOSwtMT
+E1NTU0MTgzNiwtMTc0NDA1MDgxOSw5MzgxMjA3OTQsNDg4NTg1
+NDI0XX0=
 -->
