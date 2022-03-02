@@ -705,7 +705,7 @@ Detente (1967-1979): Nixon in China, Moscow, SALT I, Handshake in Space, SALT II
 	* purges of domestic opposition
 	* extensive land and social reform
 * Opposition & Uprising
-	* **Mujahadeen** --> "one who undertakes jihad" (fighting for god), several groups, not always working together (rivalry between groups)
+	* **Mujahideen** --> "one who undertakes jihad" (fighting for god), several groups, not always working together (rivalry between groups)
 		* Anticommunist islamic guerillas
 * Communist Party -- conflicts between two major/rival factions
 SU Invasion: 30k-50k troops, killed afghan communist president, set up a soviet supported president, 100k-150k troops
@@ -720,18 +720,18 @@ US Response:
 * Carter Doctrine
 	* Supplied weapons and money to mujahadeen
 beginning of fragmentation of Afghanistan 
-CIA sent stinger missiles to mujahadeens (Lithuania is currently sending the same weapons to Ukraine), this compromised the SU's air superiority and changed the nature of the war (context of the cold war --> SU = 'evil empire').
+CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same weapons to Ukraine), this compromised the SU's air superiority and changed the nature of the war (context of the cold war --> SU = 'evil empire').
 
-### From mujahadeen to Talibans and Al-Qaeda
+### From mujahideen to Talibans and Al-Qaeda (freedom fighters or terrorists ?)
 
 **Gorbachev:** Afghanistan is a "bleeding wound", gave an extra year before withdrawl (eventually in 1989)
 **Talibans:** students
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTMzMTIzMSwyMTAxMzM2NTk4LDkzND
-A5MTA3OCwtMjA5Mjc1ODk1MiwtNTAzNTczMzM3LC0xMDc2MDEy
-MjMsNDM3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxNDIxNTgzLDE5Mj
-U0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3
-NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOS
-w5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3
-ODUyNV19
+eyJoaXN0b3J5IjpbNzc5MDMxMzI4LDIxMDEzMzY1OTgsOTM0MD
+kxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMzMzcsLTEwNzYwMTIy
+Myw0MzcxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1ODMsMTkyNT
+QxMDg2MSw1NDUzNjEzNywtMjA0NTM2NTIxNSwtODA4NDk1Njc1
+LC0xNTM1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LD
+kzODEyMDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4
+NTI1XX0=
 -->
