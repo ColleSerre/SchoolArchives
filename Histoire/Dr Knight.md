@@ -720,13 +720,16 @@ US Response:
 * Carter Doctrine
 	* Supplied weapons and money to mujahadeen
 beginning of fragmentation of Afghanistan 
-CIA sent stinger missiles to the mujahadeen (Lithuania is currently sending the same weapons to Ukraine)
+CIA sent stinger missiles to the mujahadeen (Lithuania is currently sending the same weapons to Ukraine), this compromised the SU's air superiority and changed the nature of the war (context of the cold war). 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTMzNjU5OCw5MzQwOTEwNzgsLTIwOT
-I3NTg5NTIsLTUwMzU3MzMzNywtMTA3NjAxMjIzLDQzNzE5Njk0
-OCw5NjYzMTM1MzQsLTY0MTQyMTU4MywxOTI1NDEwODYxLDU0NT
-M2MTM3LC0yMDQ1MzY1MjE1LC04MDg0OTU2NzUsLTE1MzUwNjQz
-MzksLTExNTU1NDE4MzYsLTE3NDQwNTA4MTksOTM4MTIwNzk0LD
-Q4ODU4NTQyNCwyMTMzNDIwMjA3LC04MzU4Nzg1MjUsLTE1OTI0
-NDA5OThdfQ==
+eyJoaXN0b3J5IjpbLTY2NzExNDQ4NSwyMTAxMzM2NTk4LDkzND
+A5MTA3OCwtMjA5Mjc1ODk1MiwtNTAzNTczMzM3LC0xMDc2MDEy
+MjMsNDM3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxNDIxNTgzLDE5Mj
+U0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3
+NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOS
+w5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3
+ODUyNV19
 -->
