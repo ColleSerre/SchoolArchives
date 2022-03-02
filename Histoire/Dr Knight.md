@@ -721,13 +721,14 @@ US Response:
 	* Supplied weapons and money to mujahadeen
 beginning of fragmentation of Afghanistan 
 CIA sent stinger missiles to mujahadeens (Lithuania is currently sending the same weapons to Ukraine), this compromised the SU's air superiority and changed the nature of the war (context of the cold war --> SU = 'evil empire').
-**Gorbachev:** Afghanistan is a 
+**Gorbachev:** Afghanistan is a "bleeding wound", gave an extra year before withdrawl (eventually in 1989)
+**Talibans:** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTEwMzE1LDIxMDEzMzY1OTgsOTM0MD
-kxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMzMzcsLTEwNzYwMTIy
-Myw0MzcxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1ODMsMTkyNT
-QxMDg2MSw1NDUzNjEzNywtMjA0NTM2NTIxNSwtODA4NDk1Njc1
-LC0xNTM1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LD
-kzODEyMDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4
-NTI1XX0=
+eyJoaXN0b3J5IjpbLTY4NTc5MjY4MCwyMTAxMzM2NTk4LDkzND
+A5MTA3OCwtMjA5Mjc1ODk1MiwtNTAzNTczMzM3LC0xMDc2MDEy
+MjMsNDM3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxNDIxNTgzLDE5Mj
+U0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3
+NSwtMTUzNTA2NDMzOSwtMTE1NTU0MTgzNiwtMTc0NDA1MDgxOS
+w5MzgxMjA3OTQsNDg4NTg1NDI0LDIxMzM0MjAyMDcsLTgzNTg3
+ODUyNV19
 -->
