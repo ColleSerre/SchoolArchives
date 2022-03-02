@@ -727,13 +727,15 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 **Gorbachev:** Afghanistan is a "bleeding wound", gave an extra year before withdrawl (eventually in 1989)
 **Talibans:** extremist sunni islam organisation, does not seek to commit terrorism outside of Afghan borders (national movement) 
 **Blowback:** unforeseen consequence of an action
+**Al-Qaeda:** new concept for an organisation: trans-national jihad campaign
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzQyNDc5NywxNTg0MTIxMzMwLDE4NT
-cwMjQ3MDcsNzc5MDMxMzI4LDIxMDEzMzY1OTgsOTM0MDkxMDc4
-LC0yMDkyNzU4OTUyLC01MDM1NzMzMzcsLTEwNzYwMTIyMyw0Mz
-cxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1ODMsMTkyNTQxMDg2
-MSw1NDUzNjEzNywtMjA0NTM2NTIxNSwtODA4NDk1Njc1LC0xNT
-M1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LDkzODEy
-MDc5NF19
+eyJoaXN0b3J5IjpbMTg3MDUzODA0OCwtODM3NDI0Nzk3LDE1OD
+QxMjEzMzAsMTg1NzAyNDcwNyw3NzkwMzEzMjgsMjEwMTMzNjU5
+OCw5MzQwOTEwNzgsLTIwOTI3NTg5NTIsLTUwMzU3MzMzNywtMT
+A3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4
+MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMDQ1MzY1MjE1LC04MD
+g0OTU2NzUsLTE1MzUwNjQzMzksLTExNTU1NDE4MzYsLTE3NDQw
+NTA4MTldfQ==
 -->
