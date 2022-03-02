@@ -725,11 +725,11 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 ### From mujahideen to Talibans and Al-Qaeda (freedom fighters or terrorists ?)
 
 **Gorbachev:** Afghanistan is a "bleeding wound", gave an extra year before withdrawl (eventually in 1989)
-**Talibans:** extremist sunni islam organisation, d 
+**Talibans:** extremist sunni islam organisation, does not seek to commit terrorism outside of Afghan borders (national movement) 
 **Blowback:** unforeseen consequence of an action
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzQyNTkwNiwxNTg0MTIxMzMwLDE4NT
+eyJoaXN0b3J5IjpbLTgzNzQyNDc5NywxNTg0MTIxMzMwLDE4NT
 cwMjQ3MDcsNzc5MDMxMzI4LDIxMDEzMzY1OTgsOTM0MDkxMDc4
 LC0yMDkyNzU4OTUyLC01MDM1NzMzMzcsLTEwNzYwMTIyMyw0Mz
 cxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1ODMsMTkyNTQxMDg2
