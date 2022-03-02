@@ -725,13 +725,13 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 ### From mujahideen to Talibans and Al-Qaeda (freedom fighters or terrorists ?)
 
 **Gorbachev:** Afghanistan is a "bleeding wound", gave an extra year before withdrawl (eventually in 1989)
-**Talibans:** students
+**Talibans:** students, , 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MDMxMzI4LDIxMDEzMzY1OTgsOTM0MD
-kxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMzMzcsLTEwNzYwMTIy
-Myw0MzcxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1ODMsMTkyNT
-QxMDg2MSw1NDUzNjEzNywtMjA0NTM2NTIxNSwtODA4NDk1Njc1
-LC0xNTM1MDY0MzM5LC0xMTU1NTQxODM2LC0xNzQ0MDUwODE5LD
-kzODEyMDc5NCw0ODg1ODU0MjQsMjEzMzQyMDIwNywtODM1ODc4
-NTI1XX0=
+eyJoaXN0b3J5IjpbMTkxMjQ4NjcxMiw3NzkwMzEzMjgsMjEwMT
+MzNjU5OCw5MzQwOTEwNzgsLTIwOTI3NTg5NTIsLTUwMzU3MzMz
+NywtMTA3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1MzQsLTY0MT
+QyMTU4MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMDQ1MzY1MjE1
+LC04MDg0OTU2NzUsLTE1MzUwNjQzMzksLTExNTU1NDE4MzYsLT
+E3NDQwNTA4MTksOTM4MTIwNzk0LDQ4ODU4NTQyNCwyMTMzNDIw
+MjA3XX0=
 -->
