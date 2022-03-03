@@ -730,8 +730,10 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 **Al-Qaeda:** new concept for an organisation: trans-national jihad campaign, wanted an international conflict between believers and non-believers (it's argued that he was successful in this --> "war on terror")
 
 ### China & Deng Xiaoping
+
+**turns back on Mao's legacy**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzQzMjYwMSwxODc3NDgzMDAyLC03Nj
+eyJoaXN0b3J5IjpbMTIzNjM2OTkwMywxODc3NDgzMDAyLC03Nj
 E0NzY0NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5
 NywxNTg0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4LDIxMD
 EzMzY1OTgsOTM0MDkxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMz
