@@ -737,12 +737,13 @@ ideological purity v. pragmatism
 "let a part of the population get rich first" - Deng Xiaoping
 **Four modernizations: agriculture, industry, science & tech, defense**
 
+**SEZ:** Special economic zones, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTI3MTE1NywzODA1Njg4NjYsMTg3Nz
-Q4MzAwMiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4
-LC04Mzc0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OT
-AzMTMyOCwyMTAxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1
-MiwtNTAzNTczMzM3LC0xMDc2MDEyMjMsNDM3MTk2OTQ4LDk2Nj
-MxMzUzNCwtNjQxNDIxNTgzLDE5MjU0MTA4NjEsNTQ1MzYxMzdd
-fQ==
+eyJoaXN0b3J5IjpbNDg4ODE0MTM0LC00MzUyNzExNTcsMzgwNT
+Y4ODY2LDE4Nzc0ODMwMDIsLTc2MTQ3NjQ3Niw1Mzk3Mjk2MjMs
+MTg3MDUzODA0OCwtODM3NDI0Nzk3LDE1ODQxMjEzMzAsMTg1Nz
+AyNDcwNyw3NzkwMzEzMjgsMjEwMTMzNjU5OCw5MzQwOTEwNzgs
+LTIwOTI3NTg5NTIsLTUwMzU3MzMzNywtMTA3NjAxMjIzLDQzNz
+E5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4MywxOTI1NDEwODYx
+XX0=
 -->
