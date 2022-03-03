@@ -734,13 +734,14 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 **turns back on Mao's legacy:** opening up the economy but not the political system, westernisation of exports
 "better red than expert" v. "“No matter if it is a white cat or a black cat; as long as it can catch mice, it is a good cat."
 ideological purity v. pragmatism
-"let a part of the population get rich first" - Deng Xiaoping 
+"let a part of the population get rich first" - Deng Xiaoping
+**Four modernizations: agriculture, industry,**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNTY4ODY2LDE4Nzc0ODMwMDIsLTc2MT
-Q3NjQ3Niw1Mzk3Mjk2MjMsMTg3MDUzODA0OCwtODM3NDI0Nzk3
-LDE1ODQxMjEzMzAsMTg1NzAyNDcwNyw3NzkwMzEzMjgsMjEwMT
-MzNjU5OCw5MzQwOTEwNzgsLTIwOTI3NTg5NTIsLTUwMzU3MzMz
-NywtMTA3NjAxMjIzLDQzNzE5Njk0OCw5NjYzMTM1MzQsLTY0MT
-QyMTU4MywxOTI1NDEwODYxLDU0NTM2MTM3LC0yMDQ1MzY1MjE1
-XX0=
+eyJoaXN0b3J5IjpbMTUwODcyMTcyNSwzODA1Njg4NjYsMTg3Nz
+Q4MzAwMiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4
+LC04Mzc0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OT
+AzMTMyOCwyMTAxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1
+MiwtNTAzNTczMzM3LC0xMDc2MDEyMjMsNDM3MTk2OTQ4LDk2Nj
+MxMzUzNCwtNjQxNDIxNTgzLDE5MjU0MTA4NjEsNTQ1MzYxMzdd
+fQ==
 -->
