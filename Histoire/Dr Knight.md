@@ -735,9 +735,10 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 "better red than expert" v. "“No matter if it is a white cat or a black cat; as long as it can catch mice, it is a good cat."
 ideological purity v. pragmatism
 "let a part of the population get rich first" - Deng Xiaoping
-**Four modernizations: agriculture, industry,**
+**Four modernizations: agriculture, industry, science & tech, defense**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODcyMTcyNSwzODA1Njg4NjYsMTg3Nz
+eyJoaXN0b3J5IjpbLTQzNTI3MTE1NywzODA1Njg4NjYsMTg3Nz
 Q4MzAwMiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4
 LC04Mzc0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OT
 AzMTMyOCwyMTAxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1
