@@ -731,13 +731,13 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 
 ### China & Deng Xiaoping
 
-**turns back on Mao's legacy**
+**turns back on Mao's legacy:** opening up the economy but not the political system, we
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjM2OTkwMywxODc3NDgzMDAyLC03Nj
-E0NzY0NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5
-NywxNTg0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4LDIxMD
-EzMzY1OTgsOTM0MDkxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMz
-MzcsLTEwNzYwMTIyMyw0MzcxOTY5NDgsOTY2MzEzNTM0LC02ND
-E0MjE1ODMsMTkyNTQxMDg2MSw1NDUzNjEzNywtMjA0NTM2NTIx
-NV19
+eyJoaXN0b3J5IjpbLTE3MDE1NDIwNjYsMTg3NzQ4MzAwMiwtNz
+YxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4LC04Mzc0MjQ3
+OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OTAzMTMyOCwyMT
+AxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1MiwtNTAzNTcz
+MzM3LC0xMDc2MDEyMjMsNDM3MTk2OTQ4LDk2NjMxMzUzNCwtNj
+QxNDIxNTgzLDE5MjU0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUy
+MTVdfQ==
 -->
