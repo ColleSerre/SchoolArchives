@@ -728,12 +728,14 @@ CIA sent stinger missiles to mujahideen (Lithuania is currently sending the same
 **Talibans:** extremist sunni islam organisation, does not seek to commit terrorism outside of Afghan borders (national movement) 
 **Blowback:** unforeseen consequence of an action
 **Al-Qaeda:** new concept for an organisation: trans-national jihad campaign, wanted an international conflict between believers and non-believers (it's argued that he was successful in this --> "war on terror")
+
+### China & Deng Xiaoping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzQ4MzAwMiwtNzYxNDc2NDc2LDUzOT
-cyOTYyMywxODcwNTM4MDQ4LC04Mzc0MjQ3OTcsMTU4NDEyMTMz
-MCwxODU3MDI0NzA3LDc3OTAzMTMyOCwyMTAxMzM2NTk4LDkzND
-A5MTA3OCwtMjA5Mjc1ODk1MiwtNTAzNTczMzM3LC0xMDc2MDEy
-MjMsNDM3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxNDIxNTgzLDE5Mj
-U0MTA4NjEsNTQ1MzYxMzcsLTIwNDUzNjUyMTUsLTgwODQ5NTY3
+eyJoaXN0b3J5IjpbLTk0NzQzMjYwMSwxODc3NDgzMDAyLC03Nj
+E0NzY0NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5
+NywxNTg0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4LDIxMD
+EzMzY1OTgsOTM0MDkxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMz
+MzcsLTEwNzYwMTIyMyw0MzcxOTY5NDgsOTY2MzEzNTM0LC02ND
+E0MjE1ODMsMTkyNTQxMDg2MSw1NDUzNjEzNywtMjA0NTM2NTIx
 NV19
 -->
