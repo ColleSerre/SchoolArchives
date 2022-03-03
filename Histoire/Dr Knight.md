@@ -737,13 +737,13 @@ ideological purity v. pragmatism
 "let a part of the population get rich first" - Deng Xiaoping
 **Four modernizations: agriculture, industry, science & tech, defense**
 
-**SEZ:** Special economic zones, 
+**SEZ (Special economic zones):** tax incentives & local autonomy to attract foreign investment, foreign investment & foreign ownership permitted, cheap labor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4ODE0MTM0LC00MzUyNzExNTcsMzgwNT
-Y4ODY2LDE4Nzc0ODMwMDIsLTc2MTQ3NjQ3Niw1Mzk3Mjk2MjMs
-MTg3MDUzODA0OCwtODM3NDI0Nzk3LDE1ODQxMjEzMzAsMTg1Nz
-AyNDcwNyw3NzkwMzEzMjgsMjEwMTMzNjU5OCw5MzQwOTEwNzgs
-LTIwOTI3NTg5NTIsLTUwMzU3MzMzNywtMTA3NjAxMjIzLDQzNz
-E5Njk0OCw5NjYzMTM1MzQsLTY0MTQyMTU4MywxOTI1NDEwODYx
-XX0=
+eyJoaXN0b3J5IjpbLTExMTMwODk1MTMsLTQzNTI3MTE1NywzOD
+A1Njg4NjYsMTg3NzQ4MzAwMiwtNzYxNDc2NDc2LDUzOTcyOTYy
+MywxODcwNTM4MDQ4LC04Mzc0MjQ3OTcsMTU4NDEyMTMzMCwxOD
+U3MDI0NzA3LDc3OTAzMTMyOCwyMTAxMzM2NTk4LDkzNDA5MTA3
+OCwtMjA5Mjc1ODk1MiwtNTAzNTczMzM3LC0xMDc2MDEyMjMsND
+M3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxNDIxNTgzLDE5MjU0MTA4
+NjFdfQ==
 -->
