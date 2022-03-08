@@ -1,4 +1,4 @@
-# Orale - Daren Palmer
+# Oral - Daren Palmer
 
 Hallo, mein Name ist Daren Palmer. Ich bin in der elften Klasse der Jeannine Manuel High School. Ich lebe seit neun Jahren in Marcq en Baroeul. Mein Haus ist schön, weil es mir erlaubt, ein Zimmer zu haben, das groß genug für mich ist. Ich nutze diesen Raum, um zu programmieren und Anwendungen oder Webseiten zu erstellen. Im Moment arbeite ich an einem sozialen Netzwerk und wir suchen nach Investoren. Wenn Sie also Freunde haben, die in diesem Bereich arbeiten, können Sie uns anrufen. Später möchte ich ein Doppelstudium in Informatik und Philosophie machen, denn ich denke, es ist wichtig, beides zu beherrschen, um ein guter Ingenieur zu sein und nicht in die Geldfalle zu tappen. Also, vor kurzem wurde Couscous von der UNO in das "kulturelle Erbe der Menschheit" eingestuft und ich mag dieses Gericht sehr, denn meine Mutter macht es sehr gut, also habe ich beschlossen, Ihnen die Geschichte des Couscous zu präsentieren
 
@@ -18,9 +18,10 @@ Auch wenn er durch François Rabelais oder Alexandre Dumas bekannt war, kam Cous
 
 Abschließend kann man sagen, dass Couscous ein sehr altes Gericht ist, das durch Kriege auf Reisen gegangen ist. Wenn Sie das nächste Mal einen Couscous essen, vergessen Sie nicht, dass Sie damit ein kleines Stück Geschichte essen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE0ODExOTQsMTE3NjE1OTU2MywyNz
-M2Njg1MSwtMzg2NjY1MDY3LC00Njk0OTExOTEsLTU1NzA1MzMy
-NiwzNTgxMTM4OTgsNjkwNTgxNCw5MTA4MTEzNjQsNjI5ODEwMT
-gwLDE3OTIyMjE3MTAsLTE0ODc1ODM5ODcsMTU3NzAzMjI1Mywt
-MTY1MzM0NTc4MywtODY4NjY3NTQzLC0yMTE2NDIxNTc2XX0=
+eyJoaXN0b3J5IjpbNDczMDA3NTIzLC0xMDExNDgxMTk0LDExNz
+YxNTk1NjMsMjczNjY4NTEsLTM4NjY2NTA2NywtNDY5NDkxMTkx
+LC01NTcwNTMzMjYsMzU4MTEzODk4LDY5MDU4MTQsOTEwODExMz
+Y0LDYyOTgxMDE4MCwxNzkyMjIxNzEwLC0xNDg3NTgzOTg3LDE1
+NzcwMzIyNTMsLTE2NTMzNDU3ODMsLTg2ODY2NzU0MywtMjExNj
+QyMTU3Nl19
 -->
