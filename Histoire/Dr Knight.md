@@ -742,12 +742,13 @@ ideological purity v. pragmatism
 ### Origins and evolution of the EU
 
 "We must build a kind of United States of Europe" - Winston Churchill 1946
+Origins: WW2, Benelux Union, Marshall Plan, Western European Union (fear of SU, 1948: Treaty of Brussels)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgwMzk1NywtMTExMzA4OTUxMywtND
-M1MjcxMTU3LDM4MDU2ODg2NiwxODc3NDgzMDAyLC03NjE0NzY0
-NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5NywxNT
-g0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4LDIxMDEzMzY1
-OTgsOTM0MDkxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMzMzcsLT
-EwNzYwMTIyMyw0MzcxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1
-ODNdfQ==
+eyJoaXN0b3J5IjpbNzM0MjAxMDg4LC0xODI4MDM5NTcsLTExMT
+MwODk1MTMsLTQzNTI3MTE1NywzODA1Njg4NjYsMTg3NzQ4MzAw
+MiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4LC04Mz
+c0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OTAzMTMy
+OCwyMTAxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1MiwtNT
+AzNTczMzM3LC0xMDc2MDEyMjMsNDM3MTk2OTQ4LDk2NjMxMzUz
+NF19
 -->
