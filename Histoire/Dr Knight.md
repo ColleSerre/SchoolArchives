@@ -743,13 +743,13 @@ ideological purity v. pragmatism
 
 "We must build a kind of United States of Europe" - Winston Churchill 1946
 Origins: WW2, Benelux Union, Marshall Plan, Western European Union (fear of SU, 1948: Treaty of Brussels)
-German problem: keep Germany weak or organically link (West) German economy to neighbors ?
+German problem: keep Germany weak or organically link (West) German economy to neighbors ? ECSC --> steel production increased by 50% in the next 5 years. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDE1NDA2LC0xODI4MDM5NTcsLTExMT
-MwODk1MTMsLTQzNTI3MTE1NywzODA1Njg4NjYsMTg3NzQ4MzAw
-MiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4LC04Mz
-c0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OTAzMTMy
-OCwyMTAxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1MiwtNT
-AzNTczMzM3LC0xMDc2MDEyMjMsNDM3MTk2OTQ4LDk2NjMxMzUz
-NF19
+eyJoaXN0b3J5IjpbMTc3MDcxOTY5NSwxMDY0MTU0MDYsLTE4Mj
+gwMzk1NywtMTExMzA4OTUxMywtNDM1MjcxMTU3LDM4MDU2ODg2
+NiwxODc3NDgzMDAyLC03NjE0NzY0NzYsNTM5NzI5NjIzLDE4Nz
+A1MzgwNDgsLTgzNzQyNDc5NywxNTg0MTIxMzMwLDE4NTcwMjQ3
+MDcsNzc5MDMxMzI4LDIxMDEzMzY1OTgsOTM0MDkxMDc4LC0yMD
+kyNzU4OTUyLC01MDM1NzMzMzcsLTEwNzYwMTIyMyw0MzcxOTY5
+NDhdfQ==
 -->
