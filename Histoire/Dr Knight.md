@@ -743,8 +743,9 @@ ideological purity v. pragmatism
 
 "We must build a kind of United States of Europe" - Winston Churchill 1946
 Origins: WW2, Benelux Union, Marshall Plan, Western European Union (fear of SU, 1948: Treaty of Brussels)
+German problem: keep Germany weak ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MjAxMDg4LC0xODI4MDM5NTcsLTExMT
+eyJoaXN0b3J5IjpbOTYzMzc2MDE4LC0xODI4MDM5NTcsLTExMT
 MwODk1MTMsLTQzNTI3MTE1NywzODA1Njg4NjYsMTg3NzQ4MzAw
 MiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4LC04Mz
 c0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OTAzMTMy
