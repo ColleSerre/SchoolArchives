@@ -738,12 +738,16 @@ ideological purity v. pragmatism
 **Four modernizations: agriculture, industry, science & tech, defense**
 
 **SEZ (Special economic zones):** tax incentives & local autonomy to attract foreign investment, foreign investment & foreign ownership permitted, cheap labor
+
+### Origins and evolution of the EU
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMwODk1MTMsLTQzNTI3MTE1NywzOD
-A1Njg4NjYsMTg3NzQ4MzAwMiwtNzYxNDc2NDc2LDUzOTcyOTYy
-MywxODcwNTM4MDQ4LC04Mzc0MjQ3OTcsMTU4NDEyMTMzMCwxOD
-U3MDI0NzA3LDc3OTAzMTMyOCwyMTAxMzM2NTk4LDkzNDA5MTA3
-OCwtMjA5Mjc1ODk1MiwtNTAzNTczMzM3LC0xMDc2MDEyMjMsND
-M3MTk2OTQ4LDk2NjMxMzUzNCwtNjQxNDIxNTgzLDE5MjU0MTA4
-NjFdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzIzNjE0NywtMTExMzA4OTUxMywtND
+M1MjcxMTU3LDM4MDU2ODg2NiwxODc3NDgzMDAyLC03NjE0NzY0
+NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5NywxNT
+g0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4LDIxMDEzMzY1
+OTgsOTM0MDkxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMzMzcsLT
+EwNzYwMTIyMyw0MzcxOTY5NDgsOTY2MzEzNTM0LC02NDE0MjE1
+ODNdfQ==
 -->
