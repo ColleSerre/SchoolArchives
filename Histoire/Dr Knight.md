@@ -741,9 +741,9 @@ ideological purity v. pragmatism
 
 ### Origins and evolution of the EU
 
-
+"We must build a kind of United States of Europe" - Winston Churchill 1946
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzIzNjE0NywtMTExMzA4OTUxMywtND
+eyJoaXN0b3J5IjpbLTE4MjgwMzk1NywtMTExMzA4OTUxMywtND
 M1MjcxMTU3LDM4MDU2ODg2NiwxODc3NDgzMDAyLC03NjE0NzY0
 NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5NywxNT
 g0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4LDIxMDEzMzY1
