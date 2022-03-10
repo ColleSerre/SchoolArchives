@@ -747,12 +747,15 @@ German problem: keep Germany weak or organically link (West) German economy to n
 
 **Euro:** Buget deficit max: 3% GDP, inflation within 1.5% of three lowest members, Public debt ratio % of GDP
 
+### End of the cold war & collapse of the soviet bloc
+
+#### Gorbachev's reforms
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDE5NjQzMiwyNjIwMzM3NSwxNzcwNz
-E5Njk1LDEwNjQxNTQwNiwtMTgyODAzOTU3LC0xMTEzMDg5NTEz
-LC00MzUyNzExNTcsMzgwNTY4ODY2LDE4Nzc0ODMwMDIsLTc2MT
-Q3NjQ3Niw1Mzk3Mjk2MjMsMTg3MDUzODA0OCwtODM3NDI0Nzk3
-LDE1ODQxMjEzMzAsMTg1NzAyNDcwNyw3NzkwMzEzMjgsMjEwMT
-MzNjU5OCw5MzQwOTEwNzgsLTIwOTI3NTg5NTIsLTUwMzU3MzMz
-N119
+eyJoaXN0b3J5IjpbLTI0MTY1MzU2MCwxMDEwMTk2NDMyLDI2Mj
+AzMzc1LDE3NzA3MTk2OTUsMTA2NDE1NDA2LC0xODI4MDM5NTcs
+LTExMTMwODk1MTMsLTQzNTI3MTE1NywzODA1Njg4NjYsMTg3Nz
+Q4MzAwMiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxODcwNTM4MDQ4
+LC04Mzc0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0NzA3LDc3OT
+AzMTMyOCwyMTAxMzM2NTk4LDkzNDA5MTA3OCwtMjA5Mjc1ODk1
+Ml19
 -->
