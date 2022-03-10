@@ -745,13 +745,14 @@ ideological purity v. pragmatism
 Origins: WW2, Benelux Union, Marshall Plan, Western European Union (fear of SU, 1948: Treaty of Brussels)
 German problem: keep Germany weak or organically link (West) German economy to neighbors ? ECSC (Treaty of Paris) --> coal and steel production increased by 50% in the next 5 years. 
 
-**Euro:** Buget deficit max: 3% GDP, inflation within 1.5% of three lowest members, Public debt ratio (i.e
+**Euro:** Buget deficit max: 3% GDP, inflation within 1.5% of three lowest members, Public debt ratio % of GDP
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUzNjExMDUsMjYyMDMzNzUsMTc3MD
-cxOTY5NSwxMDY0MTU0MDYsLTE4MjgwMzk1NywtMTExMzA4OTUx
-MywtNDM1MjcxMTU3LDM4MDU2ODg2NiwxODc3NDgzMDAyLC03Nj
-E0NzY0NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5
-NywxNTg0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4LDIxMD
-EzMzY1OTgsOTM0MDkxMDc4LC0yMDkyNzU4OTUyLC01MDM1NzMz
-MzddfQ==
+eyJoaXN0b3J5IjpbMTAxMDE5NjQzMiwyNjIwMzM3NSwxNzcwNz
+E5Njk1LDEwNjQxNTQwNiwtMTgyODAzOTU3LC0xMTEzMDg5NTEz
+LC00MzUyNzExNTcsMzgwNTY4ODY2LDE4Nzc0ODMwMDIsLTc2MT
+Q3NjQ3Niw1Mzk3Mjk2MjMsMTg3MDUzODA0OCwtODM3NDI0Nzk3
+LDE1ODQxMjEzMzAsMTg1NzAyNDcwNyw3NzkwMzEzMjgsMjEwMT
+MzNjU5OCw5MzQwOTEwNzgsLTIwOTI3NTg5NTIsLTUwMzU3MzMz
+N119
 -->
