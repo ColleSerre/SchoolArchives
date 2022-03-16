@@ -752,11 +752,11 @@ German problem: keep Germany weak or organically link (West) German economy to n
 #### Gorbachev's reforms
 
 * Perestroika
-* Glasnost: response to the April 1986 Chernobyl disaster, 
+* Glasnost: response to the April 1986 Chernobyl disaster, and The Gulag Archipelago
 * Democratisation
 * New thinking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzgyNzM3NCwtMjQxNjUzNTYwLDEwMT
+eyJoaXN0b3J5IjpbMTcxMzQ3NTk3OSwtMjQxNjUzNTYwLDEwMT
 AxOTY0MzIsMjYyMDMzNzUsMTc3MDcxOTY5NSwxMDY0MTU0MDYs
 LTE4MjgwMzk1NywtMTExMzA4OTUxMywtNDM1MjcxMTU3LDM4MD
 U2ODg2NiwxODc3NDgzMDAyLC03NjE0NzY0NzYsNTM5NzI5NjIz
