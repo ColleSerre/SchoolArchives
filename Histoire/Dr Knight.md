@@ -756,13 +756,15 @@ German problem: keep Germany weak or organically link (West) German economy to n
 * Democratisation: end of CPSU monopoly in the first congress of people's deputies, abolished reserved seats for communists, Boris Yeltsin was able to leave the Politburo, criticize it, and win in a run for office against the CPSU candidate afterwards (and not die)
 * New thinking
 
-Brezhnev doctrine: 
+Brezhnev doctrine: "None of their decisions should damage either socialism in their country or the fundamental interests of other socialists countries"
+
+Sinatra doctrine (25/10/1989): "Every 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ3MTY2MzgsLTEwMTY4ODg5NCwtNT
-cxMDgwNjMzLDEwMTUzMDMyMjIsLTI0MTY1MzU2MCwxMDEwMTk2
-NDMyLDI2MjAzMzc1LDE3NzA3MTk2OTUsMTA2NDE1NDA2LC0xOD
-I4MDM5NTcsLTExMTMwODk1MTMsLTQzNTI3MTE1NywzODA1Njg4
-NjYsMTg3NzQ4MzAwMiwtNzYxNDc2NDc2LDUzOTcyOTYyMywxOD
-cwNTM4MDQ4LC04Mzc0MjQ3OTcsMTU4NDEyMTMzMCwxODU3MDI0
-NzA3XX0=
+eyJoaXN0b3J5IjpbODA5NDk3NTE2LC0xMDE2ODg4OTQsLTU3MT
+A4MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAsMTAxMDE5NjQz
+MiwyNjIwMzM3NSwxNzcwNzE5Njk1LDEwNjQxNTQwNiwtMTgyOD
+AzOTU3LC0xMTEzMDg5NTEzLC00MzUyNzExNTcsMzgwNTY4ODY2
+LDE4Nzc0ODMwMDIsLTc2MTQ3NjQ3Niw1Mzk3Mjk2MjMsMTg3MD
+UzODA0OCwtODM3NDI0Nzk3LDE1ODQxMjEzMzAsMTg1NzAyNDcw
+N119
 -->
