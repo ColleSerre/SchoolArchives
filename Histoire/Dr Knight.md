@@ -752,15 +752,15 @@ German problem: keep Germany weak or organically link (West) German economy to n
 #### Gorbachev's reforms
 
 * Perestroika
-* Glasnost: 
+* Glasnost: response to the April 1986 Cher
 * Democratisation
 * New thinking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTE2ODk1MiwtMjQxNjUzNTYwLDEwMT
-AxOTY0MzIsMjYyMDMzNzUsMTc3MDcxOTY5NSwxMDY0MTU0MDYs
-LTE4MjgwMzk1NywtMTExMzA4OTUxMywtNDM1MjcxMTU3LDM4MD
-U2ODg2NiwxODc3NDgzMDAyLC03NjE0NzY0NzYsNTM5NzI5NjIz
-LDE4NzA1MzgwNDgsLTgzNzQyNDc5NywxNTg0MTIxMzMwLDE4NT
-cwMjQ3MDcsNzc5MDMxMzI4LDIxMDEzMzY1OTgsOTM0MDkxMDc4
-XX0=
+eyJoaXN0b3J5IjpbOTY0OTI5MjkzLC0yNDE2NTM1NjAsMTAxMD
+E5NjQzMiwyNjIwMzM3NSwxNzcwNzE5Njk1LDEwNjQxNTQwNiwt
+MTgyODAzOTU3LC0xMTEzMDg5NTEzLC00MzUyNzExNTcsMzgwNT
+Y4ODY2LDE4Nzc0ODMwMDIsLTc2MTQ3NjQ3Niw1Mzk3Mjk2MjMs
+MTg3MDUzODA0OCwtODM3NDI0Nzk3LDE1ODQxMjEzMzAsMTg1Nz
+AyNDcwNyw3NzkwMzEzMjgsMjEwMTMzNjU5OCw5MzQwOTEwNzhd
+fQ==
 -->
