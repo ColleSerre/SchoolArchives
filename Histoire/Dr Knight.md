@@ -753,14 +753,14 @@ German problem: keep Germany weak or organically link (West) German economy to n
 
 * Perestroika
 * Glasnost: response to the April 1986 Chernobyl disaster, and The Gulag Archipelago. Example: Wall of Sorrow 
-* Democratisation: abolished reserved seats for communists, , Boris Yeltsin was able to leave the Politburo, criticize it, and win in a run for office against the CPSU candidate afterwards (and not die)
+* Democratisation: end of CPSU monopoly in the fi, abolished reserved seats for communists, Boris Yeltsin was able to leave the Politburo, criticize it, and win in a run for office against the CPSU candidate afterwards (and not die)
 * New thinking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTA4MDYzMywxMDE1MzAzMjIyLC0yND
-E2NTM1NjAsMTAxMDE5NjQzMiwyNjIwMzM3NSwxNzcwNzE5Njk1
-LDEwNjQxNTQwNiwtMTgyODAzOTU3LC0xMTEzMDg5NTEzLC00Mz
-UyNzExNTcsMzgwNTY4ODY2LDE4Nzc0ODMwMDIsLTc2MTQ3NjQ3
-Niw1Mzk3Mjk2MjMsMTg3MDUzODA0OCwtODM3NDI0Nzk3LDE1OD
-QxMjEzMzAsMTg1NzAyNDcwNyw3NzkwMzEzMjgsMjEwMTMzNjU5
-OF19
+eyJoaXN0b3J5IjpbNzIzMDM5MjI0LC01NzEwODA2MzMsMTAxNT
+MwMzIyMiwtMjQxNjUzNTYwLDEwMTAxOTY0MzIsMjYyMDMzNzUs
+MTc3MDcxOTY5NSwxMDY0MTU0MDYsLTE4MjgwMzk1NywtMTExMz
+A4OTUxMywtNDM1MjcxMTU3LDM4MDU2ODg2NiwxODc3NDgzMDAy
+LC03NjE0NzY0NzYsNTM5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNz
+QyNDc5NywxNTg0MTIxMzMwLDE4NTcwMjQ3MDcsNzc5MDMxMzI4
+XX0=
 -->
