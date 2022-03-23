@@ -763,10 +763,10 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 ## 2nd Compos
 
 DBQ Essay (written doc & political cartoon)
-Background knowledge on events and **characters**
+Background knowledge on events and characters and their **purpose**
 OPVL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzQ5ODg1MSwtMTU2NjMwNDk2MiwtMT
+eyJoaXN0b3J5IjpbLTMzMTI5MTgyMCwtMTU2NjMwNDk2MiwtMT
 I3NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2ODg4OTQsLTU3MTA4
 MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAsMTAxMDE5NjQzMi
 wyNjIwMzM3NSwxNzcwNzE5Njk1LDEwNjQxNTQwNiwtMTgyODAz
