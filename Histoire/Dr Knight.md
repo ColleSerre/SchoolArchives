@@ -765,13 +765,13 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 DBQ Essay (written doc & political cartoon)
 Background knowledge on events and characters and their **purpose**
 OPVL
-analysse the impact of natioalism and conflict on the Cold War up to 1970
+Analyse the impact of nationalism and conflict on the Cold War up to 1970
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTU3MTEzMywtMzMxMjkxODIwLC0xNT
-Y2MzA0OTYyLC0xMjc3MTUxNjc0LDE4ODE5NDA0ODMsLTEwMTY4
-ODg5NCwtNTcxMDgwNjMzLDEwMTUzMDMyMjIsLTI0MTY1MzU2MC
-wxMDEwMTk2NDMyLDI2MjAzMzc1LDE3NzA3MTk2OTUsMTA2NDE1
-NDA2LC0xODI4MDM5NTcsLTExMTMwODk1MTMsLTQzNTI3MTE1Ny
-wzODA1Njg4NjYsMTg3NzQ4MzAwMiwtNzYxNDc2NDc2LDUzOTcy
-OTYyM119
+eyJoaXN0b3J5IjpbLTIwMzg3MTY1NDIsMTkwMTU3MTEzMywtMz
+MxMjkxODIwLC0xNTY2MzA0OTYyLC0xMjc3MTUxNjc0LDE4ODE5
+NDA0ODMsLTEwMTY4ODg5NCwtNTcxMDgwNjMzLDEwMTUzMDMyMj
+IsLTI0MTY1MzU2MCwxMDEwMTk2NDMyLDI2MjAzMzc1LDE3NzA3
+MTk2OTUsMTA2NDE1NDA2LC0xODI4MDM5NTcsLTExMTMwODk1MT
+MsLTQzNTI3MTE1NywzODA1Njg4NjYsMTg3NzQ4MzAwMiwtNzYx
+NDc2NDc2XX0=
 -->
