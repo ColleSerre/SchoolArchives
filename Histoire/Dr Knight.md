@@ -759,12 +759,16 @@ German problem: keep Germany weak or organically link (West) German economy to n
 Brezhnev doctrine: "None of their decisions should damage either socialism in their country or the fundamental interests of other socialists countries"
 
 Sinatra doctrine (25/10/1989): "Every country decides on its own which road to take [...] political structures must be decided by the people who live there"
+
+## 2nd Compos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTk0MDQ4MywtMTAxNjg4ODk0LC01Nz
-EwODA2MzMsMTAxNTMwMzIyMiwtMjQxNjUzNTYwLDEwMTAxOTY0
-MzIsMjYyMDMzNzUsMTc3MDcxOTY5NSwxMDY0MTU0MDYsLTE4Mj
-gwMzk1NywtMTExMzA4OTUxMywtNDM1MjcxMTU3LDM4MDU2ODg2
-NiwxODc3NDgzMDAyLC03NjE0NzY0NzYsNTM5NzI5NjIzLDE4Nz
-A1MzgwNDgsLTgzNzQyNDc5NywxNTg0MTIxMzMwLDE4NTcwMjQ3
-MDddfQ==
+eyJoaXN0b3J5IjpbLTEyNzcxNTE2NzQsMTg4MTk0MDQ4MywtMT
+AxNjg4ODk0LC01NzEwODA2MzMsMTAxNTMwMzIyMiwtMjQxNjUz
+NTYwLDEwMTAxOTY0MzIsMjYyMDMzNzUsMTc3MDcxOTY5NSwxMD
+Y0MTU0MDYsLTE4MjgwMzk1NywtMTExMzA4OTUxMywtNDM1Mjcx
+MTU3LDM4MDU2ODg2NiwxODc3NDgzMDAyLC03NjE0NzY0NzYsNT
+M5NzI5NjIzLDE4NzA1MzgwNDgsLTgzNzQyNDc5NywxNTg0MTIx
+MzMwXX0=
 -->
