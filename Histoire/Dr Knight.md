@@ -767,9 +767,9 @@ Background knowledge on events and characters and their **purpose**
 OPVL
 Analyse the impact of nationalism and conflict on the Cold War up to 1970
 
-1.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk5MTc4NTUsMTIyOTkzMTYyNywtMj
+eyJoaXN0b3J5IjpbLTIwMzY3Njg5MzAsMTIyOTkzMTYyNywtMj
 AzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYz
 MDQ5NjIsLTEyNzcxNTE2NzQsMTg4MTk0MDQ4MywtMTAxNjg4OD
 k0LC01NzEwODA2MzMsMTAxNTMwMzIyMiwtMjQxNjUzNTYwLDEw
