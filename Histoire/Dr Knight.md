@@ -766,9 +766,10 @@ DBQ Essay (written doc & political cartoon)
 Background knowledge on events and characters and their **purpose**
 OPVL
 Analyse the impact of nationalism and conflict on the Cold War up to 1970
-Compo oral: 5 minutes to pick subject, 
+Compo oral: 5 minutes to pick subject, pick between two History questions or two Geography questions
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzcwODcwNiwxMjI5OTMxNjI3LC0yMD
+eyJoaXN0b3J5IjpbMTUzNTMxNDc1NCwxMjI5OTMxNjI3LC0yMD
 M4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMw
 NDk2MiwtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2ODg4OT
 QsLTU3MTA4MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAsMTAx
