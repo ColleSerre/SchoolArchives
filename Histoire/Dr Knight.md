@@ -767,16 +767,13 @@ Background knowledge on events and characters and their **purpose**
 OPVL
 Analyse the impact of nationalism and conflict on the Cold War up to 1970
 
-## Civils Rights
-### Brown v. Board of Education 
-
-
+1.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTkzMTYyNywtMjAzODcxNjU0MiwxOT
-AxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYzMDQ5NjIsLTEyNzcx
-NTE2NzQsMTg4MTk0MDQ4MywtMTAxNjg4ODk0LC01NzEwODA2Mz
-MsMTAxNTMwMzIyMiwtMjQxNjUzNTYwLDEwMTAxOTY0MzIsMjYy
-MDMzNzUsMTc3MDcxOTY5NSwxMDY0MTU0MDYsLTE4MjgwMzk1Ny
-wtMTExMzA4OTUxMywtNDM1MjcxMTU3LDM4MDU2ODg2NiwxODc3
-NDgzMDAyXX0=
+eyJoaXN0b3J5IjpbLTE0ODk5MTc4NTUsMTIyOTkzMTYyNywtMj
+AzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYz
+MDQ5NjIsLTEyNzcxNTE2NzQsMTg4MTk0MDQ4MywtMTAxNjg4OD
+k0LC01NzEwODA2MzMsMTAxNTMwMzIyMiwtMjQxNjUzNTYwLDEw
+MTAxOTY0MzIsMjYyMDMzNzUsMTc3MDcxOTY5NSwxMDY0MTU0MD
+YsLTE4MjgwMzk1NywtMTExMzA4OTUxMywtNDM1MjcxMTU3LDM4
+MDU2ODg2Nl19
 -->
