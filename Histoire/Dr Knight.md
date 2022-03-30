@@ -766,14 +766,13 @@ DBQ Essay (written doc & political cartoon)
 Background knowledge on events and characters and their **purpose**
 OPVL
 Analyse the impact of nationalism and conflict on the Cold War up to 1970
-
-
+Compo oral: 5 minutes to pick subject, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY3Njg5MzAsMTIyOTkzMTYyNywtMj
-AzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYz
-MDQ5NjIsLTEyNzcxNTE2NzQsMTg4MTk0MDQ4MywtMTAxNjg4OD
-k0LC01NzEwODA2MzMsMTAxNTMwMzIyMiwtMjQxNjUzNTYwLDEw
-MTAxOTY0MzIsMjYyMDMzNzUsMTc3MDcxOTY5NSwxMDY0MTU0MD
-YsLTE4MjgwMzk1NywtMTExMzA4OTUxMywtNDM1MjcxMTU3LDM4
-MDU2ODg2Nl19
+eyJoaXN0b3J5IjpbLTc1NzcwODcwNiwxMjI5OTMxNjI3LC0yMD
+M4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMw
+NDk2MiwtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2ODg4OT
+QsLTU3MTA4MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAsMTAx
+MDE5NjQzMiwyNjIwMzM3NSwxNzcwNzE5Njk1LDEwNjQxNTQwNi
+wtMTgyODAzOTU3LC0xMTEzMDg5NTEzLC00MzUyNzExNTcsMzgw
+NTY4ODY2XX0=
 -->
