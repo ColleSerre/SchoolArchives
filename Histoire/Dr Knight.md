@@ -769,15 +769,15 @@ Analyse the impact of nationalism and conflict on the Cold War up to 1970
 Oral: 5 minutes to pick subject, pick between two History questions or two Geography questions
 
 1. Suez Crisis
-	1. 
+	1. The US and SU narrative superceded the importance of the more local stakes of the Suez Crisis. This shows that y
 2. Cuban Missile Crisis
 3. Mao's Chine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMD
-g5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0yMDM4NzE2
-NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMwNDk2Mi
-wtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2ODg4OTQsLTU3
-MTA4MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAsMTAxMDE5Nj
-QzMiwyNjIwMzM3NSwxNzcwNzE5Njk1LDEwNjQxNTQwNiwtMTgy
-ODAzOTU3XX0=
+eyJoaXN0b3J5IjpbLTgwMDk4MDUxOSwxNzE2MTU2NzksLTI4Mz
+QzMTQ2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2
+MjcsLTIwMzg3MTY1NDIsMTkwMTU3MTEzMywtMzMxMjkxODIwLC
+0xNTY2MzA0OTYyLC0xMjc3MTUxNjc0LDE4ODE5NDA0ODMsLTEw
+MTY4ODg5NCwtNTcxMDgwNjMzLDEwMTUzMDMyMjIsLTI0MTY1Mz
+U2MCwxMDEwMTk2NDMyLDI2MjAzMzc1LDE3NzA3MTk2OTUsMTA2
+NDE1NDA2XX0=
 -->
