@@ -196,13 +196,15 @@ Annie Leclerc expose sa volonté de trouver une plus grande place à la parole d
 * Le vieux monde se meurt, le nouveau est lentmonde tarde à apparaître, et c'est dans ce clair-obscur que surgissent les monstres. - Gramsci
 * Les philosophes n'ont fait qu'interpréter diversement le monde, ce qui importe, c'est de le changer. - MarxAntonio Gramsci
 
-### Apparences vs Réalité
+#
+## Apparences vs Réalité
 
 * Dans *Le Portrait de Dorain Grey*, Oscar Wilde décrit la vie d'un jeune homme qui fait le voeu de rester à jamais jeune tandis qu'un portrait de lui vieillira à sa place et prendra des signes de vieillesse à chaque action immorale qu'il commetra.
 * Selon que vous serez puissant ou misérable les jugements de cour vous rendront blanc ou noir - Jean de la Fontaine
 * La fleur de l’illusion produit le fruit de la réalité - Paul Claudel
 
-### Amour
+#
+## Amour
 
 Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et non une princesse raffinée)
 
@@ -276,14 +278,16 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * L’homme est né libre, et partout il est dans les fers - *Rousseau*
 * Les gens libres, bien nés et bien éduqués, vivant en bonne compagnie, ont par nature un instinct, un aiguillon qui les pousse toujours à la vertu et les éloigne du vice, qu'ils appelaient honneur. - *Rabelais* Gargantua (des moines de l'abbaye de Thélème)
 
-### Moralité
+#
+## Moralité
 
 * La vraie morale se moque de la morale - Blaise Pascal
 * Dans le dénouement de Médée, Corneille fait dire à Médée, après qu'elle ai tué ses propres enfants, "Mes désirs sont contents. Mon père et mon pays, Je ne me repens plus de vous avoir trahis ; Avec cette douceur j'en accepte le blame". On peut comprendre que même si les actes de Médée ne sont pas moraux, elle se sort de la situation désaventageuse du début de la pièce en étant au dessus de Jason (littéralement car elle s'envole dans un char tiré par deux dragons).
 * Pour Machiavel, qui est ammoral, dans *Le Prince* il faut préférer être craint qu'être aimé. 
 * Prend garde à n'emprunter point le chemin du vice par la voie même qui te semblait vertueuse"
 
-### Connaissance
+#
+## Connaissance
 
 * Connais toi toi même - Sur le fronton du temple d’Apollon
 * Nul ne doit entrer sous mon toit, s'il n'est géomètre - Gravé sur l'école de Platon
@@ -320,7 +324,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Il est souvent préférable d'être très actif plutôt que de penser trop intensément - Louis Bromfield *Mrs Parkington*
 * Agis de façon à ne point rougir de toi-même - Milarepa (moine poète tibétain)
 * Il faut une volonté surhumaine pour écrire et je ne suis qu'un homme - Flaubert
-* « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée nationale
+* « On est ce que l’on dit et parfois, on dit ce que l’on est. » - Eric Dupond-Morreti à Marine Lepen le 10/12 sur le code de justice pénale des mineurs à l’assemblée nNationale
 * Cueille le jour - Horace
 * "Le succès c'est être capable d'aller d'échec en échec sans perdre son enthousiasme." - Winston Churchill
 * Je ne m’étonne jamais de voir des hommes mauvais, mais je m’étonne souvent de ne point les voir honteux - Jonathan Swift
@@ -339,7 +343,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * L'homme est à la mesure de toute chose - Protagoras
 * **"Je n'ai écrit que ce dont j'avais été témoin"** (*La Guerre du Péloponnèse* - Thucydide)
 * Dans le *Théétète* (4ème siècle av-JC), Socrate explique que la parole, que la maïeutique permet à l'homme d'accoucher de lui même de la vérité. "Il ne m'est permis en aucun manière ni d'acquiescer à ce qui est faux ni de cacher ce qui est vrai." "Confie toi à moi comme au fils d'une accoucheuse [...] et quand je te poserais des questions, applique toi pour y répondre de mon mieux" (*Théétète* - Platon). Sa parole fait autorité car elle n'est pas que de lui mais majoritairement de son partenaire de conversation.
-* Bernard Le Bouyer de Fontenelle (1687) - "Assurons nous bien du fait avant de nous inquiéter de la cause." (*Histoire des oracles* - Fontenelle). Frédéric Worms dans *Libération* reprend cette idée - Le discours rationnel n'est pas toujours efficace et peine à lutter contre les rumeurs qui sont rapides et impulsives. Cependant, "il ne faut pas désespérer de la vérité". **N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling**
+* Bernard Le Bouyer de Fontenelle (1687) - "Assurons nous bien du fait avant de nous inquiéter de la cause. (*Histoire des oracles* - Fontenelle). Frédéric Worms dans *Libération* reprend cette idée - Le discours rationnel n'est pas toujours efficace et peine à lutter contre les rumeurs qui sont rapides et impulsives. Cependant, "il ne faut pas désespérer de la vérité". **N'admettez rien à priori si vous pouvez le vérifier - Rudyard Kipling**
 * Conseille de ne pas se reposer sur ses acquis et de réussir à "cultiver l'étonnement". La philosophie se détache des autres sciences car elle ne sert pas la société mais est une fin en elle même. "Apercevoir une difficulté et s'étonner, c'est reconnaitre sa propre ignorance". - Aristote
 * Nous dit de se méfier de toute pensée populaire et de toutes nos habitudes. "L'autorité ne doit jamais être prise sans examen ni discernement" (L'importance de la méthode) - Roger Bacon
 * les grandes âmes se cachent; ordinairement, il ne parait qu'un peu d'originalité. Il y a plus de grandes âmes qu'on ne le croirait. (Lié aux grands discours) - Stendhal
@@ -367,7 +371,8 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * Il se peut que les révolutions soient l'acte par lequel l'humanité qui voyage dans le train tire les freins d'urgence - Walter Benjamin *Thèses sur le concept d'histoire* en reprenant Marx
 * Étymologie de réformer: donner une meilleure forme (corriger, modifier)
 
-### Éloge
+#
+## Éloge
 
 * Comme un soufflé qu'on laisse attendre [l'adulation du public] ne tarde à se dégonfler - Charlie Chaplin
 * "Les grands hommes font leur propre piédestal; l'avenir se charge de la statue" - Victor Hugo *Discours aux funérailles d'Honoré de Balzac*
@@ -389,7 +394,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 ### Crimes contre l'humanité
 
 * Ce qu’il [l'homme blanc, bourgeois et occidental] ne pardonne pas à Hitler, ce n’est pas le crime en soi, le crime contre l’homme, ce n’est pas l’humiliation de l’homme en soi, c’est le crime contre l’homme blanc, c’est l’humiliation de l’homme blanc, et d’avoir appliqué à l’Europe des procédés colonialistes dont ne relevaient jusqu’ici que les Arabes d’Algérie, les coolies de l’Inde et les nègres d’Afrique. - Aimé Césaire *Discours sur le colonialisme*
-* Périssent les colonies plutôt qu’un principe - Robespierre sur l'abolition de l'esclavage et son impact sur l'économie des colonies
+* Périssent les colonies plutôt qu’un principe - Robespierre sur l'abolition de l’esclavage et son impact sur l'économie des colonies
 * Génération Identitaire s'est inspirée du National Socialist Movement (le plus grand groupe néo-nazi aux États-Unis) pour leur opération de communication *Defend Europe*.
 
 ### Fonctions et registres du langage
@@ -400,11 +405,11 @@ Registre épidictique: pointer du doigt quelque chose
 
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzQxNTQ3MiwxOTY2MjUxNDU3LDIwMj
-M4MzQwNCwtOTc0MTk2NjgzLC0xOTY5NDk0NTEsNzk3OTM3NTI1
-LC0xODczMTY5MjM2LDE2ODU5NDAxMTUsLTE0MjI3ODc1MDIsLT
-g4OTI5MTU1MSwxMTA3OTcyMzMsLTEzMDEyODY0OTYsMTk5MTY4
-NzAzNSw0NzM2MTgxNzgsNzc4MDg4NTUyLC0xMDczMTE5NTQ2LD
-E0MTQxMjExMjYsLTE5MjQ0NDQzOTcsLTM3ODAyNjI2MCwtMTUz
-Mjg2NjA1MF19
+eyJoaXN0b3J5IjpbNDM5NDM4Mjk0LDE3NzM0MTU0NzIsMTk2Nj
+I1MTQ1NywyMDIzODM0MDQsLTk3NDE5NjY4MywtMTk2OTQ5NDUx
+LDc5NzkzNzUyNSwtMTg3MzE2OTIzNiwxNjg1OTQwMTE1LC0xND
+IyNzg3NTAyLC04ODkyOTE1NTEsMTEwNzk3MjMzLC0xMzAxMjg2
+NDk2LDE5OTE2ODcwMzUsNDczNjE4MTc4LDc3ODA4ODU1MiwtMT
+A3MzExOTU0NiwxNDE0MTIxMTI2LC0xOTI0NDQ0Mzk3LC0zNzgw
+MjYyNjBdfQ==
 -->
