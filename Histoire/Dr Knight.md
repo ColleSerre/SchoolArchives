@@ -769,13 +769,15 @@ Analyse the impact of nationalism and conflict on the Cold War up to 1970
 Oral: 5 minutes to pick subject, pick between two History questions or two Geography questions
 
 1. Suez Crisis
-2. 
+	1. 
+2. Cuban Missile Crisis
+3. Mao's Chine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzQzMTQ2MSwtMTEwODkxNDQwLC0xNz
-k0NDA4Mjg2LDEyMjk5MzE2MjcsLTIwMzg3MTY1NDIsMTkwMTU3
-MTEzMywtMzMxMjkxODIwLC0xNTY2MzA0OTYyLC0xMjc3MTUxNj
-c0LDE4ODE5NDA0ODMsLTEwMTY4ODg5NCwtNTcxMDgwNjMzLDEw
-MTUzMDMyMjIsLTI0MTY1MzU2MCwxMDEwMTk2NDMyLDI2MjAzMz
-c1LDE3NzA3MTk2OTUsMTA2NDE1NDA2LC0xODI4MDM5NTcsLTEx
-MTMwODk1MTNdfQ==
+eyJoaXN0b3J5IjpbMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMD
+g5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0yMDM4NzE2
+NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMwNDk2Mi
+wtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2ODg4OTQsLTU3
+MTA4MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAsMTAxMDE5Nj
+QzMiwyNjIwMzM3NSwxNzcwNzE5Njk1LDEwNjQxNTQwNiwtMTgy
+ODAzOTU3XX0=
 -->
