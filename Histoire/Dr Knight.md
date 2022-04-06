@@ -779,14 +779,16 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 	* Happened in the context of colonial liberation
 	* National Organisation for Women
 
-**Reproductive rights:** 1960: Contraceptive Pill (illegal in 30 states), 1963: Griswold v. Connectivut: banned the banning of contraception (right to privacy), 
+**Reproductive rights:** 1960: Contraceptive Pill (illegal in 30 states), 1963: Griswold v. Connectivut: banned the banning of contraception (right to privacy)
+
+Opposition from women: they would have to be drafted into the Vietnam war (Tammy Wynette)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMT
-AxOTExNTY5NCw4MDI5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2
-NzksLTI4MzQzMTQ2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LD
-EyMjk5MzE2MjcsLTIwMzg3MTY1NDIsMTkwMTU3MTEzMywtMzMx
-MjkxODIwLC0xNTY2MzA0OTYyLC0xMjc3MTUxNjc0LDE4ODE5ND
-A0ODMsLTEwMTY4ODg5NCwtNTcxMDgwNjMzLDEwMTUzMDMyMjIs
-LTI0MTY1MzU2MF19
+eyJoaXN0b3J5IjpbMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMz
+QyODc5Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMjY1MzI4
+MTY0LDE3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0NDAsLT
+E3OTQ0MDgyODYsMTIyOTkzMTYyNywtMjAzODcxNjU0MiwxOTAx
+NTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYzMDQ5NjIsLTEyNzcxNT
+E2NzQsMTg4MTk0MDQ4MywtMTAxNjg4ODk0LC01NzEwODA2MzMs
+MTAxNTMwMzIyMl19
 -->
