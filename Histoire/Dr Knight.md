@@ -771,8 +771,10 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 	* support for working women
 	* recommended legslation guaranteeing equal pay for equal work, equal job opportunities, and expanded child-care services
 	* "continue their role as wives and mothers while making a maximum contribution to the world around them" --> "double burden"
+* 1963: Equal Pay Act
+* 1964: Civil Rights Act included sex along 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNTEzNjQzLC0xMDE5MTE1Njk0LDgwMj
+eyJoaXN0b3J5IjpbOTEzMDk1ODc1LC0xMDE5MTE1Njk0LDgwMj
 k5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMjgzNDMxNDYx
 LC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkzMTYyNywtMj
 AzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYz
