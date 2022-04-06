@@ -772,15 +772,16 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 	* recommended legslation guaranteeing equal pay for equal work, equal job opportunities, and expanded child-care services
 	* "continue their role as wives and mothers while making a maximum contribution to the world around them" --> "double burden"
 * 1963: Equal Pay Act
-* *The Feminine Mystique* - Betty Friedan
-	* Middle class white women living in s
+* 1963: *The Feminine Mystique* - Betty Friedan
+	* Middle class white women living in suburbs = "comfortable concentration camps"
+	* 
 * 1964: Civil Rights Act included sex along with race and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY5MzcxNzMsLTEwMTkxMTU2OTQsOD
-AyOTk1MzgsLTEyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0
-NjEsLTExMDg5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC
-0yMDM4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2
-NjMwNDk2MiwtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2OD
-g4OTQsLTU3MTA4MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAs
-MTAxMDE5NjQzMl19
+eyJoaXN0b3J5IjpbLTMxMDY2MDM5MSwtMTAxOTExNTY5NCw4MD
+I5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2
+MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLT
+IwMzg3MTY1NDIsMTkwMTU3MTEzMywtMzMxMjkxODIwLC0xNTY2
+MzA0OTYyLC0xMjc3MTUxNjc0LDE4ODE5NDA0ODMsLTEwMTY4OD
+g5NCwtNTcxMDgwNjMzLDEwMTUzMDMyMjIsLTI0MTY1MzU2MCwx
+MDEwMTk2NDMyXX0=
 -->
