@@ -762,17 +762,18 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 
 ## Women's rights
 
-First Wave Feminism: 19th/early 20th century (right to vote, 19th Amendment 1920)
-Second Wave Feminism: 1960s & 1970s (politics/work/family, **labour feminism**, "double day/burden")
+* First Wave Feminism: 19th/early 20th century (right to vote, 19th Amendment 1920)
+* Second Wave Feminism: 1960s & 1970s (politics/work/family, **labour feminism**, "double day/burden" --> workers + mothers (+ taking care of the home, triple burden))
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODIzODA1Niw4MDI5OTUzOCwtMTI2NT
-MyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxNDQw
-LC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLTIwMzg3MTY1NDIsMT
-kwMTU3MTEzMywtMzMxMjkxODIwLC0xNTY2MzA0OTYyLC0xMjc3
-MTUxNjc0LDE4ODE5NDA0ODMsLTEwMTY4ODg5NCwtNTcxMDgwNj
-MzLDEwMTUzMDMyMjIsLTI0MTY1MzU2MCwxMDEwMTk2NDMyLDI2
-MjAzMzc1XX0=
+eyJoaXN0b3J5IjpbLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEyNj
+UzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMDg5MTQ0
+MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0yMDM4NzE2NTQyLD
+E5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMwNDk2MiwtMTI3
+NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2ODg4OTQsLTU3MTA4MD
+YzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAsMTAxMDE5NjQzMiwy
+NjIwMzM3NV19
 -->
