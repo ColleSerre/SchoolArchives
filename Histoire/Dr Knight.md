@@ -772,13 +772,13 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 	* recommended legslation guaranteeing equal pay for equal work, equal job opportunities, and expanded child-care services
 	* "continue their role as wives and mothers while making a maximum contribution to the world around them" --> "double burden"
 * 1963: Equal Pay Act
-* 1964: Civil Rights Act included sex along 
+* 1964: Civil Rights Act included sex along with race and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMDk1ODc1LC0xMDE5MTE1Njk0LDgwMj
-k5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMjgzNDMxNDYx
-LC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkzMTYyNywtMj
-AzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYz
-MDQ5NjIsLTEyNzcxNTE2NzQsMTg4MTk0MDQ4MywtMTAxNjg4OD
-k0LC01NzEwODA2MzMsMTAxNTMwMzIyMiwtMjQxNjUzNTYwLDEw
-MTAxOTY0MzJdfQ==
+eyJoaXN0b3J5IjpbLTE0ODAyOTgxMDcsLTEwMTkxMTU2OTQsOD
+AyOTk1MzgsLTEyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0
+NjEsLTExMDg5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC
+0yMDM4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2
+NjMwNDk2MiwtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0xMDE2OD
+g4OTQsLTU3MTA4MDYzMywxMDE1MzAzMjIyLC0yNDE2NTM1NjAs
+MTAxMDE5NjQzMl19
 -->
