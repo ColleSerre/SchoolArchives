@@ -770,14 +770,13 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 	* pay
 	* support for working women
 	* recommended legslation guaranteeing equal pay for equal work, equal job opportunities, and expanded child-care services
-
-
+	* "continue their role as wives and mothers while making a maximum contribution to the world around them" --> "double burden"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjg0Nzg4MCwtMTAxOTExNTY5NCw4MD
-I5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2
-MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLT
-IwMzg3MTY1NDIsMTkwMTU3MTEzMywtMzMxMjkxODIwLC0xNTY2
-MzA0OTYyLC0xMjc3MTUxNjc0LDE4ODE5NDA0ODMsLTEwMTY4OD
-g5NCwtNTcxMDgwNjMzLDEwMTUzMDMyMjIsLTI0MTY1MzU2MCwx
-MDEwMTk2NDMyXX0=
+eyJoaXN0b3J5IjpbNDIxNTEzNjQzLC0xMDE5MTE1Njk0LDgwMj
+k5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMjgzNDMxNDYx
+LC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkzMTYyNywtMj
+AzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYz
+MDQ5NjIsLTEyNzcxNTE2NzQsMTg4MTk0MDQ4MywtMTAxNjg4OD
+k0LC01NzEwODA2MzMsMTAxNTMwMzIyMiwtMjQxNjUzNTYwLDEw
+MTAxOTY0MzJdfQ==
 -->
