@@ -760,25 +760,16 @@ Brezhnev doctrine: "None of their decisions should damage either socialism in th
 
 Sinatra doctrine (25/10/1989): "Every country decides on its own which road to take [...] political structures must be decided by the people who live there"
 
-## 2nd Compos
+## Women's rights
 
-DBQ Essay (written doc & political cartoon)
-Background knowledge on events and characters and their **purpose**
-OPVL
-Analyse the impact of nationalism and conflict on the Cold War up to 1970
-Oral: 5 minutes to pick subject, pick between two History questions or two Geography questions
 
-1. Suez Crisis
-	* The US and SU narrative superceded the importance of the more local stakes of the Suez Crisis. This shows that nationalist stakes can be integrated in the Cold War
-	* 
-2. Cuban Missile Crisis
-3. Mao's Chine
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUzMjgxNjQsMTcxNjE1Njc5LC0yOD
-M0MzE0NjEsLTExMDg5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMx
-NjI3LC0yMDM4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMC
-wtMTU2NjMwNDk2MiwtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0x
-MDE2ODg4OTQsLTU3MTA4MDYzMywxMDE1MzAzMjIyLC0yNDE2NT
-M1NjAsMTAxMDE5NjQzMiwyNjIwMzM3NSwxNzcwNzE5Njk1LDEw
-NjQxNTQwNl19
+eyJoaXN0b3J5IjpbODAyOTk1MzgsLTEyNjUzMjgxNjQsMTcxNj
+E1Njc5LC0yODM0MzE0NjEsLTExMDg5MTQ0MCwtMTc5NDQwODI4
+NiwxMjI5OTMxNjI3LC0yMDM4NzE2NTQyLDE5MDE1NzExMzMsLT
+MzMTI5MTgyMCwtMTU2NjMwNDk2MiwtMTI3NzE1MTY3NCwxODgx
+OTQwNDgzLC0xMDE2ODg4OTQsLTU3MTA4MDYzMywxMDE1MzAzMj
+IyLC0yNDE2NTM1NjAsMTAxMDE5NjQzMiwyNjIwMzM3NSwxNzcw
+NzE5Njk1XX0=
 -->
