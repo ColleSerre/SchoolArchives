@@ -776,10 +776,11 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 	* Middle class white women living in suburbs = "comfortable concentration camps"
 * 1964: Civil Rights Act included sex along with race
 * Women's liberation & "consciousness-raising"
+	* Happened in the context of colonial liberation
 	* National Organisation for Women
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI0MTgyNDUsLTEwMTkxMTU2OTQsOD
+eyJoaXN0b3J5IjpbLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsOD
 AyOTk1MzgsLTEyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0
 NjEsLTExMDg5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC
 0yMDM4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2
