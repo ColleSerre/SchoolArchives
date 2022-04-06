@@ -770,11 +770,10 @@ Sinatra doctrine (25/10/1989): "Every country decides on its own which road to t
 	* pay
 	* support for working women
 	* recommended legslation guaranteeing equal pay for equal work, equal job opportunities, and expanded child-care services
-	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDU4MDYzOCwtMTAxOTExNTY5NCw4MD
+eyJoaXN0b3J5IjpbMTMxMjg0Nzg4MCwtMTAxOTExNTY5NCw4MD
 I5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2
 MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLT
 IwMzg3MTY1NDIsMTkwMTU3MTEzMywtMzMxMjkxODIwLC0xNTY2
