@@ -810,12 +810,13 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * 1964 Election: LBJ vs. Barry Goldwater (a civil rights act opposer)
 * Won in a landslide, party lost 12 million votes in 4 years 
 * Vietnam war cost him his presidency
+	* credibility gap 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMT
-IwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0Mjgx
-Mjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNi
-wtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2
-NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxND
-QwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLTIwMzg3MTY1NDIs
-MTkwMTU3MTEzM119
+eyJoaXN0b3J5IjpbLTE0NTM2NjIxMTQsMTQ3MzE5NDUwMCwtMT
+ExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1
+NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOT
+ksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4
+MDI5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMT
+Q2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2Mjcs
+LTIwMzg3MTY1NDJdfQ==
 -->
