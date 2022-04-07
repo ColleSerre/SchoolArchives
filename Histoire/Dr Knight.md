@@ -812,12 +812,13 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * Vietnam war cost him his presidency
 	* "credibility gap"
 * Student movements and anti-war protests
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMxNzM2NzEsMTQ3MzE5NDUwMCwtMT
-ExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1
-NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOT
-ksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4
-MDI5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMT
-Q2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2Mjcs
-LTIwMzg3MTY1NDJdfQ==
+eyJoaXN0b3J5IjpbMTkyMTA2Njg5NywxNDczMTk0NTAwLC0xMT
+E0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1
+NDg1NDEsMTQyODEyNzU5Nyw3MDYyNzE3NTUsMTcwMjI5OTE5OS
+wxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0xMDE5MTE1Njk0LDgw
+Mjk5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMjgzNDMxND
+YxLC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkzMTYyNywt
+MjAzODcxNjU0Ml19
 -->
