@@ -794,13 +794,14 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* Pushing for "homophile" marriage
 * Stonewall riots (June 1969)
 	* Police harassment of gay clubs/bars
-	* 
+	* Several people also arrested for not wearing at least three articles of gender-appropriate clothing
+	* 5 days of rioting
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDIyODUsLTEzMjU1NDg1NDEsMTQyOD
-EyNzU5Nyw3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2
-LC0xMzQyODc5Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMj
-Y1MzI4MTY0LDE3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0
-NDAsLTE3OTQ0MDgyODYsMTIyOTkzMTYyNywtMjAzODcxNjU0Mi
-wxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYzMDQ5NjIsLTEy
-NzcxNTE2NzRdfQ==
+eyJoaXN0b3J5IjpbMTUyMzQ5MDc1NCwtMTMyNTU0ODU0MSwxND
+I4MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYz
+MjYsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLT
+EyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMDg5
+MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0yMDM4NzE2NT
+QyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMwNDk2Miwt
+MTI3NzE1MTY3NF19
 -->
