@@ -786,7 +786,7 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 ## Gay rights
 
 * Lower awareness compared to race and sex discrimination
-* 1952: The American Psychiatric Association classifies homosexuality as a sociopathic personality disturbance
+* 1952: The American Psychiatric Association classifies homosexuality as a sociopathic personality disturbance. Removed in 1973 by a vote of 5854 to **3810** (still a large minority)
 * 1953: Executive order (10450) -> banned homosexuals from working for the government (Dwight D. Eisenhower)
 * "Lavender Scare" ("Red Scare" for homosexuals), hunting down of homosexuals in the government because they were believed to be targets for corruption by the SU
 * Homophile movement
@@ -797,13 +797,13 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* Several people also arrested for not wearing at least three articles of gender-appropriate clothing
 	* 5 days of rioting
 * Gay liberation front (GLF): using the same terminology as anti-imperialist/colonialist movements 
-* 
+* Openly vay and lesbian people elected to public office (1974: Kathy Koza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxND
-I4MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYz
-MjYsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLT
-EyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMDg5
-MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0yMDM4NzE2NT
-QyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMwNDk2Miwt
-MTI3NzE1MTY3NF19
+eyJoaXN0b3J5IjpbLTM5NzgyNzE4MiwtNjIyMTYwMjY3LC0xMz
+I1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkx
+OTksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NC
+w4MDI5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQz
+MTQ2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2Mj
+csLTIwMzg3MTY1NDIsMTkwMTU3MTEzMywtMzMxMjkxODIwLC0x
+NTY2MzA0OTYyXX0=
 -->
