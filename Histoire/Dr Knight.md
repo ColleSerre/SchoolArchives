@@ -788,13 +788,16 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * Lower awareness compared to race and sex discrimination
 * 1952: The American Psychiatric Association classifies homosexuality as a sociopathic personality disturbance
 * 1953: Executive order (10450) -> banned homosexuals from working for the government (Dwight D. Eisenhower)
-* "Lavender Scare" ("Red Scare" for homosexuals), hunting down of homosexuals in the government because they were believed to be targets for corruption by the SU 
+* "Lavender Scare" ("Red Scare" for homosexuals), hunting down of homosexuals in the government because they were believed to be targets for corruption by the SU
+* Homophile movement
+	* ONE magazine
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODEyNzU5Nyw3MDYyNzE3NTUsMTcwMj
-I5OTE5OSwxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0xMDE5MTE1
-Njk0LDgwMjk5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMj
-gzNDMxNDYxLC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkz
-MTYyNywtMjAzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4Mj
-AsLTE1NjYzMDQ5NjIsLTEyNzcxNTE2NzQsMTg4MTk0MDQ4Mywt
-MTAxNjg4ODk0XX0=
+eyJoaXN0b3J5IjpbLTEzMjU1NDg1NDEsMTQyODEyNzU5Nyw3MD
+YyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQyODc5
+Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMjY1MzI4MTY0LD
+E3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0NDAsLTE3OTQ0
+MDgyODYsMTIyOTkzMTYyNywtMjAzODcxNjU0MiwxOTAxNTcxMT
+MzLC0zMzEyOTE4MjAsLTE1NjYzMDQ5NjIsLTEyNzcxNTE2NzQs
+MTg4MTk0MDQ4M119
 -->
