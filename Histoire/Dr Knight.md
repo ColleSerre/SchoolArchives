@@ -804,9 +804,12 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 
 ## LBJ & Richard Nixon
 
+### LBJ's Great Society
 
+* 1963: Kennedy assassinated, vice-prez took power
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTIxNzkxMCwtMTExNDYwODU1MywtMT
+eyJoaXN0b3J5IjpbMTk3NTExMzg1NywtMTExNDYwODU1MywtMT
 IwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0Mjgx
 Mjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNi
 wtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2
