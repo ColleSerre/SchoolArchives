@@ -797,14 +797,17 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* Several people also arrested for not wearing at least three articles of gender-appropriate clothing
 	* 5 days of rioting
 * Gay liberation front (GLF): using the same terminology as anti-imperialist/colonialist movements 
-* Openly vay and lesbian people elected to public office (1974: Kathy Kozachenko in Michigan)
+* Openly gay and lesbian people elected to public office
+	* 1974: Kathy Kozachenko in Michigan)
 	* **Harvey Milk:** city supervisor of SF 
+* Gay Liberation to LGBTQ Pride
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTM0NDU4NywtMTIwMzU3NjMxMCwtNj
-IyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2Mjcx
-NzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NC
-wtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2NTMyODE2NCwxNzE2
-MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mj
-g2LDEyMjk5MzE2MjcsLTIwMzg3MTY1NDIsMTkwMTU3MTEzMywt
-MzMxMjkxODIwXX0=
+eyJoaXN0b3J5IjpbLTExMTQ2MDg1NTMsLTEyMDM1NzYzMTAsLT
+YyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4MTI3NTk3LDcwNjI3
+MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMjYsLTEzNDI4Nzk2OD
+QsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEyNjUzMjgxNjQsMTcx
+NjE1Njc5LC0yODM0MzE0NjEsLTExMDg5MTQ0MCwtMTc5NDQwOD
+I4NiwxMjI5OTMxNjI3LC0yMDM4NzE2NTQyLDE5MDE1NzExMzMs
+LTMzMTI5MTgyMF19
 -->
