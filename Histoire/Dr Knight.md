@@ -797,13 +797,14 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* Several people also arrested for not wearing at least three articles of gender-appropriate clothing
 	* 5 days of rioting
 * Gay liberation front (GLF): using the same terminology as anti-imperialist/colonialist movements 
-* Openly vay and lesbian people elected to public office (1974: Kathy Koza
+* Openly vay and lesbian people elected to public office (1974: Kathy Kozachenko in Michigan)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzgyNzE4MiwtNjIyMTYwMjY3LC0xMz
-I1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkx
-OTksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NC
-w4MDI5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQz
-MTQ2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2Mj
-csLTIwMzg3MTY1NDIsMTkwMTU3MTEzMywtMzMxMjkxODIwLC0x
-NTY2MzA0OTYyXX0=
+eyJoaXN0b3J5IjpbLTEyMDM1NzYzMTAsLTYyMjE2MDI2NywtMT
+MyNTU0ODU0MSwxNDI4MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5
+MTk5LDE5OTM3NTYzMjYsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OT
+QsODAyOTk1MzgsLTEyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0
+MzE0NjEsLTExMDg5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNj
+I3LC0yMDM4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwt
+MTU2NjMwNDk2Ml19
 -->
