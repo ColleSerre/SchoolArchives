@@ -791,13 +791,16 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * "Lavender Scare" ("Red Scare" for homosexuals), hunting down of homosexuals in the government because they were believed to be targets for corruption by the SU
 * Homophile movement
 	* ONE magazine
+	* Pushing for "homophile" marriage
+* Stonewall riots (June 1969)
+	* Police harassment of gay clubs/bars
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU1NDg1NDEsMTQyODEyNzU5Nyw3MD
-YyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQyODc5
-Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMjY1MzI4MTY0LD
-E3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0NDAsLTE3OTQ0
-MDgyODYsMTIyOTkzMTYyNywtMjAzODcxNjU0MiwxOTAxNTcxMT
-MzLC0zMzEyOTE4MjAsLTE1NjYzMDQ5NjIsLTEyNzcxNTE2NzQs
-MTg4MTk0MDQ4M119
+eyJoaXN0b3J5IjpbNjkxMDIyODUsLTEzMjU1NDg1NDEsMTQyOD
+EyNzU5Nyw3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2
+LC0xMzQyODc5Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMj
+Y1MzI4MTY0LDE3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0
+NDAsLTE3OTQ0MDgyODYsMTIyOTkzMTYyNywtMjAzODcxNjU0Mi
+wxOTAxNTcxMTMzLC0zMzEyOTE4MjAsLTE1NjYzMDQ5NjIsLTEy
+NzcxNTE2NzRdfQ==
 -->
