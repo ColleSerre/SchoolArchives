@@ -787,13 +787,14 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 
 * Lower awareness compared to race and sex discrimination
 * 1952: The American Psychiatric Association classifies homosexuality as a sociopathic personality disturbance
-* 
+* 1953: Executive order (10450)
+* "Lavender Scare" ~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NTA3NzUyLDcwNjI3MTc1NSwxNzAyMj
-k5MTk5LDE5OTM3NTYzMjYsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2
-OTQsODAyOTk1MzgsLTEyNjUzMjgxNjQsMTcxNjE1Njc5LC0yOD
-M0MzE0NjEsLTExMDg5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMx
-NjI3LC0yMDM4NzE2NTQyLDE5MDE1NzExMzMsLTMzMTI5MTgyMC
-wtMTU2NjMwNDk2MiwtMTI3NzE1MTY3NCwxODgxOTQwNDgzLC0x
-MDE2ODg4OTRdfQ==
+eyJoaXN0b3J5IjpbMTEwNzc0NjY2MCw3MDYyNzE3NTUsMTcwMj
+I5OTE5OSwxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0xMDE5MTE1
+Njk0LDgwMjk5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMj
+gzNDMxNDYxLC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkz
+MTYyNywtMjAzODcxNjU0MiwxOTAxNTcxMTMzLC0zMzEyOTE4Mj
+AsLTE1NjYzMDQ5NjIsLTEyNzcxNTE2NzQsMTg4MTk0MDQ4Mywt
+MTAxNjg4ODk0XX0=
 -->
