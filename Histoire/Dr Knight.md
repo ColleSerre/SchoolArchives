@@ -786,9 +786,9 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 ## Gay rights
 
 * Lower awareness compared to race and sex discrimination
-* 
+* 1952: The APA classifies homosexuality as a sociopathic personality 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDUwNDU0OCw3MDYyNzE3NTUsMTcwMj
+eyJoaXN0b3J5IjpbMTUwMjQzMTk2NCw3MDYyNzE3NTUsMTcwMj
 I5OTE5OSwxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0xMDE5MTE1
 Njk0LDgwMjk5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMj
 gzNDMxNDYxLC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkz
