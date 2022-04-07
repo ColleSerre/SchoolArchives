@@ -800,14 +800,15 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * Openly gay and lesbian people elected to public office
 	* 1974: Kathy Kozachenko in Michigan)
 	* **Harvey Milk:** city supervisor of SF 
-* Gay Liberation to LGBTQ Pride
-	* 
+* Marriage equality (2015)
+
+## LBJ & Richard N
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ2MDg1NTMsLTEyMDM1NzYzMTAsLT
-YyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4MTI3NTk3LDcwNjI3
-MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMjYsLTEzNDI4Nzk2OD
-QsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEyNjUzMjgxNjQsMTcx
-NjE1Njc5LC0yODM0MzE0NjEsLTExMDg5MTQ0MCwtMTc5NDQwOD
-I4NiwxMjI5OTMxNjI3LC0yMDM4NzE2NTQyLDE5MDE1NzExMzMs
-LTMzMTI5MTgyMF19
+eyJoaXN0b3J5IjpbLTEyODAxMTk5MiwtMTExNDYwODU1MywtMT
+IwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0Mjgx
+Mjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNi
+wtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2
+NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxND
+QwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLTIwMzg3MTY1NDIs
+MTkwMTU3MTEzM119
 -->
