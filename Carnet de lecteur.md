@@ -242,6 +242,7 @@ Dulcinée: le terme vient de Don Quixote (ironique car elle est une paysanne et 
 * L'ambition, c'est la richesse des pauvres - Marcel Pagnol 
 * On ne peut mieux vivre qu'en cherchant à devenir meilleur - Socrate
 * Memento Mori - Horace
+* « Sommes-nous donc hypnotisés au point d’accepter le médiocre et le nocif, comme si nous avions perdu la force ou la pénétration nécessaire pour exiger le bon ? » - Rachel Carson, Printemps silencieux, 1962
 
 ### La paix
 
@@ -411,10 +412,10 @@ Fonction phatique (Roland Barthes): la parole qui ne sert qu'à l'interaction so
 Registre épidictique: pointer du doigt quelque chose
 Registre didactique: pour enseigner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODg3MDI0NCwxNTYxNzA2NTUyLC0yMD
-IyMTQ3OTAxLC0xOTY4MDc2MTg4LC0xMzk5OTEwNzUwLC0xNTk5
-NjM3Mzg0LDg4NTY2OTYzOCwzMjA3MzkzMzksLTYyNjg3OTk3MC
-wzMjk0NTExMTAsLTE1ODAwOTQ0MzcsMjAxNjEyMjQ5MSw1NjE5
-NzIxMDUsNTQxMzE0NTE0LDE1NzMwNzE1MjMsNzE3MzEwNjQ5XX
-0=
+eyJoaXN0b3J5IjpbMTY3OTEyNzk4MCwxNDk4ODcwMjQ0LDE1Nj
+E3MDY1NTIsLTIwMjIxNDc5MDEsLTE5NjgwNzYxODgsLTEzOTk5
+MTA3NTAsLTE1OTk2MzczODQsODg1NjY5NjM4LDMyMDczOTMzOS
+wtNjI2ODc5OTcwLDMyOTQ1MTExMCwtMTU4MDA5NDQzNywyMDE2
+MTIyNDkxLDU2MTk3MjEwNSw1NDEzMTQ1MTQsMTU3MzA3MTUyMy
+w3MTczMTA2NDldfQ==
 -->
