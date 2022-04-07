@@ -796,12 +796,13 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* Police harassment of gay clubs/bars
 	* Several people also arrested for not wearing at least three articles of gender-appropriate clothing
 	* 5 days of rioting
+	* GLD 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzQ5MDc1NCwtMTMyNTU0ODU0MSwxND
-I4MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYz
-MjYsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLT
-EyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMDg5
-MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0yMDM4NzE2NT
-QyLDE5MDE1NzExMzMsLTMzMTI5MTgyMCwtMTU2NjMwNDk2Miwt
-MTI3NzE1MTY3NF19
+eyJoaXN0b3J5IjpbLTUwNjQ5MzQzLC0xMzI1NTQ4NTQxLDE0Mj
+gxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMy
+NiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMT
+I2NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkx
+NDQwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLTIwMzg3MTY1ND
+IsMTkwMTU3MTEzMywtMzMxMjkxODIwLC0xNTY2MzA0OTYyLC0x
+Mjc3MTUxNjc0XX0=
 -->
