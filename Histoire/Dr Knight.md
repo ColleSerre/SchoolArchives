@@ -812,13 +812,13 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * Vietnam war cost him his presidency
 	* "credibility gap"
 * Student movements and anti-war protests
-* 
+* Muhammad Ali refused to be drafted (intersection between civil rights and anti-war protests)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTA2Njg5NywxNDczMTk0NTAwLC0xMT
-E0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1
-NDg1NDEsMTQyODEyNzU5Nyw3MDYyNzE3NTUsMTcwMjI5OTE5OS
-wxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0xMDE5MTE1Njk0LDgw
-Mjk5NTM4LC0xMjY1MzI4MTY0LDE3MTYxNTY3OSwtMjgzNDMxND
-YxLC0xMTA4OTE0NDAsLTE3OTQ0MDgyODYsMTIyOTkzMTYyNywt
-MjAzODcxNjU0Ml19
+eyJoaXN0b3J5IjpbNTE5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMT
+Q2MDg1NTMsLTEyMDM1NzYzMTAsLTYyMjE2MDI2NywtMTMyNTU0
+ODU0MSwxNDI4MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LD
+E5OTM3NTYzMjYsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsODAy
+OTk1MzgsLTEyNjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0Nj
+EsLTExMDg5MTQ0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0y
+MDM4NzE2NTQyXX0=
 -->
