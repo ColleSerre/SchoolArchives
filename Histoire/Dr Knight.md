@@ -808,13 +808,14 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 
 * 1963: Kennedy assassinated, vice-prez took power
 * 1964 Election: LBJ vs. Barry Goldwater (a civil rights act opposer)
-* Won in a landslide, lost 12 million votes in 4 years 
+* Won in a landslide, party lost 12 million votes in 4 years 
+* Vietnam war cost him his presidency
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYzOTMyNDksLTExMTQ2MDg1NTMsLT
-EyMDM1NzYzMTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4
-MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMj
-YsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEy
-NjUzMjgxNjQsMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMDg5MT
-Q0MCwtMTc5NDQwODI4NiwxMjI5OTMxNjI3LC0yMDM4NzE2NTQy
-LDE5MDE1NzExMzNdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMT
+IwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0Mjgx
+Mjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNi
+wtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2
+NTMyODE2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxND
+QwLC0xNzk0NDA4Mjg2LDEyMjk5MzE2MjcsLTIwMzg3MTY1NDIs
+MTkwMTU3MTEzM119
 -->
