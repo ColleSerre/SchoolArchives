@@ -822,13 +822,14 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* Major CBS newscaster: "most certain that ever that the bloody experience of Vietnam is to end in a stalemate"
 * **My Lai Massacre:** U.S. Army soldiers killed between 347 and 504 unarmed men, women, and children in South Vietnam
 * The treatment of the civil unrest in response to the war discredited the DNP
-* 
+
+### Assassination of MLK & RFK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczODY1MjEwLC0zNDI2OTAwODgsNTE5OT
-A5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1NzYz
-MTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4MTI3NTk3LD
-cwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMjYsLTEzNDI4
-Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEyNjUzMjgxNj
-QsMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMDg5MTQ0MCwtMTc5
-NDQwODI4Nl19
+eyJoaXN0b3J5IjpbMTI0NDk1Mjg0OSwtMzQyNjkwMDg4LDUxOT
+kwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2
+MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Ny
+w3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQy
+ODc5Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMjY1MzI4MT
+Y0LDE3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0NDAsLTE3
+OTQ0MDgyODZdfQ==
 -->
