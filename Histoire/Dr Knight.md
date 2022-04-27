@@ -823,9 +823,11 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * **My Lai Massacre:** U.S. Army soldiers killed between 347 and 504 unarmed men, women, and children in South Vietnam
 * The treatment of the civil unrest in response to the war discredited the DNP
 
-### Assassination of MLK & RFK
+### 1968 Election: Richard M. Nixon
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDk1Mjg0OSwtMzQyNjkwMDg4LDUxOT
+eyJoaXN0b3J5IjpbMTc4OTM1NjkxNiwtMzQyNjkwMDg4LDUxOT
 kwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2
 MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Ny
 w3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQy
