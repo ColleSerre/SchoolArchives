@@ -813,12 +813,14 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* "credibility gap"
 * Student movements and anti-war protests
 * 1967: Muhammad Ali refused to be drafted (intersection between civil rights and anti-war protests)
+
+Fundemental change in Americcan politics: Democrat gov to Republican gov
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3Mz
-E5NDUwMCwtMTExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYw
-MjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LD
-E3MDIyOTkxOTksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAx
-OTExNTY5NCw4MDI5OTUzOCwtMTI2NTMyODE2NCwxNzE2MTU2Nz
-ksLTI4MzQzMTQ2MSwtMTEwODkxNDQwLC0xNzk0NDA4Mjg2LDEy
-Mjk5MzE2MjddfQ==
+eyJoaXN0b3J5IjpbMTY5ODc4Mzg5NywtMzQyNjkwMDg4LDUxOT
+kwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2
+MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Ny
+w3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQy
+ODc5Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMjY1MzI4MT
+Y0LDE3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0NDAsLTE3
+OTQ0MDgyODZdfQ==
 -->
