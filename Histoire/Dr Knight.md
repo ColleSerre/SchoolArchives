@@ -825,9 +825,13 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 
 ### 1968 Election: Richard M. Nixon
 
-The Republicans weren't popular in the South because Lincoln emancipated the slaves. However, the New Deal, Roosevelt, Johnson, promote a socially progressive agenda. 
+The Republicans weren't popular in the South because Lincoln emancipated the slaves. However, the New Deal, Roosevelt, Johnson, promote a socially progressive agenda. Who would conservative southerners vote for then ?
+
+**"Southern Strategy"**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Njc1MTIwNywtMzQyNjkwMDg4LDUxOT
+eyJoaXN0b3J5IjpbLTg4NDk0Mjk3MywtMzQyNjkwMDg4LDUxOT
 kwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2
 MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Ny
 w3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQy
