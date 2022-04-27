@@ -813,10 +813,9 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* "credibility gap"
 * Student movements and anti-war protests
 * 1967: Muhammad Ali refused to be drafted (intersection between civil rights and anti-war protests)
-
-Fundemental change in Americcan politics: Democrat gov to Republican gov
+* Fundemental change in American politics: Democrat gov to Republican gov, the vietnam war completely changed the popular opinion (LBJ didn't even run for another term, hadn't happened unless 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODc4Mzg5NywtMzQyNjkwMDg4LDUxOT
+eyJoaXN0b3J5IjpbMTMyNTIyODQ5MywtMzQyNjkwMDg4LDUxOT
 kwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2
 MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Ny
 w3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQy
