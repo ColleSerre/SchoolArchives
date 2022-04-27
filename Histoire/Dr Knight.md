@@ -829,13 +829,13 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 
 **"Southern Strategy"**
 
-* George Wallace, radicalized 
+* George Wallace, white supremacist and pro-segregation, stole a lot of votes in the South from the Democrats. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5OTcxODE5LC0zNDI2OTAwODgsNTE5OT
-A5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1NzYz
-MTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4MTI3NTk3LD
-cwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMjYsLTEzNDI4
-Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEyNjUzMjgxNj
-QsMTcxNjE1Njc5LC0yODM0MzE0NjEsLTExMDg5MTQ0MCwtMTc5
-NDQwODI4Nl19
+eyJoaXN0b3J5IjpbLTEzNDIzNzM1ODYsLTM0MjY5MDA4OCw1MT
+k5MDkzODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMTIwMzU3
+NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OT
+csNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNiwtMTM0
+Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2NTMyOD
+E2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxNDQwLC0x
+Nzk0NDA4Mjg2XX0=
 -->
