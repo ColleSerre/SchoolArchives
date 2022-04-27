@@ -829,9 +829,9 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 
 **"Southern Strategy"**
 
-* 
+* George Wallace, radicalized 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTY4MDUxLC0zNDI2OTAwODgsNTE5OT
+eyJoaXN0b3J5IjpbMjI5OTcxODE5LC0zNDI2OTAwODgsNTE5OT
 A5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1NzYz
 MTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4MTI3NTk3LD
 cwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMjYsLTEzNDI4
