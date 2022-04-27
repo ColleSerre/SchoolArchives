@@ -818,15 +818,16 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 	* NV and VC massive attack (provincial capitals + parts of Saigon captured) **US Embassy penetrated**
 	* Massive casualties for VC and NV (24k killed)
 	* Who's defeat was it ?
-	* +206k soldiers requested, debate: can this be won or will it end in a stalemate ?
+	* +206k soldiers requested, debate: what to do with the war ? Elections are coming up and it's unpopular
+	* Major CBS newscaster: "most certain that ever that the bloody experience of Vietnam is to end in a stalemate"
 * **My Lai Massacre:**
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYxMzY0MjYsLTM0MjY5MDA4OCw1MT
-k5MDkzODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMTIwMzU3
-NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OT
-csNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNiwtMTM0
-Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2NTMyOD
-E2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxNDQwLC0x
-Nzk0NDA4Mjg2XX0=
+eyJoaXN0b3J5IjpbLTM5MDIzNjYzNywtMzQyNjkwMDg4LDUxOT
+kwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2
+MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Ny
+w3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQy
+ODc5Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMjY1MzI4MT
+Y0LDE3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0NDAsLTE3
+OTQ0MDgyODZdfQ==
 -->
