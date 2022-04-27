@@ -814,13 +814,13 @@ Opposition from women: they would have to be drafted into the Vietnam war (Tammy
 * Student movements and anti-war protests
 * 1967: Muhammad Ali refused to be drafted (intersection between civil rights and anti-war protests)
 * Fundemental change in American politics: Democrat gov to Republican gov, the vietnam war completely changed the popular opinion (LBJ didn't even run for another term, **hadn't happened before** unless the president was incapable physiologically)
-* 
+* **TET Offensive & My Lai massacre:** NV and VC massive attack (provincial capitals + parts of Saigon captured)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODg1NTE0MiwtMzQyNjkwMDg4LDUxOT
-kwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2
-MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Ny
-w3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQy
-ODc5Njg0LC0xMDE5MTE1Njk0LDgwMjk5NTM4LC0xMjY1MzI4MT
-Y0LDE3MTYxNTY3OSwtMjgzNDMxNDYxLC0xMTA4OTE0NDAsLTE3
-OTQ0MDgyODZdfQ==
+eyJoaXN0b3J5IjpbLTE4MDU5MDQ5MDUsLTM0MjY5MDA4OCw1MT
+k5MDkzODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMTIwMzU3
+NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OT
+csNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNiwtMTM0
+Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2NTMyOD
+E2NCwxNzE2MTU2NzksLTI4MzQzMTQ2MSwtMTEwODkxNDQwLC0x
+Nzk0NDA4Mjg2XX0=
 -->
