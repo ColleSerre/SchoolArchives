@@ -858,11 +858,12 @@ Social: Family values, "white backlash"
 Geopolitical: Cold war "warrior"
 
 **Trickle down economics**
-* cutting taxes for the wealthy -> spend more, invest more = more jobs (reduced government spending)
+* Cutting taxes for the wealthy -> spend more, invest more = more jobs (reduced government spending)
+	* "The right to earn what you keep and keep what you earn"
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTYyOTkwNCwxOTYyMjYyMDE1LC05MT
+eyJoaXN0b3J5IjpbMTA5NzQ3OTg4NSwxOTYyMjYyMDE1LC05MT
 YxNDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4OTI0
 MSwxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAwODgsNT
 E5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1
