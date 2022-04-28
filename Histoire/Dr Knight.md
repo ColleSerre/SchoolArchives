@@ -860,10 +860,14 @@ Geopolitical: Cold war "warrior"
 **Trickle down economics**
 * Cutting taxes for the wealthy -> spend more, invest more = more jobs (reduced government spending)
 	* "The right to earn what you keep and keep what you earn"
-* 
+* Lowered taxes
+	* 1981: Economic Recovery Tax
+	* 1986: Tax Reformm Act
+* 1981: Air traffic controllers strike
+	* Reagan fired 11k controllers
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzQ3OTg4NSwxOTYyMjYyMDE1LC05MT
+eyJoaXN0b3J5IjpbMTk5NzcxNzU4MiwxOTYyMjYyMDE1LC05MT
 YxNDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4OTI0
 MSwxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAwODgsNT
 E5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1
