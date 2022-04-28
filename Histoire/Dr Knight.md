@@ -871,8 +871,10 @@ Geopolitical: Cold war "warrior"
 * "Born again Christians"
 * Televangelism
 
+**Moral majority: "pro-life pro-family pro-moral and pro-america" -> 2-3 million votes
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTk0NzE2NSwxOTYyMjYyMDE1LC05MT
+eyJoaXN0b3J5IjpbLTE0NDY0NzM4OSwxOTYyMjYyMDE1LC05MT
 YxNDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4OTI0
 MSwxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAwODgsNT
 E5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1
