@@ -846,13 +846,14 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 ### 1970s Ford & Carter: Economic stagnation 
 
 * **1971: first export trade deficit**
-* 
+* Increased competition from Japan, South Korea, Taiwan
+* 1973 & 1979: Oil shocks -> a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxNzY0MDQ3LDI3NTg5MTI3NywxODMwNz
-ExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2MCwtMTM0MjM3MzU4
-NiwtMzQyNjkwMDg4LDUxOTkwOTM4MywxNDczMTk0NTAwLC0xMT
-E0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1
-NDg1NDEsMTQyODEyNzU5Nyw3MDYyNzE3NTUsMTcwMjI5OTE5OS
-wxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0xMDE5MTE1Njk0LDgw
-Mjk5NTM4XX0=
+eyJoaXN0b3J5IjpbMjA5NTg1MTM5MiwyNzU4OTEyNzcsMTgzMD
+cxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1
+ODYsLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMT
+ExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1
+NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOT
+ksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4
+MDI5OTUzOF19
 -->
