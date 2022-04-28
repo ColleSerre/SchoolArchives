@@ -841,13 +841,13 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 	* 1968: Richard Nixon, tough on crime + law and order 
 * 1964: Civil rights act, southern white conservatives
 * 1973: Roe v Wade (abortion during first trimester)
-* 
+* Nixon reelected + Watergate = resign
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MT
-E4OTI0MSwxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAw
-ODgsNTE5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLT
-EyMDM1NzYzMTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4
-MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMj
-YsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEy
-NjUzMjgxNjRdfQ==
+eyJoaXN0b3J5IjpbNjc1MjA3NzEwLDI3NTg5MTI3NywxODMwNz
+ExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2MCwtMTM0MjM3MzU4
+NiwtMzQyNjkwMDg4LDUxOTkwOTM4MywxNDczMTk0NTAwLC0xMT
+E0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1
+NDg1NDEsMTQyODEyNzU5Nyw3MDYyNzE3NTUsMTcwMjI5OTE5OS
+wxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0xMDE5MTE1Njk0LDgw
+Mjk5NTM4XX0=
 -->
