@@ -838,9 +838,9 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 * Morally conservative
 * Shift between presidential candidates:
 	* 1964: Barry Goldwater, against the "welfare state" and the New Deal
-	* 1968: 
+	* 1968: Richard Nixon, tough on crime + law and order 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwOTgzODIxLC0xMTkxMTg5MjQxLDEzOT
+eyJoaXN0b3J5IjpbMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOT
 Q1MDIxNjAsLTEzNDIzNzM1ODYsLTM0MjY5MDA4OCw1MTk5MDkz
 ODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMTIwMzU3NjMxMC
 wtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2
