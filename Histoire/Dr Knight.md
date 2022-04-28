@@ -847,9 +847,10 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 
 * **1971: first export trade deficit**
 * Increased competition from Japan, South Korea, Taiwan
-* 1973 & 1979: Oil shocks -> a
+* 1973 & 1979: Oil shocks -> americans bought smaller, more efficient japanese cars (and because of inflation)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTg1MTM5MiwyNzU4OTEyNzcsMTgzMD
+eyJoaXN0b3J5IjpbMTUyNzc2OTE4NCwyNzU4OTEyNzcsMTgzMD
 cxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1
 ODYsLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMT
 ExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1
