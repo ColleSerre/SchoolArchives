@@ -849,12 +849,14 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 * Increased competition from Japan, South Korea, Taiwan
 * 1973 & 1979: Oil shocks -> americans bought smaller, more efficient japanese cars (and because of inflation)
 * Japan's competition is also symbolical because of Pearl Harbor and Hiroshima (we nuked them and 40 years later their economy is doing better than ours)
+
+### Reag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjE0NTU5OSwyNzU4OTEyNzcsMTgzMD
-cxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1
-ODYsLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMT
-ExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1
-NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOT
-ksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4
-MDI5OTUzOF19
+eyJoaXN0b3J5IjpbMTAwODMwOTYwNywtOTE2MTQ1NTk5LDI3NT
+g5MTI3NywxODMwNzExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2
+MCwtMTM0MjM3MzU4NiwtMzQyNjkwMDg4LDUxOTkwOTM4MywxND
+czMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIx
+NjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Nyw3MDYyNzE3NT
+UsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0x
+MDE5MTE1Njk0XX0=
 -->
