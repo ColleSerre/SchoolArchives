@@ -856,12 +856,17 @@ Economic: Anti-union, low taxes, free market
 Political: anti big-gov, deregulation
 Social: Family values, "white backlash"
 Geopolitical: Cold war "warrior"
+
+**Trickle down economics**
+* cutting taxes for the wealthy -> spend more, invest more = more jobs (reduced government spending)
+* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjI2MjAxNSwtOTE2MTQ1NTk5LDI3NT
-g5MTI3NywxODMwNzExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2
-MCwtMTM0MjM3MzU4NiwtMzQyNjkwMDg4LDUxOTkwOTM4MywxND
-czMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIx
-NjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Nyw3MDYyNzE3NT
-UsMTcwMjI5OTE5OSwxOTkzNzU2MzI2LC0xMzQyODc5Njg0LC0x
-MDE5MTE1Njk0XX0=
+eyJoaXN0b3J5IjpbMTU5OTYyOTkwNCwxOTYyMjYyMDE1LC05MT
+YxNDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4OTI0
+MSwxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAwODgsNT
+E5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1
+NzYzMTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4MTI3NT
+k3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMjYsLTEz
+NDI4Nzk2ODRdfQ==
 -->
