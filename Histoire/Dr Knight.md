@@ -850,9 +850,14 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 * 1973 & 1979: Oil shocks -> americans bought smaller, more efficient japanese cars (and because of inflation)
 * Japan's competition is also symbolical because of Pearl Harbor and Hiroshima (we nuked them and 40 years later their economy is doing better than ours)
 
-### Reag
+### Reagan & The New Rihgt
+
+Economic: Anti-union, low taxes, free market
+Political: anti big-gov, deregulation
+Social: Family values, "white backlash"
+Geopolitical: Cold war "warrior"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODMwOTYwNywtOTE2MTQ1NTk5LDI3NT
+eyJoaXN0b3J5IjpbMTk2MjI2MjAxNSwtOTE2MTQ1NTk5LDI3NT
 g5MTI3NywxODMwNzExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2
 MCwtMTM0MjM3MzU4NiwtMzQyNjkwMDg4LDUxOTkwOTM4MywxND
 czMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIx
