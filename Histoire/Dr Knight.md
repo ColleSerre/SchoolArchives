@@ -832,8 +832,11 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 * George Wallace, white supremacist and pro-segregation, stole a lot of votes in the South from the Democrats. 
 * Law and Order
 
+### Counterculture
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzk3NDE1NSwtMTM0MjM3MzU4NiwtMz
+eyJoaXN0b3J5IjpbMTM5NDUwMjE2MCwtMTM0MjM3MzU4NiwtMz
 QyNjkwMDg4LDUxOTkwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4
 NTUzLC0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1ND
 EsMTQyODEyNzU5Nyw3MDYyNzE3NTUsMTcwMjI5OTE5OSwxOTkz
