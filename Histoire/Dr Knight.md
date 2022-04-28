@@ -840,14 +840,14 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 	* 1964: Barry Goldwater, against the "welfare state" and the New Deal
 	* 1968: Richard Nixon, tough on crime + law and order 
 * 1964: Civil rights act, southern white conservatives
-* 1973: Roe v Wade (abortion during first trimester), 
+* 1973: Roe v Wade (abortion during first trimester)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4Mjc1NDUsMTgzMDcxMTMyLC0xMTkxMT
-g5MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1ODYsLTM0MjY5MDA4
-OCw1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMT
-IwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0Mjgx
-Mjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNi
-wtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2
-NTMyODE2NF19
+eyJoaXN0b3J5IjpbMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MT
+E4OTI0MSwxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAw
+ODgsNTE5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLT
+EyMDM1NzYzMTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4
+MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMj
+YsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEy
+NjUzMjgxNjRdfQ==
 -->
