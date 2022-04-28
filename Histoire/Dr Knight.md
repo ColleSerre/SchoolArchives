@@ -846,15 +846,15 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 ### 1970s Ford & Carter: Economic stagnation 
 
 * **1971: first export trade deficit**
-* Increased competition from Japan, South Korea, Taiwan
+* Increased competition from Japan, South Korea, Taiwan (Japan's competition is also symbolical because of Pearl Harbor and Hiroshima (we nuked them and 40 years later
 * 1973 & 1979: Oil shocks -> americans bought smaller, more efficient japanese cars (and because of inflation)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzc2OTE4NCwyNzU4OTEyNzcsMTgzMD
-cxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1
-ODYsLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMT
-ExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1
-NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3MDIyOTkxOT
-ksMTk5Mzc1NjMyNiwtMTM0Mjg3OTY4NCwtMTAxOTExNTY5NCw4
-MDI5OTUzOF19
+eyJoaXN0b3J5IjpbLTEzMjY4MDE0ODksMjc1ODkxMjc3LDE4Mz
+A3MTEzMiwtMTE5MTE4OTI0MSwxMzk0NTAyMTYwLC0xMzQyMzcz
+NTg2LC0zNDI2OTAwODgsNTE5OTA5MzgzLDE0NzMxOTQ1MDAsLT
+ExMTQ2MDg1NTMsLTEyMDM1NzYzMTAsLTYyMjE2MDI2NywtMTMy
+NTU0ODU0MSwxNDI4MTI3NTk3LDcwNjI3MTc1NSwxNzAyMjk5MT
+k5LDE5OTM3NTYzMjYsLTEzNDI4Nzk2ODQsLTEwMTkxMTU2OTQs
+ODAyOTk1MzhdfQ==
 -->
