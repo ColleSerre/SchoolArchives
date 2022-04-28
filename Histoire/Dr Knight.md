@@ -841,9 +841,14 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 	* 1968: Richard Nixon, tough on crime + law and order 
 * 1964: Civil rights act, southern white conservatives
 * 1973: Roe v Wade (abortion during first trimester)
-* Nixon reelected + Watergate = resign
+* Nixon reelected + Watergate = resigned
+
+### 1970s Ford & Carter: Economic stagnation 
+
+* **1971: first export trade deficit**
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MjA3NzEwLDI3NTg5MTI3NywxODMwNz
+eyJoaXN0b3J5IjpbOTQxNzY0MDQ3LDI3NTg5MTI3NywxODMwNz
 ExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2MCwtMTM0MjM3MzU4
 NiwtMzQyNjkwMDg4LDUxOTkwOTM4MywxNDczMTk0NTAwLC0xMT
 E0NjA4NTUzLC0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1
