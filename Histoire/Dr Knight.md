@@ -834,17 +834,17 @@ The Republicans weren't popular in the South because Lincoln emancipated the sla
 
 ### Conservatism in the 60s
 
-* Economically liberal: anti-big-gov, opposed to the New Deal, unregulated economy
+* Economically liberal: anti-big-gov, opposed to the New Deal, unregulated economy (anti-keynsianism)
 * Morally conservative
 * Shift between presidential candidates:
 	* 1964: Barry Goldwater, against the "welfare state" and the New Deal
 	* 1968: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjY3MjI2NCwtMTE5MTE4OTI0MSwxMz
-k0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAwODgsNTE5OTA5
-MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLTEyMDM1NzYzMT
-AsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4MTI3NTk3LDcw
-NjI3MTc1NSwxNzAyMjk5MTk5LDE5OTM3NTYzMjYsLTEzNDI4Nz
-k2ODQsLTEwMTkxMTU2OTQsODAyOTk1MzgsLTEyNjUzMjgxNjQs
-MTcxNjE1Njc5XX0=
+eyJoaXN0b3J5IjpbNzYwOTgzODIxLC0xMTkxMTg5MjQxLDEzOT
+Q1MDIxNjAsLTEzNDIzNzM1ODYsLTM0MjY5MDA4OCw1MTk5MDkz
+ODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMTIwMzU3NjMxMC
+wtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2
+MjcxNzU1LDE3MDIyOTkxOTksMTk5Mzc1NjMyNiwtMTM0Mjg3OT
+Y4NCwtMTAxOTExNTY5NCw4MDI5OTUzOCwtMTI2NTMyODE2NCwx
+NzE2MTU2NzldfQ==
 -->
