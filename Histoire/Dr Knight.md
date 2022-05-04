@@ -879,13 +879,13 @@ Moral majority: "pro-life pro-family pro-moral and pro-america" -> 2-3 million v
 
 SDI (Strategic Defense Initiative) "Star Wars", space was now militerisable, nuclear arms treaty
 
-
+Huge defense spending, supported by Republicans who are traditionally against large gov spending (+taxes)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOT
-Q0NzI0MywtODQ5Nzg3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAx
-NSwtOTE2MTQ1NTk5LDI3NTg5MTI3NywxODMwNzExMzIsLTExOT
-ExODkyNDEsMTM5NDUwMjE2MCwtMTM0MjM3MzU4NiwtMzQyNjkw
-MDg4LDUxOTkwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC
-0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQy
-ODEyNzU5N119
+eyJoaXN0b3J5IjpbMjI4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwND
+I0NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0NjQ3Mzg5
+LDE5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEyNzcsMTgzMD
+cxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1
+ODYsLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMT
+ExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMjY3LC0xMzI1
+NTQ4NTQxXX0=
 -->
