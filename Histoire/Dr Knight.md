@@ -873,13 +873,13 @@ Geopolitical: Cold war "warrior"
 
 Moral majority: "pro-life pro-family pro-moral and pro-america" -> 2-3 million votes (Jerry Falwell)
 
-"School prayers": would blur 
+"School prayers": would blur the question of a state religion and moved the US's posture closer to GB's. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjQ3MzExNSw2MTk0NDcyNDMsLTg0OT
-c4Nzc0MSwtMTQ0NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5
-OSwyNzU4OTEyNzcsMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOT
-Q1MDIxNjAsLTEzNDIzNzM1ODYsLTM0MjY5MDA4OCw1MTk5MDkz
-ODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMTIwMzU3NjMxMC
-wtNjIyMTYwMjY3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2
-MjcxNzU1XX0=
+eyJoaXN0b3J5IjpbMzA0MjQ1MDg1LDYxOTQ0NzI0MywtODQ5Nz
+g3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAxNSwtOTE2MTQ1NTk5
+LDI3NTg5MTI3NywxODMwNzExMzIsLTExOTExODkyNDEsMTM5ND
+UwMjE2MCwtMTM0MjM3MzU4NiwtMzQyNjkwMDg4LDUxOTkwOTM4
+MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC0xMjAzNTc2MzEwLC
+02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQyODEyNzU5Nyw3MDYy
+NzE3NTVdfQ==
 -->
