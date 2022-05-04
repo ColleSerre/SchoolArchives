@@ -875,13 +875,15 @@ Moral majority: "pro-life pro-family pro-moral and pro-america" -> 2-3 million v
 
 "School prayers": would blur the question of a state religion and moved the US's posture closer to GB's. 
 
-Détente, watch slide 41 video
+!Détente, watch slide 41 video
+
+SDI (Strategic Defense Initiative) "Star Wars"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzA2MjU5OCwzMDQyNDUwODUsNjE5ND
-Q3MjQzLC04NDk3ODc3NDEsLTE0NDY0NzM4OSwxOTYyMjYyMDE1
-LC05MTYxNDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MT
-E4OTI0MSwxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAw
-ODgsNTE5OTA5MzgzLDE0NzMxOTQ1MDAsLTExMTQ2MDg1NTMsLT
-EyMDM1NzYzMTAsLTYyMjE2MDI2NywtMTMyNTU0ODU0MSwxNDI4
-MTI3NTk3XX0=
+eyJoaXN0b3J5IjpbLTE0OTQ1ODM5ODksMzA0MjQ1MDg1LDYxOT
+Q0NzI0MywtODQ5Nzg3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAx
+NSwtOTE2MTQ1NTk5LDI3NTg5MTI3NywxODMwNzExMzIsLTExOT
+ExODkyNDEsMTM5NDUwMjE2MCwtMTM0MjM3MzU4NiwtMzQyNjkw
+MDg4LDUxOTkwOTM4MywxNDczMTk0NTAwLC0xMTE0NjA4NTUzLC
+0xMjAzNTc2MzEwLC02MjIxNjAyNjcsLTEzMjU1NDg1NDEsMTQy
+ODEyNzU5N119
 -->
