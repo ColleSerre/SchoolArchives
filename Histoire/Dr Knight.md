@@ -877,9 +877,11 @@ Moral majority: "pro-life pro-family pro-moral and pro-america" -> 2-3 million v
 
 !Détente, watch slide 41 video
 
-SDI (Strategic Defense Initiative) "Star Wars"
+SDI (Strategic Defense Initiative) "Star Wars", space was now militerisable, nuclear arms treaty
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ1ODM5ODksMzA0MjQ1MDg1LDYxOT
+eyJoaXN0b3J5IjpbLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOT
 Q0NzI0MywtODQ5Nzg3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAx
 NSwtOTE2MTQ1NTk5LDI3NTg5MTI3NywxODMwNzExMzIsLTExOT
 ExODkyNDEsMTM5NDUwMjE2MCwtMTM0MjM3MzU4NiwtMzQyNjkw
