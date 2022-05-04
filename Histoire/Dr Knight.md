@@ -871,16 +871,16 @@ Geopolitical: Cold war "warrior"
 * "Born again Christians"
 * Televangelism
 
-Moral majority: "pro-life pro-family pro-moral and pro-america" -> 2-3 million votes
+Moral majority: "pro-life pro-family pro-moral and pro-america" -> 2-3 million votes (Jerry Falwell)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA4Mjg0MTcsLTg0OTc4Nzc0MSwtMT
-Q0NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEy
-NzcsMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLT
-EzNDIzNzM1ODYsLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3MzE5
-NDUwMCwtMTExNDYwODU1MywtMTIwMzU3NjMxMCwtNjIyMTYwMj
-Y3LC0xMzI1NTQ4NTQxLDE0MjgxMjc1OTcsNzA2MjcxNzU1LDE3
-MDIyOTkxOTldfQ==
+eyJoaXN0b3J5IjpbNjE5NDQ3MjQzLC04NDk3ODc3NDEsLTE0ND
+Y0NzM4OSwxOTYyMjYyMDE1LC05MTYxNDU1OTksMjc1ODkxMjc3
+LDE4MzA3MTEzMiwtMTE5MTE4OTI0MSwxMzk0NTAyMTYwLC0xMz
+QyMzczNTg2LC0zNDI2OTAwODgsNTE5OTA5MzgzLDE0NzMxOTQ1
+MDAsLTExMTQ2MDg1NTMsLTEyMDM1NzYzMTAsLTYyMjE2MDI2Ny
+wtMTMyNTU0ODU0MSwxNDI4MTI3NTk3LDcwNjI3MTc1NSwxNzAy
+Mjk5MTk5XX0=
 -->
