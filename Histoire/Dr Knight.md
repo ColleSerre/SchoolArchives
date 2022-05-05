@@ -891,12 +891,16 @@ National Revolution:
 * Work, Family, Fatherland
 
 CNR: Jean Moulin (42-43 unifia les principaux groupes resistants et les FFL de de Gaulle)
+
+**GPRF: Gouvernement provisoire de la République Française**
+
+* November 1942: FFF took command in Morocco and Algeria thanks to US forces which landed in the regioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzY3NzE0OSwtMjExNzE4NzYyNiwtMT
-Q2MTg1MzM2MywtMTYwMTU2Nzc5NSwyMjg1MzEwNTEsLTIwNDI5
-ODk4NDYsMzA0MjQ1MDg1LDYxOTQ0NzI0MywtODQ5Nzg3NzQxLC
-0xNDQ2NDczODksMTk2MjI2MjAxNSwtOTE2MTQ1NTk5LDI3NTg5
-MTI3NywxODMwNzExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2MC
-wtMTM0MjM3MzU4NiwtMzQyNjkwMDg4LDUxOTkwOTM4MywxNDcz
-MTk0NTAwXX0=
+eyJoaXN0b3J5IjpbLTE1NjQ1Mjg0MzQsMTYwMzY3NzE0OSwtMj
+ExNzE4NzYyNiwtMTQ2MTg1MzM2MywtMTYwMTU2Nzc5NSwyMjg1
+MzEwNTEsLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOTQ0NzI0My
+wtODQ5Nzg3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAxNSwtOTE2
+MTQ1NTk5LDI3NTg5MTI3NywxODMwNzExMzIsLTExOTExODkyND
+EsMTM5NDUwMjE2MCwtMTM0MjM3MzU4NiwtMzQyNjkwMDg4LDUx
+OTkwOTM4M119
 -->
