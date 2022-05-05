@@ -885,13 +885,18 @@ Huge defense spending, supported by Republicans who are traditionally against la
 
 **25 June 1940: "Un redressement intellectuel et moral"**
 
-Absolute power to pétain (10 July), Acte 2 Article 2: le Sénat et l'Assemblée sont ajournés (only to be gathered on the Pétain's demand)
+Absolute power to Pétain (10 July), Acte 2 Article 2: le Sénat et l'Assemblée sont ajournés (only to be gathered on the Pétain's demand)
+
+National Revolution:
+* Work, Family, Fatherland
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE4NTMzNjMsLTE2MDE1Njc3OTUsMj
-I4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwNDI0NTA4NSw2MTk0NDcy
-NDMsLTg0OTc4Nzc0MSwtMTQ0NjQ3Mzg5LDE5NjIyNjIwMTUsLT
-kxNjE0NTU5OSwyNzU4OTEyNzcsMTgzMDcxMTMyLC0xMTkxMTg5
-MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1ODYsLTM0MjY5MDA4OC
-w1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMTExNDYwODU1MywtMTIw
-MzU3NjMxMF19
+eyJoaXN0b3J5IjpbLTIxMTcxODc2MjYsLTE0NjE4NTMzNjMsLT
+E2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwNDI0
+NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0NjQ3Mzg5LD
+E5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEyNzcsMTgzMDcx
+MTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEzNDIzNzM1OD
+YsLTM0MjY5MDA4OCw1MTk5MDkzODMsMTQ3MzE5NDUwMCwtMTEx
+NDYwODU1M119
 -->
