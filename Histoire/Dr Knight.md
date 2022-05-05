@@ -894,13 +894,17 @@ CNR: Jean Moulin (42-43 unifia les principaux groupes resistants et les FFL de d
 
 **GPRF: Gouvernement provisoire de la République Française**
 
-* November 1942: FFF took command in Morocco and Algeria thanks to US forces which landed in the regioni
+* November 1942: FFF took command in Algeria thanks to US forces which landed in the regioni
+	* 11 November 1942: Nazis put the whole of France under military occupation
+* June 1943: French Committee of National Liberation formed in Algiers
+	* Provisional government of Free France
+* June 1944: Provisional Government of the French Republic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ1Mjg0MzQsMTYwMzY3NzE0OSwtMj
-ExNzE4NzYyNiwtMTQ2MTg1MzM2MywtMTYwMTU2Nzc5NSwyMjg1
-MzEwNTEsLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOTQ0NzI0My
-wtODQ5Nzg3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAxNSwtOTE2
-MTQ1NTk5LDI3NTg5MTI3NywxODMwNzExMzIsLTExOTExODkyND
-EsMTM5NDUwMjE2MCwtMTM0MjM3MzU4NiwtMzQyNjkwMDg4LDUx
-OTkwOTM4M119
+eyJoaXN0b3J5IjpbLTc0NzczOTk3MiwxNjAzNjc3MTQ5LC0yMT
+E3MTg3NjI2LC0xNDYxODUzMzYzLC0xNjAxNTY3Nzk1LDIyODUz
+MTA1MSwtMjA0Mjk4OTg0NiwzMDQyNDUwODUsNjE5NDQ3MjQzLC
+04NDk3ODc3NDEsLTE0NDY0NzM4OSwxOTYyMjYyMDE1LC05MTYx
+NDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4OTI0MS
+wxMzk0NTAyMTYwLC0xMzQyMzczNTg2LC0zNDI2OTAwODgsNTE5
+OTA5MzgzXX0=
 -->
