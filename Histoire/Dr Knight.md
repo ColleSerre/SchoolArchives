@@ -913,14 +913,15 @@ Most of military leaders in algeria had fought in indochina and some in the suez
 8 May 1945: Sétif and Guelma Massacre while Germany had just surrendered (end of war in Europe)
 31 October 1954: Foundation of the FLN --> independence by internationalising the conflict + "liquidation" of colonialism in Algeria
 Toussaint rouge
-"L'Algérie c'est la France" - François Mitterant
+"L'Algérie c'est la France " + "Des Flandres jusqu'au Congo" - François Mitterant
+13 May: attempted coup demanding the return of de Gaulle 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUwMTk0NDQsOTg4NTMwMTcxLDE5Nj
-Q0Mzc0MDAsLTc0NzczOTk3MiwxNjAzNjc3MTQ5LC0yMTE3MTg3
-NjI2LC0xNDYxODUzMzYzLC0xNjAxNTY3Nzk1LDIyODUzMTA1MS
-wtMjA0Mjk4OTg0NiwzMDQyNDUwODUsNjE5NDQ3MjQzLC04NDk3
-ODc3NDEsLTE0NDY0NzM4OSwxOTYyMjYyMDE1LC05MTYxNDU1OT
-ksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4OTI0MSwxMzk0
-NTAyMTYwXX0=
+eyJoaXN0b3J5IjpbMTI4NTk4MTM3OSw5ODg1MzAxNzEsMTk2ND
+QzNzQwMCwtNzQ3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2
+MjYsLTE0NjE4NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC
+0yMDQyOTg5ODQ2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4
+Nzc0MSwtMTQ0NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OS
+wyNzU4OTEyNzcsMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1
+MDIxNjBdfQ==
 -->
