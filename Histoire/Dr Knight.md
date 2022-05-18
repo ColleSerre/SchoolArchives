@@ -910,12 +910,13 @@ French: 15% of population
 1999: "opérations de maintenance de l'ordre"
 last bastion of the French Empire
 Most of military leaders in algeria had fought in indochina and some in the suez crisis
+8 May 1945: Sétif and Guarma Massacre while Germany had just surrendered (end of war in Europe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgzMzY1MzUsMTk2NDQzNzQwMCwtNz
-Q3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4
-NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5OD
-Q2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0
-NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEyNz
-csMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEz
-NDIzNzM1ODZdfQ==
+eyJoaXN0b3J5IjpbMzY5MTU0OTg1LDE5NjQ0Mzc0MDAsLTc0Nz
+czOTk3MiwxNjAzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYxODUz
+MzYzLC0xNjAxNTY3Nzk1LDIyODUzMTA1MSwtMjA0Mjk4OTg0Ni
+wzMDQyNDUwODUsNjE5NDQ3MjQzLC04NDk3ODc3NDEsLTE0NDY0
+NzM4OSwxOTYyMjYyMDE1LC05MTYxNDU1OTksMjc1ODkxMjc3LD
+E4MzA3MTEzMiwtMTE5MTE4OTI0MSwxMzk0NTAyMTYwLC0xMzQy
+MzczNTg2XX0=
 -->
