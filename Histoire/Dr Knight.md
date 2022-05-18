@@ -916,9 +916,9 @@ Toussaint rouge
 "L'Algérie c'est la France " + "Des Flandres jusqu'au Congo" - François Mitterant
 13 May: attempted coup demanding the return of de Gaulle (the only man who could save France **again**)
 Sept 1958: GPRA (same as de Gaulle under Pétain's rule)
-Sept 1958: de Gaulle announces a referendum on self-determination for Algeria. Overwhelming majority 
+Sept 1958: de Gaulle announces a referendum on self-determination for Algeria. Overwhelming majority approves the self-determination
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjI5NzA3NSwxNjk2MzAyNzU0LDk4OD
+eyJoaXN0b3J5IjpbMTQ1NDA1MzkxMCwxNjk2MzAyNzU0LDk4OD
 UzMDE3MSwxOTY0NDM3NDAwLC03NDc3Mzk5NzIsMTYwMzY3NzE0
 OSwtMjExNzE4NzYyNiwtMTQ2MTg1MzM2MywtMTYwMTU2Nzc5NS
 wyMjg1MzEwNTEsLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOTQ0
