@@ -915,14 +915,15 @@ Most of military leaders in algeria had fought in indochina and some in the suez
 Toussaint rouge
 "L'Algérie c'est la France " + "Des Flandres jusqu'au Congo" - François Mitterant
 13 May: attempted coup demanding the return of de Gaulle (the only man who could save France **again**)
-
+Sept 1958: GPRA
+Sept 1958: de Gaulle announces a referendum on self-determination for Algeria
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjMwMjc1NCw5ODg1MzAxNzEsMTk2ND
-QzNzQwMCwtNzQ3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2
-MjYsLTE0NjE4NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC
-0yMDQyOTg5ODQ2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4
-Nzc0MSwtMTQ0NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OS
-wyNzU4OTEyNzcsMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1
-MDIxNjBdfQ==
+eyJoaXN0b3J5IjpbMTA2MTY3Njk5MiwxNjk2MzAyNzU0LDk4OD
+UzMDE3MSwxOTY0NDM3NDAwLC03NDc3Mzk5NzIsMTYwMzY3NzE0
+OSwtMjExNzE4NzYyNiwtMTQ2MTg1MzM2MywtMTYwMTU2Nzc5NS
+wyMjg1MzEwNTEsLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOTQ0
+NzI0MywtODQ5Nzg3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAxNS
+wtOTE2MTQ1NTk5LDI3NTg5MTI3NywxODMwNzExMzIsLTExOTEx
+ODkyNDFdfQ==
 -->
