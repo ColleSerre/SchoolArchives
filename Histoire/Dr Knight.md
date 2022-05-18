@@ -904,13 +904,14 @@ CNR: Jean Moulin (42-43 unifia les principaux groupes resistants et les FFL de d
 
 US **didn't** support the French and the SU **didn't** support the FLN. This breaks the narrative that nationalist conflicts were automatically brought into the greater Cold War conflict. 
 
-S2: Said by de Gaulle (most likely when he was in Algiers 
+S2: Said by de Gaulle (most likely when he was in Algiers running the FCLN/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMjQwODE5LDE5NjQ0Mzc0MDAsLTc0Nz
-czOTk3MiwxNjAzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYxODUz
-MzYzLC0xNjAxNTY3Nzk1LDIyODUzMTA1MSwtMjA0Mjk4OTg0Ni
-wzMDQyNDUwODUsNjE5NDQ3MjQzLC04NDk3ODc3NDEsLTE0NDY0
-NzM4OSwxOTYyMjYyMDE1LC05MTYxNDU1OTksMjc1ODkxMjc3LD
-E4MzA3MTEzMiwtMTE5MTE4OTI0MSwxMzk0NTAyMTYwLC0xMzQy
-MzczNTg2XX0=
+eyJoaXN0b3J5IjpbMTk0NjY5OTA5NiwxOTY0NDM3NDAwLC03ND
+c3Mzk5NzIsMTYwMzY3NzE0OSwtMjExNzE4NzYyNiwtMTQ2MTg1
+MzM2MywtMTYwMTU2Nzc5NSwyMjg1MzEwNTEsLTIwNDI5ODk4ND
+YsMzA0MjQ1MDg1LDYxOTQ0NzI0MywtODQ5Nzg3NzQxLC0xNDQ2
+NDczODksMTk2MjI2MjAxNSwtOTE2MTQ1NTk5LDI3NTg5MTI3Ny
+wxODMwNzExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2MCwtMTM0
+MjM3MzU4Nl19
 -->
