@@ -906,12 +906,15 @@ US **didn't** support the French and the SU **didn't** support the FLN. This bre
 
 S2: Said by de Gaulle (most likely when he was in Algiers running the FCLN/)
 
+French: 15% of population
+1999: "opérations de maintenance de l'ordre"
+Most of the leaders of the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjY5OTA5NiwxOTY0NDM3NDAwLC03ND
-c3Mzk5NzIsMTYwMzY3NzE0OSwtMjExNzE4NzYyNiwtMTQ2MTg1
-MzM2MywtMTYwMTU2Nzc5NSwyMjg1MzEwNTEsLTIwNDI5ODk4ND
-YsMzA0MjQ1MDg1LDYxOTQ0NzI0MywtODQ5Nzg3NzQxLC0xNDQ2
-NDczODksMTk2MjI2MjAxNSwtOTE2MTQ1NTk5LDI3NTg5MTI3Ny
-wxODMwNzExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2MCwtMTM0
-MjM3MzU4Nl19
+eyJoaXN0b3J5IjpbLTIwNDMwOTU5MzQsMTk2NDQzNzQwMCwtNz
+Q3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4
+NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5OD
+Q2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0
+NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEyNz
+csMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEz
+NDIzNzM1ODZdfQ==
 -->
