@@ -918,12 +918,14 @@ Toussaint rouge
 Sept 1958: GPRA (same as de Gaulle under Pétain's rule)
 Sept 1958: de Gaulle announces a referendum on self-determination for Algeria. Overwhelming majority approves the self-determination but only 39% of voter voted in Algeria. 
 OAS: Terrorism in France & Algeria, attempted assassination of de Gaulle, attempted coup (Aprul 1961)
+Accords d'Evian (March 1962)
+July 2nd 1962: Algerian independence referendum 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTk4ODUzLDE2OTYzMDI3NTQsOTg4NT
-MwMTcxLDE5NjQ0Mzc0MDAsLTc0NzczOTk3MiwxNjAzNjc3MTQ5
-LC0yMTE3MTg3NjI2LC0xNDYxODUzMzYzLC0xNjAxNTY3Nzk1LD
-IyODUzMTA1MSwtMjA0Mjk4OTg0NiwzMDQyNDUwODUsNjE5NDQ3
-MjQzLC04NDk3ODc3NDEsLTE0NDY0NzM4OSwxOTYyMjYyMDE1LC
-05MTYxNDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4
-OTI0MV19
+eyJoaXN0b3J5IjpbMTc1Njk5OTQ5Miw3NDg1OTg4NTMsMTY5Nj
+MwMjc1NCw5ODg1MzAxNzEsMTk2NDQzNzQwMCwtNzQ3NzM5OTcy
+LDE2MDM2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4NTMzNjMsLT
+E2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwNDI0
+NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0NjQ3Mzg5LD
+E5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEyNzcsMTgzMDcx
+MTMyXX0=
 -->
