@@ -911,14 +911,14 @@ French: 15% of population
 last bastion of the French Empire
 Most of military leaders in algeria had fought in indochina and some in the suez crisis
 8 May 1945: Sétif and Guelma Massacre while Germany had just surrendered (end of war in Europe)
-
+31 October 1954: Foundation of the FLN --> independence by internationalising the conflict
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NTMwMTcxLDE5NjQ0Mzc0MDAsLTc0Nz
-czOTk3MiwxNjAzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYxODUz
-MzYzLC0xNjAxNTY3Nzk1LDIyODUzMTA1MSwtMjA0Mjk4OTg0Ni
-wzMDQyNDUwODUsNjE5NDQ3MjQzLC04NDk3ODc3NDEsLTE0NDY0
-NzM4OSwxOTYyMjYyMDE1LC05MTYxNDU1OTksMjc1ODkxMjc3LD
-E4MzA3MTEzMiwtMTE5MTE4OTI0MSwxMzk0NTAyMTYwLC0xMzQy
-MzczNTg2XX0=
+eyJoaXN0b3J5IjpbMTY0Nzk1Mjg5Myw5ODg1MzAxNzEsMTk2ND
+QzNzQwMCwtNzQ3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2
+MjYsLTE0NjE4NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC
+0yMDQyOTg5ODQ2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4
+Nzc0MSwtMTQ0NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OS
+wyNzU4OTEyNzcsMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1
+MDIxNjBdfQ==
 -->
