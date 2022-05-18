@@ -917,13 +917,13 @@ Toussaint rouge
 13 May: attempted coup demanding the return of de Gaulle (the only man who could save France **again**)
 Sept 1958: GPRA (same as de Gaulle under Pétain's rule)
 Sept 1958: de Gaulle announces a referendum on self-determination for Algeria. Overwhelming majority approves the self-determination but only 39% of voter voted in Algeria. 
-OAS: Terrorism in France & Algeria, 
+OAS: Terrorism in France & Algeria, attempted assassination of de Gaulle, attempted coup (Aprul 1961)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjQxNTc2NiwxNjk2MzAyNzU0LDk4OD
-UzMDE3MSwxOTY0NDM3NDAwLC03NDc3Mzk5NzIsMTYwMzY3NzE0
-OSwtMjExNzE4NzYyNiwtMTQ2MTg1MzM2MywtMTYwMTU2Nzc5NS
-wyMjg1MzEwNTEsLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOTQ0
-NzI0MywtODQ5Nzg3NzQxLC0xNDQ2NDczODksMTk2MjI2MjAxNS
-wtOTE2MTQ1NTk5LDI3NTg5MTI3NywxODMwNzExMzIsLTExOTEx
-ODkyNDFdfQ==
+eyJoaXN0b3J5IjpbNzQ4NTk4ODUzLDE2OTYzMDI3NTQsOTg4NT
+MwMTcxLDE5NjQ0Mzc0MDAsLTc0NzczOTk3MiwxNjAzNjc3MTQ5
+LC0yMTE3MTg3NjI2LC0xNDYxODUzMzYzLC0xNjAxNTY3Nzk1LD
+IyODUzMTA1MSwtMjA0Mjk4OTg0NiwzMDQyNDUwODUsNjE5NDQ3
+MjQzLC04NDk3ODc3NDEsLTE0NDY0NzM4OSwxOTYyMjYyMDE1LC
+05MTYxNDU1OTksMjc1ODkxMjc3LDE4MzA3MTEzMiwtMTE5MTE4
+OTI0MV19
 -->
