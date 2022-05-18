@@ -914,10 +914,11 @@ Most of military leaders in algeria had fought in indochina and some in the suez
 31 October 1954: Foundation of the FLN --> independence by internationalising the conflict + "liquidation" of colonialism in Algeria
 Toussaint rouge
 "L'Algérie c'est la France " + "Des Flandres jusqu'au Congo" - François Mitterant
-13 May: attempted coup demanding the return of de Gaulle 
+13 May: attempted coup demanding the return of de Gaulle (the only man who could save France **again**)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk4MTM3OSw5ODg1MzAxNzEsMTk2ND
+eyJoaXN0b3J5IjpbMTY5NjMwMjc1NCw5ODg1MzAxNzEsMTk2ND
 QzNzQwMCwtNzQ3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2
 MjYsLTE0NjE4NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC
 0yMDQyOTg5ODQ2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4
