@@ -900,13 +900,13 @@ CNR: Jean Moulin (42-43 unifia les principaux groupes resistants et les FFL de d
 	* Provisional government of Free France
 * June 1944: Provisional Government of the French Republic
 
-### France and Algerian
+### France and Algerian War of Independence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTA2MzcxNCwxOTY0NDM3NDAwLC03ND
-c3Mzk5NzIsMTYwMzY3NzE0OSwtMjExNzE4NzYyNiwtMTQ2MTg1
-MzM2MywtMTYwMTU2Nzc5NSwyMjg1MzEwNTEsLTIwNDI5ODk4ND
-YsMzA0MjQ1MDg1LDYxOTQ0NzI0MywtODQ5Nzg3NzQxLC0xNDQ2
-NDczODksMTk2MjI2MjAxNSwtOTE2MTQ1NTk5LDI3NTg5MTI3Ny
-wxODMwNzExMzIsLTExOTExODkyNDEsMTM5NDUwMjE2MCwtMTM0
-MjM3MzU4Nl19
+eyJoaXN0b3J5IjpbLTEwMDg2ODgxMTEsMTk2NDQzNzQwMCwtNz
+Q3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4
+NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5OD
+Q2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0
+NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEyNz
+csMTgzMDcxMTMyLC0xMTkxMTg5MjQxLDEzOTQ1MDIxNjAsLTEz
+NDIzNzM1ODZdfQ==
 -->
