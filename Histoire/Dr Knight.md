@@ -908,9 +908,10 @@ S2: Said by de Gaulle (most likely when he was in Algiers running the FCLN/)
 
 French: 15% of population
 1999: "opérations de maintenance de l'ordre"
-Most of the leaders of the 
+last bastion of the French Empire
+Most of military leaders in algeria had fought in indochina and some in the suez crisis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMwOTU5MzQsMTk2NDQzNzQwMCwtNz
+eyJoaXN0b3J5IjpbLTEwNzgzMzY1MzUsMTk2NDQzNzQwMCwtNz
 Q3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4
 NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5OD
 Q2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0
