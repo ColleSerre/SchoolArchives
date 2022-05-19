@@ -920,12 +920,14 @@ Sept 1958: de Gaulle announces a referendum on self-determination for Algeria. O
 OAS: Terrorism in France & Algeria, attempted assassination of de Gaulle, attempted coup (Aprul 1961)
 Accords d'Evian (March 1962)
 July 2nd 1962: Algerian independence referendum 
+
+The Vth Republic was a consequence of the Algerian War
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Njk5OTQ5Miw3NDg1OTg4NTMsMTY5Nj
-MwMjc1NCw5ODg1MzAxNzEsMTk2NDQzNzQwMCwtNzQ3NzM5OTcy
-LDE2MDM2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4NTMzNjMsLT
-E2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwNDI0
-NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0NjQ3Mzg5LD
-E5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4OTEyNzcsMTgzMDcx
-MTMyXX0=
+eyJoaXN0b3J5IjpbLTE2MTM4NDM1MTUsMTc1Njk5OTQ5Miw3ND
+g1OTg4NTMsMTY5NjMwMjc1NCw5ODg1MzAxNzEsMTk2NDQzNzQw
+MCwtNzQ3NzM5OTcyLDE2MDM2NzcxNDksLTIxMTcxODc2MjYsLT
+E0NjE4NTMzNjMsLTE2MDE1Njc3OTUsMjI4NTMxMDUxLC0yMDQy
+OTg5ODQ2LDMwNDI0NTA4NSw2MTk0NDcyNDMsLTg0OTc4Nzc0MS
+wtMTQ0NjQ3Mzg5LDE5NjIyNjIwMTUsLTkxNjE0NTU5OSwyNzU4
+OTEyNzddfQ==
 -->
