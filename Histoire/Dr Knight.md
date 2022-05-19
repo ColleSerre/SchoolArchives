@@ -934,13 +934,14 @@ De Gaulle dissolved National Assembly in a bet to gain an absolute majority (won
 * During the legislative campaign Pompidou: "silent majority" (Nixon said in 1968, same rhetoric being used by the same type of politicians in similar circumstances), "communist threat"
 
 Abortion
-* 1970 
+* 1970 MLF
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxNjIwODIxLDE5NDkxOTcyMzEsLTE2MT
-M4NDM1MTUsMTc1Njk5OTQ5Miw3NDg1OTg4NTMsMTY5NjMwMjc1
-NCw5ODg1MzAxNzEsMTk2NDQzNzQwMCwtNzQ3NzM5OTcyLDE2MD
-M2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4NTMzNjMsLTE2MDE1
-Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwNDI0NTA4NS
-w2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0NjQ3Mzg5LDE5NjIy
-NjIwMTVdfQ==
+eyJoaXN0b3J5IjpbMTU5NTgyNTUyMCwxOTQ5MTk3MjMxLC0xNj
+EzODQzNTE1LDE3NTY5OTk0OTIsNzQ4NTk4ODUzLDE2OTYzMDI3
+NTQsOTg4NTMwMTcxLDE5NjQ0Mzc0MDAsLTc0NzczOTk3MiwxNj
+AzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYxODUzMzYzLC0xNjAx
+NTY3Nzk1LDIyODUzMTA1MSwtMjA0Mjk4OTg0NiwzMDQyNDUwOD
+UsNjE5NDQ3MjQzLC04NDk3ODc3NDEsLTE0NDY0NzM4OSwxOTYy
+MjYyMDE1XX0=
 -->
