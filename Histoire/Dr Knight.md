@@ -935,9 +935,12 @@ De Gaulle dissolved National Assembly in a bet to gain an absolute majority (won
 
 Abortion
 * 1970 MLF
-* M
+* Bobigny trial
+* Manifesto of the 343
+* Veil act
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgyOTMzMjEsMTU5NTgyNTUyMCwxOT
+eyJoaXN0b3J5IjpbLTE1NDI1MTgyNDYsMTU5NTgyNTUyMCwxOT
 Q5MTk3MjMxLC0xNjEzODQzNTE1LDE3NTY5OTk0OTIsNzQ4NTk4
 ODUzLDE2OTYzMDI3NTQsOTg4NTMwMTcxLDE5NjQ0Mzc0MDAsLT
 c0NzczOTk3MiwxNjAzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYx
