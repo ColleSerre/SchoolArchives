@@ -930,8 +930,9 @@ Student protes -> general strike
 Nuits des barricades
 Rise of Guevara and Castro as icons in public consciousness
 Accords de Grenelle
+De Gaulle dissolved National Assembly in a bet to gain an absolute majority (won)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTkyMTUxNSwxOTQ5MTk3MjMxLC0xNj
+eyJoaXN0b3J5IjpbMTI3MDE5ODQ2NCwxOTQ5MTk3MjMxLC0xNj
 EzODQzNTE1LDE3NTY5OTk0OTIsNzQ4NTk4ODUzLDE2OTYzMDI3
 NTQsOTg4NTMwMTcxLDE5NjQ0Mzc0MDAsLTc0NzczOTk3MiwxNj
 AzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYxODUzMzYzLC0xNjAx
