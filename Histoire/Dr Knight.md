@@ -932,8 +932,11 @@ Rise of Guevara and Castro as icons in public consciousness
 Accords de Grenelle
 De Gaulle dissolved National Assembly in a bet to gain an absolute majority (won)
 * During the legislative campaign Pompidou: "silent majority" (Nixon said in 1968, same rhetoric being used by the same type of politicians in similar circumstances), "communist threat"
+
+Abortion
+* 1970 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODg4NjQ0LDE5NDkxOTcyMzEsLTE2MT
+eyJoaXN0b3J5IjpbNTMxNjIwODIxLDE5NDkxOTcyMzEsLTE2MT
 M4NDM1MTUsMTc1Njk5OTQ5Miw3NDg1OTg4NTMsMTY5NjMwMjc1
 NCw5ODg1MzAxNzEsMTk2NDQzNzQwMCwtNzQ3NzM5OTcyLDE2MD
 M2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4NTMzNjMsLTE2MDE1
