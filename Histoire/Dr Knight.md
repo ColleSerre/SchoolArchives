@@ -931,12 +931,13 @@ Nuits des barricades
 Rise of Guevara and Castro as icons in public consciousness
 Accords de Grenelle
 De Gaulle dissolved National Assembly in a bet to gain an absolute majority (won)
+* During the legislative campaign Pompidou: "silent majority" (Nixon said in 1968, same rhetoric being used by the same type of politicians in similar circumstances), "communist threat"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDE5ODQ2NCwxOTQ5MTk3MjMxLC0xNj
-EzODQzNTE1LDE3NTY5OTk0OTIsNzQ4NTk4ODUzLDE2OTYzMDI3
-NTQsOTg4NTMwMTcxLDE5NjQ0Mzc0MDAsLTc0NzczOTk3MiwxNj
-AzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYxODUzMzYzLC0xNjAx
-NTY3Nzk1LDIyODUzMTA1MSwtMjA0Mjk4OTg0NiwzMDQyNDUwOD
-UsNjE5NDQ3MjQzLC04NDk3ODc3NDEsLTE0NDY0NzM4OSwxOTYy
-MjYyMDE1XX0=
+eyJoaXN0b3J5IjpbMTY3ODg4NjQ0LDE5NDkxOTcyMzEsLTE2MT
+M4NDM1MTUsMTc1Njk5OTQ5Miw3NDg1OTg4NTMsMTY5NjMwMjc1
+NCw5ODg1MzAxNzEsMTk2NDQzNzQwMCwtNzQ3NzM5OTcyLDE2MD
+M2NzcxNDksLTIxMTcxODc2MjYsLTE0NjE4NTMzNjMsLTE2MDE1
+Njc3OTUsMjI4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwNDI0NTA4NS
+w2MTk0NDcyNDMsLTg0OTc4Nzc0MSwtMTQ0NjQ3Mzg5LDE5NjIy
+NjIwMTVdfQ==
 -->
