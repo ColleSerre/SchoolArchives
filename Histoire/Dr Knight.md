@@ -926,9 +926,11 @@ The Vth Republic was a consequence of the Algerian War
 **France is boring**
 
 May 68: continuity of the counterculture/vietnam war protests, challenging traditional modes of authority
+Student protes -> general strike
+Nuits des barricades
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTE2NjQxMCwxOTQ5MTk3MjMxLC0xNj
+eyJoaXN0b3J5IjpbLTcxMTA2NDcyOCwxOTQ5MTk3MjMxLC0xNj
 EzODQzNTE1LDE3NTY5OTk0OTIsNzQ4NTk4ODUzLDE2OTYzMDI3
 NTQsOTg4NTMwMTcxLDE5NjQ0Mzc0MDAsLTc0NzczOTk3MiwxNj
 AzNjc3MTQ5LC0yMTE3MTg3NjI2LC0xNDYxODUzMzYzLC0xNjAx
