@@ -13,7 +13,7 @@
 ## Activité 2 p.94
 
 1. Aucune de ces longueurs d'onde ne correspond aux longueurs d'onde des raies qui apparaissent sur le spectre d'émission de l'hydrogène donné dans le document 1. Ce gaz n'est donc pas constitué d'atomes d'hydrogène. 
-2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts 
+2. Les longueurs d'onde des photons émis dépendent des écarts entre les niveaux d'énergie de l'atome. Comme les écarts
 sont propres à chaque atome, les longueurs d'onde des photons émis sont spécifiques à chaque atome et sont donc différents dans les atomes d'hydrogène et de mercure.
 3. Les longueurs d'onde des raies d'émission sont propres à chaque atome. Ainsi, chaque atome est caractérisé par un spectre d'émission qui permet de l'identifier. 
 4. L'effet photovoltaïque correspond à la conversion d'énergie lumineuse (radiative) en énergie électrique. 
@@ -21,7 +21,7 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 
 ## Activité 3 p.96
 
-3. $P_{max} = U_{max} \times I_{max}$ avec $U_{max}$ en abscisse et $I_{max}$ en ordonnée. 
+. $P_{max} = U_{max} \times I_{max}$ avec $U_{max}$ en abscisse et $I_{max}$ en ordonnée. 
 4. L'énergie transmise par les photons qui atteignent la cellule provoque l'extraction d'électrons puis leur mise en mouvement dans le circuit. L'effet photo-électrique correspond à la conversion d'énergie lumineuse ou radiative en énergie électrique
 5. La valeur de la résistance R maximisant la puissance électrique délivrée par la cellule est obtenue en l'inverse de la pente de la droite qui passe par l'origine et le point de fonctionnement F (point commun entre les deux caractéristiques).
 6. Le point de fonctionnement correspond au point de concours de la caractéristique de la cellule et de la caractéristique du conducteur ohmique.
@@ -29,8 +29,9 @@ sont propres à chaque atome, les longueurs d'onde des photons émis sont spéci
 Charge batterie à la fin de la journée : 14,025 Wh
 Seuls 18 % de capacité énergétique pourra être utilisée. 18 % de 14,025 Wh = 14,025×18 / 100 = 2,52 Wh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTgzOTkzOSwxMTIxODM5OTM5LC0xMD
-QzMDM4NTM5LC0yOTUwMjcxMzksMTk4MDM0NjY2NywxMDc5NzM5
-NDY2LC0xNjc0MDE5NTI3LDgyNjU5Njg5OSwzNzkzMjk5NzYsOD
-g0MDIwMjk4LC0xNjEwMDUwMTY4LDIyNjQ3ODE1Ml19
+eyJoaXN0b3J5IjpbNDU1MTU1NTYyLDExMjE4Mzk5MzksMTEyMT
+gzOTkzOSwtMTA0MzAzODUzOSwtMjk1MDI3MTM5LDE5ODAzNDY2
+NjcsMTA3OTczOTQ2NiwtMTY3NDAxOTUyNyw4MjY1OTY4OTksMz
+c5MzI5OTc2LDg4NDAyMDI5OCwtMTYxMDA1MDE2OCwyMjY0Nzgx
+NTJdfQ==
 -->
