@@ -506,7 +506,7 @@ Nuclearisation of the Cold war (see S30)
 ## Korean war
 
 Occupied by Japan since beginning of 20th century, annexed in 1910. Occupied by both US and SU after WW2, both forces withdrew. DPRK: North Korea (Communist state), Soviet advice, 1M Koreans fled south / ROK: South Korea (US supported). Both Korean governments wanted to unify Korea. NK forces invaded South with Soviet and Chinese support (in an effort to unify the peninsula ?). NK took all of the peninsula, UN forces (US backed) beat NK all the way to the Chinese border, China pushed SK back to the 38th parallel.
-Why didn't the SU or Chine veto the resolution ?
+Why didn't the SU or China veto the resolution ?
 
 # Zionism & the creation of Israël
 
@@ -939,11 +939,11 @@ Abortion
 * Manifesto of the 343
 * Veil act
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1NzI2NDM0LC0xNTQyNTE4MjQ2LDE1OT
-U4MjU1MjAsMTk0OTE5NzIzMSwtMTYxMzg0MzUxNSwxNzU2OTk5
-NDkyLDc0ODU5ODg1MywxNjk2MzAyNzU0LDk4ODUzMDE3MSwxOT
-Y0NDM3NDAwLC03NDc3Mzk5NzIsMTYwMzY3NzE0OSwtMjExNzE4
-NzYyNiwtMTQ2MTg1MzM2MywtMTYwMTU2Nzc5NSwyMjg1MzEwNT
-EsLTIwNDI5ODk4NDYsMzA0MjQ1MDg1LDYxOTQ0NzI0MywtODQ5
-Nzg3NzQxXX0=
+eyJoaXN0b3J5IjpbMTU3MDQ0ODMwLDkzNTcyNjQzNCwtMTU0Mj
+UxODI0NiwxNTk1ODI1NTIwLDE5NDkxOTcyMzEsLTE2MTM4NDM1
+MTUsMTc1Njk5OTQ5Miw3NDg1OTg4NTMsMTY5NjMwMjc1NCw5OD
+g1MzAxNzEsMTk2NDQzNzQwMCwtNzQ3NzM5OTcyLDE2MDM2Nzcx
+NDksLTIxMTcxODc2MjYsLTE0NjE4NTMzNjMsLTE2MDE1Njc3OT
+UsMjI4NTMxMDUxLC0yMDQyOTg5ODQ2LDMwNDI0NTA4NSw2MTk0
+NDcyNDNdfQ==
 -->
